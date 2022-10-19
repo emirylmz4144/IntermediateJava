@@ -1,5 +1,14 @@
+/*
+AddBonusMoney adlı bir sınıfımızı Employee sınıfında sadece işçi bilgileri olması için
+Yani solid prensibine uymak ve kodun anlaşılmasını kolaylaştırmak için oluşturduk
+ */
 public class AddBonusMoney
+
 {
+    /*
+    Employe adlı class'ı buraya aktardık
+     çünki işçinin tüm maaş güncellemeleri burada olacak
+    */
     Employee employee;
     int nowYear;
 
@@ -9,12 +18,17 @@ public class AddBonusMoney
         this.nowYear=2021;
     }
 
+//Girilecek olan employee sınıfımıza maaş zamlarını igili metotlarda uyguluyoruz
+
+
+
     double calculateTax()
     {
-        double taxQuality =calculateSaleryWithoutTax();
-        if (this.employee.salary >= 1000)
+        double taxQuality =calculateSaleryWithoutTax();   // Zam hesaplamasını gerçek hayata uygun olması
+        if (this.employee.salary >= 1000)                 // maksadıyla önce bonusları ekleyip ardından
+                                                          // zam hesaplama metoduna aktardım
         {
-            taxQuality = ((taxQuality)*(0.03));
+            taxQuality = ((taxQuality)*(0.03)); // Zam miktarı hesaplanıyor
         }
         else
         {
@@ -29,6 +43,7 @@ public class AddBonusMoney
         double workBonus = 0;
         if (this.employee.workHours >= 40)
         {
+            // Haftalık zam hesaplanıp aylığa dönüştürlüyor
             workBonus = ((this.employee.workHours - 40) * 30) * 4;
         }
         else
@@ -37,6 +52,8 @@ public class AddBonusMoney
         }
         return workBonus;
     }
+
+    // Çalışanın çalışma yılına göre ek ücret hesapmaması yapılıyor
     double raiseSalary()
     {
         int workYear=this.nowYear-this.employee.hireYear;
@@ -44,7 +61,6 @@ public class AddBonusMoney
         if(workYear<10)
         {
             yearBonus=((this.employee.salary)*(0.03));
-
         }
         else if (workYear<20)
         {
@@ -56,13 +72,35 @@ public class AddBonusMoney
         }
         return yearBonus;
     }
+
+
+       /*
+         Maaşa ek ücret ödemesi için metotları her seferinde yeniden çağırmamak için
+         Solid prensiplerine uymak ve temiz kod yazmak maksadı ile zam miktarınını vergiyi çıkarmadan
+         olan halini hesaplayan bir metot
+         */
     double calculateSaleryWithoutTax()
     {
         return (this.employee.salary+bonus()+raiseSalary());
     }
+
+    /*
+    Çalışanın vergi ödenerek hesaplanacak olan toplamda alacağı net ücreti hesaplayan metotu
+    temiz kod yazmak maksadı için oluşturuyoruz
+     */
     double workerRealSalary()
     {
         return this.employee.salary=(calculateSaleryWithoutTax()-calculateTax());
 
     }
+
+    /*
+    Yani işçiye uygulanacak zamları işçiye ait sınıfta oluşturmak ona ait olmayan özelliği
+    ona aktarmak gibi geldiği için Employee sınıfına sadece işçiye ait bilgiler ve yanıyacak olan
+    ek üçretler vergilendirmeleri aktarmak Solid prensipleri ve temiz kod yazmak açısından daha kolaydır
+    Ayrıca metotları metotlar için bir oluşturarak birbiri ile bağlantılı olmasını
+    böylece teker teker metot çağırmayı engellemek istedim
+   tüm metotlar birbirine bağlanıp sonra hepsini kapsayacak bir metot oluşturmak daha kullanışlı bir yapıya
+   sahiptir.
+     */
 }

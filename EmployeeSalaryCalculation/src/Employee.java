@@ -12,6 +12,13 @@ public class Employee
         this.workHours = workHours;
         this.hireYear = hireYear;
     }
+    /*
+    Burada ise AddBonusMoney adlı classtan yeni bir nesne oluşturarak tıpkı
+    işçiyi muhasebeciye gönderir gibi kendisine ait bilgileri muhasebeciye vermesini(addBonusMoney)
+    istemekteyiz gibi writeInformations metodu oluşturduk böylece tek bir metotla hem gerçek hayata
+    çok benzer şekilde AddInformationsMoney sınıfındaki ek ücretleri belirledik
+    hemde oradaki herşeye temiz ve Solid prensibi mantığı ile ulaşabildik
+     */
     void writeInformations(AddBonusMoney addBonusMoney)
     {
         System.out.println("Çalışanın Adı: "+this.name);
