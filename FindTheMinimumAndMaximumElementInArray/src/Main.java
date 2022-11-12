@@ -1,7 +1,31 @@
 import java.util.Scanner;
 
 
-public class Main {
+public class Main
+
+
+{
+    public static void minAndMax(int [] list)
+    {
+        int minimimValue=list[0],maximumValue=list[0];//min ve max değerlerine karşılaştırma yapmak için ilk değer ataması
+        for (int comparisonValue:list)            // foreach ile karşılaştırma operatörü listedeki elemanlarla karşılaştırılır
+        {
+            if (minimimValue>comparisonValue)
+            {
+                minimimValue=comparisonValue;// koşul doğruysa karşılaşrtırma operatörü en küçük değere atanır
+            }
+            if (maximumValue<comparisonValue)
+            {
+                maximumValue=comparisonValue;//  koşul doğruysa karşılaşrtırma operatörü en b değere atanır
+            }
+        }
+        System.out.println(minimimValue);
+        System.out.println(maximumValue);
+    }
+
+
+
+
 
     public static void main(String[] args)
     {
@@ -22,25 +46,7 @@ public class Main {
             list[value]=input.nextInt();
         }
 
-        // Karşılaştırma eyleminin başlaması
-
-        int minimimValue=list[0],maximumValue=list[0];//min ve max değerlerine karşılaştırma yapmak için ilk değer ataması
-        for (int comparisonValue:list)            // foreach ile karşılaştırma operatörü listedeki elemanlarla karşılaştırılır
-        {
-            if (minimimValue>comparisonValue)
-            {
-                minimimValue=comparisonValue;// koşul doğruysa karşılaşrtırma operatörü en küçük değere atanır
-            }
-            if (maximumValue<comparisonValue)
-            {
-                maximumValue=comparisonValue;//  koşul doğruysa karşılaşrtırma operatörü en b değere atanır
-            }
-        }
-
-        System.out.println(minimimValue);
-        System.out.println(maximumValue);
-
-
+        minAndMax(list);// Burada fonksiyona liste atılır ve fonksiyonda değerler bulunur
 
     }
 }

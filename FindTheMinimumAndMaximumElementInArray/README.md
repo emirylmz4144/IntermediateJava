@@ -41,3 +41,8 @@ en büyük elemana aktarılır
 ardından bir sonraki elamanla konrol sağlanır
 böylece hem çif for döngüsü yapmaya gerek kalmaz
 hem de zamandan tasarruf sağlanır
+
+İşlemlerin fonksiyonda yapılmasının sebebi ise ileride 
+yine bir listenin max ve min değerleri bulunacaksa
+tekrar aynı kodları yazmak yerine 
+direkt olarak fonksiyonu çağırmak 
