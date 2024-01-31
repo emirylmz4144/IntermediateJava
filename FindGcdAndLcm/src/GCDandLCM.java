@@ -1,14 +1,14 @@
 import java.util.Scanner;
 
-public class ebobEkok
+public class GCDandLCM
 {
     public static void main(String[] args)
     {
-        Scanner veri = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
         System.out.println("1.sayıyı giriniz:  ");
-        int sayi1 = veri.nextInt();
+        int sayi1 = input.nextInt();
         System.out.println("2.sayıyı giriniz:  ");
-        int sayi2 = veri.nextInt();
+        int sayi2 = input.nextInt();
         int buyuk;
         int kucuk;
         if (sayi1 > sayi2) {

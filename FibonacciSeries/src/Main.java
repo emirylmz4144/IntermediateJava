@@ -29,9 +29,8 @@ public class Main
         fibonnacciLenght[1]=element2;// ilgili sıraya eleman eklenir
 
         for (int i=0;i<elmntNmbr-2;i++)//uzunluk ilk 2 elemanın üzerine eklediği için 2 çıkarılmıştır
-        {
             fibonnacciLenght[i+2]=fibonnacciLenght[i]+fibonnacciLenght[i+1];
-        }
+
         check(fibonnacciLenght,value);// kontrol için solid prensipleri açısından yeni bir fonksiyona gönderilinir
     }
 
