@@ -9,22 +9,15 @@ public class Main
     static void InformationIndex(double index)
     {
         if (index<20)
-        {
             System.out.println("Vücut kitle indexin "+index+" Bu aralar detoxu fazla kaçırdın galiba :)");
-        }
         else if (index>=20)
-        {
             System.out.println("Vücut kitle indexin "+index+" Vaaayy formunu koruyosunnn");
-        }
         else if (index>=25)
-        {
             System.out.println("Vücut kitle indexin "+index+" Annene söylede çok fazla güzel yemek yapmasın :)");
-        }
         else if (index>=30)
-        {
             System.out.println("Vücut kitle indexin "+index+" Kardeşim seni üzmek istemem ama obezite hastalığına" +
                     "sahipsin profosyonel bir destek alman gerek");
-        }
+
     }
     public static void main(String[] args)
     {
