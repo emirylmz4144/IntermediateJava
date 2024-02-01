@@ -5,10 +5,7 @@ Yani solid prensibine uymak ve kodun anlaşılmasını kolaylaştırmak için ol
 public class AddBonusMoney
 
 {
-    /*
-    Employe adlı class'ı buraya aktardık
-     çünki işçinin tüm maaş güncellemeleri burada olacak
-    */
+    /*  Employe adlı class'ı buraya aktardıkçünki işçinin tüm maaş güncellemeleri burada olacak */
     Employee employee;
     int nowYear;
 
@@ -20,19 +17,14 @@ public class AddBonusMoney
 
 //Girilecek olan employee sınıfımıza maaş zamlarını igili metotlarda uyguluyoruz
 
-
-
     double calculateTax()
     {
         double taxQuality =calculateSaleryWithoutTax();   // Zam hesaplamasını gerçek hayata uygun olması
-        if (this.employee.salary >= 1000)                 // maksadıyla önce bonusları ekleyip ardından
-                                                          // zam hesaplama metoduna aktardım
-        {
-            taxQuality = ((taxQuality)*(0.03)); // Zam miktarı hesaplanıyor
-        }
+        if (this.employee.salary >= 15000)                 // maksadıyla önce bonusları ekleyip ardından// zam hesaplama metoduna aktardım
+            taxQuality = ((taxQuality)*(0.03)); // Vergi miktarı hesaplanıyor
         else
         {
-            System.out.println("Çalışan maaşı 1000 TL den az olduğu için vergi muafiyetine tabiidir.");
+            System.out.println("Çalışan maaşı "+this.employee.salary" TL den az olduğu için vergi muafiyetine tabiidir.");
             taxQuality = 0.0;
         }
         return taxQuality;
@@ -42,14 +34,10 @@ public class AddBonusMoney
     {
         double workBonus = 0;
         if (this.employee.workHours >= 40)
-        {
-            // Haftalık zam hesaplanıp aylığa dönüştürlüyor
-            workBonus = ((this.employee.workHours - 40) * 30) * 4;
-        }
+            workBonus = ((this.employee.workHours - 40) * 30) * 40;// Haftalık zam hesaplanıp aylığa dönüştürlüyor
         else
-        {
             System.out.println("Çalışan haftada 40 saatten az çalıştığı için bonus alamamaktadır");
-        }
+
         return workBonus;
     }
 
@@ -59,17 +47,13 @@ public class AddBonusMoney
         int workYear=this.nowYear-this.employee.hireYear;
         double yearBonus=0.0;
         if(workYear<10)
-        {
             yearBonus=((this.employee.salary)*(0.03));
-        }
         else if (workYear<20)
-        {
             yearBonus=((this.employee.salary)*(0.1));
-        }
         else if (workYear<30)
-        {
             yearBonus=((this.employee.salary)*(0.15));
-        }
+
+
         return yearBonus;
     }
 
@@ -91,7 +75,6 @@ public class AddBonusMoney
     double workerRealSalary()
     {
         return this.employee.salary=(calculateSaleryWithoutTax()-calculateTax());
-
     }
 
     /*

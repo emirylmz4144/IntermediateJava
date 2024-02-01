@@ -31,7 +31,6 @@ public class Employee
         System.out.println("Çalışandan kesilen vergi ücreti: "+addBonusMoney.calculateTax());
         System.out.println("Çalışa ödenecek ücret: "+addBonusMoney.workerRealSalary());
 
-
     }
 
 

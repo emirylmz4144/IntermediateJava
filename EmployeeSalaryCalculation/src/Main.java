@@ -9,7 +9,6 @@ public class Main {
          */
 
         Employee employee=new Employee("Emir",2000,50,2002);
-
         employee.writeInformations(new AddBonusMoney(employee));
     }
 }
