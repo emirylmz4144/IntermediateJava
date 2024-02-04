@@ -11,26 +11,16 @@ public class Main
         for (int comparisonValue:list)            // foreach ile karşılaştırma operatörü listedeki elemanlarla karşılaştırılır
         {
             if (minimimValue>comparisonValue)
-            {
                 minimimValue=comparisonValue;// koşul doğruysa karşılaşrtırma operatörü en küçük değere atanır
-            }
+
             if (maximumValue<comparisonValue)
-            {
                 maximumValue=comparisonValue;//  koşul doğruysa karşılaşrtırma operatörü en b değere atanır
-            }
+
         }
-        System.out.println(minimimValue);
-        System.out.println(maximumValue);
+        System.out.println("Minimum değer "+minimimValue+"\nMaximum değer: "+maximumValue);
     }
-
-
-
-
-
     public static void main(String[] args)
     {
-
-      //  Giriş ve dizinin hazırlanması
 
         Scanner input=new Scanner(System.in);
         System.out.println("Kaç elemanlı liste gireceksiniz?: ");
@@ -41,10 +31,7 @@ public class Main
         // Diziye değer atamalarının kullanıcıdan alınmması
 
         for (int value=0;value<list.length;value++)
-        {
-            System.out.println("Listenin "+(value+1)+".elemanini giriniz: ");
-            list[value]=input.nextInt();
-        }
+            System.out.println("Listenin "+(value+1)+".elemanini giriniz: "); list[value]=input.nextInt();
 
         minAndMax(list);// Burada fonksiyona liste atılır ve fonksiyonda değerler bulunur
 
