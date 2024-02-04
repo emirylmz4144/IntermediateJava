@@ -20,8 +20,7 @@ public class MatchArea
         if (weightControl()) //Siklet kontrolünden gelen değer ile maç başladı
         {
             //İki dövüşçüden birinin sağlığı negatig olana kadar dövüş devam eder.
-            while (this.fighter1.healty>0 && this.fighter2.healty>0)
-            {
+            while (this.fighter1.healty>0 && this.fighter2.healty>0) {
                 if (whoWin())
                     whoIsAttacker();
             }
@@ -29,8 +28,25 @@ public class MatchArea
         else // Sikletler uymuyorsa maç başlamaz
             System.out.println("Sporcuların sikletleri uyuşmuyor..");
     }
+    boolean weightControl() // Sporcuların max-min kilolarda olup olmadığı kontrol edilip siklet kontrolü yapılıyor
+    {
+        return ((this.fighter1.weight>=this.minWeight &&this.fighter1.weight<=maxWeight )&&(this.fighter2.weight>=minWeight && this.fighter2.weight<=this.maxWeight));
+    }
 
+    boolean whoWin() // Kimin kazandığını anlamak için oluşturulan metot
+    {                //Hangi dövüşçü kazanırsa ona özel kazanma senaryosu oluşturuldu
 
+        if (fighter1.healty==0 || fighter2.healty==0)//İki dövüşçüden birinin sağlığı 0 sa her zaman false döner
+        {
+            if (fighter2.healty == 0)
+                winner(this.fighter1);
+            else if (fighter1.healty == 0)
+                winner(this.fighter2);
+
+            return false;
+        }
+        return true;//İki dövüşçünün de sağlığı o değilse dövüş devam etsin diye true döner
+    }
     void whoIsAttacker()
     {
         Random random=new Random();
@@ -52,33 +68,13 @@ public class MatchArea
         System.out.println(fighter2.name+" Kalan gücü: "+fighter2.healty); // Atak yiyen dövüşçünün kalan sağlığı belirlendi
     }
 
-     boolean whoWin() // Kimin kazandığını anlamak için oluşturulan metot
-    {                //Hangi dövüşçü kazanırsa ona özel kazanma senaryosu oluşturuldu
-
-        if (fighter1.healty==0 || fighter2.healty==0)//İki dövüşçüden birinin sağlığı 0 sa her zaman false döner
-        {
-            if (fighter2.healty == 0)
-                winner(this.fighter1);
-            else if (fighter1.healty == 0)
-
-                winner(this.fighter2);
-
-            return false;
-        }
-        return true;//İki dövüşçünün de sağlığı o değilse dövüş devam etsin diye true döner
-       }
 
        public void winner(Fighter fighter)
        {
            System.out.println("************************************************************");
-           System.out.println("************************************************************");
            System.out.println(fighter.name+" MUHTEŞEM MÜCADELESİ İLE MAÇIN GA Lİ Bİİİİ..");
-           System.out.println("************************************************************");
            System.out.println("************************************************************");
        }
 
-    boolean weightControl() // Sporcuların max-min kilolarda olup olmadığı kontrol edilip siklet kontrolü yapılıyor
-    {
-        return ((this.fighter1.weight>=this.minWeight &&this.fighter1.weight<=maxWeight )&&(this.fighter2.weight>=minWeight && this.fighter2.weight<=this.maxWeight));
-    }
+
 }
