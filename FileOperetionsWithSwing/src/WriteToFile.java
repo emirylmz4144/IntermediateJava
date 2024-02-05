@@ -36,12 +36,15 @@ public class WriteToFile {
 
 
     private void run() {
+        //Frame oluşturulur
         frame = new JFrame();
+        //Frame'e ait özellikler belirlenir
         frame.setBounds(100, 100, 500, 500);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setLocationRelativeTo(null);
         frame.getContentPane().setLayout(null);
 
+        //Arayüz görünümleri ayarlanır
         JLabel lblAdSoyad = new JLabel("Öğrenci Adı Soyadı");
         lblAdSoyad.setBounds(85, 150, 150, 24);
         frame.getContentPane().add(lblAdSoyad);
@@ -65,6 +68,13 @@ public class WriteToFile {
         frame.getContentPane().add(txtNumara);
         txtNumara.setColumns(10);
 
+
+        txtBolum = new JTextField();
+        txtBolum.setBounds(200, 250, 250, 22);
+        frame.getContentPane().add(txtBolum);
+        txtBolum.setColumns(10);
+
+        //Aksiyon alındığında kullanıcıya gösterilecek mesaj companenti ayarlanır
         final JLabel lblMesaj = new JLabel("");
         lblMesaj.setForeground(Color.GREEN);
         lblMesaj.setHorizontalAlignment(SwingConstants.CENTER);
@@ -72,12 +82,15 @@ public class WriteToFile {
         frame.getContentPane().add(lblMesaj);
 
 
-        txtBolum = new JTextField();
-        txtBolum.setBounds(200, 250, 250, 22);
-        frame.getContentPane().add(txtBolum);
-        txtBolum.setColumns(10);
 
+        //İlgili companent oluşturulur
         JButton btnTemizle = new JButton("Herşeyi sil");
+
+        //Companent özellikleri atanır
+        btnTemizle.setBounds(110, 290, 130, 23);
+        frame.getContentPane().add(btnTemizle);
+
+        //İlgili companente tıklandığında alınacak aksiyon ayarlanır
         btnTemizle.addActionListener(e -> {
             txtDosyaAd.setText("");
             txtAdSoyad.setText("");
@@ -85,16 +98,20 @@ public class WriteToFile {
             txtBolum.setText("");
             lblMesaj.setText("");
         });
-        btnTemizle.setBounds(110, 290, 130, 23);
-        frame.getContentPane().add(btnTemizle);
 
+
+        //UI'ya girilen bilgileri alıp dosyaya kaydetmemk için bir companent
         JButton btnDosyayaYaz = new JButton("Dosyaya Kaydet");
+        //Companent'e tıklanırsa alınacak aksiyon
         btnDosyayaYaz.addActionListener(arg0 -> {
 
+            //UI'daki bilgiler alınır
             String str=txtAdSoyad.getText() + "\n" + txtNumara.getText() + "\n" + txtBolum.getText() +"\n***********************************";
+            //Kaydedilmesi gereken dosya arayüzden alınır
             String dosyaAdi=txtDosyaAd.getText();
             File dosya = new File(dosyaAdi);
 
+            //Dosya varsa bilgiler dosyaya yazdırılır
             if (dosya.exists())
             {
                 try {
