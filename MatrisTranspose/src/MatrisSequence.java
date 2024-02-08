@@ -2,15 +2,13 @@ import java.util.Scanner;
 
 public  class MatrisSequence
 {
+    //Matrise göre transpoz alındığı için oluşacak matrise her iki metot ulaşmalı
+    public static int [][] ourMatris;
 
-   public static int [][] ourMatris; //Matrise göre transpoz alındığı için oluşacak matrise her iki metot ulaşmalı
-
-   public static int col;    /*col değeri transpoz olduğunda row değerine dönüşeceği için iki metotunda bu
-                             değişkene iki metotta ulaşmalı bu yüzden bu değişken sınıfa ait olmalı */
-
-
-   public static int row;    /*row değeri transpoz olduğunda col değerine dönüşeceği için iki metotunda bu
-                              değişkene iki metotta ulaşmalı bu yüzden bu değişken sınıfa ait olmalı */
+    /*col değeri transpoz olduğunda row değerine dönüşeceği için iki metotunda bu değişkene iki metotta ulaşmalı bu yüzden bu değişken sınıfa ait olmalı */
+    public static int col;
+    /*row değeri transpoz olduğunda col değerine dönüşeceği için iki metotunda bu değişkene iki metotta ulaşmalı bu yüzden bu değişken sınıfa ait olmalı */
+    public static int row;
 
 
 
@@ -19,18 +17,15 @@ public  class MatrisSequence
         // Dizi burada oluşacaktır
 
         Scanner input=new Scanner(System.in);
-        System.out.println("Kaç sütunluk liste oluşturacaksınız?: ");
-         row=input.nextInt();
-         System.out.println("Kaç satırlık liste oluşturacaksınız:?: ");
-         col=input.nextInt();
-          ourMatris=new int[row][col];
+
+        System.out.println("Kaç sütunluk liste oluşturacaksınız?: ");row=input.nextInt();
+        System.out.println("Kaç satırlık liste oluşturacaksınız:?: ");col=input.nextInt();
+
+         ourMatris=new int[row][col];
          for (int i=0;i<row;i++)
          {
              for (int j=0;j<col;j++)
-             {
-                 System.out.print("Dizinin "+(i+1)+" "+(j+1)+".elemanini giriniz: ");
-                 ourMatris[i][j]=input.nextInt();
-             }
+                 System.out.print("Dizinin "+(i+1)+" "+(j+1)+".elemanini giriniz: ");ourMatris[i][j]=input.nextInt();
          }
          return ourMatris;
     }
