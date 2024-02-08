@@ -19,6 +19,6 @@ public class Main {
             System.out.println("Girdiğiniz kelime palindromik bir kelimedir");
         else
             System.out.println("Girdiğiniz kelime palindromik bir kelime değildir");
-        
+
     }
 }
