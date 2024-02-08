@@ -2,9 +2,10 @@ import java.util.Scanner;
 
 public class Calculator
 {
+    static Scanner input=new Scanner(System.in);
     public int plus()
     {
-        Scanner input=new Scanner(System.in);
+
         System.out.print("Lütfen kaç adet sayı gireceğinizi yazınız: ");
         int numberToEnter=input.nextInt();
         int result=0;
@@ -18,7 +19,7 @@ public class Calculator
     }
     public int minus()
     {
-        Scanner input=new Scanner(System.in);
+
         System.out.print("Lütfen kaç adet sayı gireceğinizi yazınız: ");
         int numberToEnter=input.nextInt();
         int result=0;
@@ -38,7 +39,7 @@ public class Calculator
 
          public int times()
      {
-          Scanner input=new Scanner(System.in);
+
           System.out.print("Lütfen kaç adet sayı gireceğinizi yazınız: ");
           int numberToEnter=input.nextInt();
           int result=1,i=1;
@@ -58,7 +59,7 @@ public class Calculator
      }
    public double divided()
     {
-        Scanner input= new Scanner(System.in);
+
         System.out.print("Kaç adet sayı gireceksiniz :");
         int numberToEnter = input.nextInt();
         double newNumber, result = 0.0;
@@ -86,7 +87,7 @@ public class Calculator
 
     public double power()
     {
-        Scanner input= new Scanner(System.in);
+
         System.out.print("Kaç adet sayı gireceksiniz :");
         int numberToEnter = input.nextInt();
         double result=0,temperature = 0;
@@ -101,17 +102,14 @@ public class Calculator
                 return newNuber;
             }
             if (i==1)
-            {
                 temperature=newNuber;
-            }
+
             if ( i==2)
-            {
                 result=Math.pow(temperature,newNuber);
-            }
+
             if (i>=3)
-            {
                 result=Math.pow(result,newNuber);
-            }
+
         }
         return result;
     }
@@ -129,13 +127,10 @@ public class Calculator
         if (choose==1 || choose==2)
         {
             if (choose==1)
-            {
                 result=plus();
-            }
             else
-            {
                 result=minus();
-            }
+
         }
         else
         {
@@ -155,9 +150,7 @@ public class Calculator
         int result = 1;
 
         for (int i = 1; i <= n; i++)
-        {
             result *= i;
-        }
 
         return result;
     }
