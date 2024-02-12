@@ -3,9 +3,13 @@ import java.sql.*;
 public class Main {
     public static void main(String[] args)
     {
+        //Veri çekme
         String read="SELECT * FROM infosproduct";
+        //Veri ekleme
         String create="INSERT INTO infosproduct (Name,StockAmount,Price) VALUES(?,?,?)";
+        //Veri güncelleme
         String update="UPDATE infosproduct SET Name=? WHERE Id=?";
+        //Veri silme
         String delete="DELETE FROM infosproduct WHERE Id=?";
         try {
             //Veri tabanına bağlanma
