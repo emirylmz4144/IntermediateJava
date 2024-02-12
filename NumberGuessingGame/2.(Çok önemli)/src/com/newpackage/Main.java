@@ -1,58 +1,62 @@
-package com.newpackage;
+
 
 import java.util.Random;
 import java.util.Scanner;
 
 public class Main {
+    static Scanner input=new Scanner(System.in);
+    //Oyun deneme hakkı ve tahmini diziye atayacak sayaç tanımlanıyor
+    static int trying=4,counter=0;
+    //Doğru tahmin yapılırsa oyunu bitirecek değişken atanıyor
+    static boolean isTheGameGoingToStop=false;
+    static Random createRandomValue=new Random();
+    static int []thinks=new int[5];//tahminleri bir dizide tutuyoruz
+    static int number= createRandomValue.nextInt(1,50);
 
     public static void main(String[] args) {
-        Scanner veri=new Scanner(System.in);
-        Random salla=new Random();
-        int can=4,i=0;
-        int sayi= salla.nextInt(1,50);
-        System.out.println(sayi);
-        boolean oyundurumu=false,hata=false;
-        int []tahminler=new int[5];
-        while (can>=0)
+        game();
+        isWin();
+        printScreenToThinks();
+
+    }
+
+    public static void game()
+    {
+        while (trying>=0 && !isTheGameGoingToStop)
         {
             System.out.println("Lütfen bir 1-50 arasında bir sayi giriniz: ");
-            int tahmin= veri.nextInt();
-            if (tahmin<=0 || tahmin>=50)
+            int think= input.nextInt();
+            if (think<=0 || think>=50)
             {
-                System.out.println("Lütfen 1-50 arası bir sayi giriniz: ");
-                if (hata)
-                {
-                    System.out.println("ÇOK FAZLA YANLIŞ DEĞER GİRDİNİZ "+can);
-                }
-                hata=true;
+                System.out.println("Belirtilen aralıkta değer girmediğiniz için can hakkınız azaldı kalan hakkınız "+trying--);
                 continue;
             }
-            tahminler[i++]=tahmin;
-            if (tahmin==sayi)
-            {
-                oyundurumu=true;
-                break;
-            }
+            //tahmini diziye atıyoruz
+            thinks[counter++]=think;
+            if (think==number)
+                isTheGameGoingToStop=true;
             else
             {
-                System.out.println("Yanlis cevap tekrar dene kalan can hakkınız:  "+can);
-                can--;
+                System.out.println("Yanlis cevap tekrar dene kalan can hakkınız:  "+trying);
+                trying--;
             }
         }
-       if (oyundurumu)
-       {
-           System.out.println("Kazandınız:)) kalan can hakkınız: "+can);
-       }
-       else
-       {
-           System.out.println("maalesef kaybettiniz:((");
-       }
-        for (int m:tahminler)
+    }
+    public static void isWin()
+    {
+        //eğer şart doğruysa oyun kazanılmıştır
+        if (isTheGameGoingToStop)
+            System.out.println("Kazandınız:)) kalan can hakkınız: "+trying);
+
+        else
+            System.out.println("maalesef kaybettiniz:((");
+    }
+    public static void printScreenToThinks()
+    {
+        for (int m:thinks)
         {
             if (m!=0)
-            {
                 System.out.print(m+" ");
-            }
         }
     }
 }
