@@ -1,118 +1,121 @@
 import java.util.Scanner;
 
 public class Main {
+    static Scanner input=new Scanner(System.in);
+    static  int count=3; //Herhangi bir bilgide 3 kere format dışı tuşlama veya hata olursa program kapanır
 
+    static boolean status=true;
     public static void main(String[] args)
     {
-        /*
-         kodun ilerisinde count değişkenine  bağlı olarak programın sonlanması gerektiğinden
-         işlemler run metodunda yapılmıştır
-         */
-        run();
-
-    }
-
-
-    static int run()// Bu metot kullanıcının 3 kere yanlış girme hakkını kontrol etmek için oluşturulmuştur
-    {
-        int count=3; // 3 kere hatalı tuşlama olursa program gerçekten kullanılmak istemediğini anlayıp kapanacak
-        Scanner input=new Scanner(System.in);
-
-
-
-        System.out.println("Lütfen gideceğiniz uçuşun mesafesini KM cinsinden yazarmısınız");
-        double distance=input.nextDouble();
-        while (distance<=0) // program yanıltılmaya çalışırsa mesafe tekrar alınacaktır
+        while (status)//Programın 3 hatadan sonra kapanınca hata mesajı vermesi için döngüye koymak gerekir
         {
-            count--;
-            if (count<=0)// sayaç değerimiz 0 veya altındaysa program kapatılacaktır
-            {
-                System.out.println("Programın yanıltılmaya çalışıldığı anlaşılmıştır..");
-                return 0; //program kapatılır
-            }
-            System.out.println("Lütfen uçuş mesafesini doğru giriniz..");
-            distance=input.nextDouble();
-        }
-        double tempPrice=distance*(0.1);// Mesafeye göre indirimsiz fiyat belirlenmiştir
 
+            System.out.println("Lütfen gideceğiniz uçuşun mesafesini KM cinsinden yazarmısınız");
 
+            double distance=controlDistance(input.nextDouble());
+            if (!status)break;//Eğer format 3 kere yanlış girilirse döngüden çıkarak hata mesajı verir
+            double tempPrice=distance*(4.39);// Mesafeye göre indirimsiz fiyat belirlenmiştir
 
-        System.out.println("""
+            System.out.println("""
                 Yolculuk tipiniz nasıl olacak?:
                 1-Sadece gidiş bileti alacağım
                 2-Gidiş dönüş bileti alacağım""");
-        int choose=input.nextInt();  //choose adlı değişkenimiz kullanıcı seçimini tutmaktadır
-        while (choose<1 || choose>2)//İşlemin seçilen seçeneklerden farklı olup olmadığı kontrolü
-        {
-            count--;
-            if (count<=0)// sayaç değerimiz 0 veya altındaysa program kapatılacaktır
-            {
-                System.out.println("Programın yanıltılmaya çalışıldığı anlaşılmıştır");
-                return 0;//program kapatılır
-            }
 
-            System.out.println(count);
-            System.out.println("Lütfen yolculuk tipinizi seçenekler arasından seçiniz..");
-            System.out.println("1-Sadece gidiş bileti alaağım\n" +
-                    "2-Gidiş dönüş bileti alacağım");
-            choose=input.nextInt();//while yerine if else olsaydı hatalı tuşlamada program kapanacaktı
+            int choose=controlTravelType(input.nextInt());
+            if (!status) break;//Eğer format 3 kere yanlış girilirse döngüden çıkarak hata mesajı verir
+
+            System.out.println("Lütfen yaşınızı giriniz:");
+            int age=controlAge(input.nextInt());
+
+            if (!status)break;//Eğer format 3 kere yanlış girilirse döngüden çıkarak hata mesajı verir
+            double price= PriceCalculation(age,tempPrice,choose);
+            String formattedPrice = String.format("%.2f", price);
+            System.out.print("ÖDEYECEĞİNİZ TUTAR--> "+formattedPrice+" TL");
+            break;
 
         }
 
-
-
-        System.out.println("Lütfen yaşınızı giriniz:");
-        int age=input.nextInt();
-        while (age<=0)
-        {
-            count--;
-            if (count<=0)// sayaç değerimiz 0 veya altındaysa program kapatılacaktır
-            {
-                System.out.println("Programın yanıltılmaya çalışıldığı anlaşılmıştır..");
-                return 0;// program kapatılır
-            }
-            System.out.println("Lütfen gerçek bir yaş giriniz:");
-            age=input.nextInt();
-        }
-
-
-
-       PriceCalculation(age,tempPrice,choose);// Yaşa göre indirim miktarını hesaplayıp ödenecek tutarın belirleneceği metot
-        return 1;
+        if (count<0)
+            System.out.println("Birden fazla kere hatalı değer girerek programı kandırmaya çalıştınız");
     }
 
+    public static double controlDistance(double distance)
+    {
+        while (distance<=0)
+        {
+            if (count>0)
+            {
+                count--;
+                System.out.println("Lütfen uçuş mesafesini doğru bir mesafe olarak giriniz");
+                distance=input.nextDouble();
+            }
+            else
+            {
+                status=false;
+                break;
+            }
+        }
+        return distance;
+    }
+    public static int controlTravelType(int choose)
+    {
+        while (choose<1 || choose>2 )
+        {
+            if (count>0)
+            {
+                count--;
+                System.out.println("Lütfen yolculuk tipinizi seçenekler arasından seçiniz..");
+                System.out.println("1-Sadece gidiş bileti alaağım\n" +
+                        "2-Gidiş dönüş bileti alacağım");
+                choose=input.nextInt();//while yerine if else olsaydı hatalı tuşlamada program kapanacaktı
+            }
+            else
+            {
+                status=false;
+                break;
+            }
+        }
+        return choose;
+    }
 
-
-
-/*
-Tüm indirim işlemlerini SOLİD kuralları çerçevesinden ilerlemek için burada yaptık
-
- */
-    static void PriceCalculation(int age,double price,int choose) //indirim işlemleri için gerekli parametreler göderildi
+    public static int controlAge(int age)
+    {
+        while (age<0 || age>140) {
+            if (count>0)
+            {
+                count--;
+                System.out.println("Lütfen geçerli bir yaş giriniz ");
+                age=input.nextInt();
+            }
+            else
+            {
+                status=false;
+                break;
+            }
+        }
+        return age;
+    }
+    static double PriceCalculation(int age,double price,int choose) //indirim işlemleri için gerekli parametreler göderildi
+    {
+        price=ageDiscount(price,age);
+        price=travelTypeDiscount(price,choose);
+        return price;
+    }
+    public static double ageDiscount(double price,int age)
     {
         if (age<12)
-        {
-            price=price-(price*(0.5));
-        }
+            price=price-(price*(0.2));
         else if (age<24)
-        {
             price=price-(price*(0.1));
-        }
         else if(age>65)
-        {
             price=price-(price-(price*(0.3)));
-        }
-        /*
-        Gerçek hayata benzetmek için bir uçak firmasını daha az indirim sunması gerekir bu yüzden
-        tüm indirimler uygulandıktan sonra gidiş dönüş seçim indirimi uygulanır
-         */
 
+        return price;
+    }
+    public static double travelTypeDiscount(double price,int choose)
+    {
         if(choose == 2)
-        {
-            price=price-(price-(price*(0.2)));
-        }
-
-        System.out.println("Ödeyeceğiniz tutar "+price +"TL");
-
+            price=2*(price-price*(0.2));
+        return price;
     }
 }
