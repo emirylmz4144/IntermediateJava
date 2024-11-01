@@ -1,0 +1,37 @@
+type: theory
+files:
+  - name: src/Factorial.kt
+    visible: true
+    encrypted_text: kaJzprI9pf4Wyjt6I5uXl3WlgVKD5HbW0XKdBSl+DqR8pjuBcekPZyhfB0TIes8mAPTUA8WmQUDg6bexvyattBRi/Qx5S8uAvp6RvEfvLNbSovMf9u5fSqFzre7D4EhT3iGUVZO/KirQ2MoVKJaN1TiN4GMQzvuquYk6qdLNKUGtIbnFD16aAnV/sceyburYHEIJQwMFuwDOBYj+FktSx34BHjJfiYzWYU0Q1/PYkwZ668Ea3D64nxbvE+6UiTh7zTgqO6ybfpOzgB38O76fXCl8OKICEWrxPEG8GZjqyLx8I2vaw2G0KL8ia/3XkDzb
+    learner_created: false
+  - name: src/CallStack.kt
+    visible: true
+    encrypted_text: B3m4XHqenTugueWdjYcLrkvz7djH04n957w3inU8GeAPPfNa/XcuRwldanXyZBng2xuWvRZzFD+i+z/x3kVdccV4uOXQYU38qbmHq5+cw/gjMN72utwLGIWAp/G6EvU81K9BPVzzMNFs8TjazfuyW8Elc0GAhHw0CQZgy3D5mbmzGocuZSt0OkhgEIHVphxUJ2tj/+JhU2MzmXL2YCZ6hw==
+    learner_created: false
+  - name: src/InfiniteRecursion.kt
+    visible: true
+    encrypted_text: aXIsJ1LrJxoQTIKLNpcO4px+Okkr31PwHfYh1HKE/qpB1dXH+seBF+yiBrkbr/xh3LovbwbX0FIA+vPQ+cZNpC9wyadE8BYtjzFoyPsZgo14g+0PqNObfjAlJj4VPDPfWsUz7NpG7oeaNiO41IbZt55Drgs+tS7E1l6hL2DcE4gqV3SyeXs0QoxqLwL+RYaI
+    learner_created: false
+  - name: src/RecursionLimits.kt
+    visible: true
+    encrypted_text: sah+mIel4/P5KO4d8kvfpZfZxhGxSzxE6+Zac84mbPUTGmxy3IxHsvx2SPUOQYB/jJf7AdqzJypcImKMvYtqhrricGe7Pcs0X6oWcgKYIOJPFOGgxa5gzxJFD/0WSojdWG9RDXnSsxZjThv3q4/GG4mIs7wNCeYxO7EuUlWAjHkwF+GJDIalSQG20Dx0B1VIQIXNfy4wkXTnD4YvVQNkuEj1yeNEjfDuWu1SVjH14RZrnjl4LbqTaK2y1sqM9h1Z5YdjjRZfAtTCXjr3r/GlfiVAgO+v6jujubPGQuI8iqtH95C4uGfvsQbcGGPZE1UJyWhaIBkNZ0vUtUto7BOxLZcrLZllKjoi86KW44yLB94lO8+sC57y8Bja5vv/+pwM
+    learner_created: false
+  - name: src/Iteration.kt
+    visible: true
+    encrypted_text: 4dPL0fLopg8ltHiNbmEDN6gwKMUmaK6mtQXwE9tuQECEyPmjNR+RJNWC2ma6oIkoEOpJIxF+ORYOmbJTRCI07CAA05vQS6ttqnKLh4FrNzY4rt2h0XKtHWCy1UHWUUP8IDf2s4q5x5Qdnmk1/pBePgo19XYMGeeeU0ijTp4/4E/Y6sVYOeHTC8eYnNTxk41RJm/LWrggVCkQ9mm2CiuUKlMxvjxtnJW20AaQ5EkfOCzEsgGSSMYqc0RC/JLMa4UIjIoqIEgdTG57uiRxrWff1tWxkgduLu47NptAHPDJQ74heY0GpC1h9Zy8Je8pCzw29u8u0yV79Q6aekz7NlFgqg==
+    learner_created: false
+  - name: src/TailRecursiveSum.kt
+    visible: true
+    encrypted_text: svPvW3H62bNbSjUIXdGyzDzhsf5qYjt3PeEPhPeBcC6hGUs3i2RHL1XMKmRFqlda80bUQGRgl8z777OY/8OTyov1pR7veHBZddRd/iOnWQeQQvRowvY280hRmQLYyBkKTGj/4z/D7HdnSeBwIgHuaplPGx3ZRFEpw8rJM4ChH4aiHWLcYC1obRW+DuLBRoafWhmzHayQ9HcIYHLNi/eJInU88m075ze9R4LnkMi/HXxBUEAtPNRI7EgBpdOh7FWyO9xoQo5hbCtF86q73b1TgEi93CdWZyotHkWoE5IhOHOXciPFvN8zm6KpvoYsdt2AAaSDKr1lvchKRKt1ZgmwfRvPgkTn/dHOQSSKgcvvhSIWyZs4nQaSuYnt/c/W3xHuCvKJUzyMU+4UZtCrQeEmWvoVaMJCI3aYgn8rVJ9tSXc=
+    learner_created: false
+  - name: src/VerySlowFibonacci.kt
+    visible: true
+    encrypted_text: aAIxntrJ+GPe9YzPB/Ue0I2phG2LP601rz2ZHNXTqIrVor1zpO3z5Th5RO2rmL92HdKDjtQiuh7PAl9wc79gNNVly+3ILbGBKW5sn1FPLgoBiNi1LuY95YCEWnyj/L47csgR2JdrKwASt+PKFj8bzpTWkemq9wWUOqpIfG3q2wzPxuN/kZNmNZ0XyWGRu7iUxWXyPBsZvg60i05wd8OFi06bIYPkG1mXeLqaJwYwdElmdS/gXuk46d+LnDW8nq3HJfyPn4iQGaCUDcuwvUxP0zKJZWOhuI4DQ0WxRf661VTAW820lIA9lB4fFcgjOf+NyJwqa+fZQh169LFJ3zOZNqeErnp5ILtWWwrMRnqGdsz8z7mEb61nBaxs8hW1SSlrc2hynxS3J+bpjHiSGwkuc70uWXCFpDeURlh9Afxb7Ekq+oTuRS7yWj9I9R+eokYu
+    learner_created: false
+  - name: src/Fibonacci.kt
+    visible: true
+    encrypted_text: 02OaexaF83M0qLHmVTcFYexziQeDf09/mUu1aaXuubctfe4YN7KzFcekQnHvlzgjem1OBiUqFnCs3LDild2JoU+cfDC/+6uHhkAQYw+Tb7iUXTPNwqcIHENevGHSVV0ZBINbryKNFpE67ptFredRJU+7ue79eTrZ/8IdTg08D8cXf6ziHHWp6iiSEQgHirmZ/7PmCpGklPPhkDM12gxBJyy8DAGWhZozfCTSrv02SUo+t//Gq3g9VeOHbMpva4SMlrVLZnS4qqD2NHu2BBcZlXOCNXkJCNPnVVVFmsBwAUtLiC92qxqIvvSTFTqUZAgPBV30bNKGaIR6oUbrt+XhQ53EbN+Cr3wPmml8HLVRtU54CfB7AZMaiCkZdyq5syjYOXb3O4eowjonDblI8kaMwiIKhIWPilrVSdnulFbJND++CLahVEzbjasdtH/C4MpUuSUnaNkURzoCvrNTAb9O5BhYdA4krW9BA4ddHtHUukSG7cY2ZLRGRJ3Pfv5JUdH/shwa0WIWycRR9UfKAM9w1fFns6IsPSwmdfnHfsLELS07/3o55n1glCvYMn+2WPVAgZyNWDoMtP64WRDY0M4y6g==
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

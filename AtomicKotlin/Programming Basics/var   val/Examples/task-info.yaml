@@ -1,0 +1,17 @@
+type: theory
+files:
+  - name: src/Vars.kt
+    visible: true
+    encrypted_text: 2hruheNi3dSJ3zkHh4y6d+AHG9I4jA85Eg+Nqw58oFDFDycxsdG8WAlCFG39czqpirSFoWGDR4NYFTQZwRGGZXiJTrNETJon1Ezh3WmDorXwFSjVRYNnPmnC2HTJxLJBTHTg2Vd6dN578FaHA980++gC3Ksx9HPai9oi2+U4BBmAsxPqLVPHMfzFJOtz6e2FEErCy43rrLyiT/zXFUVlA8EsfBcS3p+HBCkM9xoU8ttCKhwt3YxVtuEkchdensSe3ePmOUqkeoxGkWrzbtmFq8vNKCDOSklgqxoapCcfCWipsWtOb7hj+oJ7kqjXnsTQ
+    learner_created: false
+  - name: src/AVarIsMutable.kt
+    visible: true
+    encrypted_text: J1XqThvrZzVpqJ0h7ty89R+sguFy6vTqLsTxda5wCUJD+rV1QOeJX0t8DJdujuGV1VFnC/gg4CyQtijwOjG1FOUo115tMMgnZKRWqmhmUTUUm5gGt8mACclGioNSrLGP3O8KB+GoPqWd5HJad3sYJ/7FAyj0jpFx6LsJIAlPItI=
+    learner_created: false
+  - name: src/Vals.kt
+    visible: true
+    encrypted_text: iL44yJk2qdF9SPWuU26/qfMLfyrR5r8DV9QLk+gQwgrXB0g7vz8/EBnOHBhXUTpQvyZkpyuJ3hT6T8jldS8IR0zkG5izzxOk0yyfXr4HPiUrH/TgLxnGqxZSlUJuj18puROBBdC5dR5TKbILrAptrx7BGmOzjWP6fUi6TGqj9FlkJjvqUjbv5aOnWA1r62/gKt1KL7o0vkfHO3qNwyrDb4HxxbLlio/AQnuynjoaeBq0ZcogzIQRDoYGVxsDyMYiLo/O4x6zMXuChX4/v70lqZo1iG/cx6GRD2jeIp9Uv8sc441YGNejGFuZjCJHkTTJ
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

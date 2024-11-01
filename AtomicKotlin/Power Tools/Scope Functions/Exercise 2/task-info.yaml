@@ -1,0 +1,65 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 216
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 216
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: rFksQhQ+N4rMhE4Gw87XIq1ed5rxIOUdjmddAuhmtwn6+QTMBZZ7GXw9XSvb/HfJ7cmusBVI6wDcacw36blp6g==
+      - offset: 246
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 246
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: /x1qJFW7ziw3I5+iv0j0sZnbAx/CvnlQjr45F5tOfr5QKr88L0Ctq3cF+hFRmNSK5vbprD3bvodhpeAv0+TzmP2YDsE/sKH5EOj2Qt2aglEHRHmqDZjyvyE2e+Y0wmC/XfO5Syn1Lc4h54/6H2qzeA==
+      - offset: 274
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 274
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: /x1qJFW7ziw3I5+iv0j0sTvo7WdHsa6So8fdKejOYcCfkCHRCZ05QxR8+48wE43S+9ummbbhhQ/sI19CN7yxHt0RjUYnRwm5eVHDS+IidUi6ZkNvW1WGxhyEY0h8kTCH
+      - offset: 306
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 306
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: /x1qJFW7ziw3I5+iv0j0sTvo7WdHsa6So8fdKejOYcCfkCHRCZ05QxR8+48wE43S+9ummbbhhQ/sI19CN7yxHt0RjUYnRwm5eVHDS+IidUi6ZkNvW1WGxhyEY0h8kTCH
+      - offset: 328
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 328
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: /x1qJFW7ziw3I5+iv0j0sZnbAx/CvnlQjr45F5tOfr5QKr88L0Ctq3cF+hFRmNSK5vbprD3bvodhpeAv0+TzmP2YDsE/sKH5EOj2Qt2aglEHRHmqDZjyvyE2e+Y0wmC/XfO5Syn1Lc4h54/6H2qzeA==
+    encrypted_text: GNMbd0lnJDvN7IxMdN803QN9oRzl4M6AyagEJjTC+hb2mj2YiVEybSyLGf6N3h6LJvRiwh9rteqkDxiyjnWu6DkHIlPR84I70m3R/0r9v8eL5fQqCjZfCsmCuKT4+enMlMm+bsT2ShwUfx3eHSD0QeGgiJMYdvcBCBqP32JsROkVXlslaoNdrosxHVVqghwEdO46Dmi1FiIFUDUe8Xb5uJse9g51xw4hDxAuU5pgth/i/LjcgN7VaMHS7QADq3oEswMugmSMce3xMhjoFThVjTVi8QUg+kDIA4ULLL0f2foLRn77luvenSP83wzRFd2l/O/tCuSkk4M6lWiNDoFjYsTChkSBDnaXqGS07iXJBJU7OEyObgd8VuSn4Ec1LK1TJbX7SQLKdPrmUDXdGspzejL8LAa/xhCLmkJjZ4YpEdcddsTkOsfxRa+4WLnqwDfaA9YZz9bk1MUsK+jZ7RtsttCeewh7ay1O7Q/LnONPrURV8tGVF+wtcQR1whf7n9sxHNe1xYJBcoK14dY52MjG/XCYocpscnhJa0tIMH5qI/vsjZxoioSNLh2pqx3Kt9HU2Tz4o6lVH3WF+1oIF5b9oZAlFhs6m+GctHu+YzmllcYOToGo3XdkIxRndA3GT4eDRtczywLjUChffaMD+awYmlu3k2vdFId8Z5cd+GGc/1VL56qtQVQ8b4Bl07+9mvE4iOClfAX+ZAmxQ8D2IG0xdC8f4++fuWcPC8SS2SSlYOA=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: jlaLBhKtO5K8JmCZ53870szbFA+4sJIHaFV61BUdeVaOsggl3qEs9Bj1T5g7Rz2d1iU+U8XPLOWcQ/x648HSDSUQkaM6Pu4qlWfm2VwcWzHYVIr3KZVmls32NqCmjzN+BPmGyk5IWaL1nCR5W9YhNlvLE3QkEj1mlw1l7nF5oiNOKdGh6nTgo73+wyvFuXAYv52wC1/4bc45osFPI1hf1dGnPPrAeLTDxgXw/Uv1102LfCBxKNbDhGoiLzyIgWSX
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Functional+Programming+%2F+Library+Helpers+%2F+Exercise2
+status: Unchecked
+record: -1

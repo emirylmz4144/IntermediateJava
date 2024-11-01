@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 166
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 166
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: +d95ddFNPVSZrYZiRqBjst9O9vaQ99x8Vu45RhG5O4BlOK+Br7ZmqKAnORbxmEzbrBYB5PYZIt7sIMApTqTbGND9mWqYuL5tqExrgzfCRBLflT7djNjTir4HUblwyn19PF95/5MKtCxHrkwjd4lB+EOX93yC31U1BbyD9naZk20=
+    encrypted_text: FKHU+X7xP2nCOA3EHbq75wIV/5jPztH5gFRv8WeY1C6ixGRF+7lnajcO6S+1ZhFTkIOol4xLJQ6Vqbi+SnU9JRpl2HYrWoI2YCcc/WwdOqNqV5mUujr3NGqGePzPwiFZkl4bHJOYoOEIQBVKO/tD8RRv9a8hOMZ/dkMQ+MpI0MsyRBYlONMDHOrKpj1zQfOmX6j7NDkaXoRK/qMlEFpSe80NQKeKj/5hlBk7CkJlDxoj1mw/Fg8f+hRoCfuT9/7J3AEtrjUPOhqO/sKM+/EirQpLAmX1FGo+/LJUbrlkzNVwXEPBTlkTbF4zmKiUG4cPGvsOze50BbtF3QNERMXwtUVsnuxtFMM9KZkq1vZofYNGZvoqm1+ZVQCSmIz7ijirFPqexbxD31F+JgVK2C3tOFEVM0jshVG5RmjPxbncb6Q=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: MrOcgsEZBSJWBiXAX68lFwDo+uALngwyIeF/+KQrYS59oIyxXrZjfxe0/J3mhZV6izilznKhtLpslDejsOSW3vrQfe0KDDSjCpd1CXU7BJR2NTq7nI2zUbp03WdW3uZeS2QvqgiqB3sWzqtw79qDMmdbAEEJprqVc+gkPRvDAOacJNHRFQ/k89z3pWJd8Mw1JbeUuE3dRA7s2bmBOIIlQSsCsOk75dIqWZZ2uEA7LAiFtd1BHMICl7agUAEn8ZKpXxdZKFTIXXXWupbcvASM03We4pxRLJiinHSXKT/lO3Rx3c6Yabf2uN1cQoWBEHViu98etISRceTv/4kviAUffMQeIzEIxZLoXqeJOa17XlDUluPtrSWuR34T3rEap99W0xG40jgiy2iJEUn9L/0xYrAbilS4aDkU9+K9WKoe9kKgD4eaJLYfsR8zX+zlDWgfYbJcK3zlRHiPS60TZ+gYEHaruY/EtNt3/MKgvaLfC8D3Y177c9aKV+Ci83B47gK2R+XrkcKTfnUWmBisetv1icHCBnAJBtjWEjO8YpY5tlF3C7H6Icq0JfyxviGT5m8tUNfCEEKVvD2PR1e58tJlZCokyLXZ/L8IrYN+RlwGaS2GVxzJnlABnHc/n5JxbCO7uuUWEN1EobWaaY3QLavTFT8RfonpbZCVDV1YoNyzKSojIIdVUIHJUihcZvn3matlHGWeONzrRk5hCH1a+sNYUzgdxfNLIw2FXjmsU1bbtC1V6MoutsPFWH7x2AiBIUT17NNjqTSlyKVQdDDmGQAEYxWZICgV6aGGrFi7h2KmecJCnnWfD5JwYFsi7yS/un82hnhmjlWCjrwbwc6xYVLcIXyS3d7rmLknhXKIMxYhbIGJ0bAhxUxgcIUKWR0NBpZ7jSWf7BbSq2f/rKbSzf72+z66OxATd3QAX+xhvcRKCjBjkGFoBBOGn9E0vbZnLA5yh8CwAAeCjRVcYDqveSC9gW2x/b9mslToM6qb1gO3dnols9QlqvcEoFjza/qTAytS97vtAt/PHQSQmY+4xWVv2nyDfC5ODy1GMmg32yof0FOeAwzMb5NR8V/Zx0jHZ2q6hz2zekOBgqfShAnkuQQI4uALOF2J3UfUeMAZeDGRsZfXpfH8IZ3Cdw0ng1zVkOYhqOcBN38tz4Y9NOUG2VDkHm5A3FLPgNdo2avDB13n+dT9gVVovcPA6hWxpeHSa/8NnKg1vDGCgONWFMVuEZZEDQ==
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Usability+%2F+Non-null+Assertions+%2F+Exercise2
+status: Unchecked
+record: -1

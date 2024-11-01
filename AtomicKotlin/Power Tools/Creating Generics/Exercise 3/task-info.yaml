@@ -1,0 +1,41 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 100
+        length: 7
+        placeholder_text: // TODO
+        initial_state:
+          length: 7
+          offset: 100
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: l1jSMoq1J5UGOVkdIt1QVA/vI05TDYvs/hpTwGvSosxWwyLks7AUYl/ujZMi+fnMo460mqfVVxTwpVNQmS2PuNUxRGI3YVzPpQuPUGcuAMSFgSxRi7KTd+jok1c0c4V8nINCdsXYyadnNqw6Jh31c0C1vE4/fOqOzvgUWZekAen4CWYY47S4ND1w+7iosJdJLVCWkE/ifRcORTeMOVYZXIBt2YXIGxTBLVCKJhO+CAlWSR1QHiTOTpW3uiYczd4GvH1G6xTm3XfMr9b0ocj16IRoHWBsNkDrLAzut1kYCiVYJEM3No2WM+yunNweZBuw4nHTaaXxB4BfJzlBkQN8+g==
+      - offset: 122
+        length: 208
+        placeholder_text: |-
+          /*
+            val catBox: Box<Cat> = Box(Cat())
+            val outBoxAny: OutBox<Any> = catBox
+            val a: Any = outBoxAny.get()
+            val inBoxAny: InBox<Any> = Box(217)
+            val inBoxCat: InBox<Any> = inBoxAny
+            inBoxCat.put(Cat())
+          */
+        initial_state:
+          length: 208
+          offset: 122
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: j/Rf2XNx+Z+ml0BrW0QMgknr2mt23oWmNxRnurLS88p9EMjalSTJTGs+u6W5/xJDYSz2BOW0cILIxdmZZr2N4hbRqAG7Ru541cR2+kOxgWr9kxpjGUCG7xiaAWN2Y0lakyw417vrCmOGF31kaL06CfmkWk3B3xLRF332q0ovyxjR9h2F7ZGMa93nEnTXBTLS8WUWUeOC8m3sO12sJXntTjZ5uFSs+gMuTu+Cv4D0ozXceUN14erlO09gJwj56ra7wcKMI6/fNrSVDqqd3UYUFw==
+    encrypted_text: 8dddfB4qqdnfoIqtz00ZOh0bzoGyXwefVGaCl8HLxoBontwhyJ12oiFntUUOBdu5chK/6c8YWwxF4LfX8XPoRGcbDX5JLfAg4jKlu5Xc1Sd33CAIWV9dxrKPCyyXizfFV6sY5mpOCXwd3F9CXhmzU/Ky5WvhekKRafBJHc4P4Ie2vycxdst6+gtF41ACB6T6UWo9aiuZ2GFpEO5JWVyNSHsv/ilSslQyGzKMGtW47uofS9XHjg8lExDgheGnvUyTL1KqmhX9B5rZ3fcuDRYwSQWbEiQfapMpmymK9EXGQW2DVCIG3JtCee1mVYnxZhB6fJz7Ji2Id1p2BWJX54SMNPzyDZ9EfEwFQOPtCHQnnLdPJSM5G5gsPIP3WeSR8O30WfpIu2eGNOXq+6njO2eHHRPBBFhfPiyrY2JD8WUiNyYLJds9fWsgRnFWnVlv1Vwp
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: J13CkvaygBh+xUtxBGsfTSkQOPjU22iAa9CMng4x3bb8CRovthlmOp97SFDKTzdbC1DnLi59ijD3YlLQ4WaoeUlfWReviHDvk1FzYdIj20+tSGkgxiOL4VP6uOenf1pkrPnj8l9eW3bvw+U+OZxao28hmcfIPz4KrHPK1Lb1lI3JYbjW9gFonZkZvQRHPVkGelv6Z1uHARRnstD8iWVw4rdmu9QF7GbhC8gVHWi9+2IsADeIhVO9ji/4H2JyvNjhKzxy3McqgX+hyknYzvSCrQ==
+    learner_created: false
+status: Unchecked
+record: -1

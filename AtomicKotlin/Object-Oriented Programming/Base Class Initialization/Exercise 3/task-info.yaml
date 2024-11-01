@@ -1,0 +1,41 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 92
+        length: 49
+        placeholder_text: "/* TODO: Implement Animal, Cat and Dog classes */"
+        initial_state:
+          length: 49
+          offset: 92
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: uAAxTuqXrgkAI7v6kd6XEktT7fVJvztVGuRIE3V6VIoFaanpnvsziRZ5mOE6No6ZnLgl0LiwVjHlMTV9utHk13VXKN/5rBKVrj7N688GqLeHCC7ZgB25HSp8FFRDlMtdR9nunBIYovOGFdAWyTuaks6aJHu9gkfqZgSHGxg5JzzpFNTsKyX9B8zNUqV4M97zZ0ErUeGYv2tqwr3VcP2n9g==
+      - offset: 156
+        length: 125
+        placeholder_text: |-
+          /*
+            val animal = Animal()
+            trace(animal.sound)
+            val cat = Cat()
+            trace(cat.sound)
+            val dog = Dog()
+            trace(dog.sound)
+          */
+        initial_state:
+          length: 125
+          offset: 156
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: /qvJ5CyciGElHihRUllvQOGlTk1Yj9x4njdnN+FEE/i3P+PYa03ql8mgSq2EUbHKbh3cyV4IUz6d562BAfD13aRgQnw005qFHBE0JR0a/2cSxQif/M2ev372yfGLM/wXcb6MQ76yfPExzMl9oaNPappdTZYqrEMJLA5Ttanf4nQ=
+    encrypted_text: 5QKj865AYnTk9fZubzebIV9drDdO5TZQ8k+LosefeNTmXb+eww0B6pwZgqzRgrGQUHzkgulat+fwrGIKIgCOHuCaMByPpKjoLPf5atT44+SBUCqNrfVjjK0SOnUKdr2huoQWCV7iBcA2qxZAH41AI72/UahNEbeD2VBscxtmiK7thY1+vzkwmK690ELcbm51NoovMD5Cle0X5j4mmbRK97KH29WXOgBVa3Iw4jjdCjg22i+tyU+BRzr9u3PMtMKMlBTDOHRx3jV8gU6VTkUN7ZjWV9eX2NXalb9JLnUMciVofZs89pNGhXVzd2SQ1BL5kX8+7GYG0GIaaQH5pybO7i1wtSMo5RCYVyoI22TZbomqBUiEvKPdeo6bpRLkWge8kGLhEWRQikFoW1i2BaGHcvtVsgBGb9qo/kCgf06Jc5U=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: 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
+    learner_created: false
+status: Unchecked
+record: -1

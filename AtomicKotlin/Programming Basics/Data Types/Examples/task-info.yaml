@@ -1,0 +1,17 @@
+type: theory
+files:
+  - name: src/StringPlusNumber.kt
+    visible: true
+    encrypted_text: woaa/ErMvZCsCOMYFscxxKsDoKCxtndoOWU/QSY/tFjC4C6y/TW47UpbQaW0WsbZntuszx+aIlXGsiRISoSGlHePSFg83eOw+PZeFoD1l2lW23E4K/lvhCLSnrFLcBHbf22id6v/TMhiz8u9FU/nVQ==
+    learner_created: false
+  - name: src/Types.kt
+    visible: true
+    encrypted_text: WkQkR3NwFDQZ/58FbRwvf2IpXHchY5jiAQtukUzRl8QA5Jt/x6xgPItgCuEZ/HQeOXKxhDXhSpH8D2sWcOLxcf+9iVyY/LNr0c7z/prV3RB+daWL45DwSjWYsmnsVsPTD7I/Jvhk93SMY8wv3HCfgsL9BAafJfkdzLHIefZSBuSBCZWkZcSusX9/ZGxsdDb5RSDAlHhGh4Qega4rDrdisre0LhaIX2sOQNfR1DdNaopLQsQ+7YxJ+/gu7l2YpaicbIWPe6fNnwT6lNDqgICxJiz/upPhc4mzP0va0scBrkqGPpayPLTulNf8B5ckdCZ9CqJXfRCs1lEBWwfPhFamgSqrmzKpwxWRpB0cNjG+Rcuor5RkZEaf/kBI3jraakszTuoeFgcEV3kWPbR09iWbqBrXQ+7ljDfptKUunUR7n9JCqBVnY3ZuchoNRz99gsmalXgdg+lRaNXfLjX8u2pcNJ/kSI6hO0ANyvMAWRJa0HjaeXHUuXU4sHzOLH7p+9WC1KCS2TNY4I6TroufjLtR3H4ZXJw4XcrABrqDQdjN2PxYIp2NA+JmpdVk+DDAkic3aNbnl2E+0ewdl3bsHwizCWBXMUDOlCRYBCNmnaQoThdunFSrltjRz+HoFF9PWVtnFDyoN9K8IdlvHpqNl1HjYv/fIGeOM4HW+Q+w/o7cylDxQ6OrztRTeNKeVetDglwnfQm1F1bdc4yfhCcY3o5xjJaWfXnWPZauAZxyXH8mGPE=
+    learner_created: false
+  - name: src/Inference.kt
+    visible: true
+    encrypted_text: 6BPIyy4Fqd9+nUtZo0agefOmQTeeKA96KcMEtYSwnpiKb52LDSLpk/6pQTsQx0DJG+GVITys9ph/yk34ScD5d13wjNUB79+TobVcFS85WkcqWibvZQBLLAk83324afpO
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

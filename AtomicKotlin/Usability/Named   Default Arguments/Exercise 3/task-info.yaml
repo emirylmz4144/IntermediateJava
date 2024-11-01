@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 136
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 136
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: wI6KukmSURdGkJcAi2mNN70OTXqADQRxEbz1YWN5YLsf9WxzvD5gKTu1QOyQM9Pw
+    encrypted_text: 4cEJ+RiXi4bSac5lIdZZ8I6DdLiwpVLOZxuksc3whtoeXxsolP1OdiQr6AZg1zdRO3avjCNBdDNRaOk6uM2jSKVVGAbCKC9E0eLhNpThf3gHbTTk3/1SBfOHnNUtozCU/mqB+q83YpLTSwLmCp1HvgwswiPCgUohrBekn/DpMs2SSWxvmHGo7nYANAY/TMcKdEZZoHnNaQxQ7HTVM/glTCSsTQUMnu0FNxqopy+ZeYBoJr0VK6r6RQDr217gi1Cj+nLR8CsgNYPhv3wGMlOrsxNX6ikKCs+QOGLLnyFL+yVPyyOfToAEMSfwge4/8J4PpHnAugLCgg0vPuKXKv58IYGROI+LSjTyeWys+GhQamCoqoHaMXBl3HdProgALFzC
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: 5raBukUZIFEbl1+gu3lccK6bJU/h4hL7shN8y9tOrKEGIfQBZOITrr4Bsfpvs7jxoExIRdvg8nbdxys4mMsmGSE2WJpbDqQf6EJmSXYzcclZOl1PLma4Ni51ygF89OCe6T8HO6jqDq9gqZ2tmDIiNj8RaUBj5YqKPV8xFVmH0LKE5hhDAyTcP77Un+N9g48XhB6il+bH66bjHMtlbGDOPeTlYfKEIQ6OlYU23c/cQa8gJ1pPBh2v+Frq1OZT/Dgy62PRdCzapvT+p6Y5ZAnbcpu+QHVgeJCFJ/pyxGUO4yn2HPOzdhn7b35OaslMWDNHU+0+9IpvhxQX7Gxp5ctCb0FFHamaJezZ50wbtyvmAjIYeL+xTbfa1Hf5uYNlUFbMi1RxTqsuKUDMncpMWon5bFln6ExwOM3QGnU5R2QFFt8+Mzl2HC0EhTbDuM7PGwN6H/IhlO8AXBae5kps2UHzV7xj3MD01oDyGRSGoJG7Cjv7Vzi9t/R9SnOEO/+3rwT2Hx+y1v65s+c7E2asjpEmlyRmQ/FjluuXjkq1FXNgWzmIiHS1/vG0bdoXCctWJTm32A4R6htKmMU3+bzngPT8x6qpuYi9cFqUjKhdJuZX+PUkjCiFWxAKw23JxFnMODxJ4DMCanXzHgrRPdE0ejpUV36wb0/pSXHZbpka+QQ7RkhUJPpuZWD92RWwnTUXrTOWfY+4lpvY+EcmALfKgkpv0kLFQlr2LS2Ytv212PJP7d23oPFlzGjboFUqOsaZVxMUpw4wdDpj0GJXc4RwQxc7XIVkGi21cChVXKKcmBQIyR4G2JNgKF/GxGntsEUK/ehYdpWk4L3CcAE/NKDTS+yNxqbDjH2k69UkT1X8rWytpgKbW8HQ0uGn1ipJV/mXSaLY+BnQzK6ed3rLhvP1kvwIF1ZHkDiKy82RZVBy7YPUNyX0Xfr0vDYrqgiC6n9+n/C7/FxjU9hhf/9JuOk7hEIOJvLqhuraoVRD9OwSM5kjKsk/4ByoPFRKjmJLtXlErNk8LIvAEPuUlwQ78/M8kfKi+z6bMmVLbjImR9rSJNaVXKYdBYsBakHlA/KV7i5yYQFT
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Usability+%2F+Named+%26+Default+Arguments+%2F+Exercise2
+status: Unchecked
+record: -1

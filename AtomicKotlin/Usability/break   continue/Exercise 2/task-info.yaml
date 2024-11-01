@@ -1,0 +1,33 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 215
+        length: 12
+        placeholder_text: // add label
+        initial_state:
+          length: 12
+          offset: 215
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 51S1qwF5ZI91Nx1FrnOMYQ==
+      - offset: 417
+        length: 12
+        placeholder_text: // add label
+        initial_state:
+          length: 12
+          offset: 417
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: w2YiwC46nv4QIl78Wi2nBw==
+    encrypted_text: MjRa9RxiyDcuahMHJHiU+G14PtUUIZJhkJlAVIGaEOXFh4sKl4UbZ+5knqRgLX5yqCScZ59H558Y+N4j1Qkmb4DHRO9nYgpCyWdrlOLywIopA/RbKnh+rU/rwcWJfPEvqMAFvGYKPxiviG3LNeIwG+/EDb81Z7UvjHlA+3Quynm8c4UZqHk0It0nvaZ3emLZVyUWC9yvPqvId5Lp5TtPSdoiZkTpUMtz3Dml94wbDWPtlMB6pJQILJ7iP4c1qXGEKDqbwriJ1XLWznRiWuyuBg5dL3Gxs7veAfMsBU0GX28bRJzY4H5DIbDFUGqInG5l6f2KTC467qhPazmtlfY7zKqmLU2yYvTatohP9Piehaq7IIN2j+HHDZXQosblfozc3WWED6kHCc3cSmHQ8uLRjUnFyiBBkEwh2cT5hG5OjOC8UjAG9WFuAeZeUdlDjsRd09exURCFZNXvOZO+8nOpFNiKS176zhNessrJH64b7V76WuGs4geRspsXZ5FtWrxoyK/3XFnKoiwew3P5D6uQ/10j3qn4kKK9IlnNvRELMhPiu2jmHtj0CosPiNv5bEZWHOdvf+uf5AJZT8yMNQCShSNjm+4dfzUv4iOdos2yNaQXaAfCcygE//q4CQ0V4frGrj95PoZiNh9sZm9ZNttOftVuZaiCWXpGtfVDe9+cXqLLqtzdBlMzLIv7z39IzS1kMZ4HnIkrDuWWE9It7sIofULaJsdxaMFxOVqhEAhd3wzHyC1tulx5JSDeqKfaGWX/3NsVbY1qSfh6GD1dlYD0efWouq3m7QPUduIfNP4If2VjtvT3XXhKdkzwWr6BVfrpkB1kQpP7Im+mmE1coRYLsuSIeWBLJdBGkebOWqX6xGNX8tUQBuRj6ktabYucTUiN37f1sUlxMmZOpKiSMAh6gRnY5byT6D9xdOBj+8Ng2xQl4hlRpjUvdbfA3w0fvsn+2rpUwXenzfivZOdt6aRfZ3kohvoc0bQEgh3KJAb73vfI7aDskz8M6vf7iKx7deS/UYnRMwD2+aHbVxiSzSgT6qkg8uuXFeOcjqHMlAcdd9s=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: LTvAjfjg4ntToMvdEKBtDqz4zaw+5CsiSTrEDnTw3ivx56PpuoifSSxdqTzmSf0f6nWNFuoSyPd6zdVkFiTPNe115Bw3mhICbPl/u7YnWwRQYni7lmWH+f34FfnrmB+2lZy9F8Vq7gCz4pzKnY/BS5yN+JLg4qEME0fvJG7ffaWxXMCI6fI9BliBIeQuxH7jRnBhBxb6gyu04RFKTB8bNQRYDc+ks25F9T5AorUXh1AbtoISEvXmD2vq40FLr2V04mr2vpwPYq6ryCy6R2gCmd6n7SCHc692B+zTDhKab6WK7Ab7sPRGdpEgHmdxTLYcXYoX/JVJA3JwcAqIsya7Z9a+Ckzmrdvc2YZ1P+bDrpc9R9cQ+dKFdJP1sw13O8rIen0Cqh0xkyP9+vxhcCz1yhyFVi4ylUG07dhcfk1CSwDVeJy0ypnRjfRfY0H+1D1MjCBtWD/ol4X3xqm0oHCy2zHSMCMTymR9wFaqMRB/WO3ezVnyfE0eLFTTVZpMF1LqeOjTogChkyKv6mgI7EiEY3WSFDsSKQ/xtoqEuBwEh9zRh3Dl5eSaHrJeDsazcFqkJg+uedouZm+L4QGSluN5MKk9Kp11HRoLSLP0Hqw36CSEmf7lP2KoaWa+smpbyVxUJUYymocNiIcClj1VUCUHDJQoA1xPIezYhuMdUsA9faJEFbZd/gGYtA1oKswNXM4SdHinfaRBGpkqkSMVMLewFBAC8Hg9MiQpN8TUoTqcgLKLazIXWy97HCdNzvOa/1asC5R+BiIPJdw/yjOeXBgQtCux6aQ0rIzbDH4+FWQljgrQSsfs577C2cdAd7ZUrZYLfGdSJTGbS19FwkwJ4+PsEUmtFWW4iC9VxwRmjGoryegpfnMVcQK9MTOLhmjFG85EaBiEeEwai96gX1hLYHKRUdB0HMACrZ20s4KZFTPHPHlRtXlgF80ucxziYPUduTdjc1Hd7DsOJHHsf70PxsfMIqk+EeliJ7SW1M9Yej1CsTa2/b6DVifcuMVxtJzxDpAMCUBsWV1yWcGeHx5PjJdJI/vAz4zPyclh3HWFV6e6mwYegdbXqkE7xCPmqK/zFH24EK9t/ELIkp12Jh8hpRlUFZIPX9tnYz8yybyot/VYAlqwvcWAEI0J/t0tzDZjdXiyb7vU6nANhdeoNcfAgN8PT7XEeXqKSesthkJtUXvKlducAU9nuY0YmizgMBb6etqqQJImFu5k2QJYUzk2tt3fEyjsOyAzVsDBPM/UM5swEx9RZGDIJWKXAratXITJR6KSd0/0q9n7E9Qqas6S4qSM7C8yTaIJfmvZ7FKQuBNb6803loHlkK8PuXNy1gH6Dyzi6AsApxUOjcmPs9ZUQChoQhoClwNJvIgdQmcG+gx2ovOyCz/XtT5jow4ODDmkYYFLvrvkST1gF87UCd45xm37ME+R/MwyYWqtAA7pPPHaKji1r9Wx7G4LMgSWzj0f95Y7B/8LsXE1xXpcpu/OkIW0xN6hrZ1nCiHg17CsRMTfTl34gr8JUqdn1Yr5qlX3uLIWMmVU+6/8OjOnbsrTxqV1Wgre4Z+N4KdSDMMjVTxWBJveA5oKkpvCCfL6NYid9nNxwhTTmCIdXo44VvZbnpT2YtVLYHeS+qKQ/m7oZSLx2yeVNVMjmpvlmAv81DhmaCxlw2dw4j9yY2zHbU+ELABR1nBjv1VVLbkHDOv8eFAMzns590fgoBTOojVvGGjeWtTifzuEdPgLR48DxzgUwrEMKyPt+VLuYj8lGWuSaqmzB8tATV4Np5Y0apQDfPWLmVVnUw0gPvhWM2c3sX4eemYuqN2orejwtV/tFc8tiw4TnFLSAdNDkioduMGvQQjuxuV76Ub4QZWsoiKFXgTY0ta04xNOVrjzye910ZyJamuqTogXh2ddbeaj/pu0lyoaSGkYPN56evoppla5yeHd5ZvyIO3MDnQRA6Wx+oMCO2ci7+GPPFr4gCDjjumtF9HqdS0S+DdD3Y2mEGJjdbOPUVutE+1mREnvUNh89VYus8a+N31XDdqm/LFWzyA5TEuFvDdLxYbCGlrPKhasRo4AJuRqflg4Ctb46BfI/IjAUPmKZTWv/r0qUegkJYY7SyBd8W5z5FWwwTkNgGD17Rz42bniiEM1eYsYmPEbfwzITVhvtZAzpc80W8wsML+V02jjMt5y
+    learner_created: false
+status: Unchecked
+record: -1

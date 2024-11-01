@@ -1,0 +1,33 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 586
+        length: 6
+        placeholder_text: '"TODO"'
+        initial_state:
+          length: 6
+          offset: 586
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 2ZgZUOXIQLSg8jTyr4HTx1bFUqCo0kPdS8ZUnLKUvmdQp3FDwlSrVbmB2QNw0SQBN9GNjcFgCHP6crYGjTXPIjymzd1O6PxBHSKaeFQCE3D+GbmAPX2Hdla+c4ehU+gYNOU+PjOrzmaAMGqRgkQa1cls11lgXhtN/tdNWE5DY2k=
+      - offset: 621
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 621
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: /noV+EZQ7Kdyj1NzkijS3PmnMUTMzl0LiehnsWMN09kFNkqZKv6Grp8yYosEijVFNMns2l3u+Oi7FbNKnCzEmGLLzUF2FfYK/Z//eVgntUBBEPHgF4pNtUKdwR72JhKz5pctVuaeo/sZcwvFlE0ara/sb7djblysYJJ6jEyU1VBc6vE3fuyN/3ONojvP7skTDfSxkE4d/P5L6qnrrayN4z1P/lN8c57muNH2litXnVgukwMnfFGWDeq1ZZRcHjIt
+    encrypted_text: il/QKfLV7b0KgCLM7em2BcYgCrYTEOC9HwvNuyBSOc7AMDKJA8ZXnv6tEH/ZryjGRN/imi6xIDGGlfBznr3m4R/PviO9tH/1XzHcTLTPSzl9dWA3bwSKDqTAFYEJr96jaCgf6VmiA7QTczGhkdn+aJQDUvPFdkLzhH6sXOknuI8VTgeaNlecipjjWWrx+Aiy9IuuFXZta9EWSlvKdl5MEtA0xlGbs5uI99QP01GLBuDs6wFko3VSqJfRJRnywwErn1ffJ3rWvOVekMt+V6UBeD9d+uHOVmKoi4qmBL873yFyqGdtcsN8jhMCvk9m/Ju/DiBdLWsxBpPD24ctzKcfWWvEgItGYsI5JyJqmZ/gfInkOPaDGtk+IGP+6TtTCT/iqh/sDecrSaMM83n5djIMpuPOKKidfJTcOiiyAALHs1dTz4DG72uq9tWbIXxgIGuMt2c14lz7ijRjLus9pPy61y3gG+UB9Bf3DSG+HkefXzXP4fzCOjRAoxu54Hj6yigOnLEciF6cZBg4bAlCNlfPZGTKPoeA+1UbnQ1rF6IheMD4oLlHv0pmz8gkz8CZMN3y2cKDyLKNFWoLAFgD8zpOnwnT/oEgRfCb6fz2VWrWllYZhcnL10XxwG/7OOcuz7ZCme838tQi4gcjszFlWfv3u8FXpbwZWpKV0tAg2q7/bEkT+k2RdxPFjH3g+lvSAKRoydbuNtbqhszP6SIgIsPwyFbFpbrPRtrEh/9SsQyu0TsrdJV6atPxfRQXacNk3oxIxI+P3oEivIAzEvjV/xjmUsigNcMXiN+psiTDXJ+dYL0iTacrDjQYnPKin8veV5u3X27t/Qx3BNmwqqzWBmsQRJ/jIgj3Sl5G1i1I9P06htveEo9lSzKVAF7drggSeOBD6nriOOcX2VFlVLN+R3ny6+858BfvMDRk1NWjqlflyJXE7IWTd1i2I5LHbpT7EZUIVCn0kHBxUrREZFVxQT+snR90WwyKE1Z4qOLPOPJ6ho13vxvpISawBZfvmE7Os9EXJXTYd+7yOw0GvULL5IyXo6YC++moRBhsmeCkLF+jDa5Qnk4liuE0eA6Ao/INiZBVTWpqtGKlfO9n+1HXtnm/G1rifaEO+w/CmhZuCsnOdUel+uBmiNZb56N5nI7nakr8u1cDS5hZgHH/0D3s3D1oCP4Q/JgVCeBQWAGKb3nyDFdEoKuU5Sq6kadGQcO+A0d3xEXd8KSOnvVpxXAUICuORZvTpmX2qamTGo/QpDQfnjkOsWZFFa7gThm2CafdVh2h2mRWCkZktSCD43fJkxGb0fiSjjcilboqpHv9ynTjGxv5SDNSJAjdDiiFUVd5EcNmdlx4IljwIp7fj3a/QYWI39Z1EPMGOaO1QwCL8gafb7iI6OZm6q8tXAZL36Jy8pX0RM0vD3031wHBGqZ0knqp4HSP8nwXAi95MwsYHbJkLEgsAGNId76pVX8u6ldE8DmniEBFQdtOkVhQGj38jKmK/gkgI+o4tz/4SSWMKLj5u91MO2U/kPOHhRlXm3bCUqjbG2pYfTxGtNxS7Y6CeHPWPIbB5FdFPtkl7/6ji40HmcWdiF7RVZZwFptACL7jKdOJiXyGDCSwC7VqWjR5M1T9vbLOG+Ym6WHEkRenkDa0KmQjCXBsw5nFf39YVDxg/tvp3IR28DmbqmGSRHARVx/2rwT7+EVJUbbLW0ub1/E1ds69PZpBserQU5d3QfnvkZ+6
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: JxwSa3aT4DoIYZ8ljAmbPafKbHErqMFOoIKL4p+ET2qHyMtfj2J8/XhvwSX71YTHOrGEoly+8CLitxWiS87lLDsfiZvPdnoiP/cQSbddZKA50uK7xvA0NjG5XcRG+tLMs8ep82c2i4S6ccEmlfD2FFr0THM9AbmZq98HI0V3orl/sxOnVmeA5NA0J1n+s9M6O7UMnmaZQlpzQKv+6jwASP1NKPsvQG8KYY5ZZDSxFdja1I5zlnnh/Xas8CzQlahO4wzu5Zb9oH5GTbIQraZ5Aw==
+    learner_created: false
+status: Unchecked
+record: -1

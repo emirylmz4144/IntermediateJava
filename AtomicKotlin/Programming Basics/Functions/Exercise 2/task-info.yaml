@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 104
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 104
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: V0Q6gqqvAlodHVm5jPkWNA==
+    encrypted_text: P2TNWzrkldotOjhf49bLKqTuFKlaLoVhAelDiLtrEWI6pKhRSU1lUMXmns/yBIWm13RwjWt5N2kRn4CT+JuFD6XVIC6bn2xQf9QXIUlfctMQNqqvAeiGlsfXYDKlqgYFRFILFJJK3cbNWqdrWd+cS9EP7z4Jyq3bQgMnmvY1lIz0u9T/zW0hHv1exLSSwbSl4DSqQD/XEmvvHw0y3on1+7o/vv0hNQX0GVRIKdlLZ1M=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: KYvcDJQk5kVfxc/6Na3wSf8h6GsFrvsP4zHHSPY6LstdqV8dyEk9i9/2Otl8qHVtw06GfLCdIpN9lyro8Fu4ukET2SCAwV+ElM13bTAUmzoIaCbGWk/XgoZEL5hYgcRiD7Ko+MBtixzOEcn/hZ80CTSVY3ThwpT/uEuS6P7B6ACxDnZkEp5gzaygVyn4kjaKSUJm4jF0u9/+FRTBY1y2/2xmSueICJl3itemvt2ckqdWx/mX4nsVX55npOV/gLDWRxWHxTy3ndFHdoLILVR+movRn/7meBaVgXriV71ZUQZI4niinwhsaQIgspZc7LDGn0Jm6vrZSxbMpm/83d6vLJipqwbggpnOUwCFFYqRmdPVCaSQtbNj7jRNw8y6ay8IdhNCk7Y3XIZSvwzB/1iDMhICYhdcKDYJQMLlj1KhxWf+t5XKigz7x+ANeP96VDtG3cY15sLIqIXSgMO88JGCGsc7e/XZYHObMCC0LGsjGP+SZfS/8662/Seu6lUr29eK+IFtwpG6qcI6SFw4B/lfGTCjjO6Y+L0hcUMh2r5wDhkAk4MBKDxHUdoyr9gP4YhzKeHGe2K7rLt8F8uIHv0MG2q3XX25Pd8xS5mVGlapVHPGYJD4FPD98u9WxsyWKtzG5YHZAR707VobP5xouJ3U7MZhxKFKItRnbGpv8miJwwI8iyxUz2cbDhBeNUtSqnLD8iJzT7UVe4RWH8Rx6YjW5eZit0g5BQphtyELR0I+04UD0R568Bb3+nX6BuIATumkMMxk2J12ApffZQ7lvJe2xg==
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Programming+Basics+%2F+Functions+%2F+Exercise2
+status: Unchecked
+record: -1

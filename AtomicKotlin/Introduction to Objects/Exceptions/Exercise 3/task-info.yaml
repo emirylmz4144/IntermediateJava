@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 144
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 144
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: SNqo6gYLP61DHDjEQ812tJznyMk7Occou/lE9aHhpu9C83cdAiKsUrxA2qy///SZj/K/RP6tgPo8hbaRgycD4T1gtmxKUCUo9HJtcCQTkGcq86u7C+nZCkp8MnYFtSab2tKKcwnWQdy6sO6YdjbHHN0riVjg17jbu01QeQZ6TqsNgJFuyNVTAnhHr86A+VRb9kvLbAvwmkZZQtGdYNAHLw==
+    encrypted_text: EIbye9KfpDiE/jF1NL59JQiT24tygdHvDGgcJ0piVapmOoAVm0QadYfVYQcq7ftPznEiXgqCnemdMpCUmO9am04YiHF91ummWcHv0835GKoEj6vU9SH8u8zpOnOR+eGcjEKSQjOa8XJntVac4rMTdwUgEbAlXx4814vub4qE+cvTjgQArCy2pwjdHfz3spaf+PyPeQuTHMCAxYkRO2t4A2c1Ymv+21z6IEgd6YG55aPcZKGrGN05MK1MsW5cHGvjMCg8Z5+MD/AJpBzLq7T3OlSSqqdt7V8DPKZHMCL4a1sDsJQ7TwdxOPJM/T4I/hvsjHCOGKJOY/GiSmB8Iv3Pg+UbzMzdwI5CzOrEoXpOvtYdXUqcxk5FzAM/70VKK8gI3O3SfEv+6wSkOsOo5Ctfl4fButTUj2/0eS75PgfmpaU=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: JxwSa3aT4DoIYZ8ljAmbPaJEmECTaMtfMEXXwNRjGmlNy/HfSHPkG22bwETp8IWTZIpPPyhaTirgWoawxSbA3luBzhgn81IiCrTosvrxALGoM6vMknBPX3KuY8GvW/zV6Q3mtkJWkUk+ZtM9tkdVlf09Qqtu6OrJk1GkAYpDCNTMW/zmvyKaAPlbsoFai6Nv/OQ3yhyEmnPXg2pPhtlWdkvg45Qe23clFriaa06m9vymUO+iPNb80nQffrSdJfY5magIVb4mKAdP4ZpQMbS8/P4GlTN/Au22dnTE5vXhP+l6pfVq0Pn4xmsXBlY+4Q0ueFTnrQKMdK90ikZH2tzbeuKxsXMb/uJy5+lyGRbi+CnwJ/QvM17kQ9xoAchHeuj19Pj/OwRyNegk3r+fWs3Qjxj79Fl9nnQ39qSldvECzzy6qTjWQ2Vwb54YTAm5ZuDHi5mCZ5Dgk0Kg6+KWgXLhfLeh7iPbtlAv9po8Ci/iinfPK2l5mu1PkKYI/4ePjdGg5dEsRaRyIcZKz+z8Ds2916Qo4FHxALfNeOyGDOtlNIsrhhkHQ7wG2iA+LEPZoIBItcdDASgw5gxnmkhT2HjtCMqrRxIXbiZrXgYHFhM+BcZyuVDkK3ctC+cdUpxXsRb/YOivzxK/mTVWgKWWNeAP9oAHvxEhBHiB+pgKXus0zq6dT78p+4bJ3zo1uo0Uy1rTBdQQYC/5LRAHsL7VBtX8fQImh3zBgasp5wujxPyyw7C4/4R3beJraRcOgAb/HPcTqZv5GavqSlZ4yhSprUOnCTZ8sQGpF6vNJLAwoXbapdZYKzMz9OKIv8OlqWOdDPnv5g8OA+TnF6dY3olKAxRXgXzbElKcL8YDK3fyoaLtcETMdWlSfDvD/8gOcXYdERHd2taGSW4qpIcXF3HL5KFa7/tUa0ej/1NI5sE9lffxuWDYrmMIEn6H0nAd5TMWz4G7qVwZYAUVhNy1uUi1jIZah13C1v5cW3fX1i4frM++sstkIxRzr6mnVjeTwiAiky1SscfAuMD7r/odCnAGLbFq0WlI2RoYKr/KUFHQ/uUAOr4=
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Introduction+to+Objects+%2F+Exceptions+%2F+Exercise1
+status: Unchecked
+record: -1

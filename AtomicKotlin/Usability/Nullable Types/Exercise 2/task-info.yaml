@@ -1,0 +1,37 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 58
+        length: 30
+        placeholder_text: |-
+          // fun zilch()
+          // fun zilch2()
+        initial_state:
+          length: 30
+          offset: 58
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: jjLq7GajVYj0a1RIqvhpYTTDdoqo+Pzug7lQOQwKyov05BfUtW27sjmVVy6lKE8ORvlyTtGkKIkJIlSu+MDyvQ==
+      - offset: 105
+        length: 19
+        placeholder_text: |-
+          // var x
+            // var y
+        initial_state:
+          length: 19
+          offset: 105
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: C3VlCVm6GvOa85rxhMQZWgXp3b5RXUqegxWmMyZEA8D/Nyl/Vld9OtjWnrfjNEeHGYzasg7gTQdaUxquXgd7IA==
+    encrypted_text: xjDBVkmmbiWhopUO6NlbhyDcalOpWw1s2WckHHjhhMhruiVWSRPcSb5pe0Q2v53X3gfUx9kvHmpC+tceLdFhdS/62DLl5NFKHvEe2jbzf0cvzgxd0gv+Y3JVOl2QQh2X2xcS84tGcJ/0Z+htCcYHLYDis5S3aJGP5i+1CuOKqU4=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: NPomZeJPaolkSMB1zsnHWwz3BK7Dig1GrspePTez9HzzTZuGejPROI4e79Yr1uJAZZTbTte0JSwmd7+X+6iBdJMNC8mvpzSmBNq3cIKwgBv5TB26RjKMbGDctG3lTFmO89/vp/Va8TteD/YUidVhtwimbuopOkmXU3E+RypfdlrK+FYpcC/kzOq0a4l+GZykeD0hrUr1m4o3MigY/iVkOJ0k3z76JAZJneAxv34P+cGLccPJCIYzWQ29u/7UZQcd
+    learner_created: false
+status: Unchecked
+record: -1

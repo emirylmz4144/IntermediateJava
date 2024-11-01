@@ -1,0 +1,69 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 103
+        length: 16
+        placeholder_text: class Repository
+        initial_state:
+          length: 16
+          offset: 103
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 3XqFnCqjdMJinF1Ls4wlhaQO5Y28iVEM1xVfqQr2mzSLwpHWixrVCEgz1iljEzS1sz1jxm8Tj2cI4fnf5rPZivxoF9XOXBQS9UYoNBWaWxGzjfkBuHLvSwYtJYrM4wSfyO1+jiWb/yaZt9Ujt5Novuy0Kzm2lD7pxJ4inH7oK0seY7bOhpoHD53rW+VdN2hYKpbuLrLR5V9FOhIs+6DHbX1HYlO4osclkbe/linQAjK3oHyMDZQmW+AdalUFAez0b9BQpZldKGS9WmeKORg+5ofY4+MQuKGgdkFHbS7x4Ayzvjbn2vUnAAMuk3+Y48oS8zpD5MlE89pcGvq07CFPuDwlRBvy5gWjIhy4GZzhh7NA5XAZRDCZFpXK6WUPdvHg+XmzTQPIomDFQwnQXMGx7MvRlqy3+A86gaT9/rZb229KNQZne29qM7otdlI1ugPsPsDpp35zVXZ6y/uoiwBIIkMI9R0NzMoQrqHjOYysDkaIQK1mPzSQSx6514uq1ckOkw0CI5pB3ePkSFuizy6LuBSXcXwbI3y+k/C3JKS7HjT8feaJFts0m1iqoPJPPaqXgy/M8q/uQG344qG9+90Il8YH3oolWTZYmjSq0mjApVYAFwMBOYyqJQGKRT4gzJ1MFpfVl5mPBlwTWxGtgR9jwJ9YkonZnoulZVJBkSBedAz0psWA09ZkBusie4ccGmckNquw9UO/EX9S7+WiNwwI+1Uvo8nySLx9Ryow9rFEEFBozmNOtxoNnevSFY/Sr37naz1zdlD7xmtnKDB+x2MH6Fp71+rHFA55Lb2xo7P6FenPIEiJLiBxRu8b4k9AmsusEDeNsa16TfC7wR6LbPdYEHshQ+8/G4K5XjpQmaQPLZJff6z/YOEVDnzj4p18vgloOLJNo4PcDk7GjBVymk6kUdlGjN/tP5v8rYlIga5tn9OIXrfKdKXeo+IGyrJFFQLCxJbqYULgdxGvUkyMM5Huvg==
+      - offset: 134
+        length: 839
+        placeholder_text: |-
+          /*
+            val r = Repository<Int>(5)
+            (1..7).forEach {
+              r += it * 10
+              trace(r)
+            }
+            trace("r[4]: ${r[4]}")
+            r[4] = 99
+            trace("r[4]: ${r[4]}")
+            trace(r)
+            capture { r[7] } eq
+              "IllegalArgumentException: get() " +
+              "index 7 out of range"
+            capture { r[7] = 100 } eq
+              "IllegalArgumentException: set() " +
+              "index 7 out of range"
+            val r2 = Repository<Int>(5)
+            capture { r2[3] } eq
+              "IllegalArgumentException: get() " +
+              "accessing null element"
+            capture { r2[3] = 100 } eq
+              "IllegalArgumentException: set() " +
+              "accessing null element"
+            trace eq """
+              10, null, null, null, null
+              10, 20, null, null, null
+              10, 20, 30, null, null
+              10, 20, 30, 40, null
+              10, 20, 30, 40, 50
+              10, 20, 30, 40, 50, 60
+              10, 20, 30, 40, 50, 60, 70
+              r[4]: 50
+              r[4]: 99
+              10, 20, 30, 40, 99, 60, 70
+            """
+          */
+        initial_state:
+          length: 839
+          offset: 134
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: bXAxIVQLw00Ty6gFVk2oM+ps8KdDIyIb1tSajvsyH2Am9fqjz3pVaRNIxbysiifffAvNwEOMOvkWTzYBSZQm2S1ufYmNc3uIQtT7YhJTmHN9niBQXoJONaBtXLkoBqXh5wdZB6+wgTOr1NNf3Qe7esz7T/CcjuqDazOrBNWxFePWHCUSPb9S/wY/UtU3Dvnf16hcvCKmSLMoLYMs79d7Tq+sLK/kyx3bwzaXpADhYr/7qymRupqcJASMxK/lyPGoWgoskTe6x6JIGTq42ZOxUFEwJ1/y0p4Ji5oXuVeO4s9XxyGqKoZakj8GS/tRpPetnnRxKx9kcr3IIoDMarMedsKOAJz4P2rkFQpjUR2QLMN/moL4ijGF7vOQulZP/FvQmJGQBt65ovl+JBLzB981G5nrnbDc96fEYAHHNTcRahPf08moMTAwI9e0iTMQxQZOlsm2pKp9xgOk7w3h1UrSlNEB9bNU8ZQ5RigdiS7AVP1zvLXkpp7g68oiilj8eH9uV9Ec3KWUfO4JAtupWaxePyI+Ue1iHMQGjXQkeFAmDn7LqGsxNAjCxAUn9tvbrNQPrGEcG7RedOZUHc5kKQ5U5AS14R2Vz1TUBNTzW/SOd0QPL4Ji/qSBeMCcyNZwlk/0P5TxrglTyLh0/LuTAIqHgH8zin9LB0+rPU4Ko4RUBkn2dK8CMfubVjCP/MiBWgjBJBV1T2hDr2q4uFyLgpbsKM+D8sNO7sHdpzE/DYd7zsaE2/ZcRiONfW52CCKP4Il9p8yn6QSTt1buV8v0887Bh7eC4X/PIYqkRPYfL8C+hk8Mvv5S9nKy2dShGmfYAFXR5NSV6zBA+om+ciXsm9zPDQuqRx91+otcTyhaaYF2ejLqCahx+OVlgAP7pCvvIqkfOZR4LLABSf0XXZTtmyFE19Gqyx33oyFmAfiw0R+ssWH+rjA7oUNhKU8UGGIbV1Cv5cPQg1CnMrOapPrwC7KxUh7K7LL3DqE1MzsymKpgJuatbsuprzcx35Ft21/6NTCfE+OB5IerH4G/txurCFeripGnBP/vAveREb/oP+TEIcrqXyw1kijUqlW4VTU7doP3UIJgoFXYO3rQcG+yeQvc3yw3REOf4txvoqRhni5YiaE=
+    encrypted_text: ZFwEZL0XQqmfH7cHXQwvvOF8xnkckRnNTm2rg27TXZDcrHXJLAggh/gJLGDj0PzODaE+hDpSaa+TAVqi7AR1Q+SuKosjTWNlxUv5Ko0SoM5BDvWWG4L3wMH2QENuQSR24LT1UYYpxLyAP2YCNH3tme1DEzxqyXRcVvHTnxtBJw0kGMjk+Soznds418D1rDNKKFxu4h4SR9nZvmbomc83J4nEQOTooOqUwamu/STSxyPZjXp4krR4VFI4nt5lzCghbkfhkhbcRPtoZT8+EogEjV7D+sV2xnBR8MWllPhlcnaHhXv0q9YAUYZFtwp1JSCMEecY8xqo1+ewV1cy6eqc4iqy+nZCfKP2oQMfkUppT1HexJ3kmGZnaLW/bEpjgDMXmsZxO5TF6HTEL7Jch0P16kcKH8MNJHYxR+JPTxkxVHURk0KnbIjK/55K+2lUYZvlcDPLA1uIwpr9FKO2cOWv8FHytO31AjwfJ3KhIppSvnq5DxPqMeckmdozSHS/384vRdLdxQMumeGYJmuEa8oxwGHHbQ9aQCZFgXsXiseCgzvbQxXI35Ngk1hOG7uKcjN9hXkIGTXvLNcSp4UABJjt54EOXJY2kAhHGTibWRFrJhbrwT2roMswHWvB19tphNP0Df5Ej+pnA8nZSJeTy+jEyqEkXLNlANMq09YP9Qy7+lbhHTLq49bjNl2F2B2Y3mqK2W/hRTI4xbHMM48+k96bDTdbmxLIOFYv3wtSdh6IbP+/4rY3WgjxrS7iDZOGq4vZgSp4lS3VRdLFzx9yYVDxpHs25EqHwfJMkgpVWQ9mCBcrMtM9g5hLL6ug0e/JjXrohFbQ+ilh+Lih1u3XArfXKbRA8W7q9dxu6umP5MjtDz3K3GKHz4tvrznvNoWQ8GPhl/PqEShwLdk3K/aKjaK1b6fxJl3tg1gbBipfVHr4axukIhpaSm/D5WjiZwZy/kYPGKwJeBGhjcJwgH+Oy9hDvVuG6AKJTr/74pNgFdAkMEXLucjwZpOz7otbeGYR08l2A2z1x381LFCOcRDGdBKRKAfVYYJyjV71n1L5bGWYAKlzpsKywZvBkDVcNNa+E3yZaAQRXDHm5RgDQv5925qK9sTD2MODz4XOadaW/wHn6MjccRpDTHfjRsb2kWKd3dE/TYVuEwGDA1AUPikmxY5rDdHnB4lEqzSz8SEHg+jS4joOXXUBz+XScESrA5CwY3gPAgqo+YxmKGi1mEfSlRiFiAMGFPcSX9I8dNOo/IEGY1OPGIp9FmxsmcTjZVcUVqIR34hS19vFEky6oV+34T+MGQ==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: xBCEzNg9gEExro4A7D73MH1u/BIF5YkinzNF210Ayy4wDmEV4sG8WcGS0muqy4AGK5WsJIbSPdwFOUrZ2uEgF/tjdqD5NUigzbFq8SdTmzu5qOGSOiqNZ0nn/cIeTGdmBp5H8dFv1R6pO7CmBhQDH1mZsu5VpVgg1STXZAQByCNfQ97AkdSRFiZahCpp3ZL0lkSM8AIT4Np0N5wTlKs+ovhEKHHsYcOfr3E3I5k00AodNqKJb1LFv+eH+JsoS02S7QRWO7sjpE7WL9nxMW1kyQ==
+    learner_created: false
+status: Unchecked
+record: -1

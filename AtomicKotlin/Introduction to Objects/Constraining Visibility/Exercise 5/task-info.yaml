@@ -1,0 +1,14 @@
+type: ide
+files:
+  - name: src/Task.kt
+    visible: true
+    encrypted_text: oiFvuJ8k9YNMY/45IIyyUywOfBEwFEzx9op4AJxLwEpA4GviKEwljdWg5h7GSmvGLZPS7sIxaMFAdAZqFoGblDFjaiz771MLeitxs9c4edEfiBh1OVcxNjqthIAIqQHEEFQdmQWc9pdXVRE5rJTH2/D/LYp+zVsbl0VWwyndyhCRaHSPU7fiBAaBfQVN2WME7Ri5Cz6r2pChB3yCbUzT9ZJMEMiTf8LiW/7VuMGzGWWj5RtiOIb2wSxLOzJgzw96DKy7syJBi3r+cbrrXLj1WxRMpHIIlYXiTYDYH6C1vZ6VFEeKfuLehQNYnRKO+7ZntQly2bC9SGDaDDB+m+IRcOl8d06uEnDLRNzW1G88gLv+sFplLXjHnUUiX9g0eEwK5UhjLdsojtAdEJuN2lfpBsNwMSnEHShYsUiunbQckZ9mHqKOMrTHL9SorQ8/yCATCa7Icxfq8F7Aj8yLJRyWrYmpgS9ozAJUt3cqwS1k4WPkHMd4qZl6eyBkvyP4EhARj0yCQm/MoC/GcrNlt+WcVvy602gSENDvPLM0e71IxG/tVqaEW9U0iicfTTtBIzCJTgbFfhTZCpAbBg61tYkW9gHpy/oeLtsy2+GIlktBfCkW7pwD32kbGMsYD95QV6mYXo/B2g7ODmeuN5Apf/k0YQ==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: IfsQLNPhY6G0JFc+rNIc7jsAJ9uWmc4NOrn6vzIVT26c2D5J3nSLxYp3iLbLW7aa
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Introduction+to+Objects+%2F+Constraining+Visibility+%2F+Exercise4
+status: Unchecked
+record: -1

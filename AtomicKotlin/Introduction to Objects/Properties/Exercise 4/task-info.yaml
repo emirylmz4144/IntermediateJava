@@ -1,0 +1,14 @@
+type: ide
+files:
+  - name: src/Task.kt
+    visible: true
+    encrypted_text: 5r/kB8yxKrqF8JbgIyYTZHKVMyAwIuZLVDH28kEPB07HFC1W9h/b5JiPuegi2qw1YsFGZVRq7MEpot9VlBkzieOkP7GIMQY/RpUzW+0kxxBxG3JzdtV0nWU5mtGUmKuDCiS3tpW+murNpdoxuHG4dc3uw7wrepxUQenCOzR62/wfDKmIuDZrd/VGmVW/8n0jL1uaWA/qzoGV7IQWuhnSZw==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: dspTd19oUigS+wtbHiGIY5BcKNCd0XBQthHiqY0Q/TY=
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Introduction+to+Objects+%2F+Properties+%2F+Exercise3
+status: Unchecked
+record: -1

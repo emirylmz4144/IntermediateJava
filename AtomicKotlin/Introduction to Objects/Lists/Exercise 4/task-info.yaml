@@ -1,0 +1,14 @@
+type: ide
+files:
+  - name: src/Task.kt
+    visible: true
+    encrypted_text: 9ZJ7N076yBrHud1WV/rWsn57SuIB1+pPyYzB/hv4oVXz+H6rPrnyQY+8DdA3PMYgCKFR2L9GXQfJ+H4ocRex+4PR/ptZpJD7gdVoik0TBpwR+riVDApHFdLKyhTQqAT6nGeveEDHs0om8fweDqBkeg5ieKozYhflInA9WrYuRJaNKJn5dMOsWpdHkUWPKoWY
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: 6jF2wnZSOow2EPinbLx+IvZwlJLVXRFpGUMQQNDfBEY=
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Introduction+to+Objects+%2F+Lists+%2F+Exercise4
+status: Unchecked
+record: -1

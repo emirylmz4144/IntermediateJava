@@ -1,0 +1,25 @@
+type: output
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 197
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 197
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: DkCCN1taJCTI56AZBTiZBZZORkKq29FlA71IZncseT2f4bhnqPNrCJ8CX0eCN/qb/AJn+nXF/t78vN0nVkxcGXeP7m8l3oqmtmDgXiWI2vPBcCi6aDk6+1rOuX0H25Pp
+    encrypted_text: ziGQOjgkKm7dlGET51GACAedpdL1vHQ52BGxwOcmcWaDORgN+PQgi7K3JUTH0u/VcCLPRvF8z8dMhGa5R5Uok8eIjBtJJ2/vl0raBXhEAf03AjhzHVoq+nuYkblEG48MVLEWAtFoyMc+YceW8TJ+3MbY0olhuaNEgVAsOO4Oo+9sZFhS40rIRERS/1xGEUr87l1TKDB1MVecKwYVds6mjA3dga3LPlBUdvXodZ+xw21I/SnNn5wvfe49WuteRvw+ZuyowMAHgRlq/EDFHFcdhA==
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    encrypted_text: X6A1IyNFbsSFF9DUt4R4ESt2C3zPzkOPFjq/t9reFUr3WeMFHE3vw3kElU1Xur19
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Programming+Basics+%2F+String+Templates+%2F+Exercise1
+status: Unchecked
+record: -1

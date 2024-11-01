@@ -1,0 +1,23 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 177
+        length: 18
+        placeholder_text: = TODO() // by ...
+        initial_state:
+          length: 18
+          offset: 177
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: MjUOfmGNN2PNKhTkdo1WoCoFVfPlmoCA4HJDPNWdbXEo05muWdqcnCWZvLES6wC19waw/RV+39HBBEaN3hXZfA==
+    encrypted_text: WNBwNI5GdYmLRuZhGeEpkYBBMSttwfKZ15+RFfFpDaRuBHWCQ/2ZSbGTDdelAcyx5Oy9y4bCmKQ2h4ZGrh+m+3ijgSZB5ozMz4EhyoOk9rZPZuqD3rU9zeL9EJfRU8PbC6839R4FL1P1NlZtZjyF6k7mV1j6X1N5J/Zf93+ev9H/xTSyD4oz1u0aCzZ7dKFmDCoi6hVZgPjgqXSrc8Xb6vCaBIs4k7Bkb88EDofdvJfXPKKXIEwbJbG3yMxdMTWqvXixKu5rXCxmm5u1FwFz4vEYCjerp34F2L6zlHaMwORg3zwTAiR4JvPQv6Ck+pTjtCxehj42bBLr87S3F8bQiZvXLy++wAyQmO0HQj/Mi78/Mb4VOSqfNotnTcx1iSNdJfo/sqRHxlr8IiErlxxXkxxFvov8xdhUL0qI4hdkt9Q=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: v/GXCfbZ5GdroYISxTKte90yCpzjgj5dtmBYqqbStqm1M5E2UgX4kTUHNv3wmkew+fL7vnxO0JoZIZB8ffyAhTkXdv8GKHGLS4mysFK1ZbuXcwkYpE8Xi7V3ttoNLMk2A2u4TCzeepEk4hi6Y9/GyAhKQTx+Rl486pvA0UbNmjT853tNpi4iyWpP4FY1z++Ife6XnkHs7Btf1/b1k84EjJKqcKwAZadrTbqC2ukPtpLdftLGa5NjxQ78nm4e3ULwsbrHbrjfZoOwAY4CdKAkQA==
+    learner_created: false
+status: Unchecked
+record: -1

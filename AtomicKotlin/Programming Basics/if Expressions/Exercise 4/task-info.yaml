@@ -1,0 +1,14 @@
+type: ide
+files:
+  - name: src/Task.kt
+    visible: true
+    encrypted_text: YWqxkEfP+VuLmRq3ckggmYf/qyiLEsHJknJkm32xciJOIq4rZarXEY+jBrlLPZke52t4f2GcB5+Nd3m/Qvhj6zGptibXYQ1sN3qC/Aihy3N0lp3Eqe8BTF3sideFc07++TDAgW9FmfMKiejzQ9w/UHY/ODcyGYnO3hC4Z6Bjotuud59LVhUW0vDBCix+iPa5lxv2YwjpJ9+xdvhNxor2xOxRYTZY+NwdPkFcl+3oS0b74X1hcS9HV+Ysnimh0eSdJjwf1A4pVoiJShda56VSdg==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: WZMcnYepZhoKadArUjuBO/+mF7izxabBkw+g7HQ6SIk=
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Programming+Basics+%2F+if+Expressions+%2F+Exercise4
+status: Unchecked
+record: -1

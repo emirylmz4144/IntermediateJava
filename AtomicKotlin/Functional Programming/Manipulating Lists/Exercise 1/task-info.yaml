@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 142
+        length: 16
+        placeholder_text: TODO("zip(???)")
+        initial_state:
+          length: 16
+          offset: 142
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: dmHpz63mscDLpT3CdcXtLA==
+    encrypted_text: q9z5s+nKpxNy6eHHPx0Ge95zlr0zcZSJL0qYWjxaRTCCOEBEdH4U+4FJuAOkMwjJBVmz8eyb0TfPGHFkPQjnFvX7GpV/Q5bVfiJn/aQWwwmUg7qJn0Tu8Q8RMe07dOtKYiI7jNdH7PSZhyN0Y5/JeM63sdffYHSl/0uk7RM3PoJqYOC7dPhdAyUZhZEUkvErx7+vxpgas6JZXSMdbJma2UjUnosecMMcDuBA1+2RN7uwdJVsnBrAgPagXx32vxmIKSu2DEMj9qh7EHIx2Ji5abeJlq/Fq7ABj0MPkRj3XUkCq+ODCk9WZ/ZzVxApsEqslm8659CKD9aS2KwWUBaGIiclZJJxu7HsEk344aTiCsA=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: lQdR1b/lq6VntOfRTjM5Q4J07FGGyqBkYI3zZs2BJqqkzDkprahsLLSKsZQFCruGQap3kszDG+Kl9EdQnn+p9oFvuZdvSbdU2CZ8NcKpuJ6Otgc8GtY83NG+kIGRTk2lY8hpMGv7gLwcm7iw2mMobaBylP0aTusgGjMijGMVzpcGhUMuhBrVS4yKcJi8RvWve5KzITDuiXh/vIZvgaIm2psojihu9cdZ93bT1TQjRZ+r3qxbBZkdvOVkXN6C9sA2X+vMSe4QZROVr/e57SytO+71ToHNQGPcvdPB18MT4keylqms5zESci9+Vms00v1BDyUNtznXzoLMK+8sMPdf9a7Ozxna6XE7CqRRXciqmlNpuUwHx6RELP4Ro3PY84PByJK53YGYVSKsQC+p91PG3i3H4yi0Y6IGqAxeFLRHMVtkJCukwoc7FTC1Kx5IpfNylxzmMF4f85M0FHOs3EXanYrdml9/1RQJX1SCUVcaLTI9qXTyl3ztAPZ23d5e92EtJJ39FzdtLiThvkMqAp71C+05cIswwXwZOewtAMyR5fikwfv3tVSWag2D+1T3ps7y59Ae3FmG2Uq4ymS6XVyZShhMZtz3TjydNnQkdNaAUeSr9IQNxk/m2eXTuuj54A3JKAuTbtkZrncx4HWAqt7zbDLjEN1NvsRDq/fuMckp1+/dKAk1QCf/3HuRbSDFezrmdrII/lWHJ6OWQhQfOALb8OS+uQPft86XX/qXgVQaAWBYiPAZzl2POKrxRSbIIcPtijHDq6qZ+rynC3V0JnnQrHi7c3XGQZSWc2s1NTRF1+jdKVoUs2Z4pKashcKEwCek6xtMsGVwzkCf1r/1IHRVHKHngTc6azSwp3Qrw9hanFxrF1TyU6BxbKKSNtfHTzGAbC5KD19fnT87V4jobXC4ttJxLgcnywNenryxpPgzrVkQJHryZqdfa2GPVo6ret7Q
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Functional+Programming+%2F+Manipulating+Lists+%2F+Exercise1
+status: Unchecked
+record: -1

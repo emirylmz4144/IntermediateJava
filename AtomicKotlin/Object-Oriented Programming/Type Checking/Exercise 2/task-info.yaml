@@ -1,0 +1,68 @@
+type: edu
+files:
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: liawEn+LMMxVxwTfGDR1KFhISEn4Hq17t1TMLVCWwvi1Tpkcm1fY5/nQX8d6eZjwPX+v/dRGoEcgnWqWC7n3zgqEQ+hwKmk15vvL5L23Sg0LjMVSgmeENlXwcOrxiRN4s1RoYkbjU1qcA+Iut/NuNCZfn4OAu6wklqBVwkfacALnJTHeG96aTHGWSZFBAc3oik9bphtO+cYosT2ctuVp47oylDkhV3XV28u8eH7xsvS9/S1jzMm5pY9sKpZtnl5a
+    learner_created: false
+  - name: src/TaskA.kt
+    visible: true
+    placeholders:
+      - offset: 610
+        length: 27
+        placeholder_text: // class DecomposableBottle
+        initial_state:
+          length: 27
+          offset: 610
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: loL0yf4OLyL5SXoY4HoOaV4t/yPv4BEAuDpKhYy6pHwTiuDOzfosaZtch5t6fFY8
+      - offset: 997
+        length: 58
+        placeholder_text: // TODO return "Decomposition tank" for DecomposableBottle
+        initial_state:
+          length: 58
+          offset: 997
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: o0wc5mORdWPBI27OpWQ3cZSu2/a7KwQEPgIxXp+V4hdk9Z6qhZpAb0h73fhYJHUL
+      - offset: 1202
+        length: 23
+        placeholder_text: // DecomposableBottle()
+        initial_state:
+          length: 23
+          offset: 1202
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: FBfNgawDKc6/2Hjj7rfKCmztRKRLO7utgzy7mggH6lU=
+    encrypted_text: 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
+    learner_created: false
+  - name: src/TaskB.kt
+    visible: true
+    placeholders:
+      - offset: 813
+        length: 27
+        placeholder_text: // class DecomposableBottle
+        initial_state:
+          length: 27
+          offset: 813
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: loL0yf4OLyL5SXoY4HoOaV4t/yPv4BEAuDpKhYy6pHwpZKEdvgnGQazz9YL+2NBYYtfE+8CsFvuYs9tXF3PxmCWm4FA0CpDP8o+oTDBJbJmtfG1URdLFcIZUFWmtxDpC
+      - offset: 969
+        length: 23
+        placeholder_text: // DecomposableBottle()
+        initial_state:
+          length: 23
+          offset: 969
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: FBfNgawDKc6/2Hjj7rfKCmztRKRLO7utgzy7mggH6lU=
+    encrypted_text: KImeZ9RGobiQntkHnK4d5XDniwZEgNibusAdJ9ZEFCwVFS8bZax8++9u2VUX0yXtMf7yZEIYPtyc7A1CaQFZ65LAh7RcHzjvmbcGP+LqsjCNhp0lXnH2vbrQtfr5tda0pronBF0qLVg+dsMegEzrgW/345efh5ecKLRXq30KVbGTqVl8Zk8aLXsrElP4T2ZXy0E8+JkSNSR7du/n28oWpz6F+rq8YvHE4eA0yT/57BsG3Bpeq2qNZAKiySbrOMCq9woPljc2mea6PD9wNQuHYyGVxuvIYCugET5/5gRX96khAIpipNsPCkRQUBW9yN8/QeJcxnqzw8AdsgyMKp4iaKwDCxBSTpkdDs4VcKYSXyEEkK8dw6Jknc2UmiJ+bDWX02hSNVgg/MfELlUh9QFdW3lQBz6Z1BXHpJ2kyeJ17pG1f1dchJ20lyNnPZVCIaCdifzK5VH845orSjYtgUwv8zZRp/GLzCiytD6lpFIi0l7IT2zpzXKrZm1AcCj1K15VR97YUnpfIfTW37737KAm3icfoL/4epalCND/X0x/3q9JKfCdL9QVkMlp3VYllEZctMXlMuj4jbnIZ8wTz3sdg87k7VitzKd2AIDbaw1hJFtgl6PWwyrnQwEpmq/hB/HQx2mwuccvXAIYueAT7bcqajn2zKCr3Xby4unensSYpOwPCEGrTm8KI2/2jGDsz2A3Q36HFPEqpEpsYQlUtCujSIl/kDEPo9scTSYpnthprZegI+JRU8g2zXgWEy3XeNTPfzV5NhiAoQB0auYaBO/vKuBxGxLu98OBWdS8uYzASYd/VWgt2RnLELXhY/FyxfC11F9KiVya1MKrQVBj7BKIIfJRBl4zNdy/+mGC1JmPmyU6mZu7EWw02rw5QSiGIFda+hlQeEDl8vxSPoFDTTWj3U97I/E8mgr8leyrrcwvbcXHuABeSRiOyTooaEkddWvAdgV09jAmTP1x3xhthcIzoWqa1LE0dOkLG+YwEv4tDqQbcEGfeD6sWwHL+sRq1S3n3hXfmEv8qGLQ5XP7M8YKdnu5Xq1lSNeIP2g7S2AdhXhEBAj4HaVPAmyCYkYKaZhyGYyYIZwGttWQRo6aYJ+BXq8WMLzhoLAE7HcLKIsPPbglWpDQwSuizYu53wPes58g8V9PVwoPJTGaNHgJkBjPSkvKwRW5htycJnpJ27LXVVpO7cxivAAmX7FrzcjNIf1f/11qbN8YYV7KXbK0ZJsyOi4i1gcjochGPTb4holjlUC1LzxpdM47kAP7w0EMl9wy2Tpwfrz/EhKJDhwOEjQga2N3uAjOuXCB7ULU9PYUqJbA8gDZ4kahs9hb4ok8jgmOaWjJduHgtZCZuRhmxj7cYzPXmFXb4DInetFNlX8ZixUredC7lCQS1jIyF4qc/tIsoZYH2tj4IgZahylwDwpg6VtCyvEXxguOeUODE+SUuSgnE/HhXMeDyF78Lp9kRXsq0WX42N7Tc8wmsRjWqixIhW+UW27qstnsJ/yyTWM5LlsXBdL42tWUH/I8mSKrxjrB8AzlLDXVLGpGiqBnXOB4A1+kPexyAhgJnw0AxdXDpjNDrTntf2UefcgfAtRmtgmQ5MvjemZ7PJ+V4N+kif6IG1zaUmugBIKAV2rqWq7AIIH82XrZkpIcpaVKI9WcL+Z1KPzmf8/9Iw1sTbZTnPSSjL7s+NB9+lF86V3yniZ51bbiFATCOa80xKzRp7aK4iEh
+    learner_created: false
+status: Unchecked
+record: -1

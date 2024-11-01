@@ -1,0 +1,14 @@
+type: ide
+files:
+  - name: src/Task.kt
+    visible: true
+    encrypted_text: PDkfyWu5j6vmHCzfjxc+ORmm+ok31A4tzz1iS97gMz+09Do+Y/gvY8sWSk/121nSfWBI0bn1Df/A94MWJeP1SU6gsAOoUD0Z1yu6mIVfaJmYE5HzHi4+cYgwa0iHA7lN
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: y2C/WVmITbSFQ+47t8VTi1IGfw29ixceE7sEmcEcpj4=
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Programming+Basics+%2F+The+in+Keyword+%2F+Exercise5
+status: Unchecked
+record: -1

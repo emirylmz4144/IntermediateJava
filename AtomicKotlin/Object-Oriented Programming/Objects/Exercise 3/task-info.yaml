@@ -1,0 +1,68 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 277
+        length: 8
+        placeholder_text: /*TODO*/
+        initial_state:
+          length: 8
+          offset: 277
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: dcflYta/42qxdRKpavyYCQq3H94OHWL3L0ye/WMH6AlbIJsgfL1yylYPMjO6lso5RViNk6IYzEgNlHmBCKoq6Q==
+      - offset: 330
+        length: 8
+        placeholder_text: /*TODO*/
+        initial_state:
+          length: 8
+          offset: 330
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: dcflYta/42qxdRKpavyYCQq3H94OHWL3L0ye/WMH6AkC25PN3B23TpZC8ycvIxY9HEYyygroTXlbvt0IGM6sfmqGyKzW5DJaDquqFNr/FVEBDI3Q6JCZL1TlLSfQmvJw
+      - offset: 382
+        length: 8
+        placeholder_text: /*TODO*/
+        initial_state:
+          length: 8
+          offset: 382
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: dcflYta/42qxdRKpavyYCQq3H94OHWL3L0ye/WMH6AnRkEvCPIkAT1Y+jTBHpmvvf0+Ddf3TP0MktnRZgcl8dFmkDbDfwzZHU6dhJvIVq8d7Bhetg0ys5NYAlJIhb3P/
+      - offset: 437
+        length: 58
+        placeholder_text: |-
+          override val environment =
+              TODO("Not yet implemented")
+        initial_state:
+          length: 58
+          offset: 437
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: BU7ESXmK+RDm2m+Ju1xStOuxvOlxIWeDHLJNEPWGlx4aeBYC93MB3vSETpYwSHh6bY15WBEkW1j4rsUlrYfAlQ==
+      - offset: 571
+        length: 61
+        placeholder_text: |-
+          override fun populate() {
+              TODO("Not yet implemented")
+            }
+        initial_state:
+          length: 61
+          offset: 571
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: EKAyfX0iA4UsAt1GnrzPIC8R++f/1cTp32j9UuaXgMA362UFGRLBhxX1ITBgoHHrEqm4bl5IahyscZCmkV8XCRgKzMUJPziRZqypSYnccPzJr9Lp6qNG5oDJv42xY/HCpAA7zuFGel86/r00EidDz/hZokNV4sXbXZ7ruQIAr0s=
+    encrypted_text: Ow6X6KJRW2HvLfyeCoBML30w1fmpvzvytasbMswyYLGWT76cJDFUBibTBdfMVoGD6yfUk3IYmKs1KbisnxWrWDbap5m+hCuFif2QrKJeFmji0uTGL/eoFihGw9zjCW2DWD84wukL/Dauq5vaU7Xgf2Sfwt1a7FtQi5IWHS/V4xHcVpDmplduCNOPhY6CgGAHg5K6nVto15+4jxt6Biw3ks4OccPjTyeApt590uWQkmBw875joZVmVBclV+zarpg2yGa38t9+kz8aw7rzTF0TSWY/EPQ4ZfNm6CgU6j4hm197+KF5qsx6+mw+f6Ve+RMKSsTcPLAbymCKWrhnpKaWjvxttw6z6U38D88z0v+tYRLjf9BzbDyI+d+gV4NjNZmN+swmT0expZqP78NsVPq+s7+AHoSDAnS2NeKRmCBPBe58bcIre64qiB9YdvlS3L9I/osWHxpq4OXR2nxy9t5GOCRXCvZYJHLWMEZiVwUrIXFpqu0S83hbNm18o1ZHUrqfhOAIFzaLKH2G2u4Oze1EdGPrjAhvICfX28LA2i+LcjBqiY/0ag/a4Tq6o6cJ+HO5FyJftnVsP0YCRgLwdUGON7BqNa648DakIEED/TepVQH2QsHmhVwqXgoq+izyuLlpaZkECuhEergedoBf4XGQu5cLLM+J/+hoXX9KOjS25ultxJbgL//HyAiJwrRzoAlVqnk7rYUDTqDOotIYSUfV/+428SF4xUXusf65jLuhBIkEfZZcDHY+e0l3fEtPQEFyUmXw4AL6pd3XMBSXRvaMVJ0WLjrGFTYR+VOHkCiwwxgO5lnobTCFBmDe5mxr1+iyUYZcmT3WEN/VIVGwP9szytr2DLCRWYM/KEEuL4f+AZ2DYrkZ3zgRSX1P7IUGP9e+BQPL1xiWJ0NIrin1qfrNpc6rdF4BcxcsbL0f7DUniNiqKLbCjR/qM+9L4sID5mP0HDo7Sd0SSikMZ9pot0WhZA==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: moFr+NT4RKMDOJ9x11/Yrxohf9/50b8IBxGLSmMZz8zmTQVXVC/3mSLD2FvBbABe5ekag8XAhqXypRyeCNXCOKNR6G6q13a6/hE+BlFkYGeCjfC9uMZl5QsBp2JWq1g4flWta2X39RyjjySDUYxWtKHZbCvozrv/TbxN4FZivB0DpPsEA/Sjh+WGXmAApfihpb7X+V5uK3nazkIaLt8o9mg3FnoK1omtXuYQcCt12Uc=
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 197
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 197
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: SvXTlKZVNN7Z3EXi2ADXWklEyOb7iFHkPERRhXOZaGG2yvfsstY3Qrn7R/7ogNHBUlCVMO7ZYsWLOyYhThgsmHFSvL7EPQtt07PjTz2c2Oo=
+    encrypted_text: COojYIhZoeyOflrLdLiVS6TjUnpFbysSTvpxfF7IiFDyCTXIMdTndKdJuIEStsdF71pb5aycj4o0r/uWSYothlhzKJ7YK3vHZbfpYa86sSJjRvWsUyZOuE2m+hMBNA90SWqcDOwSqRrMTj5p/qVRNY3TRp4z4lMkJU05iPSGxPGbVV9SwjKErAi6K/OqPTgBqwfLhXSopvWeVVudz3OH6rnnc+M7xDfuspvP8Htq9fBn3+W2whx4YtgCr/mlxXUIG5MbqXSc/D8yZATZF4HQ73DPivRzFXb6iRD0xp8cObBttlDgDWGwAtEhAIKMKThPeJGIV3sfEOrREbyRaf+Xyawy3g1vEtlwCNgLuaYIDAJvP7Ez/scZ8QKq/QnwAF0g9o8iCR2QORpeKxFT6dKPo8d9dwmxZPIJZxDmTFCMxaZNS/MHYbRx27XMgXwELF1wx3PeN9JMAX6pO2jmGG4hBWQmDFV5Nr8PcKxA+0QQEv2YL1yALv4m5qSKLPHm3oyQi7fgyZk+ApzjhAZGGZCxXUmVsGr5Oskt5kVaCS3Wch9vIB5LSqCzfQK2ViOhrhf6eL/UaAm+jMNaZxG0PiToLQ==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: 0D6yhjAb/JxCZGaD+/dRutNooAOtrm9Fq6PEmVwgDQToYcwZ+4YZQZS+5GW8iHlTNMxbE0ngN8c98uatpA8PwIuAKuHUxF55/QKVPVRvfT4e2vNBg/5wh6JP0Xod0HsjWQCNraQpWa2TncxhLgKIgDDglOWfDbEiGGp4naq/WfYd7/dwualO4XzLeuAcGyfT7yxRET5Z6kNtbU0fd97lEXHXEfylnns9KdEPV1T7RnSWaBPg3yWAJqMrIm3OXGpO9RV/JjbmMipIPfZY3cKx/lNqfYYCzV97g0eVPA3qFkpIIAhCxnqzgP6/cV9NHbsqusc2ncoxHDOlL2z30PDj9xLScTnrXZ8350PX+ohACE6qW/F5LoON4yPwcrv/zCsmJ9Xft1+7cdNJB4O3WDHvJtgV/HRSiOTgWW7SAb18cljLa7d3UUWKunCGLp1BKbQiapBy+3VL+4onjTg9NNim/31FU5J22ppiOlVV79NGCuERzGyibTfB4IQzJnLNltAyxtgFTOqqg9LoUHQTTxaDeosaaEJPqGREyYTySR0Jry5YLPNupgsEsHpPYiMDkumQAosHTGP3dJjuWYMeydzwcc0q2OyRUqczdbA88twfKIfCOPLTLcyMLXAZdHmV5H0Q776d6gr4mMnjtDpMB4cS1/zJD3HglzmPDKEEV31wGYYngxIBdn/qBuwQiG3oW7rLedxdcLQInQyOdTEWdes9V/j+dhKsefnRpiYDXsN6eZijhrcR16BU7IHS/acbDZHhxkYYvYwZE5LbSZOzu74OEAq+c9u4rwU+7bRXVrW1wyLVBhToOGl9DAO0aq3WFVJDT2zDHySrNYdBS3rsyeB6gXGocCpZG7YBDostxotER4yNhJFvPtohWdQyXKSHBnI1wDRMMdDuMiqyBHOPkTv3vgAjOtXEfLheZxtJY36qdO2Ya/2mxTCVQziFf4Fd5kZCUsxbRgDrhzo/gK2GDIB9xhZuwJdOMtImFM4UmUdJbGYmjalnrU+n6L8kSCOvUrEMdQQlrKm6EyVEag3q+ZtOYiMQqAKQzJ6R4IFUe3ciDgMo/8GoToVcmEUpzxEzCBJhgrv/Xo3d1sMfkaPKpWcRH4GU/Rvm0ssgnkO3jwFrmOIcQq9hbSPMoJ91m6vNYZ2lUvE/HCCtAJ344JkG8vwG7ajKA3fUmH9Qc6l8MwCb2RsZElcqSuQNI2254zXexNoV
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Functional+Programming+%2F+Lambdas+%2F+Exercise3
+status: Unchecked
+record: -1

@@ -1,0 +1,14 @@
+type: ide
+files:
+  - name: src/Task.kt
+    visible: true
+    encrypted_text: 6dH2SJqxOHzCSU3Z//344hoGvdziGnEtkcbyD/+mQ8H7pRtSpQTLumFaEtE4AQVUpqAivkeWzR1UhHx20+fGGXwpp6iI3bvvZcL+kQPIPSNF6jNGvHQG8ttc2bOkp0uSptLrrUDJY9I3+l5PeYGFPww4geT/HHxnmcS+5uXiyqO7DblLFfh9YWwr7EGom6Kw
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: 2g9VOXTkrsons3KbTafw7pprWyAnvHjdQpGvyh5vXWc=
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Introduction+to+Objects+%2F+Maps+%2F+Exercise4
+status: Unchecked
+record: -1

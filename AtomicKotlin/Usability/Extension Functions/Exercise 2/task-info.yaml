@@ -1,0 +1,35 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 116
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 116
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: bZ6YXCZKYjIOqpR/0+iVdQ==
+      - offset: 152
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 152
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: wNXuMApIiBOivJ7acZekUA==
+    encrypted_text: oZOP1x7C6RJ/ZY2yDn9aUpRnr1u26NVfHZKIJmqX4naWpQ30dOJ5yx1P/JmCIQmkC8KcJPfx6gkXuMDq4Afi8W7huD7jy9j97So7PoImthmsyyHya6SrEohCkeS1mUIc/UyTc0MFgcPpqTt9VCYEpEZIvt812bXdNmn4T+xzFJd/a2BIuCBKKWUa6BVjVXH68jCQZZD+hhTuT6he2Gga/ILRoPomMWVgMrAjpcurc0U1FjL/yYw8+TSXjlp/LbMn/ZBFLbd9xfbTa/rhtpuHZkFjtVAVQiNlAah8apgNfPw12ZGLYoZ53oK2n0rQj9do
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: OJ/VvKJbfR14tfcNGIEjsYvkJMT0SJrI0oe/DIzsfig20gtJll2nGzVQwlET1tQOsR+52o1U9Pb+WXY/z84F+D1BR/sR5c7dpgc14BmAkfOJbHTEDYHw/rxGYuOsS83Tt531WHlZ42fVUOVKfVDOKR4Hr8vG+6H0nnI8FKenSBxuJBisvUsrwX5badY258oGpwh9UhDdnoaVvI4b+jMqWH/wdr8DNiQurxfdmz6u+2uxpc0EYR5EjazJTtRRzrOoMsPq4emNP927W7OIFdLXzTCl4CC8tx+d/An+/cPFDG/qg+xCQt0Dk+fo91ElNs3cZOO5YFjYqzgbRCJ7nqp6BQVtq7r2og6Wi/2OHtCMeu1EFeECG0nONMeLHj71dcvw3zZPaDWM4LvlY/BWGKacTqFbwA9wbc1UFR/doZq3rCG0ATz2gZYHI7+tItmiOqt5PtiymLJWaH7Tr35t30icaiMYqsoO80cZKumka9S+WHBOkpYROXgSAKUu3TM2BGl0IuAbRaC9tKl9eWQ/lF5MQztnhgZRClw8bmPTZ2bUlm9284lxq4ry++LO/exXdJgwJtFz9QwlpERiLD/PBOJaz+3CqV4MYm1KUtBYNywcvloW/A8Yxjl/wi+p/oWl9fQX8sm4mUKfrXmUn//PpAgzrhrPNdu5Dxlo7dBFgHVu7kI042s7ZzWiuQFVYC/8xc6ApcBwvSZ7n8qdVy6jBRtNnWWIXMLabpj1hzRSfNEFGevZ8beBNbrWcFtojZSH7KFFzXqtE31dYj0NqC4V+Z+nEuEQBCXOv2RjA7cLwLaNRDCEhuRaib3QcR//KGAVgAjIWJCdNcbQyaJdQGyOblt8hRhX3ZXOx9xZW933VPllyKZK4x5YSVhx9ZihVHv2TTAYL85gPoW5IQvYQrhZxoiHlln1LgPX/OT2R1URkaySfH8SHDbWtinul5WoXodsqIcvQh946PfeZKnrxwbzajF6QxJ4FZobjmUhawPvDQNVwsKrI3kfjbY4NJWqYxDGHtZEk37RPI/+6C7lhPcE7ien2/qpQA0wng6S/owhJi6tA8t9OuVeXwDQAhNpSfd/dSanAewbyx+1MXOlnriyjBUetrzJjMKoMsU7D0krhbeLNfJDjIFIG9HT+3XFMH2DBFuEKUED4PBHVMuYHV78S9bsm98ub6Lmcy/eH4beY7oJFhRseJ7n0Y3nC7t1/RMQKnjlLx8z4ETAX1l23hJ5NHVcEys44MsUttRTcLKfYg9kAZazesH7egkYxpNviuwK70DXO2nqGPqVJP/7mOTyq6uuujPDKDmpKecKuRvc7YikJ5vTOWJVSxFttax9MMrN+9eUzQq6fzaYycSIsx86Cv10lDFKtnGoh6TIuToVC17JsVaV3svsIFbHc2crh+L1L8z5
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Usability+%2F+Extension+Functions+%2F+Exercise2
+status: Unchecked
+record: -1

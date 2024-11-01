@@ -1,0 +1,57 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 188
+        length: 40
+        placeholder_text: // TODO getValue and setValue extensions
+        initial_state:
+          length: 40
+          offset: 188
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: BxSsovLwnTyCNcFEbE3iTIssqXotRUt7FzPIeXV66+ZFoamuXfsJDW+L87mHPsJxpM5I4ciAFk74fn1eGyW7l1AseEKKlUTv6Rnoq6syzk+WOUEAq0qdPkThb2xbgul3elxASnOU4ZOlzE8AHOm387G1POuQ/bGZTB8nn3862gyJI4kC45vp8FeDzMitqLwQeBkry/TK9a1HzhIWSXued+XzuwKS3CZwBHJxO2gQuxCb98LkvklNUusnDBMkx9G7TE1KjM1NVVUnYGnYc51GzfA5OulvJFUUzqiUlBq7XXs=
+      - offset: 248
+        length: 100
+        placeholder_text: |-
+          /*
+            var strings by Holder<String>()
+            var ints by Holder<Int>()
+            var bools by Holder<Boolean>()
+          */
+        initial_state:
+          length: 100
+          offset: 248
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: RSIK9JLdVeNQYkMLQJduUjUWns6rZSdw8ZTNj8LV/BSvRLpajftAM3dDhFRUgIMyGVbnOKc5g79gS4+3f1Bkjna92i6ndLzIwkRJEkxtKMRaj1LMUFA/Whoj4Oo451vW
+      - offset: 365
+        length: 234
+        placeholder_text: |-
+          /*
+            val x = Holders()
+            x.strings = listOf("99", "17")
+            x.strings eq "[99, 17]"
+            x.ints = listOf(12, 23, 34, 45)
+            x.ints eq "[12, 23, 34, 45]"
+            x.bools = listOf(true, true, false, true)
+            x.bools eq "[true, true, false, true]"
+          */
+        initial_state:
+          length: 234
+          offset: 365
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: CV4Us+oR8cjS+iXNBUyrOCe8ly8/WYbDJcxwEXV2XVohQ+DlsB+f5R3ppcBjVaWZUCc0XieQs+pNlunhHn7VxZvCEFpZ8jAcJbzaDWh4QN8Xh3jNfdoP2BsjryMMtYCwtNDcrXzcgX/gx9oqwM8h2mklRVqG2bzM5RYetoxLxQhEc2u4+5S3ccZzFsSvH6IHXGt3DUC4Y48opUjlUz4ZvZFDi8iZibNsERjFqmqBCxxU8PaSqbjZ5r5paUtuREJ/ZwSREgBET+EQ1FdwbauPTbG8YnlJoYs9WgLaz3MPrwGue8bcbVsHNZucqxHPcXcC
+    encrypted_text: TETwb06PrAdSK61HWef9IneeDO0IxDh0Fti/ZzzWo1LIjyh5ujg5984cpUfRB7IIpNLrjcl+BrmARUIVwYXPPnT8hEZF+uUjZbD90BbYHxA7IV9K6tlf1ARKUaOB9jTGwN1WIY/q1uw/NZppPReMzQJr2HPCJZf/yjx1YYRB6vhL5ChY7dfDnxX+zIhlJheDvc6pg4llhpzM6E1lv2mEhCX6prweJ1QhKyFYfukOXRWQUPzpKKI7KnnPe50hb3qEZwwRAwqlUBVVVSDpGHTxfEAuG7u9wLkJjmjSaFhbLzcyVUm5pppq7FYVHHQBK/cmcLcFbbnR7wmnn6VHkcxXTTaxjziMCmXweSadgLxSQIDBPEqfCbIKEQKTc8ZltOPQ27TKkPI12pk3uJ57pjuCPcSxgSN3w3D+sup8lA4kRlPjKMSyDMexL3e5eFEnmtelZRiY+Re04pOrL1TRVxladXna4Pf9VpRMwe8sp7I9RvbsXfrZfJcdGkQcBcTUb5wPaDIOrbA/EOOCycxSseg3q0Zz3nqdME4g3vBYQ9Eok4HhtUqtNxtHz4ohLLSSzxLTV8LrZKfN8ypdUUqNuQ8N9W6vvFOYfytvFEacAF/fjRDr8628l5kHaZEWF6B7FdHoIm0tKbxaYEbiqfSNAP9GtRapHaFTHnbwtWe+1T6PFQqf/smlblSqsQqXxt3IYh6UbdLr0VXi2Cb8u1Y5pJb3LqhlX1XkeS0LAbFNmLPc6RU7mVCnp9BVNE3c5crF85oITAV0oyIbjDfIleOW/Y5jBnASKjO6xjQnUqfmiJIKszo=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: v/GXCfbZ5GdroYISxTKtewKz4ufZ3Pq1SC1r8jOM05Llq+eBtY0dcBIGe4Vk3ZMQbJ2NkXXqBomGMsGEnI/3xo6ErHO+l4pfZ3MmKI9oF1xPqJMrbA7kEPcosy8k3oNUpMo2jOTPPprn/pRY7mzkjnvW86T9OVjPNXypKrfOD3SzB07MOwBbDQSCnUmOlCRBl0qchCtSQQOhnPxNA7PfjNMeantOg3fHxFMJeyBAUkSlHSeHKCXMOxHh2aYjRNT7A7Jwkm8MEx/+61iISoXJUg==
+    learner_created: false
+status: Unchecked
+record: -1

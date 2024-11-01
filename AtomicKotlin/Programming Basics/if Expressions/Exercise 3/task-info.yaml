@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 104
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 104
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: peu/3M8/pacEMgXCzZgl9TAaf65uekKAfr8MzOdfmnh/xiE7NIWI7T/Rb92oIel8
+    encrypted_text: YWqxkEfP+VuLmRq3ckggmYD7zR0DYmrBeam8m/Uw9MGYRamwYzdMpalo1iL6Zubu2pLSa4asP8WE6A37LEKmO2gbucFJn1QM+xVXGOFMK1doweTchD7Oav5U3fPJR/1j/qnu64uyno7URUaRbQ9j2068rJBLgXhh0AWPCxdUU0WR0jToVCF04VYDMX1K+2aoqmNrrTYpxLcoOeErrpzIpg==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: WZMcnYepZhoKadArUjuBOzZgYQv4r/CmvGFbgt106oPqU7YYv1Y2FUyEQLgxtQCiB0e5uumK2xgbJ6NJnEsF+7RkU3E/uL/+R27wWbZklKYlI2TKZCjEKMxzf0SRSG49tAlFcONvT58XKyvxLtPykEtkex9MlhSOQlOypgyF2EZ7/jU+kYxaknPNID+apbxE7Kp99i8/EJQlfk1fLnSKkOWmrQvYh7mR1yEUqQeV8s/DruKQs9N43ndovVQbUBFKGxCHJ4veW0gidBMPcuoov3r0DzrGheNuiqeKMWn9I2/r0Q7Hvom4UMiHNCb2ovCd2fBBRswJEaFGzditLHT9Ww3r2buLIQJcbKAaIpYPgoBLNHPKfSrUqaweVd2DDYOjvbER9tZuZ6VbxujXX1GvlHLlW/izGWL4qp4ipDg3FvH3pjBdcTxDCr4AK1WrOtgZMg2wCUGb/EKTa4XSaXE4m6U0xhUSozd/8PmnYIqEL3KFOxzw3MtuSW+IQz4CeqrlvT8thl7ClHgA48paPJ/k4+VZfidrULUIJ4+S0S3f6qeedstUtCWRnSXdn5tNXsNSxBPhLDCl8kW78iJjgPW2QI55vaAIkM1xelVjWs51A67DxrQ4++y2StWTSpeIzpIn9EvcgQpjaV3pDRwriBwSRUAuewBP8m0VZ28uUBQEuDXC1vzS+i7UNIS5/gmVIsHaf2iYcbXNli1e9XMua6DhIzDa6PjMyUR6p5lyD4BBCGSfRgz2x5tJM/ZGpDPZATGVLTY+m2qDw/rcR92YpEnDyuyikt4bsdPyW2moxoDwDOg77jJd71/2jhqxVbB2EHwKTVHO7DWZYSzNhA0qza1nROYKP7T2/aqAseGBR0Y5pV69xexjpGgJwahOAddl+ErPPY30v77+hVIZi+De3gltvQ==
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Programming+Basics+%2F+if+Expressions+%2F+Exercise3
+status: Unchecked
+record: -1

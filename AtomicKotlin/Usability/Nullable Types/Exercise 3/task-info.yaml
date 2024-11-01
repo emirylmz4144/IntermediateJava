@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 147
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 147
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: haIOyiWmjT4o059TZVeRJ9MmsvexJZZr9MuGtCZ9HPxOMmp2C6IVQGKF3JcRcyU0fB2guEWptwMKvPvAlEG8r6sMYSu3A4vKXBly4YzkiGU5nNfDSOHSGJ40t14dlyIbfxaZ+7NmjWSzVG23vaWT8ZaWuZHqFfHJEn8DYrAE8VH7XfCuJvo3pYa2n4CSAK14+QP3prxc9lytVV5Vr+c7ELaaPc3D6rtHJPYxPytGH9dJbHmfeDrRQRlamwzxlDk8bCAV8GHDan2FCSDLkNXTzoPuoNv/J0cVZiiXhjtMqp5I4yJLyt8mW8w6iLANqs4QTbLGPSYyY0c+ni7Z8KoQPsKsXxNKkjnlAsiX9O7JUDY=
+    encrypted_text: xjDBVkmmbiWhopUO6Nlbhy3zADeoZ4UlJWEyJV79oj07E8AA2IOenUQ40+dSsUQqmE9KmfzFQ5XFJ3VKtoK0wUgS2+c4w4O4u5AprLIcAz1hxypjzPTjBwLAbSk1SldFkQgEqwV9HW9XhAAsoU+8qLQC45d2LWvSx75gh+ec7PRLkod0ekflr0TXGnni0SKwARTne6SmmMCFc7COLcJrJuqWJedTe0hKzMEJFWrIJgsO9CK/lcLk3VmzJX3t5tn9hnmm1Svvz26Tmf5F9UhguvTpLkddwsB+6KDdBEYuTJx4kswEb6r5tRbW4gdI/XXa+eXbWNHRdhwY2y9TsJtNvXbDjOQOCyGzc6+EAqdH+6oxBqzu/+R2QGebRA+tIhE9/PzeN3zGxXNqWokuIEhASm9wvTcc6N2rJ8LHbmnlbsiM5cPUqJNkcZLejEggXVktJwoy88omKEjcahAOfRmL633ND4nhIDhX+XJlqI024hLGmi7hG5ioffciEuXW5ynQ4SdB26sjWveS3sgxt/jNDa7xTxsnhuARnaHygIHM6SA5ZgA9S5U6gmXtG1GdPjZDIJVUooo2nIk8auncT6OLOQ==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: NPomZeJPaolkSMB1zsnHW6MbibRse3jENj9ljGMM0GAoIT4sWhvdmPxcvykrPwCcjyMgciHwC30RbRn6v/9C8kC2wwUIeaOOCMiJwGDq+KgL49peARun4C6xZlgF2kE1e0E4qdbdOgWmYyAhByipb0TrEHryczhhiTpDfn1UMTalrP/mFmLV8GgwkdgCeeMRczFvmz+uUFH48p8DT0sCZVCFBMbTBh/BIveGfzIPtHJ1PCJ1cJn1kvGUPRMQ9icUqWOHYMqkbW9emv8UGxTB6T7G4FleRqL8juvexnhKNfYWuDdN6GaREO5eVWTxVj3DpAzyKQiE0RAhBXuRT66xsxOSut/RTNnHqwnJA0La9m1+Qkyxb0Fk6yOCPiXKQVxZWt9jJgvi9i0swDD6lgMKtwxgdD8K1UNgLW/r8vjs9tDW2ypWCX8Tn6Pq/eCHetiFQHlNDNIJWsFDYeW0AwgPnIZP2oUuU1WdcTfLnb7NDN6KFgF/JXEYODN+2iVrR4Us/glcFaaknupKj0PiTPb+lzJotZ/eb1DspLtbWwURHRGwx8KWP42S27gNicXtDyWHr6XKUvDoma5/+dn2VkbzGXwDvhr7p06qEZ984WP/R3toDdmweqw/877+jdx/Cfi3LsXBSs0UcRIQFakXfPbF0JCQozi8RpWnPrHOdycPHDrLb2kqhzkyEzwfi6tmiwl0yv/CvUpCIQr5uDk7TITSEi/+opDoM/bP3fVmuXGdr2n25RLTf1kxBhfiHSUiWkjb9XxJQGQMv3HUkC9b24znYMNcbMM3QpZZAdCOvtqisCVllyn/7qeeCg26I5pGwv8RyO53IU//iIo7XbTVB6mdspaKyFT2pMViOds4Ub0lKfm0Y2P1onFhN10ejyRdVMGAwYTm9XCTMftIehnq+TewHvl3gnoJvRXTp6b4bGkMJB+4y6HK43JwsbWAb7aFBLEaJLR8ULeelh+WctfTSw30oOq/TJFZGEOJyW1JOtBEK9UT9put7HfmqvHCFWkFIIuxkpS0zyuiVXzUqdOIkoYhjzYIyG/jZ+Av8s7DihfLEMXOKt7ygLk2EzFm8z2FNhkB8gVTWQyqQuj1WZUaxjY09SPqpUoYfFvI3bdrjjUbvfXHjMrutKo0ihhahc4maqiTcTNqSLioOpv5qWLndNfdIugrhYjB17O5+CifgGuaj21VcBBWQBbWOQY3fMkfXnQHiG4jLlEA//yXEYQ19GaBYfpDCzH/mJeyb3KYIwYcUvX/55HgEgPJv9TxBMJvaDgW+krElZ5oKwGKWMU3YGFlTelLhVJnTsb3QkAgWD77r4JCoHQdVdmBAYyy8A7c10z3zk4LGu267o1o38choJtrLarAGr6JHMjE+Gp7gf0BFtj2U1/4XZ2K5eqChOfbx9kpgSGqaKmTFoUVXuqwqhdi2z6Nc64KtXLz1y1myNb5oJ1tHiBcxeqJ1lqH7OawrgJk/tuAs+RtnXW/Vs8RAgH8HQ==
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Usability+%2F+Nullable+Types+%2F+Exercise2
+status: Unchecked
+record: -1

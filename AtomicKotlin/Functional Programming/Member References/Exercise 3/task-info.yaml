@@ -1,0 +1,75 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 269
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 269
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: SMmCS6W5MFscfZAP+EsFZP7kThBwQyKmXZJXvj4zg48ny8QkDFxRQra8oHkvZqKX
+      - offset: 310
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 310
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: aKuNO0/V3mHj7cx4wTdKeV+GCYJl2powJ/qPhpvEHJDgNLVnoNNUc1eX6SQwYDfqhC+Eb4MLq/m9BrFSPwlUWA==
+      - offset: 357
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 357
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 95mU36NkXd8n96J7Pyi9wNNaXf4ZehETJDpOQ7nmUTaAlJiVFs10mPSToEI+HqkaC4U1rIxGwmx8CeV2zx3E9g==
+      - offset: 428
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 428
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 6rdoLh4ZcPopHOjpkbowUA==
+      - offset: 483
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 483
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: KeUExcOBBw2SCVKocxfSBw==
+      - offset: 640
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 640
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 4YDf8ZbFofMvyTCtY5SWOA==
+    encrypted_text: HB4kHzkz/t9lW60bwJc9diZ6U2kMct2vKYIu5s1/94LdCNEVrmJhoLaGLgf96eT5LbLcAj+DksnImAyXjw9h7by6tSPtC4KjJy+6YXYEwakFwmEjujG8Lpz5m4YQnCyiFFgw560PQIe62VB2Ed5wIkxACvNqccCEOM2+ZHOnAdxrLa1acnV6vzvxPAbyhalwFfYy1cVIE1bO7jwq9k8fbA/JtKiv5orWhL7OBn2JFHXd1PrkUesnXpHoTZemlpha7HJC4952tJbQwvwyQs4OW+1PFm1x5HRAN/sj8Sqy1jp6VtM5T08FQYMp7wXRDLiZ2RE79JRTVRpPatmwFAqZzta/kJ38dPWir6P5JqnRV8b7tiUnPgkw75LntqjkQcnLc4BGfuhmwZoTrOD0w7e/LNm/nXCrbnMQpVFmSQxjk9N/JVlhwPemVOK+CwsINSC5j/VFRN3SqIKdkMKEOvWdkSSicykoaAYPjG3eE9xO6jiVjCr+JbrW49lAQE1D5E4umboDRwqyAz3JQRwgRShPL/D1zKpeQukAjllHGMCe16572QNzmw0q+74ImIy+VthASHG10VJkjJCZf+Spi4GoqPRKaIiw9E2OW/kBwQOaFkdE8UoIh7cLzgfst7gqKG0rMrzNYW9S+Bg62Q6jPpIB3mjU45IG54mosumlq8KNt401Gp/cRhrLaHSRPg48X9gyxeldXfA7+t8wfVSxJHU5AzSmbXtZ5FtNc38xZtbN4Wfg17X5KbPQxsrWPRfTMplb0jkI6x0aKQWzAxS5Hid5YOBi4qHOJn/ZZvCQFCC1eHu9V5r6TnD3SNTcVEbQJvZdBFbgtdK5Yw5kVUrfoJJR+Qv2co/noqfm6jsTkiUDTS35OUmaSHEKaBwoVgzXc5TdIWRzdNgbDJxpr80M1ngOMfzN3ofq3achVZcvgnByT5ROqvlryxCcPHttZsd7g/6uAqUEXDYvzRszjzIklUMREA==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: iscamnylHwDVyIWiqBjqpMURd2q4XyFXTxV3mxxq8oHu9D8QUDAWYFnNX6COIJGW2XnIEp72jCfOuAARyDrTVLn2B2q1nIVwaEG9UTx8QSXmBsrbuDbM4e/raZqf2vPgzP15fOXZzga696nloP0O1CkBPT9ZoWGDISbIVAGAWpOOInNPvlS2qu/MX3yIpjPMQ5WRp+A871ZPe0DNCKIRBPINg5u4/NAVvxU5LVWMOgxsbBBtzM3iWTaq2Af/mlZhgsaWWk63iLzq7KZKHJk8R1rWMDL79i2/6zWtmjN6k/+OYkT6Ksxr7KjQpRGSwRrUpEa50UyxkCt72KtkEa3YovidtxF1NAAfpJaZ7Lc5K3s7tZql+obux08rLGcl8/SHwRNdAuUDAQrW4KC/OaW5Z3+/l8INpv4t9IFqQDQpEeJja5WlSfe3Wq3gSWvkk0dMOF+9WkFQFP+fz3I84vLuXNdfRwrr5WDy+aDSYaIbwiJuUKVL9nc/58iMiDTpTwmm084FixCDO72IQL3uroevabO77Ohl5uPX2pO9jfqlC0S8ifTsDHucl8UyvVafSRxvTOFKTowb5psWgfEYtogkLPA/WBH9BdoRgrPKpO5SuS7FUk8ZrL+nyLGdWVJ0Hrn86JTWtCauo58asgDWsmJMqQwPPIsEBmsBYR4MG4NmkUHfrThdOaurEiH26jfC6G8/lN8SG++Lq17KBkdGI8NpGD98cFqyEnmkr4lsPBg1DeO6X/FuPp6z79lM5SzAJomJsZT7rTH3qYsUNt0lCVLN7vkL5jfDNGPg0XqD4mQz6EEwti4eda7Ksi9de/PWQ2HdcM2EL/Q+cGgENhhT1zy2J1CEl9OhMhqyGqS9rfWxGDDc0r03RyOq97M1scTAjmm4I0LDWIgNqPrKmc8vQSUCA3I9wHlaBawBF84XnrH8YDu0uvhnMIAzWwv9IY9LzHsAMTZQg/soQjl+zZXKTXpgweWCy1SQOnK96NU29EA2faaAl7FYgPsCYOIdSyj8rE2OrZOER/rimYGs7KuMzgrn2/I3PHs/IzWvfzsviuAR5BkuQdgiT8nGqhEYK7CrfCpoUu1++tB+xlnozyfwK5IkhPpkZ7fJbqhfeQPL5jv7zUVAyKi+NxbaEICqr1zWkzKxoIKwS5ofOXsvRxWrSjKRrlDhJjw5XyfjD00K+MvZVTQB+lOwDU9MCbgmgKZA/L+rlC1GgQk0TvB2PtWQi3C9f3ibC2Q59g7TDOTS+3N4FhBz4QBYIP5YPXXTiklC/RX7tGnvuZR+9/MF2/Ua4LBn1qOFVnlTFC0TyKXBJnmBD2v+yzCdeNhjqNrr3JFfg+7YGlQ2X9Cs444eb7b/gDf7EmmPvMoUIRCWGjj39URYgoIUCQ+tYb2PHOS3M5rVyJlm/OVQBvIR4AUDqoeiDpx/RdomFA7Zg9ogtPnddRqndYxc48tXHF5g4wXkq0ENslYfWu0iZm1ssogsRFbZ5psV9uGqq9+zGSo/XqaAyAaxcLezWkyaX/DZngKTD5rAdoFmmf6CWUzRzXqE8CDTm9nKr7G/fdWref9hAwurd7iCDzOMBdN4fXGm+FGeQ+p5UpAuYZ843Ua1dHd5f7M9Bfo+9yVFBL599RBuSkty3RYeFm0zJKPylraFSQeAwGVJzDvOtpvdg29tcajv93Q4Vvzgix8yfb3ieWjjXcDlp8oscpjhVrD0v9i6jKTTWttyzyXQkjtf1mYCErdJMBcfEtcWRPRdnkpF2vbF1KTMkqx0yRlaXD115NsWKJoYkMIqdpKWZty3+J9MSAgkIas++BLa5mkZrYSYPqdJG51qyEZgx6ye0A89PEaXBO+X7cT8F2HKjkobuhFV3s5L+m9mpA3hJlEZcCuEaVmKFP+U6UCqhaKV9ylaPDcvWxJvUyTHiGiu
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Functional+Programming+%2F+Member+References+%2F+Exercise2
+status: Unchecked
+record: -1

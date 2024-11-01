@@ -1,0 +1,48 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 562
+        length: 45
+        placeholder_text: |-
+          class CrocoDuck(
+            val crocodile: Crocodile
+          )
+        initial_state:
+          length: 45
+          offset: 562
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: ZKsSnfBlJlakCs8LcEv4EYRSDdyXiCuEIB19GKVzqXGovablS+BBOZGhpFbVPFF5TA+fAjoXK+UVND5Ab5Ga+GY3ocxwRyJktzhTVgwbUgOVuVApD6CglvkdkHNvss+SMSiWMeHLm0/ZhLBAsn886Qxk8GmO7lBHivbkFQRT2ZeVOPLMPfiohcbN8MVsL8Cu
+      - offset: 662
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 662
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: Gb0lCfC79s7a0lA7HgDfe0Z0ND2PudF+H4ky412XX0k=
+      - offset: 731
+        length: 84
+        placeholder_text: |-
+          //  interactWithDuck(honestlyDuck)
+          //  interactWithCrocodile(honestlyDuck.crocodile)
+        initial_state:
+          length: 84
+          offset: 731
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 9hn7N+VT67snUaTxzLyK/VrG1V4AJTzPioNVkm9zeDqhwf9f7RG0En5LWvxK7aM2qux+k3CZ1GOFu5yoEHzxFYoByqn9T3XkGek3loDZKoTX9F/f9IWQVqtJhE3MvG1Z
+    encrypted_text: AeV6ryy+DdNJ9z6MUQWgAG362PJchu1oJh4pRdFojS3C+Eq71T8pLecpfOU9S0cNKNHlA8NK8bGYEWy+38tEVeMk8nXfUbremaGrAkwrdhZCYmRakTQt8OdQOsSMXdyL5UO0fbLzbj4NxhNwiLEa+rWnJUuqMMtKDnBrkEzy98baXXd5SKxA1XDzsGZYYilJ5kv75V1CQFAufNsKemx6IOSGT3QFZekP64bQPFnqnbfeD32pNracuOvAOcj77QH+bJ90wLcneLVX6bIC4NEB2Fe7xnN1kWu/2u3YRAS5BAn9/EJHIcvBGWP57Hyb6GXxLrG3RMSXLp6XBn42w2ql1YWt7g1bEtbMw4tc6yed7ocHquxuoMV4Zp5mU2cGmnL4MCU2aEG5vuerHxBHmE/YgqOUwhGgT+hEWv5/8sAaGI80EcJKpyHXqyHSvYwROPf+HrfJqmFvgNOiQcttVpczveO0zzYDLncHrRjVU4DobO5Ud0UmZGHUUtYfW25kYqmFAc4VW8Sco+1btzPfP3tJnlMyv32AgUWhthy82Maq+sYZY4voC/O52p2QebwYgWwSaafOuhu5K1P1DOj0wpmEl3Xu+8ynS9wdXUj+qt++Oyf6LJD9Gc2nioqUrDUowH/23epr0zLl6Avb7FsLSTIBmUw5A1JFivbPhe+RBiI2EroGibbLESi6KIb9EHadyWBhp+Fv/20E5DbHOQgi7bGwhlHliyDajJjN2J9jzNWii0G0k5Az+x/ideIghlGwgSvzb0abu2//a0p5u4qdvwgGnjc3rB4EQdf8TPo2QLy82CuaTqRnv32bSorGQWwK6nXz82a8owQOuiZTm4ZftcrfysxNAjj+gzPufa/wrpUThDuS1Deq7n3Le1TDtDo7AeWBaXci0/zT3HUXMEgrledfsbCgoCnnLiYXeiAvaNWL4VpwIIzI/b/GS1rBr1wp1+VumTK8EDba2At9xKCWQgGN65zYwZ5ZcbLbLHjGdjPXTgWF+8QPdKM8KqRJ3rkKm6oD9IFZJffzTyYY9fNcYrLN0a4O4R80k7WvWwn2o++8vunMTVv5j8IzsWBqXawvUte8BWxXuZT+gvRQaajlQ+Xr2XZUtaGcVFcagFFY6xpVlseNgIPAWDOMQWNw5G0S7HMk8EJ5n/62WK7DQsVHTaE3elEcmwfTQmUsGxVeHeOts2M=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: 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
+    learner_created: false
+status: Unchecked
+record: -1

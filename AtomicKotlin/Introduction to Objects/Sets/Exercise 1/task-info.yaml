@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 109
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 109
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: Hg9g+9lypRvWhW4Bp6z51a2iOKs+9xt/c0Nanqsmd1SP8X6ibA4KIYctrCoW3sI+
+    encrypted_text: AKA4Lq6Xbw0E650X1Ea4NlIfbXlPKdS6ceEFU5B4VoqRznoKYc+MQ4OSEL3sRPwYPjxPRtE0s7Imr8qcFC0IZ3WwOAxsObcGE2ZFB5yo5cxBNnU7CyntHyzQQMISgZ0HOIo7bLb59lkY8KAM5YPBL86Hexus4m4zRKRf0Yd6WTMUvGRj1mRH6ft3Pw4hOEaEZ2lENZuJ7lwqYYqa/G0q9kb2HJXUIQTsNl4/4fSsEmzuqqgeVNTrdSu45iWUCzbs81b2LxzAmRv+obQFbaofB2C0lUIrDflcKGtynq4bu4Q=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: L7FY68KyYvw12CXGNl3bFwwA2HMqXUjONkdU2S29rdoZuvcowuRswugjlCc2e1PU5SucCVwVN22gQ+ucU0ergaHBBsKhAVLsRtl47MauLuTqk6oAiz0Nv2Jl4RNxAs9SHFjPIRjmSyxuxJyRyH6QcZ0KUe7i6t1HZxa4cwC/LtAVbwpj7VXIRHeXbbwotSZfwdaix0HQ92vKWGXjZE3uCFBZeWLRzE+gtw9hl9B7kdKTKPrJoIDWWlC+R9eKuBWxiOnQCB+SgUE+L1ORwBui4SYFc+wf+5UmuzT0WzWknATdZpq6q1/GfbVTvrg6bvS6pmZVA2Pyu8yPYYpN+SYAX8IHtprJx/2IHA1TzHKH8GcyPfj4HjYagRZHAFO6hAYMDKLUgqoE2JYSPLDWH5wp86/xj6ApM4LgET5cuq4XlqclK8Ys7wouWjfFufGGQcflJtl8848SgPgs+6IrNLtzhaeKm36q7sOwEepkLDsR4C6f+kG1kMg4Ee3awsRAadNjOs0wE4e2iZulsEIreJUAUoIwjaXtUlOzcy2ZqQnl+DRlAu5plnUT5a7dRXN51gKDeAoia0hP8DAcYOb8eqRr71clMj+NrE7NpzlyMYMhHDS/FRt1j8rwux+FdCW0yHrzemE+adkmYB2jFofF2qRnX5XZdjB6hxlDTi24qoet72z02kYdsSOpJR+TndQxmxAqfUnWDBlqOBYOZLUxOuHZOjAOHymcauHe8qrBPa4T4HsBdg/ekriBpOkX75h6J0NYPcY6um1K9t8z/f+a6ztErLH5E17gUyzKr+KIhOMbdNRO8uoCMUNaOSdQ+PzjeK0tDeICECwvfcuzU9GrOC1+yXS/dFqcfGIa3mfUEntBW3AxYTSierojaX/kfK07Co8rLCupfgnBIj86Sprd2TiVe1862OS2be4DWjjYQ8LMm0UIbvi+p5RTlsasbT9I6OqvYsVeSNz5e13CodH7CrsnIxtbnV9M0rY59WHgH/U1j/6J1Kyjv2AHo2Asvg2LxRtsTM3uMnCsl32JLvxHrPhw+OkB4dK9wl/tt93OP1/3z4pFqVQ8R3Px3rIFJTwvkazoHn27jkmDcqqM0lChCObepHE3ilbLH7NY8kgtBXsy36Y7nX8IPyHgMWbA+PWh/vgp9oeS7icrQyu4TPJjzc5+8kHqehyh1v5ViBoDmQ/pmY9mvmNavVf7ylkjTYSmrhJtGC7VNS8qyqzFGN4p2rMmz3/jU9xFbbOvnb0YZhl/esuJMyCY0G9AIpXGLIqmXmiAZuTIbv6grokl/wYrFPAAI2i2kBYIwZy/TfVzADClKPMife8zoRTHwLyA/vx90027flmv1nFL09WLUK6iQxDSugTA7RiQNjTcjo7903Azn+c7bxPTnDv04zrr7tIgIRnA5jv5K6TOmzz0vOqvQg/mXl2blOOdBHiejZOsYSjcZvsUcaon2a2fIP7u8CbJx/vb
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Introduction+to+Objects+%2F+Sets+%2F+Exercise2
+status: Unchecked
+record: -1

@@ -1,0 +1,14 @@
+type: ide
+files:
+  - name: src/Task.kt
+    visible: true
+    encrypted_text: A76BbnBafI1hSayxsKzchdL/idbQAyBIRbYCtuifO8eqJowWS3KqBBrc2xJb2+HVszJBBgpfGgpeoB+Rm1f3KIHFTqzYbzb8OpIysCCqBl3TSD8Q683t/QrE1QV5cMKzYsPylh0entmzgfX5Hi1JvXQaM+U8DrX7OmmInEvzfUAlbMTlkr0L3/SP/2WlJMtq7asE0awFF/m5XbJHi2jL3cFjTsM6UzKnL2AEjzleiFycWke3PWpiJeftgEmpuMdakjPUfEqBd+BAcnmhMZA72CjZwEzTU+P3UUZbwQ+N2UaMNeSWwQ32WWESuNEX4HN5caM5sBG5ZEgsHnm26qc0w6pf3yvJCOHFg/GeMgTmvrWiT4FMPirAC0mv5ymbcpfI1eVg1rI9BflYMu0EiRzQ+piUidojTBv+k/OiaWnCuHY6RK+GH3md1d4caPzQqfJm1Fom8FyIhZorGj7Z9lh/SiRcbjeRVbJfYU8ttN9r20z8azCbqWF5BWhayXfEJXoCIWhsg10DwpciPysHJ4SwhiW0dNBjLZpCcuecxdiZAfPQsjs0FAjhVkj4NbyeNXFiFrFvI5kXioCmFIkFPI8lDgBhzzgKNxBso1nq+M41CkwGQMn3fpYUODb8DEA9dHKznjDNkhOPCPlBTbtsdKsy2jCxS9wA/XK4mcOvTXDBmkLF4Ar61TvB7Hv+vtSjA6QELbhXWZVTQxY/ezR/N+dl5tfwEIs9zxO8JNSzjDI0/QAFDguoOzDhm8WSycJuxuGJTcN1FtyQT6D5H7g0fw/seBIQCO0CA0lgD2aN6lhoEL4oyl1UV+N3VC7Ix/p78mBCKzjPV9ZrekMIVhl/LEytr2wT9pYSWZ5cqVZHN3OJoTWQ3NHhLPJKhrNPE/vk9YNASyiZpjAsHQo9urwwSe6DqoNFDE3ZdogvqpJJlskse46GkO0x1BShERHvAszDeMqB8At91Lmqdiw1NhRpE2FnEYcNywj/yqRvDtKNlmBp5040N0AS+rrcnWaKeiOSdim2c8xCH+HGPdlNwUweyeKiupMpI/CqFF43F4eZFON1xUabLL4/md928TNa6ZWKvtal
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: v/GXCfbZ5GdroYISxTKte6aBcZQu0113jSkX/ivcm6Tx5DBp9Qcb4FAuKZkK0rlL
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Introduction+to+Objects+%2F+Property+Accessors+%2F+Exercise3
+status: Unchecked
+record: -1

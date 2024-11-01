@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 194
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 194
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 3k+UA7brkiTe5/4nVjmJ4bLv2QVSPWi7CQ5boRAdK4TgWbA8QCW85MHZmVbpKXql
+    encrypted_text: Lk3HFBZEWgfB6GZheT2tWTzAroUGNWTnDGXdKdghTd38veJ01KixN4Gh9TlEHJE0m1fHwuGuYbYkw9HgEMdU23X1RULF+jCb/qfNRipgodKDIYZnWR2/tQsq07pTOLiOTV8na+qqxSPAW5kGW51Is2WxhYGcNzT1746qiG1zP5Cfyf07oLjEEDmLrCu7GEHm3hFCzkHZtO6VrSeGbiWmLiFnAqOyo0FNltLmgclxFFJ7hsKKfIIk93W717Un0QJm6zX2PTRIF9YMgLQJhBRfRwV6JL+pHRvhe0B2SEN2glxgATEuVC8VFlWKi/mreXPxAMisaxRNobLwyjvRoDBuFH/UhyGnSJbLoRwwImuC8nX7f9boFMIo4tNWkQkP4d56Yjyn3kks9sY4E8L0S004gZ493D/XdJQ+fvvdJUmnnylagRe9gVCKhffSXOCiiOnY
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: fqWodLLMni0l7NO6ZRL1aW4CTtfbbM4TJZvug0kHtmq4/Gr47J1uf8Z69ruH9EphU3Q+1U+tHn6Tkpw/ybKAwPQ4Zvcl8zDLrL6Du1D/1YwE8r4/CMZYUk1Fkwu/eyZoguPaBP7RoUvad6IDE/V/iOzemD0Zw5U+Gh36R8j0AjLES1JeFws2hVe9aagV/TBQSyScxeMah0EIardB48LWjH+wp05mojoqT+/A5mQO6IuhgBeBGCCWhGchbR2va4WtpFroON96hWlbS+mwhLt+GUawTRQ+I8PZ56g/iRLRcEgbYxF6u7sdDtg49Fy9v0VgBOjf4u12b3Js73e88pKnCmfxe5WGnGWDT8VeanHRrsA2bQdfuxfX4z2vUZ/+c/II7mx0zc5/EG/SP4DtOnKR1AjDIKPFradoDzbiwKceVR7pNpPJHXTuhZ8hqu3DPIerd3MzBjEGajzdIhw1+knhiMCEMezDlEBKDO9fUrcIS2IjtkPCsYo2hypyL8TuFsvp8idLc62g1HSOOPD9gqHvzydtbVpG6+j47NQJnKcLliMvH/EJsL98JFgDROnn8roJVBw1jt8dz5xfhewpdcvXig8tJoBYUYRGv1eeQdzJ8Nzt9VYBafc6o+Amx6WWiu9jlhGHjwxr/abpYcMXUooYHr6uIuX833qgjyjDgdyMNNOumjXlwKtUAC5enzCdM8NKZiDF80RoRwtmh3dhPLOODULHJQS/5iJhBG8eU+wpACrdJuxBrmjz0rdx4uOOBdaPbDSFlQN1PJRAwqvpHFxq+OravHkll3ACYHEPoA8icqph5D5j5noFXRA/UyzWXG9x0K1NFzMs43sfjclBpH609s+wZ76MGyseSPtHQ9JASIh0fqsOI3NQtPIg88MHjyZAyTsZ0Bt+7FmF9d3XA11oDcyN9sEn0lhm0J9ddCwDVcA=
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Functional+Programming+%2F+The+Importance+of+Lambdas+%2F+Exercise1
+status: Unchecked
+record: -1

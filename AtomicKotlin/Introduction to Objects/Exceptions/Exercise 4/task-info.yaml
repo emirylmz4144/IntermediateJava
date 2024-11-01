@@ -1,0 +1,14 @@
+type: ide
+files:
+  - name: src/Task.kt
+    visible: true
+    encrypted_text: EIbye9KfpDiE/jF1NL59JYGXpAGVGm75EoesZ9+G2ojgn0ZPSkfABgfgY+A7mvTSDOOo8CrTn387F6U1SSmsWcYLjJf1z4tLimjw8uxsDdInc9fk5CMp5EXEltSoN6IvWQL9D4LILc88+TWfVL+KoJ3rlWkBPUOS7ywIU8Q+m4bep/hP/jHmatBFcv+ewPTsJrEUxZdrj6Qlunc6+RNTKXRTlrOc+fAuOK4HMdhiT4cG0jqtjH1d0Mx5t1RgvKxHiGx/wE6z4sZMUhxprHenIQ==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: JxwSa3aT4DoIYZ8ljAmbPSSRMgF4U7zhPb4x04PapXE=
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Introduction+to+Objects+%2F+Exceptions+%2F+Exercise2
+status: Unchecked
+record: -1

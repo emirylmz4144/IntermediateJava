@@ -1,0 +1,49 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 588
+        length: 10
+        placeholder_text: class Pipe
+        initial_state:
+          length: 10
+          offset: 588
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: s6l2I19ev8xuN2BJx5Tysxgl6JKyfMX04HNuYUJ3CLRcfcflSG1BJxpez8/WqQqdF5X9IvYzyBrl5Ea54tkSocW1CQUzNTfdosCLsKGOFTPN3xSZsXA4eORPNcY9/PZfeuOuMg6qyWhMsecp/egaORu0No/ppP3zHpWmkAT3aY6RCwFKgl8/Tc1SWi0LgTEDHtx7nX0iluXjF0hfLqw9ehUxkV1ocWGz/9W8jDhSyvRo1OKtNwYT182wmM+4/x+i34laVCCrRuuNFGLTZCEZBWvZQzLykQBzg9M1OcOGcQSpaKYZCkdof3a8MFOKgTOd/NSVPkjN76LEoIsKj51D2DJ/oZ69Ae1MN0FSfJKznDcmedXvseegPIOeta0e+oyBjvSSvG/ptLUItFExY1HB99Jqe6k1L8Xzlb70a9c+Fds=
+      - offset: 613
+        length: 254
+        placeholder_text: |-
+          /*
+            val pipe = Pipe()
+            (0..10).forEach {
+              pipe.level.up()
+              pipe.checkLevel()
+            }
+            pipe.logger.logFile.readText().trimIndent() eq
+            """
+            Trace: Level 2
+            Debug: Level 4
+            Info: Level 6
+            Warn: Level 8
+            Error: Level 10
+            Error: Level 10
+            """
+          */
+        initial_state:
+          length: 254
+          offset: 613
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: ar0tt1TrmxaSrNToto4zmkaoixHwG2bcjOyNA86n8uIRVuoQXKTHgYtDUnRGf6huHFo/TU/nJhxkRDxRfz373fKmAtgJ1dyLTNOPFtfgOp9ghJT2g78x1uAV4wJLQOHemlqhsF43SyG3u3ugdQysURNJR+PCpvgRySi0+shVJUwA/4kMDnW2FGNOULIV7HHtcJb9hiRDRuTuTW3iQHgzh9+JA63HmM3IDznV9msI+/4CgCmyfRkfmW9+woJCn+OylNkhXDE1bjmtxtak+wQTpVCFzHuMVUTV+nGdWTV2ea19LI0Nqi7OujbmLKy3DiDH
+    encrypted_text: 4LeJb30ib/U39JDkiNLtVB1RcE0NmwWsjkes2XJRyUMzk3tAYWPMwf9CLlGA+EfZ26o4MUvJbdEM8KyWLqzo/x+a5QqZGpb+Xs9bjmTD0yuQFUGdYtO1/jtYRHdJbqa7N1sUj8czcQP0EH0gmTaaczryh1hXJGu60lZ3PIy2g1ro10OM9z+oyJz6O9Ht4nil4+HMGOdpQr8ihV2BIB5I6faA8vXSZxj5OPTK5e4tTP+ZWHoNslcm1n/gBwwD1IFoUi3yOTMSoF4pYcZjLtfrKj+yw/reTMSyEcoXXiy14kXsA4jPzsS8H5FO/DADhDWEGGqUPzxlhUOQG6p4UVzLaAhzxORvJ4GQuh4iPpG8NQM7xAoxPw9HmhggRsEB1+OVgCSdqHYNS7AJT0q4cRXNAAoqaOfWps0I2j4jSVb1IVR0sxfnDEuSsS8GPeuNJuSbfkBYLLq34JlC02tedakNaKG9BuweC4jWSfFy+4DgSFe9IvrKdWhN6AxjOtnLmQgfavWkwRrhU4GmNgrcRDjHF0YHbMSwVpXhqGb5HxTw/wohqVDb468YKRC7qR7pZowkufwq7sJWUALawAj426HO+SExZy8v78AMq+cQU7whvo6ItdvBwxOI6R5om16Lb3C5+5X1gerMEY7wNqIgHp9Hco4wouDwJ228lYvIuFtZ7jH3lYCFkHTjZDNKKhfj/SxDsuaqbxr71rexjCjOzMWbZXrAOH/F4J+Ds7WsX2iSiPhLPJhyyYzugEaxDoHC8xk9nYE0SQmKoMrsdlZPeXV2Ue8AX7J5JWYfzsZZLcRkc/2lMFdfxTV1USf347AD07AjbAFGhKGiKyoilMnm/kgtceVijVisxNUAz1UUw4irsSubPuWVDu7JRuwmz4PBU4OGsry7C4yIWUAmwY+vjWCreV5PPi9HZ/p6ZM8IzjunBlGi1aC9uCsZsXZsDCDbWf+vSXSafh4N9wn9DhZHcf+ywNTK6rWpgr7k06Cb+Fly4chCs/O41FXX0z9q8+q+QrJ9dp965+59Y3MlRbjbyts1LRRdCskk0+cU7E2frZSGB801lKfHvHuJFrdSKxjou/ZfkkbWdKF93fnuZRVP0TR08ECuHsnWw6z07SZ9hRkp1UVHrAt09GYVRfs9WjCkl0CXo3MAfckntpisKeS3eBFKQw==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: gVaDXnFSu5vg+Aye9eBOaEEuncgGt3OJMSGSgEMKL5IVorYLMPIIWi+NdCjmFYV9CdzHy/0JrD90kU6acQuQ3BPkExAlb1L+3rg4lOm+j1sKCbHHr4uFn9CC+KK56MzgaDMMzY/QVRX4npjGPcbVOMzKLFW6/+77adFSs6OC0lZNOjS5EZXBmm8aGFxP0coZINJZAyLkWacKbXM0+XYOYTC1Cbg+ydLLeub2/h7xQc4=
+    learner_created: false
+status: Unchecked
+record: -1

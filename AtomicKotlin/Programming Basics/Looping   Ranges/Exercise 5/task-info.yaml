@@ -1,0 +1,14 @@
+type: ide
+files:
+  - name: src/Task.kt
+    visible: true
+    encrypted_text: HayLqroDq+WHIoJtrP7c/N9LfFjmIdociqNaA/0C9NVWEd7RPblS4sgZyis19SVfdBfjR1XPMOb5jVViWdRKrbCWDbnSHCzgC2X/HceztatXB/dK35p5uTWQl15RdSw7k0W6x5mNy4OCGUEpu9pr7g==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: JWXMwh+etVi+8XxcVrQv/VV8Pg0v2VekCBpodJZJ37U8T/mprx+Vzbh4hgmDeKNu
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Programming+Basics+%2F+Looping+%26+Ranges+%2F+Exercise5
+status: Unchecked
+record: -1

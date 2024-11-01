@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 105
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 105
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: BPDUsCYIxR8wLg9YmsW9lJeT1TLEAp2Dm7ljPxreGCc=
+    encrypted_text: dK5Ngj/ftfK2gdTs7fhYVwWAIK//LFH0TjABKTUQs1v84gBAkD0NSQFXK8iRMGd/8UixsQMYUNvu/ddQsXk4W78isBQ0LGnkHMRkjJznIwFF2V62+x0TR9X0JoRK3RAnMbCaJWQuB6nN69++G+JrgU/Q11vmvoEB5AU2APpky0OQfLS5absu89fE9lJpC4WuFM39vwNiBn80mvF8N1EHTwPLJE0QhMxs257QvjAkIE0=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: ALryjOD6QNNxnDaXDpP+P8W+8T4yBjaNc/vppm4Wc/yWNeb6bOdXAeSffMMsj5Nl4C9yqNF69dSp+QAJ6UMvrrEiIGe+reN9NMOLpTPMyOhDGDOfAUDCT5pyErUbhjeCTf8L1NKqhXeXdAxAKnJy+Z8JrrQQ/5AOwzDH7b7tQ+hZKAN6G8H27CY+7aZE+opz9Whuw+4O/z68Rq5oo3JEatxxyxRh3g4PuA78dtlr2xNWHVHeQ9vIL4w5UsC07eGeJqD1KnImOrm0Xy3wobFunYYhNUq/Fma4HC0Fd8f0C9npCoO8Xi1/cnFRN4N+300+5SLchpMJuyXKNJo8y7HjwX1ZXh5krTTPF0X8H8DKcs7u+at5778F1d2JhM7vf/XQ5XeNn0ToAQk3XBHV2xtQxQp5vGDaDrSVtMqvC1+v2RetZ+rYb+UEPK8PF9LLHNOpa4OUOcwIMxaC083zQnkh/FFUPJzSM0HTavwcXQe1Q0wAMSgv/WkGxNlvrLC86oCT7DxINy93TN1/vUXk6eE2BpydGrV/wuHWU5QYh0LvKP+ymGI/OQ+VUH4Rgm3gMrqCdC8FgBQHu8Y5CaTzBVXQLR055W4AX7gzbqzg3UEqcLnqSV7Y3beYk8i8n+lRVG6kE8I4BWAhysncVMlWMgMKX8atA4+69bB+ITYXHfQ+6jUXHkARJeGjm3W36RG2v1OAOmcuPvBVXL8/UZ5kOhZTLTa4Tc9hi9iqHz9DznxGsweiWhI9wfKhJVQR+QBlNLj9inEaP4J+YeIFIKx8bQ5zNg==
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Functional+Programming+%2F+More+Library+Functions+%2F+Exercise1
+status: Unchecked
+record: -1

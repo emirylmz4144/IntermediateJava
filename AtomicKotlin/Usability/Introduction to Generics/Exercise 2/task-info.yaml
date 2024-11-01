@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 162
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 162
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: Q7fveAbYD2r4MdVxgGIqZHVTF5h/3Lt1OpcfwykoOqRE7N/85C+22zguq5Klof3eUo3AFsnk8kYgI0EBhmhOxg==
+    encrypted_text: euk4cY2TJBQW3SzeiSn5Khl1rhWYtPOzVIGUqShKeEVgtx1xkY9ah5NWt/f379XbaPfkyc8J312WHhHW71FpQ2OY8H+3+uCjbW7RbM3cMxOOplPqFVS9BYXVm8/vcMaTMH24HSQ/QHOoDdkY4ChOOL5PnMei8TUPv9h0zaiMkRlCMsZzbzZrgnJDF6SKrRToQC60a2gJwfr5eN0Pi+fhUriGE/i4XapR0HAZB3WbAIXnA9DGhOV7TjgY0zLVyiAwcgTV9gPuUrXnFhCRg2s1F/35RxqgJFPo7GtUl5OpUC5yzUxbyd38SHTpPmpFB03HtVYhPBQEGR7WIQVqCpoXbU2jQWM3asDqlAB7qBA1CQs=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: cCzj5M+9OCOO2c2t6AECO2Mo7TuIYfMjnjmHNkfuuwi1HXnWjlwrDG1RoTveoWxEwoahZUohBTrOAL1zbX2fzWSahl+mJZXaZ8gTAKDlSWg1OLGxV6CnvVNGsYwuUgIvX76wnm3ZrpV5Tce8eb+cM0wjkNkOWUfKkFMygwFfyGIqZFNFTadd8e347JSw0TuF7yHXTaS6eJqp94cNUwoYCeprA05LGp68V8XVugp0fmJsRKIb5tfqu4nlt0lVmAG9GsTz5Tdh2Or15ME7GnEDvFd18lGDJXvWmSP1yomLzB66FQXrUmo5oQejjgfC7IJSG6LzVmz3MFUa4owG8qkMWZLaDUXb6LE/OnNzBwaeqlCas1vjqxywD4y+tjB0H3kbDnI6H8yRLHkaneFr46HegU1yIvoQlWaw8UaoWGL1ad2mntC0QCNV2ABnGSLUZ1Pjvx0ZZHX+gievK/6Ne7Y4y3J1oGOg/ckEDqRcfkM8yhhSJQzLkvJ4gbQPK4MfOsQ6P8GplGiN8yUUxJw7CiX/gIDU1DBd5wLXqha+NGi8GV9CJrBdbDZZXTUHUw4vogVsyqyXsXAX58dLmPmDxB1qLLyCNcWfaXaMaG00NMhsXRaEo4bvAxupQbibvhRaUJE9PLUIa4/q0RqFPU8487hnCt3x9Q2in8VuQ1BuUW107fHqg/nw6Vagu0Hse6d7iO07fZoUiTPpj2tiYuxC1eIwCYXmnfUrVw77yyyzWDj092NPqwxgyQPlLRnuN319mzbDro44hOr6C1QpPd4IYy2D8ftdQzjPDYWtBPDlWR9wHHVZYCnMzR58g5KDISRjw2I7aJNWbOX0B11V8cXC0KpsulSm+zJVGnOejC4r0X9E7pY0/6PgKwXMpDLLuVyda2WHNuOcMM42/+aLqrohHGYUWz2Ad4cqwDOpwHBo4+pztyhF9ll05m7/cvu8iV1QsR+bTSYIIsU+nQvzmLkYtd1/sscUO3i+OWVCRedNAGBdBS3CuM3K9bIPWFaEQMzkVJpT2JXkUb9Vp5GvLDboBfRB4rVAQqSpgyPasPpJzy86+cUE/BdVCjxgssSxT7W9NY8MaYVPephtQsDOOVpEGtBowQBz/HnX4tChDSILz2SA4fpZ2Ndcl//965c7J2ZZg2oC1iDBuOnOxIUrpyw1Mh+rtg==
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Usability+%2F+Introduction+to+Generics+%2F+Exercise2
+status: Unchecked
+record: -1

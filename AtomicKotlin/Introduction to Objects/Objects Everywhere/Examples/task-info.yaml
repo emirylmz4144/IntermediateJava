@@ -1,0 +1,25 @@
+type: theory
+files:
+  - name: src/IntRanges.kt
+    visible: true
+    encrypted_text: Glgmg5lJn8rh17aXmVvO9L4nGpHQQZpD41wwOZLjfCmvtfs2ggGxp4p0TGWa9vcuPReePozJO3ZgwSoTutP7SNJQFatc9zEq6+zD8vQBunfXBiTEvrtwC1FOMjBNDnKbRI1sQ2M5iWE808DSuJo8JzTtAeq7gd4aV06g6onCCAKIKIfVmOmqDIMQxQJeXuHH7K//qHiEwUeaNrmmyoq8Ew==
+    learner_created: false
+  - name: src/RangeSum.kt
+    visible: true
+    encrypted_text: Glgmg5lJn8rh17aXmVvO9Pz+0eGMv0N0SDe+lfxWodxAt5uohlF8A1DCqsdOfJXJyyzILl8MtJ+a/4vW/vhhaWYvnIdK+WMtiG8DodS2E+GPsnH3z3UdLdgl77yIdLz0wy7SwwanYNNeCYLyyHIi8w==
+    learner_created: false
+  - name: src/Strings.kt
+    visible: true
+    encrypted_text: Glgmg5lJn8rh17aXmVvO9J5r0tXv6trLpBqeiiPKayGQh89BKnhWM6qAm4UrjGZZi21MxwwlwcjwGvyqV3ihRCW1FG/XItGVuYUaABl8w6K0DEHfmDvTymTPwAc+W5cLx7vY1lrduY/AEboSYyABWUQOXOM9UHixLY+RcEG3EYVGVIZh1y6Qw0zaIThOiDsz
+    learner_created: false
+  - name: src/Conversion.kt
+    visible: true
+    encrypted_text: Glgmg5lJn8rh17aXmVvO9FhTaamxacae5iBBa6xSMOUd3Y4ZY8WYigbZ2GsqfjFdWL8IiB/hCBm/bqTElQDF9fifNW2IHwkBtBUFS33qRv9PbGSRzduqWOjU/6t18pxQrE72pLPeBiUQPZAb1WCPMss/9xUKcpeLg13o6BRts78Zg5V0mikTkQXuF2IDkFIr6eJhevVaZhTmBXq15JJT0A==
+    learner_created: false
+  - name: src/NumberConversions.kt
+    visible: true
+    encrypted_text: Glgmg5lJn8rh17aXmVvO9Kj/W4vRq4mz2DfOT0WDvbj92+MVU0CRtugnBfO7phQHe/jzY9/1h3q0NVUG9CMrcopKAQF21U7WFdaXDqBvg3GF0DzBxE0idoc/B7lG9hbXkNryHrYAAenJ0J6PsgGbp36mQjN/v5tP0Jl1sjmADtsfqBAHN7fb8npeUhnMamHbIqc8vpCX1Y7nsiZCI1QxaKBDR/8BtrkywXhJ0FpZNjZuqd40Y1WMzE+v1AK8RqZhaAYmWH4yVQbEUEAsriYRHS5huweEL7MtriZqcKtc3bOzJEXkP1G8dvc1yv6NtFgWLVWv2d59q3usjYfX1Q9xgA==
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

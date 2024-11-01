@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 101
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 101
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: SY+dKk2r6nGEAmg0uZRfc8VkeDQ17i545M+leg0sXLNxPwp+RmgEueq1MDE5deDqjVzyDsuGz3QfkT8hM5UM2uJjzSGGJWGMlmIBuWLdHvD9spRg+uap4Rn9DsB9OFPgZeWFaekRcLOID7xp0EZe6cZb9Ibw3Dl+NlZ473CtLRU=
+    encrypted_text: RaBi27xADCIeGpVFtUizeELPvFiAi4CDHUyUIh8FZqjui6t53crRPpD8goVY+t+bC58YLJeisFMINz3MU5zspkiHBQVjxDFp4b2iCnlDb2L6OiPYbSziJ/71fpo/elnmHMPDh2Ti0vO3XM4Uq61ToCUJPk61pLcTWCDW4DmMZkRGKQQGnydo2UiXSgBwEB9sV8/MQr8tbshm/0ri4BZ78Q==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: TgLPLet000DRURwSTTyi0g4CDFpSENeBPuKXIQl9IzDHIkouS/v5IQpJRaznrOPvw2pq5AdhaedFWyuft9n91Af6T8dCK/VhDc58piYyhaXO6hE3ORpbrPRIj+6GEUTL1IceXFtnS7SYMDUcwYQFVRmd5eo0tYPY3oswIBew6OYP0Vpo6Rp3vWJ1s7pInwKAnFdAoe/Ud7ekABgG17G/SBxz57Am0XrMh9RfSwJWJQ/UDYHHD7fMhWmhVsEfSv7n9do6qoDx/SU7xuB7BO1CprTw9w2h+Qki+eEkZXSDKJ5TYEOctzuHF092Mrs8KVmdIfNpzMfHEsQGwMBRbLFacY7IXlsThPTkwxd+Y9LryalPGW03wEuTcesycQ07B/f1MOs5R66sRtHUFevUoed5NVESW4GQUzVRJ7jgUdJRyrU/2MkqSMIGNdkTzC8qPJI9waUbqq2x35WAuHfevympy/SXP7/jUnFz71SvoyiVqdajiM7gzWAcn8FEIpYQ3y0MqXup19VtkIq649KCmfw1n+ogppRwJjyIJt0tMbLTGZw0jKmFX2VBtSPPQP5q5dQ1EmDk1Lnvk48lVxO5/6JQzDht9P8LlVMjVF73Kv24RGsBThiKOWtI/Mz1ZA3LMLcNbQ18FLmx726EA+jeptewsoZL2nBIJRfF7+eep4hh2ryKgDsNDeOJMbOnwD9hhGNQZ4yRPIXMt6t73jBLPXEPASeSCTDlBMSrip0c27CX15P8R4fqSXoCeOgwdeOyVp4uQrKYyWgMZ42ywCLO6ZG4yjz+rQg9F+eV91zaKb5qsmBMDTwMwiwQIgVRXNLg1mzjIXeOQlA8kVUmnx5YAlCCp0RaSp2jCz7VPEoo1iEFbWNdmm01FlyjuXOFPn45fRbBlASKpZ8fjRNiqj+OepC4u3LswAsIrzb70TAORNTlH8XdueqYi66p62LN0WJRVBa7zqpgismBl9texLY5PRaJhMAWQbmWjKbgHuo847r6DMgV5KUxhS5q17UfkZR43+qVS2MkFBMIHUxWQtRnDNKcfgYOZptuFXKbt3+IpAYrXhaGujSvbx5QfMSvtfFzim9Ml8i/0mtR7nDTtdmz9bp6xC9jd9qYk/H+xqyV7YUoPF3+TzO0xnRDf755NY4ty2dcGzHMCFlR3IeFPMBnE0UvWIoHzSrmSSMUds0m1+cmL+Q=
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Programming+Basics+%2F+Repetition+with+while+%2F+Exercise2
+status: Unchecked
+record: -1

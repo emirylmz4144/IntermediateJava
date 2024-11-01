@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 146
+        length: 24
+        placeholder_text: TODO("groupBy(???).???")
+        initial_state:
+          length: 24
+          offset: 146
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: j6uBXmB9WxmTfabVIs+wD1e2tu0/Fz9HZy40JtuZkxc+yCtIvIp++2WPVLY5X65lhk9/4sHdgRL6xGg6Qj5h4w==
+    encrypted_text: t1dFIAz2qRapdLbqXwm/lMPv9auYZEarLijVErLdaHttg0IcmTOJNSPdI67BvttaEal+Bl86m4oyweWdz4qhKcKs6nQKYKeWAAUKF8UEhOTCTtTYEXMOSWz95OE4o+NR79UPJMstKfe47sC3E/3+AWNWD/cZAuh7dV1H1bWbdDEHRaXgv9oOBz20Sfe001A3GGeZvcpFI15VCUrl5Ggp8sIlC6TALWuWUJmbsGtDpLLTnWlkhNZRcpc7BeFJK/RQD7tCZXZjHDX3omz7FqGF4I0jHeNirQjeOlby2zFSu6XDujhP2UZ7JA0z7beCPIfDbYTMpcCRoMVdedsY9wYWfJGvb8awEDtxJG2QCsl9JH/Fbr6C+7MtPqhVNuGJVT15JgwxDDEIGo1WTmu3nbuRrk1XWZOIEVwUUBuCJQRiGYb73mX0ykUwv4oKCd1uy2uq3hXmdefE4YUCsocWK34I8+IWVyulNX2iAy9YEg7Pln+5eio8yeb3H7GJz4uAZtxBzFKBSTwKXlv8LYgEcjlGLb+irmmtJlynqwF9sTAKXuMTn4+5YkwKy5VhdACku/qyA9Kg6QHF85fQw84MG7IvlMQLwKWUH9Z4cBeaaOVgWWh8e1/U0MAcj+4qTOaxVQPV5AkJtfkOC0b4gMpZnRKiBg==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: T1aZyWZ73Oy7JGQ0RUP3abGhqStbYOh0kMxBjDGwmCnGf0Olxboo51znUfU5xmnhKJgyUT/5M6DaV4h2fRbnnm2RSU9y7Ji9/hBWxfCxpWOks97cczdmjKnCOgSlEWlsrWayq48Wy7GoXAQ7N1thp7bvrkg0v5L0EEsx6qEVWHn1BE59U4zJGuZUGzpArzJYbqTxJGKuw94hF6XR0Q3TSd7psTRHsNI9efDR8uzRSRsWP0cj5rdrrXW068pr6mJpHFzr+tARqm8+r8tX/XMEfytyWj4BHcVZCEpqkXBS9l+K0H3GzLIAKMj6z1hRZlGPyIt7x1mBtXRujB+hXJnPNMACw4BP+pvSbsVjyEqml+KmsPK4AAJqyD8iWV3N70x58OudwCRD+4gN2udQgB133+O5GYWqHOjqY8tg2kGEyJobZxBATDTD4JRi0YM11Bxc9bJXnwdUvQEOwipfz0wRPtDCROVocnhIfM+t/woTx3krO6Zo5L5WygCeFOHX8WOCt8V1zlvxleD3wD9EQ5mMuq+bZktZgP/2NY6oNNEdfTFB/d2fQIsGg8vLnDp3Zn8fRAlaXGE6pSvCM/DhNbtzn+2Zyx4N9QRYD2/fSO5esFj35qhhLGJUAE30wNm8pprYxiWRbLNe5fnAGVUOLB10VXq8WE6Eu5YWmVOXuHPwfvQ+bcQlpDD91z1TYnNSOpOn+D/eS+gVslqhg3dRDgDTisyru0i9aNughNlGa9fcuQ8I/0haiP0qRIPIIT4W7YmrirOwRIKDSXHN4MaLM3L1CDIrPQWNcPLAzIwf1mwSxmPwwf42eTRvxU8hhzLB54DiT95FMwY3MPCVJzgRnE89xyyAzbm5g+kr/0Tkv1dcBqi4Kd+D9QyZomOegUXO6jKOZR3/WeV1lmdIU9xOm1ZR9r99BKXNMG5pbLtfRKN9HBBdQZIsBlwP7GLBY1gZvWA782BTsfY0Wd+BD+1o8slODHVAd7wwFcYfo/VAc90oJ3nz0pGnL6M/V8Tgs6nGi7T5yvfMzcXnLGdbhlt4qxLVMopGFQ1NDxjhHmkYfLZFEUj4qe1zbS+1XpA+hiwCkH9QnixeDhR/AiLU8dNlvElcpVFOFR7R7jPMlDpm2jDpS+vcrIvxWIRonExxrj/i3UEaK2GrK7bocYVcw+qybS1/m4+tOL3M0oEHFFPkS0x0wpgONW/OSLa2mYVCCEvO2C6W+B3OhVH45qB10GhRFARBws3rmPF7B+y9ouxGmBQ0f5QATfSGX9sHZ6ZvIJl4ue5OZxYLWVSwe42+nYK1ZG7frZdUkO7FKGZd8rERVZ3D4C9OY8mBHmEZnRPL6bS9Oxsf0x1mqyU59gEfVQZGkufxSdbBMxZyzJ/QTs1mq6bk3MM5V/EUipTdu8rVc+kDZONAnezT6i3H6iJEcm22lOwNlHRWBbDx+uSHnfVPmRC3daSBLBsT7JcMrcFYrFbtut0JYGrn9u0zkv9gWhIchzUPOg==
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Functional+Programming+%2F+From+Lists+to+Maps+%2F+Exercise3
+status: Unchecked
+record: -1

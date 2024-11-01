@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 79
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 79
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: KwWsJnBIp4Qn1pV41squtA==
+    encrypted_text: P2TNWzrkldotOjhf49bLKsHGNeWj+v8kq9NYIyKk16S7uOkuxN2fegmTKogGZcurY3pARk+L++P6aVjPxtmwjXQoDxecyL5KWKLengbCFWstSoJF90KdW1+aCFbxu2dGrAAinKYz9XeDujlkR0fssCC9LtULkdwapybLhcKomFVos24tV6KNY55QP2WXsM5o
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: KYvcDJQk5kVfxc/6Na3wSRWT4Rpuc5P3YgW87QjnDjCIFRams0lZU6BVRXgoG4l00+tV97zrCoi/LL0zAoEM64qv3JHt+L12nMxITS2oj+QBXXhuowCLNnPxgV41k1TwJZJNN/z/zGDvIpDsU/n/Ohe2J08yXvDw4+Yf0fixwXbsFEokp3Aqp9jYIWbsydu+eeCZkIHsYUx5HTmxKTHzks9VWh17/OHXt3djkbOvvm38mP0wy8Y02dByqVWI/OnAgGeoOtjc0bZDRBqQssKIRKIJhEMcaOzxYEBEzirioGSf3tie12H6U/KpQC9tFrrTMAy6lK1HZUif3HhZ7B//psZZgRKtNA/7urwYjlHP1hSKTX1M6AD42w8IoSK2nqf1hNDLy+m4wqFExwN9be08GWvcSFFeAmedjal0S4mb+h9ZycI7uFFykkb+5n5d6njp2nVAOQ1pQucZ6gnQkfk/6VCodouPlJqxjS1XNe/wkvCjl1FVEkGu6FfjQNfzLaEcYfgC7XIy4S0zBebwn8ho0TMAGoTnpTyMcpGRrsNrtzRZBi44Kj2L5ouhWGAtRf2M1h8XpD3xv4zGRC1g++L190GT4EEgYyeT2/3WTiK+K/ALrzj+mtA2mSlj1h3RviAkBHXQ/Em3zo4OybeJAmGYGtEg54az2jaHooS/IDhzhkQ=
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Programming+Basics+%2F+Functions+%2F+Exercise1
+status: Unchecked
+record: -1

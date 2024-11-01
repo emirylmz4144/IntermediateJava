@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 144
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 144
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: haIOyiWmjT4o059TZVeRJ0J428LcD+m/BO1SRuNxiqZQZ0WyB3o6rez1pPE1T9LYS/feg2ZM+6n8wvOkluGx6kqJJqMaWxuQgqBypBOKvx1UxfK0NUWHNpl57cLvyedNZq/XTAKCj5SvmwsW1MEnIw==
+    encrypted_text: 9wZiJQryDsKsptUED6HthCw1ubnBclF+NJ2oBL4Cbo/WxFihmk9pOf3yxNCy3Vp9BIsqhoS4wiN/VQSFbU1V0HyKYQHug/YDHSlb3A+IaxtaG+v0SS6MfR8wt/ppimVJ4isA3aWea33Lkuauc4+llwlbiwWdVclCo3+VZZRdpUnoJzsY5O1Gg3QaXM8sPPc1fmm9ZQA5J/6ljdK8t2gOh6hDvsC4iSGKuECaaPycXNQ99Vz96T+9XeTil5WQEIkP4evvfvJ9SIOZaR6hBYuZkfrqCz0pjbjQpex73VFglgd734vlVK7LJRbcNRG/NdJ1Qdx0NVkjGZPZyrPPhQ/EYi7AlJNbZjSzrHkGZZSOaAjuWtaFtLWMKhwW2Q4fPBvc
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: Wec7SE14CyMiGTw9r56ZBM3ACkm1iPxz9Kzwn63M2wLZxXpUn9sC9qUNgF/DpimBKo7GcqXgtRGSszvDqFuZVwVEGhlmwihQGQ2HC1GHady6vkwjrPZTIwjCr25F69oRcVPwtZBWXrfHhUwpIvZhOtnngT4gkofJ5y1O854VEUu6v3jl3OCfFTne6IQbJCX61SWX0RlHxHsrymJdMAiEJP1cdaiqwjAmWVhPD1mFtQM3g+o90mnCXpwldTH+YtN0goIjYBeU+Ui0l7WYZMiK3q43bq/LN607fAD5Kj+WcodN2KSYS/zePuZGrWKCojEFbeuYNxU01cjIKiMVQ6xU6Al7dUQLzeWkp2AdyeL7+ZwlrIeWZvpoezE74Cx6FWjJwB6lnWOJH0fUzipelr7l27v+OF1ZdDYyh87drScXkT5SW2aMiR3bQf9iIKkNUs3Fs9R9Eqw+Zj6HJsmGXwyApkeImnn1ZgfWYVDmXsy+hgf67i3GfkX7huTik0Ovh6SfOQeZfrymTDb4ZDntO+CbGZcTxAE5y7DqIIhgs9PLNHJ3RPV/gcSubKt/0HGBhuMq9G+nE0+ZDWl57eDqEzghovyCg/CXvmjW5FCc/UX/of+ZYHc+YRYFzvN7I7DIW0SzR9SEwuWrSq6mUCQ3t9SKKS51CHAFlnNGv4xBtjXRTdALMHOLzgtLrHjyzV2Qn7GEqHxNTa6yRpKSrp0RFL/jU7pR6Cme3OTtflbYw9+K+S4fm7rEKwXn07mHRHNJTEGGNQ9g/zfIZvpmYOncsIXDvyPDxBqBVFg75p3MRwwRVX9QKqwLcQQK8ccJl7PzS2InTBjrEcD4n/s6cwM1niRx1We5/aFJS3yiN7F5Krl10AllsQerPOAw2SGjtqCcaKFkC8c8ZuKiuOIuj2QkD0SbCeXCPxDQ5nOVA4ccVWzq60SVK+OklpF2HNeDhPCcSDxrs9Vpcesjgo7whgBMJqkb+3f8zS2BVRuW0GhEBnnRtSpeIHYfjyrjX0H62WnRHuCyXgVbp0yIQPWZ/RiQFwZbYUv4W0uujuFLkRMGdCMQRapOzt53e7CXfShOBXFLRoBz/qJY4GkDcIcXdmue7NAW/tMNmw2EbDyLZn2Q0Kj6HwJQWQOuroSudDCTyLjO5si0
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Introduction+to+Objects+%2F+vararg+Arguments+%2F+Exercise2
+status: Unchecked
+record: -1

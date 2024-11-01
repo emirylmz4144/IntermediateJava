@@ -1,0 +1,14 @@
+type: ide
+files:
+  - name: src/Task.kt
+    visible: true
+    encrypted_text: nNHny+8Cf8S8DDdJuP6ybazi634w8wV+IVsjZAj5vKS4mcjbT7+V9iGUQxrF7AIB0penggWGNaSh/l9PVNJxsrN7+5FQW6ofrwoPlS7LzI4fCi9Fa574hfzsvcrFjGlclZcDdOaS+QSFjZLDRdgmxAq8kFL6slpN5T1Ygzatyy8+y8nqWL/t89BvSIK7FxPj
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: SmOKSYxhffdAqHoAyP/bAtgT+mKsvgZNkllfXpsiITg=
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Usability+%2F+Overloading+%2F+Exercise2
+status: Unchecked
+record: -1

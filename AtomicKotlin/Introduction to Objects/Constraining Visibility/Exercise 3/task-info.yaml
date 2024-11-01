@@ -1,0 +1,73 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 347
+        length: 0
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 347
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: MBHVCxR23HYSaNnVtZLU1KqTiVO4JW5/Yp/umzOWgTYeDaLU20VFUazzmgfKLQADNiJzDmSjY9JaGYk8PPXpIyMii+BLtn+zcC+QgolaG/+0QNK8hGWj0ZcoP49f1ekaut76XqgxNI6scC9zIPjjn55X9JArwlVeoZ6r0uevoeWxBjPNaNKdic/hAxKukedCzP8Ratqqp3HfJMIwZV4Q86YfF+0Z7eift+VMmAxG+9M=
+      - offset: 379
+        length: 33
+        placeholder_text: |-
+          x += steps
+            x = crossBoundary(x)
+        initial_state:
+          length: 33
+          offset: 379
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: AhB7HPl2axKNMWkWLM18gas4iB0fObnyjX9uP7Hbxrr804UbLHYvpOerzczOppaxwQNueJhA9TzzQEDP5cRweiPqhd/9PZG0M60ikV2cdHY=
+      - offset: 447
+        length: 33
+        placeholder_text: |-
+          x -= steps
+            x = crossBoundary(x)
+        initial_state:
+          length: 33
+          offset: 447
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: AhB7HPl2axKNMWkWLM18gas4iB0fObnyjX9uP7Hbxrq4+6FOEUOICvtcDOoMcYzgMu2L6gaGyKevMnPDloKdYYxZ5aHUVEV0nHLIXGDuEYs=
+      - offset: 515
+        length: 33
+        placeholder_text: |-
+          y += steps
+            y = crossBoundary(y)
+        initial_state:
+          length: 33
+          offset: 515
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: AhB7HPl2axKNMWkWLM18gas4iB0fObnyjX9uP7Hbxrqqgx7EfqeBrwZw8n0YYUJ6hZKnGdfVEzJAz/ms8zktRCHrb/lV6R5YwLAzAAs7R6s=
+      - offset: 581
+        length: 33
+        placeholder_text: |-
+          y -= steps
+            y = crossBoundary(y)
+        initial_state:
+          length: 33
+          offset: 581
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: AhB7HPl2axKNMWkWLM18gas4iB0fObnyjX9uP7Hbxro6hGZke/hmZgsXWjup0eSHoJAbf38Tkaw2fS8W/Vg1gh/zU81Saz41SPOGMHrHBO0=
+    encrypted_text: oiFvuJ8k9YNMY/45IIyyU4+hm0kZcn2t+BqndaTAB/82NElsz082g7Ig4Dkf0uTNcjBwEiNe+y81xpwi6MwzQjfess2TKWbVGpDcGmmI8KvLqUD0lZnVCTYruVoGcEddCPiQe1PqGY/XtOSwrqXKp7ZrsduJxNXGTeeu5sIerDFmL9e4kpgLVnw031Ew2dr3US+L7dzy6C/THrPJZF49xEw61DS+Z68/l25ZoXyAADLYqp2BrtY+Hga01NObtJPFov4vRfoW5n839q1YJqr94UHeAX9IHpSLAU2+bMj3KGKUF66FhMsORoyH0xSYpwLf9mPzI65UxPS2pP/A4H+OpVIKHlVh9HDljiwsaa7EUP+byOlf+WZvljYtLf3c8YHyw8h71cSEKrGtyeHWd0njcVXYH8AaRYXvQXtHyA+tS+WmA32/jpcYmD02eKmnjtRpxEWybFgbDP0dbEwcLJTxAnm0mO3FRV53Yt/wRcdNcuNuDIU7n2O0uqNWbBnlEFasAq6bZ1c0y34fNoQ7ntEi09Qw3boV8/4ZvFLUeu/59SeKj24218aKdfTn/ul84wlJtB6ahddZ2ZYb+y2ukio+VcWv7DYoOmPCzvlu6a2puDMAaN87epg758JnlZ1X6xeSjOt9anLiSwj1Iq8q0UvYAuoeMzsVIZX1KzrBXw5N4Jpl/9Z93TuQ2glFiWWxyb1NHfsGhKevN5G3yyRcKnaCSajDaw4TmSxq9z90TSi1DKPus1u+pyJ9JTVioI+ditg98Eawf8yMEMKLo7kktL5a554nRO//Y6Kyt/FpDi7jqLVYOY0wAibfTDd2jHAp3Xx+uakQUw1qv1IeI9eqzDmZC91KMlHlP4CGUVL0mx9W7lJvtUYcL7+IHixM/CP43ll6v2FTLO8dkPGIQZfH4JHaTMwQkoqR1+M7TR6R80hYX1EYywP0Xo72luk6SSDAl+ZXWAYUQ73wkBFRDWrqMygYt4exijSBlUuflH6DeFJKnWapkXwLTmgN16LOkgN+DjLJSlMyk4b0NQ2K22UswR+1zAmk+Krx5KM0Thqc1zyCWpxFfI6nzFlMXop8Y/pfKauiSdNgx+UOuhW65UErEgumcQ==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: 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
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Introduction+to+Objects+%2F+Constraining+Visibility+%2F+Exercise2
+status: Unchecked
+record: -1

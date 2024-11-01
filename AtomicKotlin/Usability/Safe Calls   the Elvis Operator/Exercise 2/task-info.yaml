@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 411
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 411
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: rXMyeUvcHgGLPzDg1pEO5uUfb3+LQf5bci4X/L2HZYbvcRPNim84sEplcr8ebUmg
+    encrypted_text: NM8HI+iPyUrYSzSuYKr9SZKPSMjIJdJ22eSI0vEpP+CWOiui/tts55rcMQo8/xGhcQvlBDDcNBzZk6LQgjV8eOSyAGcE/qBPcZJm9TqkTYTRiAcEQtWLjk6y3zfWvpUMCvEudBxvIL0ksroY3neFLHq6Cw78rTM4Ij2mbg0f8AUqzlWybtRWYDD3/tSChbvosPTf0Z6/PP7aPr6vzbxVUIGdfmcF2TrL6qzZLUwYn39FbSybvNuvEBezmczqcTBX6EK1NkBnp+34mhtVEOnTtylT8cvogA2R7/rvBfqnhmiNOqBlzTuMif1WNHPoWwhs97+akleWu18BoU+afaFq7StchKd73U8qfINGzxeZi557kJ18NID6mq6a4fc8feFoogqTm3pcwnI2YuP79Ias8LywXWP4I9MxuZuTNys0xx8JUT85aGIik1Sg2UuDTHmAKCykGZpCUCf/5Rg50Oo9b5YFmqAt0+NefBItIjMRlSRylgms7Caf+zrw/62+BC8Q5ji8ik3Jv/jPzkElt1ujydeziIAfruuaxdj3rnLkJf8qBe27w5fcSwBQurdwNkMSWmhVCQjzuS252vLL44NSn+8JswB7cRvy+22bnoBDfvC/BR4Rvhn96uTOHCSrtGZebDUAt8EDAn4+B3pCGHxZ21ixRUXNyeEyYl/vZep7hJTT7QFsRM9mJJKS+gFuZ79v8NR9EcipThEGpImR16xJsqX8QVMKD2d0nwie+8z1GbSHrq3MAPvUMoeboSKi+faLbQJmr7wnZd7trh+bWNlKWw==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: 8VNkRPUT7igKkTfbbOyXKWuZ0W+MsemgR4r66rDP02YdjA6HmdZqkQwfr0n9f7RMzTapAfGCscA5VA2eOxFTED8Yf0iFr0W4RpjSRD+BpytsMezNiH8vZXMmutjRNgBrrb/I1xzowqlHgpg/pQNE6q9PVSzNBEcwOS88YHqo0n4PyTuty8b8s3CBqd/pWZjRV6L8u4gnXXykmoF07dABKFDr7p4YJzryltUijJQ1pv9Z0XRBev4zceOyfQ8vdMBdGQrlvB0z+fjpMo++oybYHsUVIZByX6sBrBGIYCaQOq+4bUzmpwB+uV+g9eeqVaawVRp33gul7IEi6w+rp7nFaGaMDjqmGBFRZvae6zLDsdselh7LPZjl9v4lQM1B5Ul7dS1TvLseicbFgRiIMkXLronOS+mTW86X3axVMjfVRXvThvXFv+1h27kOE+dZfP4wa/LqpR56kpl4CwsaBccjKy2pPmwd7Ep5bS78euN05+P1WFetRRmLJZvwpNVvTFj6rmC+Nxqh8YTR+NK834eNQCbwNXyMtcTGagFSsw2QcgyLIyIXQxHOQNsmcyxorJ40xdGbN72YInRY/mchG1zxmH1+gfyJkT+qo8lVj3UxE/jgKIDf75l03D2sVqu6pVusTwoVZQxvJiqnKWSlgOfzbBvvO6aKj6C+lZNjd/2Un/xrUHEI5tjlUOnP5o3am69Cw//yvclt3eqcsrdPxHeXorpIUijpE7cxG2X9vupfK0WmG2asE+yXMXZBKBYXzSqFbaVY2xQhvCFmGiXjyKnkGfE4dM6vJEEHAQmaffWIGOWNSvMnfxJ8RzH4xvKLJj5ITM3KFAV2wtULCEG0vyAKslgEfTm5XuWoCywiTOdicuvuM45SUzL0cHHa2dfntiUy81iSZoDW3+nqAh95cBR6fvxMbzqP/Ggo+jmcXeSiL7fjSc4izY7ujgmXbOa6Ij+q
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Usability+%2F+Safe+Calls+%26+the+Elvis+Operator+%2F+Exercise1
+status: Unchecked
+record: -1

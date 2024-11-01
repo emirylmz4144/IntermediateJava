@@ -1,0 +1,14 @@
+type: ide
+files:
+  - name: src/Task.kt
+    visible: true
+    encrypted_text: WzMLgow9eqOQ1CEhzmhZ7JmVj0iuSPU49mmu5k5/C1+L5WrALjs59mG5yI5xjZbxCKHBYVZ7/A/io2//C4+eRBCpsvI6nh3a9IClAm5Otb4yUZo3Goy0BQRuraG4gXEt
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: FL7WT0gXnGozH4Unwg9McddTqhFZqfn0KTxqRjCxG+4=
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Programming+Basics+%2F+Hello%2C+World%21+%2F+Exercise4
+status: Unchecked
+record: -1

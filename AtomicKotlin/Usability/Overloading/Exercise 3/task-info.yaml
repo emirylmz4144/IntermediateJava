@@ -1,0 +1,45 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 508
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 508
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: VUoBHnpIOsYc/c51VGIVhr+rJ5YnImZ63tZWKq4F7xsbUl5EJct3xofoHi6Y0tqs
+      - offset: 585
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 585
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: VUoBHnpIOsYc/c51VGIVhr4zkwvkk+RKsy7FOV1euHzBcrLY5CMvE8acm/7jptG2
+      - offset: 645
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 645
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: tgS6EHm7IxJwprIO6g8poyMHj5bKo3Tw0TNOEtyjd/c=
+    encrypted_text: nNHny+8Cf8S8DDdJuP6ybctlR7u0tGgis4IhT51d20cDKyEuHK1lMYhHDypo/4X68Lx5ekGLpRMvh8RaavrsjvtdSYe5L5WcysK8prUhCUffUnuvx7qLm9+4lye32WfDy8Ba90cZsauw/FQtIA8uch0knBie2fHC5AcuGLaGHJQRNdCSaiP4VFftunqvEf/KgFLXz0TL53U0FwE/b1ThtSxEh2bf/VUXGX7lddduEST/goN1PpGrmrLp9rN7KRrsxGhcpKcPhrT/8lgDK2xacr0hFRxW0/ihaMY8vyeZ/uOeBNVnOKvM6UHFdik2Y3FzXtU4G4f9LrwnrhIl3hsjqXigpI7D4Ct0ZKtZ/GQhrNfBV3YnWw6H9gTQe9+6pl0Uip8Cqp8RpDKOwKwx7HBME/rOegPr7k1iEwc2C+FWVysSE9Wb0yhRR1TVlntpwoDf/p2x6UzXtfCwcTm/Filq+kwirH0Nv0cLCPZ21EqqgWOrl3mWpZlYqpj92fySce468Jux0l5LtRSJ8r4nIR/tt4fLqkY77fvppv3PZJjnG4osF0V4n93swPmvnHcyl+3BRgGLdxAMa6uIhTNyL5NsvLMK9eFdLHB7cABuxpLwVWteivTn6CmgqlkImzruFuomCGt/HEt1gTBjmXDaEosXNdPgcerXXXXo21rBcP25//+obGbd3tLnE59+RNUaFoh6QJI1frhCIiBq1dAagIY9XgL7HGrrkhApKbiQRxcVZkRVeAurMsu8RWEK3ETatp9x/d8uOfxdjPDaF8suumtG8KLw6tC8u/c6LM+O/29nNX2iCYjs9zBPcmwLtEztGZnnTVT/FRW7vhEkPCLdpRem4+MrQPLxdP4kZKOk4pNzl3RoSQr4swbcyjAr7NFd5xwY7YyypouWCFf3/8iLWQn51XQlGAABNaYgDkRjd1GPiMkIb+g8XdJN2ngcSB80dz4mKRu8ESZbiq8VyrNJL0XdOAwqEJP0sWGzT8Lbn7KywifbdJbGLmXmfCLDe8EPMSrKqUWFPJfCBn3uqNBssz0bkYR5/0Pd8aLRpSVkfFJtO9YEZ5zDfNz/UxWUqN1gYEvAstvaKzshlj+wHXsIRSZmTpgWbPGR60W5AmQBkXXBySQXzBM4S69Ks4tSgnNgBbzfERMvcz7GNEySlqPXB2wnS0RwhB/YsqsUXQosmUT/HiLBMH6vjrlgp+nvPrqe6VIYRdkEBGysFV9kevlFCgaeSxreLTa6Tnkjpj93pHGvRFmxQZ+BjUyGCg1MUcNWWEFqKfLl00AvCuXT44cWz7TTQlW60njeSGitylAA2vBc9l8=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: SmOKSYxhffdAqHoAyP/bAg7rXREGnDaWyJrQB0vx65sq4eSo/6HDwlQDfxT36pBeKyfa1E7UJwzpMDHrL9YZp/s7lWtTlKUMl/GbH9ieVceRybXMsVMVKw5QVw/s0DNVHzAACQAdfJw9Rv8yVvGbYXExzYYI0+OdLsuf12ciKStK3zeOQCy7TziBIb3J47w5mPChy6rnm1LeWSVB72RJNv82k6R3o//5YJZTnSPRwWooHBbRheGM9vyqQJSDRXBs+EcTp6+dqLfzUo/LLsCvcunrKBeweXhK3ycaLrajUvsTzR1iJWERqXen/68CPpg/D8PxrgiPrYWngN3Kd4OkFQBJmvEXXu3iuVpqm5LRY3gnsk1smZo9JTYyoPwP1aq5/Epsx3HvLNQG4Wqau+J6MyUCOCY3MYrbSDrwXn/vokh5q+xCaFq7oKour5LBwq3RJsaXMiRuTU5SmQrOQTSEb4nTchcc7evwKPMnodH9MyF7id6yF2k4Hn7OvHm05Z51lBwUdhwVW9sUJyZhIM7056nkYBKSxljqQ1mLOwJlO9RwrmaBQ13lMj2rE0rs8bYfUtSYGJSAfzE5E8akAulEksBM3nWeqrBQg04/hny5Tl6PG9GfGD+pC8iGC11zHsFzaIWzHbfJM7uGtVHOPjdHgI5e8OSTU/J2V4kXqLdtyTka06TbID8M/jA+BPZTdAAVoNDP4Z/8A0f7BaGm+fHwqIdFns6jfQccmZbeng0To3meE+ybzt72BonG9OlWCibnObdKNnZt3IGDJO0NXdBchWTVSJx6r+HH5I6OLTsqG+kmqEoHv+mNHpsUdGfIOKcxh62Gb40MkZy1aNQ0iWC2ZWYDBWL/QDcnrS8dq9zze8SPzWt/+m7gBVTYPU26le2yTEMNOnYfgLq2PO2Vyny2gUnUwsydRRQXmO+7YQP2C4qHqFnXoL2bmY9dcFviNPjdllBbMN1U7aoKbxL+c8tIeyfYZZYCLYXOsjAQbyJ8Mn+HYkLVFCLe8Y9XvV+vKNMSv1SgjS7K/UcGgPXyw8F4j7iGWuGjEyS+6iyyqpBgbSV5hJNwbLw33ywTb+0lPJNZ0KEMIu6de49qbnJj8TKZ3oR0Bj/VyAn2iJEY/XjCLqjsksd4gWC4aDvYcJd5CuVqmk8meKVpy7lBLf9inaEpVZmejePHZVfAQKK494DZTUOt6D34MH9XWp7ueKHGxjDr2xxWVw7AaEFxbc04rXKOD0xsfOqIGVnkbhJpxZByhmY4O4AHRiOz04nwwwbzwxuNtIRJ7xWxKHJ/BcCVFumg1fWUadFu4rqwKHUxZm34d+0LnKRmN9WgKfkYGQieed5b
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Usability+%2F+Overloading+%2F+Exercise1
+status: Unchecked
+record: -1

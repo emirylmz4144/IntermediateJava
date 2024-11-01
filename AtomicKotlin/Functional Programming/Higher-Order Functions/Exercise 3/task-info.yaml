@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 218
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 218
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: NuJKbabORb0DFE7HOjgXcCSl0N12EZCL0i1uP+SUqbOdWGimCPnF+fatzxjH9cxsa+C7vq3yuv94SWhBPDxya7NNkGrj2S1XimzU9R8QbGnWavaVSUn3CFOPNl/HyOz8aaSuiBZuApR0IoCKKD1DVZ93y4TgY82Xk4BLGuQpxWAgYDMpj9//HIULh9Px1DkLEOSVGKFSl0NAjG/zagomVg==
+    encrypted_text: qe+wgl1g0oyPByA2dKBtRqr5nT3qxvq9tVCUzpv8+AzPwxbC7gnTnKeVrCR/9w7kjNMYWBP2oXSHTB/UBnH/YaTSPHZF/rQVIJ2R5SbmpSbNgElK2g8PPgUs4dEMfbNgaPJgA0MUnSPc4SaILAb+ToYDk+kLAl/L48+pu4DdRTSeYUEhIa7efuDOjXcb+i3JibZRKnI0KeCxI+KR9/fJhx+BdNsGlB4r/jbWxp++ahQq7nguieMJvgxnjMeWai3Hy2cOElvQUW9d0fP4ay+4s0kFZfSLLCWa2Lhwq/H73IjRCXnHRUVTKpckiTku6ymtLhiyR5VPu3AZu3FUN6U2lKfZRBm8skuWqw6M3moYMgsUqCrH5YRq51AxoY8gfUDk/d+TRlnSu/+FcwXNWPlilmCeDwrLK6M223I0DDJ4ky7gPBmlqv7jV5T3Bo6L1kncTgCfWFIVXUR+RHJN0+O6qC1PnI9wOV0KAW2JPXOXC1WwkOyFgWWaJCt5khJx4DWRFvsvfziyI+r0Jbngzgs+hqVQaaLncRSKD0tJb+htlu0=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: IoKrCc8d960FhskWS2GtB5RVWtOllg+BCYrJ4jO6KubjzLpmPkdIm9elDkwiQJeBTQLuxSdCJzfT0Cp6W3M0tkHppzZn/l4VYYHdafllvJI4wAd9JEpRYhAHXVqWmu5z3WzMoXszYn6eBkd8b9ta4OlYs0+J2mbSkVL2YfVw4Q8+nV8Mr9G8HfOeLMCNPsG/ZXZtP5lk/9a6XKmJaoxm7uEn8cOdDpH5ojqEEvuzeRV+4DjpIFkYLs09n0a7JSiWrhbYccR8kED+IHb3TI3KNidO5yLI7M7x6o73CaAEJv2SfE4e2mo9vgr+vP1elsR4g8bY1P2wY4l8Z0r64sRI9Wag82Gy8Ed9tevaAuWEypkk3VFaFVxXq5zjK4mDy4Rix668/lJT7A0MQiIjxrHysAeYRCo4leiCLTGHza6BzfO9kAiSXzvzoEH2BdHQdd4UZy1k6Mstv6t+i8A+MhAKoJYV8AmdZ+BBEFqWQw0tUrLiV6okCMyd2bmbQ+dSbWxlncyT5Z86HZ7QGePaAQTpP0GU1NnAlqTeZPoVEfUumaLGGPkdzv4m2H8A3LwHa1lNxCIpOkGdSmsOsCAtrNqocccmhaCDKHmZ5CzH2eSBxvbxFuHYJiNYGrPxkLa+lqARxDQo0XuR/bYz5wEDDDshvcgM44LI2qbjySKWi6sELJSad7PKYs2AzjPkqHztrr5WZOIUzm0hzraJYx9VfLVIlsfDvkXy8SO4r3v4FPh/Bw0k5LyydsIQRm/bV597p1J0WYHfZlnNpe5+B3X1+qW6+S8ERJczu/PAqsWR+88MqhRfHT1AFQ2QRak5cmilHxMUz/54+fleKyppbAC66T0u8QrCYaAFYcBU5cpVMaBF68qlrHcCKWGEHxWldknH+W2SCW/m5Pq3EX15e/a7i8EWylMGEvAh0Xh3mjU8lUuo/Xp56eTinSscONXST3ZhZ/qadnPjXifzGtSfj0eNhc6GqtegTDCc7Nx30f8X1SfXlCcZV+V+hn0DQ9ELA938ZF/6FGU8SviiJfw5dqCXF+ytt9d3FvaFM6haVhgM0VMPKED/CIk/FSqAYE2UtUFpVTSkmGWN/6niYrCOXB1r+T9YMx5Kxo29OlbiucNi9RrXLDWUpCCZ3FHhVIuf5fRUWv9InY0AOFu0KfW+O8UTx2cV1ZUyGNxot+o4tgcNuuOR3h/EUDMZwtWU6Ka99bMGwNJx7ECAEfCCTTa/5mzQhfgpuAEnJwro6a3Wvn0NL07kyYX+o1IDt0HMPXjCYRRIoPvWFgBG0++T7zbXsYVQHZkAjvRDbPv9witmN+6aVK1PG2V2hE9p/RoZd5Tl5EpVjOw+AHDZQ+YTgm0suXYtbQnmjjSHSzAesPIF4zjLbiU7uKVh1FdbtG1fBGkv5X3/4timolKkqWS7/UP5p6yRPR4dv3RVv4wr/FS+0xNMWpLY5VQ1VEy5VrvL1v/qvOQ1P7FiLq8/pzWEsocsyjTJ2NgqSEUBfax7bA7aNyVQ3XgCLNHF07YMfW+vOoPtP2YiU3dlWOgYzLtCOkYMI3jWBHOsUnhioFm6B66N6InOXkTVuMQ1hYV5bPccx3PVg7uDg9kic7GR5lSWgVMv9hRZsiQoF1c8hWdnrO1HUUkmSCN920KmMRl5F9CDAAwMZdgYOxK8CtnTgURTbFZ93ChgA4aHZg==
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Functional+Programming+%2F+Function+Types+%2F+Exercise3
+status: Unchecked
+record: -1

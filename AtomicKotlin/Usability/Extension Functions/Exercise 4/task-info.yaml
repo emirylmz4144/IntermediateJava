@@ -1,0 +1,14 @@
+type: ide
+files:
+  - name: src/Task.kt
+    visible: true
+    encrypted_text: oZOP1x7C6RJ/ZY2yDn9aUumImsniS9Nl4uK3ADla3RzPnFNU14QkW0bpbW4KpUjA0i9pPAYAYPnhWw/zoMhXH2OjNiqSInrwn+vPdWf7BiLUowbXRFoNbN6+ypfcxlM6XRD3lCpV2JZKpV8zoLUEl597CtNM6Hn0h4WvYHbMDCHPBrd0ZifYmpkJ/X7ywSJF8EvKE9rufSnGpmFt5lUzYwDYBMzVBF49GkhA/kTSDTC0Drwbm5WdZkKZDxjkrOuXnH/2v0io6HEmFkthLXq8poIpQ0b1cR0HaTK4CsNislPRZDcB5wd0J6KFdfhgKPBHcg+WFiiCRCxvn/9ZyfRe/2SY3Z9nqhGD+TJAXojoi7akCD28PjpOqpNNRkSVeap1dnR3l6L3GIw1bnP/1ALP0OJcsZYe5X9ewC8Ir2uAfU8=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: OJ/VvKJbfR14tfcNGIEjsYvkJMT0SJrI0oe/DIzsfihf+OuwmG0DV19wdLNCft39
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Usability+%2F+Extension+Functions+%2F+Exercise4
+status: Unchecked
+record: -1

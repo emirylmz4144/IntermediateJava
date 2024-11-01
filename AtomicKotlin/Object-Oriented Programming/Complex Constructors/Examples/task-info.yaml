@@ -1,0 +1,13 @@
+type: theory
+files:
+  - name: src/SimpleConstructor.kt
+    visible: true
+    encrypted_text: jYgqCmTpqkFMR2dNpD826pR/mDK/6QHEyepBApsJYVdJap7ZVeFT7h8THWRLiQUw34xDJRzK7t5ZJOVbROEn/Ot0X5K2QCK/PyV+FqvD5n0qh6sFGF4vn/hf83y+VoF/dGDsjxTz5tWb+AAAMmhi3gRqLXn8gNK7KvLFUkhZNZ64F56FU1l6kFK1PM7b7uVVXnPCk7rOu9V7sKmcusFUqDoU8Wx2O0dfhLdZP/8iPA72bFcXeMMVlXTpqy+X6E75nwdNMHn2QnBcQzi2quJUNA==
+    learner_created: false
+  - name: src/InitSection.kt
+    visible: true
+    encrypted_text: jYgqCmTpqkFMR2dNpD826kvfPEHNfMJJwtY+84gMPgX3JW9xzv4wIGSgrXYBreafOa8i9Mxxelth+4KXGbHmVBVctXt+nYw+rT71h3ykpHg8jPUyBzItr6v/ykM+euWSwOJ4fwTY+iEbfl2zqKEekwSt8Efb7bLqgFXCKxaXAUwAukKGMJSiAc088T+3PSF3nquBqpwZzNKGX3ClfXXONyJkb9tEga8k0pHhe8lN86pz+NFKWLAQDHhpuKmqqavdb/wx2xHsi5Tb9VnyMg9TQbXcMkblmQEJRpr3/h2Ej/R57LFwgWySQK+BEmArNrpct1CbVkJAaXed1GQBXieF3DqkrqJoC5HBWygVQeZ33RpHDSc/NmJ54wWnJpPEyVwSDOzUDzTdJN6EcgZ9F5NDZMyh7d68zTMr/qokhpQgU0JU62MpYbeqkdOGXe6js8uYe+ILP0l03J0taPnW+g3BbZE5nfxyQT57D15D9ePK+q4HMpcxSyStybehvpVC/E6YgwQ/Fjgjum1iDJiInssFZGBjAtotQcno0N8MeEfL/xE=
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

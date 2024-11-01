@@ -1,0 +1,14 @@
+type: ide
+files:
+  - name: src/Task.kt
+    visible: true
+    encrypted_text: oiFvuJ8k9YNMY/45IIyyUwXBhYbnKDAWH21QuJqhhOZep2tYhcWEwFXUcTimtAlBbzcOXXl2SF679H99Htt10do2TprP6ugQtKvJfX2jiUw8I+bIBSKzoWnfcP1mJDr9j/Q3o+nQ3fME2KxM4YIwJFv5BWmoelg3qhx5qqECFAcxnqEW6la3BfzGbl3kwfu5EMZJfA37NV1gPR+XmMeUH2HHLZB6/3Lt0O44PYo5awJ8Zf1S2lmLnKHyAXzUF1oNjIGhjfRZ11n5XoqIfJmvUtkctoT6mFmGhMt8rmhdLLU/0e6ardJ9SHj5HF9HXBhEB4VNsYe7MO0vC0M1sdzzAScwf/7tEx08OoKOnRCA1FgdWMKftMDqrXEwOZ2KReDb
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: IfsQLNPhY6G0JFc+rNIc7jsAJ9uWmc4NOrn6vzIVT26RVvwaot7Kvg2cfzRmzFh3
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Introduction+to+Objects+%2F+Constraining+Visibility+%2F+Exercise3
+status: Unchecked
+record: -1

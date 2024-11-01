@@ -1,0 +1,21 @@
+type: theory
+files:
+  - name: src/StringTemplates.kt
+    visible: true
+    encrypted_text: ziGQOjgkKm7dlGET51GACPcbI6iu2Kg/Z9RlAy5Pnm3s4m1keQPWl5qq7Z3NUPnojdtkL1RtpAe/QToK49hXps4csjHIZA92uMmyyEvWJeCEEg2/j78zwnDCDvUV95rAQG05mIy/NZ4xWCYjtj/TmYlskW2j5OUp4mLO4a/bGhYjSGtKIe6M+ZFbDoZhr6mvXF/uBJYXzwIFen3ZasH53OawWyUV0VAzD9icla+4Eh82b8ET0ou85Bfyh1OU5XHb
+    learner_created: false
+  - name: src/StringConcatenation.kt
+    visible: true
+    encrypted_text: ziGQOjgkKm7dlGET51GACNIo77WuePVb5OhNGn52VTGBaGLcgkYAMAgTpaszBd5Ssxd8hvbbTBNYfP4CnhNdMqjXV6GqH5O3M+BrwOXlvFTxyQquB6MQptrapnmVLtrYmyATe2t9E4VULmVRktTHj4iymjveSgeFnPZ2DLSzsjVWj5LXI4KraIX9Cfcy0ZwN00U7EXERrOPhSb5gSqEFgeu4fj/sLpUjnmnKHKRgFXTWLED3Wnz7VvhGtCVDnV6I3cyrwe0Hs/g+YA0B4C24LAJJBr7lsZF3gQkJSqq/B2Bb6CG2a8YDkhyrB4lLotABE7ftC9l15uu7zfadaADQWg==
+    learner_created: false
+  - name: src/ExpressionInTemplate.kt
+    visible: true
+    encrypted_text: ziGQOjgkKm7dlGET51GACIkNuCqL/zgQwVbFTJFnpYwIb1FPPhmt4SzvoAKWAJh5o3cgtnugqNViuhpv7t/JimGfEyzJKKuLcJSIQCatl7FVKdalFECCIYqjBmWrkKO2Z1XAEFJV/qtlUvOVhWxcjCbEYt5CgQ3IupPzZ1pb3LJgTPApzC/wTiRFK6LwlWnHSh6IlBRDoP10p8zJMf2415pmn9hA5ETsYbGXnLj5WrCyhuOglTDkp9zpzdmU1Lf+bXlwN59dTQ+qsguGnPD8zucsS434PZXglZFaxJOHowE=
+    learner_created: false
+  - name: src/TripleQuotes.kt
+    visible: true
+    encrypted_text: ziGQOjgkKm7dlGET51GACO6RTzSHg0T2RCYdQQax7ZLCo5NdW5OFlMDUWapHSuIxaUUHULNRQXys/UHk6yIidhafLKQZzY7W1to7cOzgTkk/7Viql0SBFuV62x7kdOOHLfCOCtzIg4Ac0foytZFbbxtm3nypXq9CQXgE4O2HvXwm35U2CKwqfMFOEbcABroA+onfe+8/nW1LZJvIVxxdkTwMaJJ79vIdQF9/TtJ0/4k=
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

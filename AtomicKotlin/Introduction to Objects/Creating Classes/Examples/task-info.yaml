@@ -1,0 +1,21 @@
+type: theory
+files:
+  - name: src/Animals.kt
+    visible: true
+    encrypted_text: z5xIgCX+y50jfyHzf6F9a3F9RIdnZOOKqYOGM3Rlf8gaCyywDoLIJiKLajUgQzLdD0hWRXdhG+m3SGafvNKmYMp6aKkHU5qCjKK0T8bKZunF2d9Iz0j27H/W01ZkBA075hFw7uthMDYBEIrBXcld6ioO7ogQ9iP3aEI/RFq/VRZxIgZObME1O4D/wCgdoHtf1TbJbE40c+qmQFvo1Ib1AGyZlZARuSwQ4chnpf2yl3zCzlk9nARU2lrdvIxknBBoXWM8JwXIITDft2A7RYRdvYeGPFwwXf0si7uvWC8Cjtg7Cc/ULC/9RtHfagupyv86DQAeopQQ221FYGcGvI3T7fbzjcGcCDaTXhsNHmTKsSOB0j6GF4LJ+ajfhu8oXMdbcMjKO16hF420N9xHbSctMH75xGPy5+A7yQ88LBg2knxJrZtePFZIGa2aIhFYwEkGUWUk/UcyxmM1Lj7U+sQHO1jufn7o6hMMWBANb2rk8DEohlSjwejAy2hD+ErCJBgR
+    learner_created: false
+  - name: src/Dog.kt
+    visible: true
+    encrypted_text: z5xIgCX+y50jfyHzf6F9azwYXsR6gEUudMn5qlKrWmpcX+yI8kpfWS52Ij0/GK+EMQhae9s55nafxX5hqDQkWj6nereV85Eu2TVLxWYWoEXm9p8VZ2bBqU9tOCZkR3WGmPvaksHqar9z3o81fkP/DA==
+    learner_created: false
+  - name: src/Cat.kt
+    visible: true
+    encrypted_text: z5xIgCX+y50jfyHzf6F9a5K5oW/ukCI9LfzG4ybUpSXVdtsYE1TyTis9ry53kdbR4OJoCB7JxP0kpqyERLQIbuRGRiL3Z9x5FvLIIXi7TAixdTrs+yo5omnsO4YbHKAntAks3VwEMH2wIrxQMq/HyhIQGk6T2ROPG8OXOjKV+X6VYQKqub/p2Qsz2+qKhiMlvJeE/LJ5IbSQqj0c8Gqn7FRNauFQ4iKN8GLKwQg63np1IAo/M/Kj69DAdZLCepLB
+    learner_created: false
+  - name: src/Hamster.kt
+    visible: true
+    encrypted_text: z5xIgCX+y50jfyHzf6F9a9PknI9WJdtF9MlCYNPzXed6Zks30yCIB6EjBr6f69FVRqrz9mc14EPrVEobExEyoBcgfJCzkxMKUIfXJo+BYbXcYVR5WigLgH9vSGnw5uoW4fhDUKtB5LOEGRdrJ6PMmQBcte6oQvLfwrg9zqpg1k5fVfqtPvELTFHwib4sYP24Mf4NukNgA7d7IddUX+wFpF/e6mgDtTFjdfWuzA/LPq4aW2DB6DC8JfxCbos2MLeBU+j8EA/a9WXzzSwCib+pPr0Hbk5QGbiK+uoquG9dO8S5bjnSkIVSLL/xTQwvlWXL2PJQRQtyOHq4DI4d0CjrBtTKM+kHC9+8jX1MsLQjPxWntcl/x801uW1t/F6WSHxm8likTRH+wPT+ErjvZJSk831ViTpJDVTSSjA1LUghv6oPntb36TgolDhrmsT6DqPk
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

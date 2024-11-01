@@ -1,0 +1,95 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 173
+        length: 6
+        placeholder_text: ' /*?*/'
+        initial_state:
+          length: 6
+          offset: 173
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: EhpmrxNKTQKREQQxBoxtuA==
+      - offset: 186
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 186
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: KHh1OHixMiIEqAuj4K7A1A==
+      - offset: 224
+        length: 6
+        placeholder_text: ' /*?*/'
+        initial_state:
+          length: 6
+          offset: 224
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: GuugSsPTk+D5DaT2pSp7cw==
+      - offset: 236
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 236
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: KHh1OHixMiIEqAuj4K7A1A==
+      - offset: 315
+        length: 6
+        placeholder_text: ' /*?*/'
+        initial_state:
+          length: 6
+          offset: 315
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: GuugSsPTk+D5DaT2pSp7cw==
+      - offset: 328
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 328
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: KHh1OHixMiIEqAuj4K7A1A==
+      - offset: 363
+        length: 6
+        placeholder_text: ' /*?*/'
+        initial_state:
+          length: 6
+          offset: 363
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: EhpmrxNKTQKREQQxBoxtuA==
+      - offset: 375
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 375
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: KHh1OHixMiIEqAuj4K7A1A==
+    encrypted_text: Vnnv8RPFksdNr2Z95UhDmaoTXuGm5JtRQuFW7egBCzDjnvRs4KxapQypCzqVes27YHl6oQridwHaiAGXLP6tz4LSuL1dUf2NOqYsfZNsHnoAvfB2ip4PR/b++PuBVF2Vt0P3pDvhBtOsuvigL8lcR2wk+Y6Yi97gwRWjkGVFRZStRd3yMVYpM2BG3JhQLo008qsdei/zkQqqY6gfUuVJrLXnUdG1I1F8yqYJYYkT1dH/ekOCzjFEyeSYj+afy7MQiihfoIhraf7jUmlwK7H4bFgURDp7ekyMDRT5m0X9YE2wdk+1oFd/J5hAWTHRGqB6eQcL37ciVkHPS6PV0lRoO8XlslFj9UHL+Ltu98raH51G3bY3SSzdpbqyChyK1p24aV2PlnRybC7P7kjl6P2OqrWBw+1w/hOwrFjirjg3zLzvEbRTaCI35O740H7t9f4+lYelvQP4jur50ASuNAMdoBG5qcP9OL1SMXLuXSrXHn4dMt8N0j0bcqOSkeP1pOjgI7e03VoXPtMf2XthhT2XGnzfHCkD3tzRVogDGlv3+ENP0bbuafQll+D3YfIUnpR3mic9vgDb9eySAp7Fb0V9EA1jgFp8KsiZRZtbN3HHYvMrQn5YiJFatJCMZ4L61IB+mAXLgnQmH23ISjvSR6xtmFHmAGSaLF0iP7rlfkIHyhemjtA7tk95O1CVo4htlblfj/akvFjV1bvi9Eqv6VyBNDKocdDqwQ84RdwRwtTpowUySO4nlzEMzl/o604jtIVV1L0Hr52DiU1CRKdBwLQN64w7tGhQtx2Gj5aqfOkKQFeS7WTLqnftVZiTcSrnj4pvacpXPCTqQJreYSIZ3u0ap7SkFSls6TSr1nmbt0SaRA5JoSpJZtY6odXWgPzxKiV2E/t9YvSlYtTnY4ZZsHXlvIwRcdLiWJ5hkj4yHa//iaB5sHPUKi/J4kSb86+kpqiq1K2Hb2wiM9ea3vzFVKcB5fAU5tzkqdIe2Vz5vlyg62O0NwgiaHiRIYMt8g1nSYp3PLwAViyvOGKIpAW5phI/LI/suKoj7+S9DnxyCYY9gmvOsza3nDr/FfXViera469M
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: /U4ZSy4r1DA3YBoW1xAL3e2aBEUSslBBHm4+KHy4FH/USocJQvW8tk1ck97drJhd3XQmgyNfVuKvfS8/1BOG+GvmWcVTk4+O1/ytVDULFcguefG1obKDJUbCC14oPZaPoedeX2NCV2a838kpuCWjHKsCvnS0wJg2E0ondg4ku+IqlE6kWaHIDyijronOtjbvX8cs6LsmC3CYKUZpXk+x3QanCZpuQKLNXz8ve8dy+nKD3H904eEOp2q3dP1qMBB1FFHoYwLTMQWt+1Rk4V61MJVDsb9Bgnh+JQGRTiPBOiUZjfnRHzaPJ0FIJhSiquVpFPI1Zbu5AAp8XSW6Q7vPcLS9BrZvU1PVrcYIT/jlojxYlumfsTyvX3wmv+2HMjYI1+nSGU8SJPzIfjeKioWHaLEaT+brF26lO+BJ0EUOaLbrj3a6BQlf43Q4dCVqmYKR1p+xhuJHOtJ8DuR/Zi/hp6nDPwphTGtiOq4LcYMvt3t+5qBtKKy+GFuoTliLmXVufZFEv3v7ltT4VD5TGLgfokL046Xb+fmGO2ve1Tn8V1L3mNm0uP1fscDvNHtHerRBsAukiJPDw8Jgb30toruJsc2ynW86Gv4DWKmnI1+UTVS9snHWJybMgsdmi3ByI3ai+Tdkb6WIjlUmFIO5BjI8nk5QwcP5kYfLIGCv7omLdmV13Hubs8L6TENQG7A0pLwECA1KBUtFN349lWz2h64U2UT7QqGA6Xmz5x5tVT7FPgZYCakcDyvE6FrvNv0zabaNlLSmBrT0S2nrwhbBx9E7oI8GoM1/K78KBoQv1vxFCiHbfLZfDkDmiLnlDK1Dk3MS43BaHhEqgU/Ug+luL1Y/AigC/LfHmhaVsclFJyzpRC3WdYokfxtc19rtHJ8v4gyQlaJOSFPHOmrHOsRscIGG1Ztl/lb+zo5c0ampo7mt/qXNyx1oTAfFyD0cWt5s+FZV0HG6TBfasa65cuGVaCnc2CIpHB4zEh7VuCA5ywxBtUO791GZeoFswFhGCYSEWBarNWXWaXyjHUenZNVFG6EZTCKMXzC4oKLKufrATdxjwNxSD/yVng9WWV2alZqWpW++SyxbxdK0NBktiqqU6DJKH2HBwZswLbV9dXwDznVaoGz9IvkbEEzQN3B7jiOPH5tsIn2sTavzy6Zz7Vn/KiME1X07SdMTmAA/m2exzuCFdvgTgeLGzecn++WtVJVtu0kptgYfeakrdi40M9j87ZRIRbUcmmevqjPEnQ+Ys2ZvkU53MG8f7YZOmJzvoIlxzDvCUAM0NKR2sS2969cR8qXUcfXcL7fZ9dAjJ4b/zOv72WvpMlrf9QAD/5SzxTGbgwEW/g6lElpHyLIUmaem03tzpN/ZxvBNETpjCa6FlZ1OPrjbfeH8/GqhTeb6cT/+WzFwxPnJ2pi9MVoM0hDjr5P2vXMtojAaxbGPVhCVvMM53y0vKTe1ZdyEX9+Q3H0Yc2n5fA6YwwaKutm6Uk4pmBMnDlXnzFqQDfbEpkUfrk8vi69hY69KTnnkPzWwNpXdLnGGCAucEX6EfCoXyaPlpDvyThbM/KqBpXXJ2VdRXhEB5dijzUOYcnCMbACFEITAvf/4ZrUDaRnbanoEtc4RoQKdbpFhvqUJEDNDLD2rDNLAuhM=
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Functional+Programming+%2F+Operations+on+Collections+%2F+Exercise4
+status: Unchecked
+record: -1

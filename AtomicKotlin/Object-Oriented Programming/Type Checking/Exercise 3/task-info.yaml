@@ -1,0 +1,127 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 114
+        length: 9
+        placeholder_text: interface
+        initial_state:
+          length: 9
+          offset: 114
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: uflqW7j9sTW6AX27UVaN9A==
+      - offset: 135
+        length: 3
+        placeholder_text: fun
+        initial_state:
+          length: 3
+          offset: 135
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: ztbGeTgPYvJZ7jDObEl0Hg==
+      - offset: 164
+        length: 3
+        placeholder_text: fun
+        initial_state:
+          length: 3
+          offset: 164
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: ztbGeTgPYvJZ7jDObEl0Hg==
+      - offset: 209
+        length: 6
+        placeholder_text: Insect
+        initial_state:
+          length: 6
+          offset: 209
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: SevqUjl6wd7zal3X0IlVIw==
+      - offset: 230
+        length: 6
+        placeholder_text: Insect
+        initial_state:
+          length: 6
+          offset: 230
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: SevqUjl6wd7zal3X0IlVIw==
+      - offset: 376
+        length: 46
+        placeholder_text: |-
+          if (this is Flea)
+              crawl()
+            else
+              fly()
+        initial_state:
+          length: 46
+          offset: 376
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: xJpd1TYUDtaTr+D+ADavcIuezfZsLh+CowR0Z26x0kns5IVblxgIal+1kVfxIGJcqvFf3yI4yONhekecYKcH6A==
+      - offset: 434
+        length: 22
+        placeholder_text: "SwimmingInsect: Insect"
+        initial_state:
+          length: 22
+          offset: 434
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: gv5usMiAAcOcDETkJVSrHQ==
+      - offset: 501
+        length: 19
+        placeholder_text: "WaterWalker: Insect"
+        initial_state:
+          length: 19
+          offset: 501
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: WAl/hD7S4hNC0xiIBL/56g==
+      - offset: 593
+        length: 14
+        placeholder_text: SwimmingInsect
+        initial_state:
+          length: 14
+          offset: 593
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: wefjQ+hwRgCsXryM3578IlLloMsZxk8pGQlzK3HlST8=
+      - offset: 629
+        length: 11
+        placeholder_text: WaterWalker
+        initial_state:
+          length: 11
+          offset: 629
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: YbJoOhwzbElxXUShSockgvWdMprNr++Qx26wQgQ9Zx4=
+      - offset: 665
+        length: 27
+        placeholder_text: "SwimmingInsect, WaterWalker"
+        initial_state:
+          length: 27
+          offset: 665
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: +vnqRQyDHnikQw8Kw53V1ojTDz3dKOOKedeWkXs7opmKs0qYzTS731lsfdzE84cP
+    encrypted_text: KImeZ9RGobiQntkHnK4d5XDniwZEgNibusAdJ9ZEFCzDedt+Suszqu2jmHEUW9F22WELPtu6/fjmFBRRnV/68o06TKMaLlAHlEH48FHqKyKc0FI46r3Q0IuDS63wgVMv5+c3O8ZeQWbCDmH/rKF/RBV8Y2PYP/AdBknobRANUKoOLBIF7IB+qvXJymkz1Lxrkq/PGRZ5GPB+vEUoEE0HK1ng0pnTbeylMlow/TiVRFyI5akBbgC8AndH67+iXCl5mF/EHGRZtS09yV96n2mDsQJ3mb6ETDqKq/Ab5U+J0r2ZBabtn4bX9JNEmenpSj6hPfWhRiUKTAEKrXUC5uYtYoblEbRdXD6AfjSEvhzHG2ZH4MkdHHtyPtOOJac0mxHpcNWeI2pqzZ1SFsdIKSJ5oDGeRelHX/7S4hjzyUAwu+ygMoho9F7baHva/cTS66jx0VIgLTuJcyLwQZTGYOMG3M1Lepsvx1RSon5/VDfdMTmLC8aj24nbNdQlvPS29Yetgn8w1LBTK7juRZe1p4dbm4EXnsJCje83tdkR4cmn/DKqbwC7mqy6j2jpdhhi2Hh9EYRjMMRpTv2qcl/irwg9VyI5nC5r1GP3uOP5JTcaZcqneNhz8S9C9WjwIXgZAv3R14fdRAa/l7YeQg/IatH3Xt96+EucfPkfzsPr2DQDLpEHWEgIuiy7OBsQRBEiqT7+b82jLGzfHj7rjOGU9iQXuLrZeHcleJXlhXmIrpTUTT5ziy86y3Vl3xYeON2dKJcvvcIGN3qL119hOlXtE/L+jOr+CUg6tqCrAz6/9jLs6H1JH1ErkCG6RnJRyowZ77pSdAgd1b5q9TjQJze+eUX4gipZ94+v3q54D0gRvIZ4CYRW7OlgA+jGm3j1HyDLTESiJalsGoUKAUpxwdk26hacMvHBgmTs9NXpbkuAghnm/Rga1NXiFN+lAmV5U/cdY8jc+dN2rkcnuLyihJDVLBfG1mn+ZSFoB3JmzPa0WUdbUawFKefm5H7zz1cvOKKZeIJ0W8QLr/7NeE5aLdZmRwuxgEnpHy9gEGFPCahAIdDSCxMFewHCPppk2/f7Oq2dtPzdfE8Qr6vidWFusyG8WseL/juxGW4oGMy5caGezKLXf562uZ6WOEDfzkm69S4vNSvXNtKJvp9TAPZxr5stRg/VRe7h4iu+Vqcz1hGyUlOM5e9Kb1PG8pXsAcVXVccqRFbyQ5A4Kct9rpOzg+IEJxvkULZ0e41ON4lVbh1t5tsMxTgXarGYthow7XfS9HVWZ9vqBmbU6JsVNYc6GzRrA4+vXEJk9vBuvxrL+arhwQGivcWGhz++oF/Bo3XchDT5jmVn1ebJXExBpSU0wdJQAIpuQ5cS4TasN2pNeOoJm14qgHtwVVQ+FelMUUw5Z7uF2vnQM9640S2xn6FQinh+sW7g8AVcbx32lHch6hl6C90NI3VuMgXGQYTYIjvUF2+aIoL8Iwa9T+6oW9/5xN/eFYhLHbz76K0WpHJLiuAugZdQSw9V2I56DJcL2SM5A0MhTIu59T95eF0+ZqadCvzh6sNrg1MBufFwUp9006j1gLxXhDv8yEn21do8gCvclqEhp1cEvJly36o/ZxikskNbWh5d8zg3+STdxk1cfFMTirJy1tvbCSPpXT8ZvJGP7ZW/R1+0H9orYmpcQNExOCSfSajs24AnUf06wzFEvQN1mDnYVVPxAeEQCRFr/ANMZp6gQJbqzy8EbJsgncpXkEX41M920K4KXw5TczsdJJ1XyKaom85fweCLzBHM2mc64XfZ7x+uDp418j8L4x2PjOiP7Pc3HBApNSpOeEx13tb0Vs6uKh4=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: liawEn+LMMxVxwTfGDR1KEJXalToMFCSas4b3sZmfcn+2RA01Pc/Y5oETz+3vthvc0xVYy5eAviqnQ5yUD7MCHsRlaeA2jNZJnmAPZxK8UKmobfHxSPoCMcljn+clRsTJzerrWo380zc4+3fzFX79ivv96iE3ttOgK80/ZMw0uSEwjAwmeHySyGAFaG8GQ1fpjLZG6UJcM/7AzBOIk8htI8uvmlYJAQuAcbpBSdn1Y+oiLu0ZHoXaCzmPFFQ1pS8
+    learner_created: false
+status: Unchecked
+record: -1

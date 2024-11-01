@@ -1,0 +1,29 @@
+type: theory
+files:
+  - name: src/DereferenceNull.kt
+    visible: true
+    encrypted_text: NM8HI+iPyUrYSzSuYKr9SQwRbieW68TSmrmTzRKIToN8xgJULrbmpgumVUZtbO/mViIOZkExsX11ZlCE0EVPsHbNHg/6uSxZQOayQ9jvEZ8t7bcZMvln9oErudApQ6gNUHo0GFx2LRB6eQlG/QbLag9H+jGWzn8qOmjWXqQdkCWUhVTgKKB0qeME5IV0HF5W
+    learner_created: false
+  - name: src/SafeOperation.kt
+    visible: true
+    encrypted_text: NM8HI+iPyUrYSzSuYKr9SYnffVkn3D5PWzA6U6GcHWjGhTVJ9eroHN8qGJKIArHBzqF+zpmUuKYj77W7jkda7quvp27PxHjJS3OSZ8nHDQ/Z5tpSz12Artr8Pdcb/A+AoSx6qGmyX1Gex3QnE2DT8XNriDKcYZ4QL3YmV4cHak/HR+MCkSypP45hWGbmPQhWd5hbLX3TqUHLzicWxhcXH9ESB45H7nFbawRAwpJN7H/1ZpRGzhhV3ujPggwbNHlraOgT1wrE211le6QAEN7CH6p+VlhiPzPrgN8p3zp+N9vLl8QnoiUBifFVf6vnWNfHnTXT6lD12Y05SgFKQZxE1ANSWENys4oL/Zl+EeRHX1mvayX2W4BfizYd8h/l9Ec3Y78Y5VRwklioDhXLB5zIzJDSo4R3CYQ+az2qWqI63lJ06x48FkE4BjHXTZ4Ad0ZJSn6hCY9T3UbJzvUrrSC+IWZszU20aiul2ijmKzlIwfk=
+    learner_created: false
+  - name: src/SafeCall.kt
+    visible: true
+    encrypted_text: NM8HI+iPyUrYSzSuYKr9Sd0ljaDMSQDwS7bBWf8P87RhtzK7aTJmYCjsl46g+36QoDU7amqmXX94PcMD2EUZ3gjgc/DzzGrS+kgs6MUFGcXEpU/OFd3vZgjp2/OhXcsOfQRY+zgtzu9s7sGlUFCZvtRTuwRgWspgEcdON9+/LZYtEDF0fIguVoN055qDPR/DKre18m4ucrEpIr0/PyekeSplh/EhaHDM1TsLIzTKDdsqVW/pCZ1D62CzTY0610uob5fcHjLAkdmnsb/fzdKmKonUCMFe2fKd05psw6WD/7P76cgv6/KMC43xZmhYc1YlFjgzByEjnjOQ8HmVyP+G0LzKD/c1sQh9jM0no7NTXQ0XoG9RCssJWtRkM9WU2wCs7as/06upxswiO/C95kZuJHduaTBDM+fmelw+vKxw/frSDtZdAn+SaenuJO63N2vla71Ug/WyCxdPUkeHveXeUQ==
+    learner_created: false
+  - name: src/ElvisOperator.kt
+    visible: true
+    encrypted_text: NM8HI+iPyUrYSzSuYKr9SZfXTvbmH0QFA/MIPVMVrqBqX9M0U8z2qT+aZiplqRBSSzSSKCwfRUN2C36weGeV6rzxs6U1/N/AErpNVq9Idbvg7j2eKBPrHuPjSTA2qrn6Nppe2UoIPJffK879OeiteNIsvGhoOzJR/NiZiLeo0V7osNQYpIdJxJtITNs/baxWyY4lHlETUOa0lBlLwxIVQxK6RK0if5sbeqCToByNb+oOQrjdjYRQyNHXmeuZzX4g
+    learner_created: false
+  - name: src/ElvisCall.kt
+    visible: true
+    encrypted_text: NM8HI+iPyUrYSzSuYKr9SR1TdsvgauP/Cmi8lHIoYnqnKmiupoYTaVasw1eoJ4vYet4x27obTbYlADEIy3gKqLXuGVjRQpAIpDKf8v4bHxVYNtRzYe8orXKxH72RIJhGp5hlvaB3NnRm5VcUIT/GLHtMTNGSRHU38DeWZp5BHkPFgCnG2cmzCz4V6c8BFxtsaSUV45MxGNOJ+CWe4iptDmVI77c2ThuTV60NSsPwHNMkaJvkGXgEYVVBsa6Kpb+HQFxc1ESUzK/qYltl5UEIsMBrqTCL7S4Lj2tufTbMOO1zCPdlxfsEWCCzCiOZDYR/u0hlZQwPyFFCihXGPkOMf4m0f3X9TERQGjJ5Ff+N8qzXAUj2q7jZ6TsEbhbjKofYAYflfdlDO7Zm4WY54XF4XqBdr0Q2wOXccvGvQbLaXzwezVmG+I8VguspnccasP6J
+    learner_created: false
+  - name: src/ChainedCalls.kt
+    visible: true
+    encrypted_text: NM8HI+iPyUrYSzSuYKr9SZKxsMOPj3gvr/Ztshrm2ObToOjHzwtomFikbDDfxM2jkMLxkxdYB1Kzli6bRSaf1jOD0bA+3WEW/tZijXPGmmqhd4SWfThuPY9VtonT2FCbFQHf6tVxdqk8e8tNM5zFKV7BZ9rQtuz6FlPF4+QOqLBVipsWCe5YyGThmN7OEL6Ge0nnZocmKaERPuasYvhJ57jv3XVPQogC2Fx5CwfcLhI8rYLDPWKStePR6XAMmWOtiS3iRxWr9RoVY6WJSGg+I5VJHrmGcxQ/dXFbD9RqmfvT2vPfRMZJWUW/yyGGNmmGjR9MqJqlamfxLhangtymsMAmNHEpY083z/kmlpedlI3kO3jj4KRcWv9X5yzcc/4a8sM1Yx5kdqdpbOJba6ZilFLWFNRGfc3SPJfWGYlowWB6qSN0Ln0LOgWHB9lYa1v5cTCeheEvcOM347W19e3gj8BKFa/8RuY6e2PsHs3aEMFkwMS6PiucsWNW+1PYqXlSTCq/hkQuyeOfb7kg52+NOfN2I9H4/qfVmTgqAryDq4IyJriE1xuPqTVXwlaswbRBNF86zvB3+iF6fvZfXq8WPg==
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

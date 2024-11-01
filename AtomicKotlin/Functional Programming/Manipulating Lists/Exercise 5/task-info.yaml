@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 146
+        length: 21
+        placeholder_text: TODO("???.flatten()")
+        initial_state:
+          length: 21
+          offset: 146
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: dhKXhp/uQnw2v3fuR+xAYuBpJHP3efXDii8G3H5NqLg=
+    encrypted_text: q9z5s+nKpxNy6eHHPx0Ge0p6M2c+THn6PteonOihugXt7fMag3xcLHZOCW8jydqNwaITj/M1lrXBDThwgeTf0lEj9R9vpStw13G53v6Rh1XV792MZqjNFtyO5l1gybCZCe9lBWk+EQ5fjsaMPB9QWhsJsoIcYmd3gIgsDKbSE2n3+0jsJdAcvFJnQ1xQtviAiPmMIKQIi4zSqALobEc7sIUT3b/cbOPmTWdfRr/25DTujluU0QQ1o1wXE5pWbNTKql/VLBrXRXW5XuGMEsVRDL4xcWqUI/ArrGKoYvgS2UALn3rEcMYqD8ptmq+eGKzWpI8sQCNd6nXeQb9JQTX3bkjCpyRXQA5lJMp4zLR0T5xU1FnpmSbeOcVT4CKAMCtQ9/0HtOy+1o171uWdhj5ULg==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: lQdR1b/lq6VntOfRTjM5Q4J07FGGyqBkYI3zZs2BJqpRRLqbkG2DFuQwtwOoak2k5IGmhMypiQGgtijxftKZ6mldpOCe7aVhuuGNTOZuletUHD8CICJwv6FpFRUyhr8mjj0p4zbwxAIJp2P6LA7kaWy6ad3CnV+N5w1p+6I0hJ4v1P9R8lOC8b4M24OWoIGo3dQpgNmhCsAogXDr94wmb3EzhAWsSC3HtO+stg//bIEcN+h5p2b2ewYocMxFIXgz0ac/c51NX833A1rFhE/y3ZQwVjkYdQNeNy22FewRshBxMsxHAieSwTrFnjmW7WKv8TzED84w7+eLedBqwJ861AyqYErz3gij/0wjWDnbQkrjGwKCA2rH3L2aFUtmwLgy2I7srP/H5AtymlR4qAquQ8AV1/sV5OEWgmNZwtpybfqmQW7VEvq7dUVwfIu0A9VNuAjfcFZv8j0wRpvKWKWMHNgeVLkpleasdilUET+XOlR6reKOq1AIYpxxk2+tHLQ9Ws+Fa1G2xAuIRKRgjZ1mSOTgmv5SKinYgn571yW1m7w5MbrBdBbAFaqOye0jmRcOhhblEHyiJiggjgWNSRLRTSWb6YMJ4dkX2m1nZNS0rAO0gZjMi6OsggWIUr34TWFGzACq17D4I7aT2sxRM8qx8rTj9dByfrPxMJcfD/DMEzT7Ca/Q4pwrdGdHKm7z5iqcVaPMS2CnPdqyKrVk0oIkn3NkQQfXYBCabCRMu4KzW8a1PZL1maqlOKj9TSejoGCP64xDq+i/z82Dm7enik/6yaTXrOQN86MKtsLj0jPrR2bjUhgxw5KKPRmnOwqK8ZUBGG7g8GQRpHdcxdqwgXKHmp+wFPI0ERUAmGlFIrCc3/BzQzihuZGaEQtPb4xfF/ZS+JelVcWWYYCOFFv+RhQ14uBQBCT2taGwWd4AVhdqk7JDyBhQFOLb+947m6iXAJ5865Vt3QtuMzyuiyvM+bcfmbMzoKPyzBwi3BzxxuKEVw8=
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Functional+Programming+%2F+Manipulating+Lists+%2F+Exercise5
+status: Unchecked
+record: -1

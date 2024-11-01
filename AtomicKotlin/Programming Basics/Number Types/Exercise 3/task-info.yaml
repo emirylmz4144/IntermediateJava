@@ -1,0 +1,35 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 105
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 105
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: OqFt0EJTNyKNOhAKU5ABeQyANB6mcCokRSAxWFVxKbY=
+      - offset: 164
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 164
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: BnDhh0X5IgsYbSA3h1HPDDDW8eanr5l5872l/1APZ+M=
+    encrypted_text: +RXl2ExswN+QyFjhk9TWrkgPg3miOblI7iQQQBu/6OUGL1u0C+LcxeGL6LS7OhKdCUQkTKAiZKxJv6OWyJ2zKHUqcfI8/fmfV8VczS33I68NLKTkODTgw5deciOE+kBflUzZid9EcMkKMbeVeKSAADeHwcSKrW6sK+8oAle9nGGwXht0Dpm5x6dxqCgjR7vwOuFus5Cb2thDBgGqF8UaelLYAhV/XET5LDTcSv61OsHgsPx9dzRkmNRgG/tORhEldWfNYPb9AzToD4Xc9+LyNkipBINh8Tp8uXGI4m5Db/rBzwdokeEdrVgr6a3PWOnWUUkUPbRNPnwtOQ4hii2VfbNP21r+DljNYoZYaha+o7D5BWUVaXr7cwiHeySdnzKT
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: nFp9Wn8VhHQw0s5o+lqGjghx1kgGMKQJHxAVeUQcU2CNeE9HVJIKXxnj3oEh6nzr9RXVQDmm2G3kyS1XXWZMI0DNxNISMGZ44QryhnkYQ/ExsCWz0/fOIwvBfd6Hsl9hYQfP8TzTaK31+8J0ekUgKAIbofJrx+0UCMhxu7jQtuBRKUgIriD1lTvHsv9mlMlkfU+7SznXWjJUHt1sN6u8WQKAB4/qWDbnq0huH4QS0kWSaZp0dhEzVrlmKttMMZaR5+JNnvCucIe1HRDzgzmCTkeuwX7j0BNen1VedIhKbwa5kk77KzG93jLiSQe40cSTOFCiLDUvFjo1Q6e01dBa4Tz7jIqesmHLjBxdL7VFAMF3YXUk3/wfxSLpzHKeX185v1WgJh+YJisPPt3n1lauBFfUPnjq7PJwDFTWc3WZvmEEUI+Rep+p72SdMpDAeUND91vrgFzjMDtKXDEpXIRpZ8/a8OiRw55RR6oJVHBGF8MDmKLMTH162Tj2EDoP8D0Ae+xH4F+X/n+me2lhcsv+lNEcnWFYdaviNCITIItOjigqEPAu0ryrBQhPgXGEkxt1jqURQcfeNbazVEGsN5McoodSLsZBwN690tdNLxQhEba28O+GadzNLKQ1YqZfi2tfUjO+8Ts+FYgMVXURR3ZLy30C6k4FN7LwIBg+suHIRFnRgc4c8gKRQjYpVZfb5xTamY0T/zcErqyXgqQBiy75lveuPskCRdpe/KJ7slGpCJqUTy0UtxkoHBV8MxzavBkLkjdHAXG1YCH5sBTA/Oyh+9q5gkRNVG8lG7dn5rTYJa34HtAAwJ6TjCOUhmH/kWwPzl8NB3g6UAngnPIpIIdmbCOTuHapHTwCsLlfne8mBaN0GH6WX85IImtch+NdNum5h6GzNqOBlE9WorkHHQB5qJcObKgg1eM8kLsGr3pz7GnSYbtOeEc17gk0mko8C+7UqHgo2wuQ3IMHnmiKFU3YS976SXobzAnoRjgeP2BEGdupAuOukpTJoO7hL2jMW7efj0tOEDuZlIHx/prKZ2s+sRx55R+Vr1zMoIJQmHvwTQF60CqpwdN4/WGJNlFnxtBPw5FgljA3Y9+JYtCl5xN+iq2chDc++CgaxXTpRXPNGiOQuG7kKkdmTJsk2iVWcZdedT0zbGMo2UlXb40sDsyJyz/lWLiznOwug3pVP3HQe9UTry1vYC0VqJ+64m562lp57ymbLatXFS/cu2EdyJ231lPoRxoxczviqNucCKXe0bomoTL0Vm5sbBBprpF5s9ufv5x1DYNQrWxpn7jbnNlBlpbkftOPocjY+cVhRUhPc1/8NTdbxmOT2EZI6dqvaS6lJ4Xoj8uZnpzt4bb8rZ0jFmmiNpQ4bSUbJrKMXs8oRcONA7DC6eEBg/viz3v6SIi9F6zphqG7EMMl5Qin01Yb8Q==
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Programming+Basics+%2F+Number+Types+%2F+Exercise3
+status: Unchecked
+record: -1

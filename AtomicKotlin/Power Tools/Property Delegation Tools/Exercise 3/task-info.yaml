@@ -1,0 +1,43 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 178
+        length: 16
+        placeholder_text: "fun observe() {}"
+        initial_state:
+          length: 16
+          offset: 178
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: gRvJ4sAQ7SG3J4u+jYdRIE/Or8PqwHgOnzxuyRaNTU8d1rG3l43NUMpucXjXu0s/dDD+qX6L66v0mFuhVdXl/QZgKQSpvms7BnZGq1r183F2RC72TCDdrhqvO2soldXzI9+qN/0GZ8nf3wZd1EIPag==
+      - offset: 257
+        length: 36
+        placeholder_text: "= \"\" // by observable(nm, ::observe)"
+        initial_state:
+          length: 36
+          offset: 257
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: NCVs761WU8JxabLskwtCrPT6efWEMCWlh6MpYDBi7jc=
+      - offset: 306
+        length: 35
+        placeholder_text: "= 0 // by observable(id, ::observe)"
+        initial_state:
+          length: 35
+          offset: 306
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: Aerph9ktTkdx9+W2Zfs2TqIvaPcyE8I7Kl2cQK4etUY=
+    encrypted_text: WNBwNI5GdYmLRuZhGeEpkYBBMSttwfKZ15+RFfFpDaQVVt7UcYR2Y/O/Vs1aQhw8Nu92jR0MMj0zO6lpO4JA0xBML8KqPnvf7C4Pokwjt5XA0ofntpXPHWX4DnA7wD1HkxXL4dyUMhqlRb9JBrGHwdfi+KVfUfzugG4sQBy2srwGUKj3L4Iu6nPAGsUpZe9250xmJKk0ttScVg0R+WgZyMLrtzqjdv+1TnSB4jZpRXtLceNEa7hT0rRR3QocUgHnKpQhDj1yJ7xMMKEMKLMQMy1VJOU4gszP6uVi7npN+EnSarQ4t8JUWUyVQ3CpHUKF0hxFrlLdPHsSFR5X/NTVQN89mysSb4lauqrQ2SjztA3jOH7JGBQrCxLsoNCZu5zNEUAZXLaXbzaWF7Jgf85vooBioL8HZak+Mg0XbRaaT/X8ZdSf0V/wtbBRoXRhQ4p4gtslscdZHLg7KvDX8xiyahsU8azsgZ3Kbb6U22qfnF2SzgX4hULl4OrTCWoxBSb96yJT9ogGIUS69Q5KhtO8rDejmXOGj6P2nyssfbqOfwrUDnpbPja+HBDhXBC7lWB6lxZgOzusos3jzvxYkD5H5ESVMoQzEoMNEQz7qAdYeVyelYZ4r4/eeZlWgG3vZJZaucH/o5JJKRbCoBkgRN2ye5UW6qMF21piQTrE4BhYLWr/I/TgmWVQ1smPOLjsFc4TSt4fiLfCobuAlEwasw/pO4yy3ji2erdVbEpi3u8n9+fvupYhPtB/CQEW5t17lU9k
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: v/GXCfbZ5GdroYISxTKte90yCpzjgj5dtmBYqqbStqm06opUfi8D4aOyUUd3cW2ACEJ6bQjQxFGH5rddJzpxTukDzh5W/GrF+NzdD0G7NPo7gHcTqbiSrESzLqDSvVaf7bKkZGr9UqS4LwERa0M8qtxcw26ec8vL/2ICfjSsuiafsoTueczITcvtbRffEa6bZa6kzUvbAIlRuwa2qTr2mHUeAE5tw8LyNZnHLgPDzMEhjLZ+tGsSNr2uZ4Ug5dMJKB0aBdRgxlY+LuR8t9Ol1A==
+    learner_created: false
+status: Unchecked
+record: -1

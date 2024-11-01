@@ -1,0 +1,35 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 56
+        length: 7
+        placeholder_text: // TODO
+        initial_state:
+          length: 7
+          offset: 56
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: t7f+MVYjMTibXt/a8Oi2IJzTJWq8LgzweViWj0FDov1MrDGWitfePdjeOrhBR5vgUdgamC16MyxIxCloKQRmMnugFWv6wf9mfIb0E/E2Z1nqarPYKvVjwfbqJ/Pb8mQ6
+      - offset: 80
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 80
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: dogjUtXnGY0o8Bi13yhD1fmCYqhvJrHuNmbw4IrwfRAK/Qv+0eNxvst3g6+6g7XCf6JsQW/T34y/yKPmi4JnbQ==
+    encrypted_text: wsFajd1WBHNeyjejx3rS8XrnVIZN74cTHyue300kjUxe/W2umi1ysK3UonaQ/B5kIYInki4I6cT7o7pTI5ZiAM2aUbIW73qj3uVuKZn1yoZlDCWoM9wWr36iis5piB1B
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: JhUzcACD5CY0s3YQjoANEN6korG6HOucOMzHLCs0/ZVpkoG9emK59L3iqNWgWqA8epmCdoPlUwbbyefIv94Bf6ze0UDOkephShs6sd2jH1mfvuJGkyD7pAWyv7afXbO5XgOI3InBDD+rzELxPtf8qTFxDz/ZwGHsgMJsREPY2A9fulQql/mbKT/zYISWihqQG7rr/t0+/6Omlwbu8RrXP7CCmrjFFiiER6FXxx78GDXtItMdO82/45ebBPJpZa7iaewuA5xRLLf2xQSkwDq388DAgdzghQztb1h4olZu0oo4aZg76WUw+EGc1cVQo04Y/uSCpkvj1kbTXWM/eHTFjfyPkpnYdQ9mnUX7S/+5sEC9ttxymRT9Flb/ERH7sm/F4sUIgF3AkJGZrMSAO+BrQofRH/lgDMFFMyDCBHNPnh2wDuPJTWEXAkDA8wDdvUKtM1F4QJjMtic+LHfBLfqA80SXViOiKia2FfUCFvY5d6MK0BWeK4qyqH8qSTGOSMtaSV9cdzwFRF9YhFTO2Cql1SI25QKXFsUgCawRErmqksyJ5cTRbZQkb1V0OwP/ttQwQg0J7pku3jMi8Br16aOoxIMPFLRkYAeCR5NwGz9cCLKpHjNEfFZVWNYh9nqcauwFDwTDCJOh7gIPmrUyAJC9+zQg+BBrGhuJTG2uBLVUVPCFsE82/ToGgjFG90Jo4sYzXRlm7AcqrItgV5CLuwVyScmzYGs26VntV72V9bE6mA/nh0CsbEFzD4geMDRvZafqzHUggfi+jI+8g12zKagiO9DyZyOMVY1FhQ3ON02W5BvZA25xpgRFEIMkA8BRewS91SgwIx2/5lUvTf/+f1By7Rd1MSFreLoqcB4ccDmCwYqDepL7+jF9QgeTKC/uJkhUiJBcm37F1sXKD2jI7PtkiM4TvwUfBa5eF638vWPYSbI9ORp0X+M2ElWVngylg1s2YxUmPQOqNFTsoLZDOdxIiWQ5UwNRTQX6JJ51NR0QQJQ=
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Introduction+to+Objects+%2F+Constructors+%2F+Exercise1
+status: Unchecked
+record: -1

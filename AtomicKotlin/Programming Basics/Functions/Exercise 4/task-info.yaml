@@ -1,0 +1,14 @@
+type: ide
+files:
+  - name: src/Task.kt
+    visible: true
+    encrypted_text: P2TNWzrkldotOjhf49bLKk5C21JZRkI1uMtS4Qmm6C92+LRxtWoAefQkYXnRIs1GjqMUG9gdGKyymB/8uGAHLqHPG0s1CUwymf3bap1zprIFRTeeljMu+6SM5PUJ78JdUsMeWsMSx5hFrAbR1WDTuSmUIPTFoXfTz5M9Iu9OzlI=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: KYvcDJQk5kVfxc/6Na3wSRn3ZFSAYWdxlcthHw4ijuc=
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Programming+Basics+%2F+Functions+%2F+Exercise4
+status: Unchecked
+record: -1

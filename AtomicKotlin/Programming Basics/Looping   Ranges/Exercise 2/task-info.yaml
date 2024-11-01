@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 209
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 209
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: lNQrkHx1+77FvO+RMv9UELJvBRYS8Jr0TvNXyUgKJGoeKMcv0GfIhJL6w/xdgGVvHoB8QxEmGTgJ2C0hiQ044EfcfB4xburKSS9KatFs+BX2m8LSnNUzPdCPuY/RZQpl
+    encrypted_text: HayLqroDq+WHIoJtrP7c/NqUcy0v7ZhIsES/J16YPApLcTuumR37+fk2qMqOB7oMfWvq1IdRHovxnNswYKRw8EdMyQ50PprEVoekNUC2tGDPqum5DVfe4+yuRym+4NoINJ0mAu4dMfYplLpcz1xspBTzG12Ki2OST/0zUGWXzMAZLvniEBPcg4H7PoVTBPz20dz22B9YPXNGZDBnZA0rZqhfn7tYQwKbDx1pMX6i0ssSJS85VADMe0KpetUimdV8+jqBA5jUE6zBFb5OIVB7NgVfzb60AdkKcTau79VRocjhYbBsWZbUXTODCsv/K8gN8zEYHErufurBicFmzIjWce3/l+kaLA0CVbQW2Ptf3bJVcBi8X874nU3A91CPbN36
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: JWXMwh+etVi+8XxcVrQv/VV8Pg0v2VekCBpodJZJ37WPUEDDjc2RucfkNEGEK5EWaBmiXtxLnlPsA3qlv77aYkOmWA1ZUj22QYgO8YdYrjMFZ10IB2oz6qmQaa2vKfOVDNqnV68vOB2jZThmTrtLLEHy4IkEoSu/Mpc6EaVZTNHAomTux2mpt4A0auHTLZoi8ZrN+yinrbFgzygE2O4RoGS6Hym1T88HvuLvAds600Bo8rz+Gi1F26ji/2E4O4uohQaS4Qx64rV8kyz7U2hEuE3ohUYA0+b5451iXlUKqiQkBGZJ1PqwH70odajAG9rfUrDM2Qm20bD3+E3ZQzJpk2y3xzRaszljoPNbvzLMI2MkmxMU0j8RWEXqM7Gdx9V8nzgYZ0bapqJI3H8xkgD38XrrijdLuA7cUOvYNGxwWF2kA9AMp6X5aMOQ9K2jwB1bhdJAIKTven+9AzdtHkWttttdCXHsfNEgr4De/E6QWbjw0jjZm71MlU8BEHmvCdWIsyGSjBxOu6j4VB9WmB8223u495pW8h6RX7xq59tQ+tWyjNYCKcnxW2lZ9Md+x2kDQfa/MF2M2xBtYKqeofF/QBDaomeKWYkfVmmIQaOeCQz2MpaeM4xN4wQRevadv31N/lb/XAdICWcmJT37Rf6J8Z6AtnJw/3f9fyOcV8MYtpGm6op/+o9/6zw731yEGVwGBE16yXs1JFp4NJuw2PCAEE2Mqvw/GdL2AxlLmNqHoYD4wHw/dFpkFgoNA7DJpl/Z4F3tU87iuujQPlMSjTvC6Jm2ie3vKe36bniT7QRnjd1r5QiRkQ787LcUj2DrVYhk6i7iaTb6PRQMAHtl6g1KpC+9scbzdjY4gx7wAWa/J7h/7expRIL+nwIKAk5rTVQpAgE6O28p3DChZsqx+S+fkrUY5Hrwyg79By4beEPVqLBWkGnGrRBuy6rn/NUuKuu5K/QsP9I3LIthqjTWwJWc/36utixPfx+jpthpDyyVTJuWj2VoK59MYiliyrcEUZ2iChf/170XzndqeW++l+gac6C34piZ+KkktQk+WO4/Ol7LvUKddvS6s7bHIWF9074w2w2ZElcHWTNq0Taq5vqYpX7SfM3nD1GkqYNPAeFH4H6MSpbJ3PHhKUlvBGKc6FFZ
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Programming+Basics+%2F+Looping+%26+Ranges+%2F+Exercise2
+status: Unchecked
+record: -1

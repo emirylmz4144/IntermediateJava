@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 88
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 88
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: wYqImtFnbP3xGfAdfW1hX885kUjNqwb2h8EppZkjqHDLRlhKRWw5DqkGfb7SSLWY
+    encrypted_text: YWqxkEfP+VuLmRq3ckggmVvbpbotfR/+ezt3KwyZpaYuOEcoCqPTyaR/jCkIcLLnEmczc/h8Q8yL5/iGUrTEhO9yjPH+ko0M0CWB5tueWLH6XfUbqtP9POqTJbRiHprBH9c4+PCrSuVc35Uh/AZhWU9HfI9wtKADNx4A8mPLBN3JTiL47iQlI+9K8QoT25Zl
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: WZMcnYepZhoKadArUjuBO/DBEqxZg5Cm5I45mLIH5l8PLGGSvBg7rugKfCaHlf0xMIlCR+5RsMdB8Y33QYDw8K3ULbThcBEoTAe7RHACQFKWs3KlwJASJwMzweD9rCZtlQZzZWRd46ADhvwYSh4NbowNVeQTb6VwD7S1+sIxtOoHP62GLFGbM9BIqDbPX9UZFjeFXcGxHwkzYxeb816RyC4GlT+AILPvMbUZwxoHN/ssRGKwBbnY8w8NZJae5oZLNSYjnNqm1nreK5EvUCNuNkU8R1rQJ6MP2++//K/6u6DNzR+TE55rMyjjWGpBL0oQxHnkkfluT5lUj2L21Q1SznQ+crwvtN4lPiNGevBwHKL2gApvyvLavhkJ8YMsebQwBonzwMJn8Jr1YhgFgVVH4ggTiNA4OY0c3Vxg08avMasQTWfBVomzB28qyF8VTifTVuqa8ADUVVUAhJ6PevGEyz//MRgSAO+tr3IeEMSpZGk4mziQ2kQchy8squg7vSnT1rNQG5k54YW/EWUgVsK3mwLNTLoIdnA94CEkUx/jMcfsmed6TLdtPitMiGiL/6Ck0iidRw5Zu3QnhZmPNjXb2pW8qRefxHwxwHjdKcX2nw6sWEeD3dkr5gFbry2qFf4WHUtMpPD6/w0DW+hZoCyUiVfxTAun5G0xj1bSQoHdPaUPImh/nhQRD4Y/Pt5kBFnF3z4P6npVVFRjX9Sc+K3ISj/41IwtL8/3MQA07c/BeD1iXrp/LHZnTdywcyMIqA16zTpa6UW4p1s6qB5bEt3V3AkZ9+cOJ9xqv2C/hBjSSoYiROWfu2t6jSLDKo0gd8rw0T8IGJhsZyjm6Zk8yNg7iRxpsTiOFGzU8aJrWsb8kPbZezOSwOJ0udLrIHy5USWYc8GeDEdU6o4fk7/PLwch1UL34nJDlJ63pSJhrzxMVsY=
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Programming+Basics+%2F+if+Expressions+%2F+Exercise2
+status: Unchecked
+record: -1

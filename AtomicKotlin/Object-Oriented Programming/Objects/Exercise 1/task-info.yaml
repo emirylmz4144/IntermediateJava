@@ -1,0 +1,45 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 142
+        length: 8
+        placeholder_text: /*TODO*/
+        initial_state:
+          length: 8
+          offset: 142
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: zeBYVUxksYEiNFCxkpr5XDPcPG49SeTsmlk4RE3N7XmJfTWlR1TDj9fs7pEhUuYdxCCfx0DrAeVtcNkSiPfocw==
+      - offset: 180
+        length: 8
+        placeholder_text: /*TODO*/
+        initial_state:
+          length: 8
+          offset: 180
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: zeBYVUxksYEiNFCxkpr5XO8EkV3DN5CeGUoMo3Wdv/MFU0ehCF8ehug2pAwRWZc3Se7LOyM6NAO7K7r7XhJcuw==
+      - offset: 213
+        length: 28
+        placeholder_text: |-
+          /* Space.f()
+            Space2.f() */
+        initial_state:
+          length: 28
+          offset: 213
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: w7STpeZhIDFicVllM5+9/MCFotXxnfN5PlFS3eyniTo=
+    encrypted_text: Ow6X6KJRW2HvLfyeCoBMLyyIVLLODYvWlkt5WJyS7K//HEuFeVJVYEVqRrphpakflCWlEN7tqWSp0J/QNCafkFZARk/lr1e60Hz+6R2jBBRjQM8aIFtp24g/J164ZpczN3xHCTKbiirK+vbcUDa+7u2RLvnt9eYchDzXjFeG0YwM8zWOUrh87UJYbckciWVsxFXiZ3hG5z+RlPMsHo5Zf+oRTiQefwSwVyK1mYDMiifKZ1JFV8WET8YSmhKJyBdb1x6B49GeSurU9dBmMIarQYlr0tfVtfrVHL/J6hauwoVO4cVQqfnYzyizxDHYPnBM88gF9KjMYTqKpI51gMNJ/MfD5safNPP5d+MOe0vMdoq0+kEvonTbbGYZMQ7pEnJFzNoaIslVtnyKLq/eQCfE539iv4kQsHbz1Zm/r7ECecvzJ1gjxaI2Wbp268GQN/rJ
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: moFr+NT4RKMDOJ9x11/Yr19SdbiZtIyNa4pHcersVxzWNcNA1Kq253xOQ+Y+sgZ0B40vZ6YalT6VlFrwuhmTSAIDqQlcoJESFluB/11rS4SS0NC5hmaTzJ4x2Pn0sKRjiW/7pPcl5zttFlXm8SLfwTtWXYCAFfrJepOrgGLh82oTpLNFRT6ka76708uIsxRZEi/QVyBF45TABmpWq/dT1285jnJEKrs9sWwqPtX2BSU=
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 104
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 104
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: GZyCLYYkAcO0fAhVzUeHMEHuxQVmAsQ7OT2nFiq/KwQFWr3HSw0P9X977Xsgxi6Z3wi4rCdKRU5gJHphAToh/u5ANwWgRpwy+ZQKOEwwAgtHdSHcW0u6wunk14uMef/Ph9oUK4kiVaGSMtc3OaHYydbEAA/zJ/o9OOs/K+7EoiS4n06Cu4B2LbBd6kNAYg4F1l0NlTP5klYd175Way2bCkEo7M+AmiV0u3LD4i4pLgE=
+    encrypted_text: ksTdBg8IFBfyaoUxJcbYG7tKbxd4Qyvu9ugEsXFkIOxufx51hxC4NDb+DeY/IC5no31AEkxC/ABc97S0p8fa5/5mWHqB+riPBDS6fBClzK3G6+HcfLOtJ0H66pxSudcHBkfhowWbqot+Nvt5oKTwFt4Vap6LQF04vKcvfUOu4C038kmOU1ngYKAtHkCgyCCPSsH2RFpfLon4g3OFSaZu2XJ2i7qqSK0nBXVD0prWeRbMEl2iLg2kNvvBIqlNWlstmxF3QOiv+VkkGLHKbLAXxQ==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: 1ungw6jj1L61MfyRo7huTMWyzb7asDg1uT9BXsYKBYcUbKljr/AjIfobyvbJqSc5VJM5ieZokS9wpCk9IOvrbLu89iF5kUUPGZ/RKnYvhvb7P+tZ4qOwQ65p3gzQ9PH9y6S5YGApS2u/q3bhJJT8iOGX/Fo1KhsLOJk+Xq8Kj3MyEXd/u8QcQDsRhe0QrIcF7uWNjRRWBy9J4Wk6kYeWJ9R46kg7Xnl+lifKwe71Svr8wz0bVNm44KsQUtUeDztemXRdHH9KnxI9CiXBKvN2rGOq4nbg3nIoA7fD5IOQ33YUb9E+MlwFlrwpm4mIKguLKbKC9yxqk0Ue7iTxiXeW88X2KEP3lmE1E2Pix4GOqMXxavwvbYdV5/3z/MR6iAxLuNAYYQP+zoAPM45B0Tg5qIUH3bxJ8Njf2wdJKSwizUhYSHkZPUJ8tN7BnrVJmNjzKoQfS7KEnulruBrTnG6Ca1q46q70jvd4x2BeBUW/dj5KOdAh2IndtN34bPohZEVRjYn1G4C+LqM0Xm01K871y3HGVWlQn0auL0PzClAAf+1kbgRsX9ZxAr9/vzD+oanDAM+0Z2sWsVS/UtNYRbjKaTx62fRyEkd51unY4NdTrzoJoeptgw6fyAlS+CoiGpS7i8/5gMlaXnmZLlZLRNGnr0QdOCjKWnjRr3dfRSovFAw+BkAAFMyAYtOkbao/dHdtw9O6BOtHb0qgRi/BUVR0f++juxcpPiTXArv+mqwP7qJdq97DHgQ1h+fgjXunE+8kdqUtOmfWjT0apa+ZT8BUdFJp7B7ZIQehcca+uenCML+pahDiX31QoTvFFh48LDd3VaohyCUztVGlkeHoS2Yu2jhLK6mpQVd5cF/gYOPuHO/0wVgQg2ZTha3M3eTLQ4GQ
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Functional+Programming+%2F+Recursion+%2F+Exercise1
+status: Unchecked
+record: -1

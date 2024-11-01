@@ -1,0 +1,25 @@
+type: output
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 92
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 92
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: kHgSOrTxoHc2YzBIUxo9KapwkS7bRYXuFK//vWcVRzQ=
+    encrypted_text: vuX7VUq7Wu67eLEnM/7iYEBuQ+el52AOL+4bJd8CBfqra2U8M09PdMXG9idHlZ5u99FsfgnUxZdBsdDtdSDgarWZPFouUtclsDWvYRTxXP8woSYdDsxFHNaFJ9Epk8HpvEpbZ9UmBoI0Hcb2a5TvIw==
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    encrypted_text: Vhl2sbo0YKuj8f+RSj39dA==
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Programming+Basics+%2F+Expressions+%26+Statements+%2F+Exercise1
+status: Unchecked
+record: -1

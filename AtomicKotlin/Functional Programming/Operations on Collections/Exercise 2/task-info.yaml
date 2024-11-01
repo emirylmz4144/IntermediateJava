@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 129
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 129
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: itDEj/ZmvJCCRXDFtwYbPW6uxxl6YKsxbDflfzd2wT8FCyt+bqNR5otXTp8avC9kgxEouQmLSh7iTGtpJ/zuhFL8EBj+TSvkM1PwOV+4IPcuILLGuQnjoLft/VzZK9/k
+    encrypted_text: Vnnv8RPFksdNr2Z95UhDmZVvF8tqmQDG4wDwBhpuaCB2IPHayoklQNTrzV0D7V4jchDJhbSG/z9Ybq14zEGd2Z7zyvUcRKRVSpIuOqegYTUTr/NjaLROomkWvjj/UNRmyOjKP3o/lA2lFBroxGX2TgnPta2DMTuAPxhpDacyY2Tyn11F9F4iOwskJqct1sAfhJ8m3ElK8pjvcclOd+jzTaU58Tzoo1iZrk21s8LkWRmbvRcTBFEqT26wPFC6ymBJhiZa55VQuTgkDZOLBCcBQymgV0k3VSNf6W7ZW7F1JPrJFnWG6WLY2kEutjcxkmz48ZcPLU2Hc4MCRA+hzS2KiqHSwX6cH5gPKQaQwfYuUtTdbzM7dru5CdzG97LMbXeImPXXtXjcWDCSG/+CRJX5ieYQLh6NKgCMePyYXBtUW9tWQNtKnvmzzQtO7cBJnX+G
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: /U4ZSy4r1DA3YBoW1xAL3e2aBEUSslBBHm4+KHy4FH/Ooq2uNLb23j+750IRKBqsZSUmxZBXv+st+j4HnnkArdefpxBoso/888KlXqrrtjjaatt+qVbolFMzzp1PzhbSdA2KEz9flTnda2BmmFxhSvI8PL1CIxFGvb1O7+AAdYmzeaOUQgmWpYfXBTfCUaYz1PlwjFkhgJkQWr+RhAhxMoS9w7A7y4thzCG/FOEM1eK+UycU7gIg+s28Rdye76nXVOB56Smk19qTTgyJybnc5noTayMj0I8lSGfWvIdhNUx5SX9tsowCIeLvV+HuqyuhGcrxHA0etLcNRc2+HVIi9wTGowtxwsdmo7Iuz09pJwHOkZOt9WiAyiXvETfpN2DhUE+SKE4l0gZrg0zofbCGEATve0JFDU/HVB2UN4/kk++3TRoAyZ25UYsv76kUZxXwVQ5+DvOIGnUKAMeU6pQZUpI4yK9RPiBUiqkp2897de8DhsoKZFyq3nLvCUTmDhzr03CCLVq4dTyZyCbeScFcqS82olG49I+JmNuqqgk0WzUfHQPDs44+gZ3p2PjJWL6e0bAv7jkhWe91pQOpA3g01Qo1AabSnkaIBbnbc5id4whpRyOQL8jYlUPqHm58dPx2T0X1esf0mivLWM6GcUqHqJlKv8vVagadWoRtBHazqp/FjwIR38gBsHCbChGIxuN0qPHeUEB6JjGD4QMJx/fX7P2028fUAbrJcz8yVNV4IygmdR3o+oR5LVEm/41GTYJA++8w2IbZmqV55VNvvGfkPgKypPpCiobmGryzLtkS4RNOnxIKtLE4GW/NxMecMyAerEad7yrory/gqc2aXeue4+9LIxyMBstDnNPekzLphanWgkaWGDneLyU9IW2V8tSvZdiHAly7QxWOZqnnrD2CMognS7SvO94PhOZKDCdrgwejhUqGutiBdJyt5b2lfkbbY7votyX5eQ1RLS9uC65AfQ==
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Functional+Programming+%2F+Operations+on+Collections+%2F+Exercise2
+status: Unchecked
+record: -1

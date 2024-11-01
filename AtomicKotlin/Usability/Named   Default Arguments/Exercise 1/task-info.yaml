@@ -1,0 +1,33 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 75
+        length: 15
+        placeholder_text: class Rectangle
+        initial_state:
+          length: 15
+          offset: 75
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: ndiPy1cp89gBsLjZuCkRrw27Gr5IFPryLuxGaIutEAO9oxznFByqwn6I8qi1CrW8SKVAl1PEaNxxDDuBONaqq/0S6Zgyhqh5I62BB8ug8hPuf5cq4kWDcEMz8cTAx1zDShE2YHqW5n47MWOZ+KLUwi21U8bvb/62MknS9oqCgOR+Iij1YoFeWmhqJZ9BCpFbkaUyxNfwzsT+/RAGpyXOu4O0E2IlW21Q+HU5d0yh6CNjDlV6K+lZTOxjERihfWyxdv686Qop7MjslWMZW5SlRw==
+      - offset: 131
+        length: 7
+        placeholder_text: // TODO
+        initial_state:
+          length: 7
+          offset: 131
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: Ft0Kfj/kbWvFw9asNaJ9zh9yLqOcJYOOuxQNn0FWI0dEab7ZHUuJaH56AFYf+6knn3An8MeQvlrwAIJGxZhY2cp2N2bPIVreqK/vK2Prh3rwgSuGe+7Zu0SvRFilo4LJ1OvYYtqAaX6tx5ptVccfgDOyGbtCPscnDj+LzXY8c35zDx5NybOZqaVXU3vUByLNLsKApi3xPu9GFDkZxKBiwmklnG0oYSKqxArjcBHYpl8bkTJHYCQALxesuj7c+xNYOnRDqVnyBO6MmUZB2nDa7FWuggm9MsEod1QHSGrw9HBImtonqBoIYfOIridmHvzU4IcIzuRT75UzH1qUHMS3jveYBmaUaictt9ksl+KZRGmVC4El3o64J9OW1ZWOWgoXnS4CCQijlxX98fcU2N6IR0yzsWQC6meHPZNaIt0ITJjMIRk6ZRyBRge3ZBNpEMWwuVRsJXyDf6PHdj1cWFWdqCqKPwqrwbGIFZKzBQCryNU=
+    encrypted_text: 4cEJ+RiXi4bSac5lIdZZ8LfqSvcchbL+8FFHi2dvchMVSxUz3yOB2FIa//rT8+2oGEOLQOiO+gDCyeXOUgpJNpEo8Csz+n5h8BUHq+Yb8OlaG1P9pJsNl6tVNoeG8hPi4UermLNVfB9VwXiSIv+YM7fiwGwNrMoT483rDH/qLcYb9rBFTOeBU1TlTOdEXdrw
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: 5raBukUZIFEbl1+gu3lccK6bJU/h4hL7shN8y9tOrKE7ASjKjFD3U3FsS/QVZkDSSZLB3ztxyiEW2xFgw2gXwf69pc50BnP8rGN/7rM7i7R+eVmYZILThtZLXfesN03GfbeJ2RCxHXFSoMSrW3vZ38D152QkwZN1y99BQXf3rE4hxW67z/mPFh3+g/USQCVD8CsVYURaXUq1JswySr+QiWKjpm7KZNmB8NkNzwsI89kb6wr+Q8q7nPTu9cVQBaxXTDrAsG8wdGTH52DWavoBk07wqTiVnrDhACV4EmpDyyiuqUP+0BEStAU1JykeV5jsN03TjjLF/ugMcyf1GPuqD+uzTqNYFrovUEgc3VMLKBemMIXjjZTIY7cROexzUlpgnmySfTikqK3B6lBw03XUciEutegfY640HThez3mZBhUOwRT465LdVf9FCtxpjJdvT5ya7Tb8y4Hp1xkOJE57KWu3a3uz62Pwp9NDfBGzfoTFPKQqRMnEoZyTGOcNW6qJM9MBazP1MLzSRGkWjIxKViVHaPxBV01s04C2n/P0L/pLb4aOPM+tlzcdDgyKqEpq7J7qyqJBWV8lj17R1Mlk1i4vXV6fgPUz1OV2TfHG68j0x41z2K7zPaUiRvqyaFmNUfrLIdOQaJR8+yAVwotV4uNNNGGFEFChljz73DCQSnaBPhgtiGiltSsyP7VKAOoHpKscWTQHonV4SoVyK2chlC28mb736hDZPme5cXnR/VHwHrIR/JZ9MHr8+XBPBd5B84v6bLDB3qKx4o+HUcElDlYdhwOWhbzDCxfbenYYroJVW9EG9lzO+EQF3Xsb67gbfbrBDnanaPXmolMHxjM5tF22p+lV1PbDNpnzQBXFUQZJ+FqOnxuuiVuuZlCJyJ2BHzQWUBRdatKicFiOT4auZwPYOxTXGDEjJxW0skjHh0og7g5ZBv/k+A/1yUAIDFOMEfrjA4e0MEEAeDeYPmGlSGaemqPgY7KoQoY455K9jt0bbzx5o6yh0Wd7KQ5IyRNVOB0RvgcEo04BDPbAYZw6XAbZ+vvBdeVBOWNyxziILtPuV24auShpxcfHlyQZe/982kZKYMoJ1mivz9iBd8gbbhGsJN5+3WYjMEq85uja6k9zYr20tE4YTXVZzsbHtqtem9tus5f9TBcm2tC4qlB90WX5+ixibDe2e2pC7o619h+CDIoxpOft17wsARDpkKo8hklDm2XzBCuW5w6G3MfvOzDXcoThUz8WwieQ/WelXpBWXgUFiRu0zLTEHiBaAOeLRfldZgjs1ZRSHiT0bsnH7m8o8BvDfW++bymt0QZvV7VXZIGzsr5lqdUquhqiQ6qgmjipIrhwtsMNWsI13DzFC0iRTfhzvwkeUymg/PNCd7mrAzp92DJu+iCF9pRwjHSGGK84qDk8CpdwFTaWfuU2F11FjTuK2J9HgKcqTkPIUwY/uQOGqnbuw6SFrXNmuZSRTgTGX+gJBaBjS3UoR11/RhON1l8klJqeDA2B9F01yYBIxTJreIKqbCMSFoC8BpSKeOJaALysIW0F7Zj4bpZT3uWDjAZkFfLtElUWK6yEMkLFszdGtWQRsyuWLBluwfuuwSG1prml1DJIrZ0ZOZa7WWhshWZj16o1osxnPVpuUYGHjwUiKH9idQm1wjXc4wFoGY1TnDnSaSfZLo1cZC5alZqR2TTrO8oZLTvaSOOoZf38wc4IhZ66KD1mZ4yedLpWYyzfHrCYM1+h/H67rQ+dR2oVv1r6mddrV0GPnF9MsLmHxWIzLgQ8ZhiZeI814Bfzvpg+twCRK/1hyhaqkleJ69SVqoqYLGcGt0FDqy1aaDhQIRTaSa8JTyh0iI1sqhg49aAW9cgxy1jdIzyBuAH/ge3rlAWajA+0QG/1xEt372CSLNqaM79IkNiieuChgDiG6BaStBKqcummiQ4fIkHMux27pYCo5xEh0gKt6+bD9yG5RqOHOppqbXuejkMnPpZQZIZMkO+pF+SM0GcTXgIOqs1qHiUWKSeBQn1MmzwgiXGcI1EcOl0BRu8qvom25q9u/C/jAcxXnfxvw2uahW3TAkpXEc+xTox55jKRlVL4+RnNwVuEkxGPkCa+ZpzpL9SWv/YKz4VrILvVOnBjj8HHiLXhU4eo8wnYbqcuhlB0nu9wGIsu20vYs9w1lyNETyaAFdLo8aCHsQX5t8fe9amficPh42C/1x9NyJZiq67fOqi93nCrJ12V4eK9O/cn/WAIkPid93SvLUXgSazXAKpt9qaCO5NKcImUr3bzXyNzmAkT5dQku7tnn46dJHK21Pz73uqX4Ie/+JdmjAOKlMANCw==
+    learner_created: false
+status: Unchecked
+record: -1

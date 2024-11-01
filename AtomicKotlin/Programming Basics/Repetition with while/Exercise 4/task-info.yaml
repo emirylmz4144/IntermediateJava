@@ -1,0 +1,14 @@
+type: ide
+files:
+  - name: src/Task.kt
+    visible: true
+    encrypted_text: RaBi27xADCIeGpVFtUizeAu2XHI8Q9Zz0ucCN1yQ795FpDuGHdRzh6/bUUIgirAXVvpw5FW+LJWKrWyNWvCRNDjnvxz2gnIfBfsCUhZtad0P5AMcU4BOK4dEBMey9yOULYcatx5zfHxIJ3GfrXHi3Frtg8zunrIOIJ08/SxTg5XY4upjz3qrgS7WmAx61hL9CfyfhOV7jE37xpMnGYw/SgeJ8t1o6ymGjQzRDVKXCdA=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: TgLPLet000DRURwSTTyi0g4CDFpSENeBPuKXIQl9IzBnDJvOSJekXHyMM9HbdfEN
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Programming+Basics+%2F+Repetition+with+while+%2F+Exercise3
+status: Unchecked
+record: -1

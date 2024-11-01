@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 137
+        length: 25
+        placeholder_text: "TODO(\"fold(???) { ??? }\")"
+        initial_state:
+          length: 25
+          offset: 137
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: +Cswnh/EoNfCm64hlwNG7IUSJ0MC6BapIv/CMiptf4CGfozD5Vq7wGijCzGEhXJlnuNbYMNGEl7RTsQdGZReCAx9dUN4V8Ks6M8A9L3wkDY=
+    encrypted_text: 1cBb02GqHEYAaL7A2koyMb2ukmoJz3QX8qXr9hizloyTCD3+c8zXSxP/iU3yx6rkd9bXBvK/dctlx0EfflbQlpW5CShawsTkGzeIi8Bjg3RDiUa2cEkXNcCul5b2QyDZeT/5rYYQhGyfBq1+x2FmnIV+yddDX3OOUZNfXOa7J4RIpXOmaPVzKmfUJpXWTRxvKiySUvyjNTtQy4JtqapgzoE6I/Ke21daLrRZ1UH7AqBpE5UzB3+zZkwV8V0LovYW0kLTL398tE4sxCvq6w5vKB4zQjcDjC+atP1MXFvLt7teU9vfhpWbZhwotrQHPW4G
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: OiUsdKwkIE527CBkrkNlTFo/ugQx8oPwG1J9e+6+i52whJW3b+HSvK822j1uXnyhUYKsKdhydklNjfp9zcnyVYAwteDWp8v34eufG25shEZxByAN8HEyj4qJXOKBLHr5FtdcWT7BM5FxOOflOoOmpkjYM/+2dtDxng9hV+Fl0XMYMzckfS5CebxF2mHgfIvTzmpIt6dLKVIVvO5xk8G8Lbxw++3JvpljnLwk3o4h937Fdbgk+0KGPS/lJ+81RjaPFDb36XC8rm6jExb0themL1ksZ2ImoduCn4IiQsWWQTvhkJNnGM6x26QOC/RIrh5PBsEnUn930HYfxYeEJr66/15XvrdAmxNTMMqxgVaR2ksNsv1eiHmDezG2ULv22uTzkASkNnYhlPWzGBA021orVjvcWRhfBZTQo+jOsnXV+3hwNfogVqosBQvgn4dzJT6stSGLukQhWJtK1TyMoSWSykvmdb8J9iiRBGsTMYtWi/W4SC27FKXqXNps4WXlfMVv+67XMT+jX9XW5JFEpMnB4aNfnrM8+kmN2d6KGqRpDXzHxyBYy1TN698sF7NqsKRDqBXHl2SvAw2POrDAP/Mz7nWVenhTqMz2Q9A5G30t7hAzFqqoMpGswECU8a4oks8pTSMaCaToaSGQqacKH4EwMFg2CC4hukLnYubHBUmgOaSFZMhkYC82KNJmU+O2EBwcRdvDUEPbLFzyg2DrbTW30YeoLC5a9wfb4VpnnGpH1jR32ghewKLcp3FW4MJzJPIRykDsZbyezMlgMVccS/bjAtPuRHXPudLVy2ai432dmCnjZEW5uG4WBCqQzi/wg0dMgkOOVQnOiprYrx4zdH7zhDmrCk0b3CElxOg084yZLPLcpqpU1jblgLmVmNh6BWJXl7ZHq5jxFALdgFuw+InxRQwxGdrM1rstIoCk1NAXNXeDawcBmEUIICaM9eOCYrpQCAlmEGY7lPek+Bzb76Qk3gb67KVASQ2+CVzkyXVIAX2+/UAwj3iSTkcBexctWU4QCqX8FTHj6KSHLY9roglxsxxX8yLPvSi8Q4jTR9lNALrFNIUyKrn4Kz3ixm+wSL8LiE1QipM9PMjLHnGGEwjsF2/cjcFn3cIdgTOoDRRNa28i6HiR1ftU4zWlYmV2c8P8NxSZjvce8oMkRBcV3adV6y0wrMc53CW+mgLbp4m71STgpUKfykqxbUD/xdwDo1AG
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Functional+Programming+%2F+Folding+Lists+%2F+Exercise3
+status: Unchecked
+record: -1

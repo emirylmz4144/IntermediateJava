@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 500
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 500
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: Naa4At0ZtFuVQrRdS4vZwQ==
+    encrypted_text: xjDBVkmmbiWhopUO6Nlbh7jiZ5VVtdfMhuVouHxqu57q+Fm6kWaYmuayOeuVJc6B8Q518ZXb4USB93vGS1hh4gLNeMdfvldGHHYvxTW4IAnjVVQUNz9nWFDjiZ7OAuB7qJZAJWmvpRsUCK9otWNvor+5GZ9PhxzhWWa6J0AO/AVgHiDInorpKZN65wQ+I1p52Udx4GwJgeelD7aA3N+SozJB+1CpkOlRt9bE+9p8x0GqY18Rft0160As8Ylp9NzU/KIfy87AnvzjQFzbyD2GFENT4UlRVkwkNok9f5QNERtKR1Fca9IvBldY5j8mr/J2kGZKsqa4+59ePRjmEY2jzPG2eQZtekfmkh7AR7WzjVenx01SaM2k/NENHCeQ7MP9SS76EvqqF+VMaXTJUAMFKzkiMTkX9+qeXWvMon4uxe7zsa02pD+IYvNKs2Is9SoT9uGVDjOwwV6sy9eYHJdRwNO9MYHds1HAVXTV/nxiO3c4Iv8/C/n2olh9tWb76DO98GuXE8VRxZHEZldcYI2bIxWXvXRRyWaTO+EenfiOaOCZVwEFceWJRLrFP6fLvvI7IPYci9koqXeJGpH5B8pMZFCu4gx5Nz8QnCb/nFG40BpPSZF4w89xfbIBV2peMgj9USAEpp5jXD8HouWtJkF1KqXkU8km1krDQz81jFstTn7lqlkK/CeGO3F91XyobtG21+BWzW+AKDSGeFp1KK17M59PCqpCRt2JqaeTWatQLoQ/qa+mr975+TiUIAH3+pDI
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: NPomZeJPaolkSMB1zsnHW4KPVvu6xdygm7a4JCybFtWwt52tMzpBE9l9Ue3OhWi82kNmJRG1gTb+2e5QFflcMeck71boAyyk1mmlW2e0Q0g9+3xweoIcBp1D0FxWOmkOvWS9vNuR/YLZnC6l+Btrp3fEQUs3I+bvA0KtJ84J2mK/Ga/gmlfvSJroWZcD86eJ1Ulb70z4MJA5Eda1phFW0CCyflITNGGluxV7UdH/hA39Cx9x3Xi7GnHiZiUkPI7nokSCOzT4d6p5GWBUZX7KQhHgRrUlHLkaxAtA3Zca6ZMB/U/qxHHmaHJ8lzk5IyaWtiaXK3tNbhPY2/dHigrLViBb+HO9+mlgjN+PlWtCbVr3OEnTnTvQSveMv2ZQBSO64CwLxBCtr4tQ2LftGcbmu/OiBqSbzRWy6EnTyhYgP72Rsp2OHYfqnmb0VWUL2lv+0wkp25tAfBMeGpsI2BQBeqdAeNdISupBZ7gHspEbFd//qOJM4h0kEuQia4IB0iGZTqRCQPPOor9MgiZfGXzOBRRVdGAtaEfPfzVXZmU5nBBAKlar0if/oVT1qDB3AFw6GDdw2rp3Ug2/e2IBPNxcihA6L0819H/fgRV8/PSafSTE2V2jWAHjHzokTDtLn42gU4oxIl4Ryl08kTv/jftXXU5TxC1kPco6688DvGhYFgkUxyEENXh11dipkfa7CMyv8HanYaTnRyrHKoZ1k7ibuZye0h2FB+l8pA2VnrHzvgUIrw7zmpNAa4u/LqHQwjhkX+rxIJQ6rLZVTUhsU3g245UwVvA1UGUYd05gKECs1iP5Q5El4KcHkPlyIPYoCe3XqH98pvYvjRPO/syIQd9L9We+nTysy5GKZcJJsmoUvAfvk2pW7UhvqQIfV3RogQs29E3t+XAFUEDm2rMpvMQryq2PG9ZZVEupoCRWWFWsez4b1TcvrwjIrdPULU+04jfZ
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Usability+%2F+Nullable+Types+%2F+Exercise1
+status: Unchecked
+record: -1

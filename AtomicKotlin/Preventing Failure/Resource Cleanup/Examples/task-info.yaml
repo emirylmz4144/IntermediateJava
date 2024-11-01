@@ -1,0 +1,21 @@
+type: theory
+files:
+  - name: src/AutoCloseable.kt
+    visible: true
+    encrypted_text: zd/Xudymm/jQlUUXJJ8zzHNJ572cwQd+P6DMWoVXR0Wc6wiz5DhWCaL5T61apnP9JSo9AiwLy9R4uDOLbj3n16fnREHnwuHkd8KQLZgJJmwldb7/Tkqz3BCkogLs8Rm1N4MsGaVQ19DsmMmmb6YtpxW0b81PstiGQ8bpk6hCDu6ANns0gI8+hCE5i7vwi8Epqq4Z49xZCK0kSWFVVN7Vwna02bybFRzFzNY+fxr9SFCN4p2qPZZ730CbPMqjjvr/Nq7sv4ho9hw7L8Ec/vzVdw==
+    learner_created: false
+  - name: src/UseLines.kt
+    visible: true
+    encrypted_text: zd/Xudymm/jQlUUXJJ8zzCSYgm2I0NoEc9VlzLbeknt530R8T12RtYrIEMR9MnFdgt6jr0SUUYULtv//m4ZHwIk7AhsI16MjSNAL0bv9yMNzVF3Tyb6/EDUmYmCXkJfwCIxSSXiZnTKcJNatc6lLb3Zu9tlwk/9qN+dhP3K+epu6r3c8KeST/SwIdHEWSsa3zx4ORTmUp8t19G84YDeWTESlFTob3QjrSlSLghzHGna4hswH1i753c+GCvmzi9GPKTkdYE6U76afcuYZrU+IkakUj4S93JjeLjmj1GMxsXNckZDM4EF6fhW4t7O9N00EHJhMzI/yxieEj4crZTFVtjo+cp+D5iEeFaKp2pdmlVV5U2wntjdCBm2sdI/kpw427F2TYuAQgKenoTNLRvkrvPNill/Tu/r5Oz91BpwNE1IRBNlTrEj201vNJdKYSBTzs6r6EVnOdGijfjPm55/pIw==
+    learner_created: false
+  - name: src/ForEachLine.kt
+    visible: true
+    encrypted_text: zd/Xudymm/jQlUUXJJ8zzMU1Tl9PjqnPJEiW60xJLfEgRNkWeC4jcBDG7JpwmuAwbXOQ/gdeSQYPJSX/F78kj5qm+k37zMIo9JV5QY+Di1Va1fdRcUc7h+eCHeNeYrB7BeIkaukSAo9HTNWfkMeIJdOyzM45xjSDMUOhXHUyk/ZTH7Crd7X/rXMF2OH6o9o3HSeLKz9X4w0iFgvxI/8cQqVjW78kg0jg1/jVO3DZEWiZ8Phlpnyi9P/9db8VKsE8eVma64Kz1flhJl+IKYcH35bilBg9Zu8RAqjWmVBcoBc=
+    learner_created: false
+  - name: src/Usable.kt
+    visible: true
+    encrypted_text: zd/Xudymm/jQlUUXJJ8zzKVd6XRVE0gb85ZsAtFCRy8CxC+jh0Hk96euGWqI85GDOrir0Fo7lwB5EiD54DHtAdp7QvEIIc2/LD4afdwt1cInkotNZVRMlU19/lFoC3Uuk5tXrA27wwBngkxCOmZVwg6kxeCpWDXSwAPE7XGjET1QPcgcOgJipoZhBhrTb9VKFBHghS2v1afrXq/3gPAzSRy5HWBZ/rPVZft+UfGj59PSUTj90eaVjDzxcXmxTydHR18JVhLtKD1yeHURTedgPaFn+lIGqp8S7FglkboGrpi2z2mBnWjPqNMZPFOwsbDVtKECLn8smmJeClCVM5m9Pw==
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

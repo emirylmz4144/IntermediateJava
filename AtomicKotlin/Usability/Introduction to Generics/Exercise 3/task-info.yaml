@@ -1,0 +1,42 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 88
+        length: 17
+        placeholder_text: class CountingSet
+        initial_state:
+          length: 17
+          offset: 88
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: sajxz5Zrr/bgeS02XwewtfkTxy1elYT9796BP5T5k56wOJr9bive4OrE/j2uw7n/LMrtLF1itzygSAi2Kygr/WXoStpTpNE85BmUCUUTXHKJ+hY7zph18IPVI/HX/lfht4kcORavU4Eku+SnsOGRyCLxUC2yg734fX8yUx7FyaLSiCMDl2fOvQUgxWonxVS8Y61OpxQVC+hMLk4212gyjeKBmiqfEWAz9wif2LVL0PGgyTpVIezoN5wWuTmVKg5uNVClGY1lObl9gv61sqhjojmI5xCO2jmj2dco0z+NoKDDIKtEqnXUDYXhzzMAf46V
+      - offset: 120
+        length: 155
+        placeholder_text: |-
+          /*
+            val cs = CountingSet<String>()
+            cs.add("abc")
+            cs.add("abc")
+            cs.add("def")
+            cs.count("abc") eq 2
+            cs.count("def") eq 1
+            cs.count("xyz") eq 0
+          */
+        initial_state:
+          length: 155
+          offset: 120
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 6W49skpZbErSU1UDb3fx0Bw+YKN56cpqPxDeYxF+YnBKx6JfdAymQYVINX+XvjErPfWuDm/bAEYHke/BZyK2DrvoH42qZiqEzp+OSbht6Dp/PHxFvMCSyluWZu03UqcXeGB1uBOv+RIVu0p0zLwAXsAPYyeIi7jH2wxEnQfdmozpL6oxRUCIJhU5JLVfmv7UfwwKvPF5APb7hCBCeDIV1g==
+    encrypted_text: euk4cY2TJBQW3SzeiSn5KhbCzCrvFOJlY5+rbY7EF1zQ+yxtIrBElmC2YXQIKZ9O9k5iCB6SO9br3w0uSb5TajKCFzcggXcmIdfiQZv3FyKQXTjhwYv98V+/omBRAUGVlJn+uscr+l0ht/w+zatlfsNpC0XrqyGpudLGUkXBjmBrDK7X4q8VN8+I4Qu0bjXO4BZK10PfFCkQe4VHlHleVglRE/O7HaCprCKWyx3DCSqTj8cJ3SwIcHU5UCL7jEVQ2JK9BH+X6a0g1mMvVdAbiVH574gx2TIvctjxPxsrR0c3TYqGK5JXS2Gl1UV6wxcP+JRmRY6X4aXbMhfXmaIHcjEmZITUtaRu7KbkmaD0bG/TWr6aR/8fqcy6DSt5njUc
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: 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
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 89
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 89
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: f8zUU4sa7tMxgi6ysOLmlNG1IetBlPwFkUrW8HrohklrqDfFTlDvppcDcVSO/YgE6h+WLGfEPOM9gJyhz/8Vfs49YGLEAwuSqXWOd3B5LvRKHOZrLFqw2wSSe+dHIlpBBP6Sc0tSYK5g8Po24Zz7q0+z+XoISIx5YSpKADeFJsn66my3X8LlhPih64ReKhNk
+    encrypted_text: JOlrc05WUCsrcvu8aiKeKbxeR5r1TmXq7qhm1iI9UqvmErMNivU/SeWV5SuCEQdIdzkoxmzxd95xWYDHa4zDjzg0A4xVaDPE3lhf7TAN9n45ShEkuudec3csHAyHm8cZgKL6zqmM1CkCGdUGEL2U0GaV3544W47Ydp1B7FeL+/QEoWGrnDSeBPpa+PUCt3yvSugVfIm2ZVhb7gC40nuakQ==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: Oc+lcwIagKT/lVPinXLRoGo/BmTuLU2mN4C0OkNuUAM3yIe/HXL5ufrz//TiqWfFFF3bic6QscO9QI0WoN76UTWSTfJdKvi0rS0+cNXe8hJHGTF10QxOLtkbsCnEQwkY8YFmtaaM4IXpITuGAmbB6U06WFaVWS6wNeR9fgQ+m1gITqyQ6Ta6I9vRKXryuK78YUCQ64ySnTKoO/nvb/7pqstEmZ2ENzi/fVX3c1E+6Vym+7NDHbPktHtCii8/1aeQONGId1N12TL0j5tPTldLIwV+5O4K0psGQXxi8Me7vkPO+n35MElyhZJ+h+ug+Bj6qUOV+1bnNWxUjrgou2VajBy4t2lt1yItzOeUjEf3CipLujLvIcxghMskjGBy5/FqNXz/DCdKHrf4KhCD5wz9qb8xv3UiSxhNag6v16ozCq/UDwu/g/YAxKowKZNmxBt1EPJ3GiMg78yfFE9wUZXmyHBTLaxC8yYYlny8IOOpbXLWHKCxsk7mQFxea31a5cwi87db+7aUutnvMTFFeq5GsDN81YJE+WHOuSVIwU0QTTCyol8Gerb0A7MftFc5pcIH3ApJ1lyPkNGc0tLrNWe/+j36DAa/fYsv99r3UsCWRjzZXenLRdhTlGxXhSjwO39KECpo4H8YDjhUM25Jt03VNfH7a9ZYGyCHq6B+sGvflyh2gI/N/fAIRYK7o+0Batkv2TImOsbMwjE/2zkAA9R/hYh4MkX9pCf3XxnEXXL0pdvdtgkAmeauIksT6qPK2nADUqoI27/GPFDEC8uKvFITAFgWm9p2X8w20AfHu5Znej7+Z9Kr/Qz/Bog/j4k2qhW/S0Z4nf9//YC6Vetdm3vK9D2fzyzU+JodtVsLtv/cWr+XikIdnCIbH8OjuSVxfJKSZgo2OXG4DQE9DMdxANY0gadBQveTXqqnMQZr10RMsfVKfbjMPgG6e3547TugZQDMuYnmjKRlrUmKCRd5tcnmTSOfhrN0pO8ZNtz8W5dRovmjVFBSNi5wrWD30PgBjQlo9TVehj4ZIzpuwBDJNJA4hQ==
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Programming+Basics+%2F+Summary+1+%2F+Exercise2
+status: Unchecked
+record: -1

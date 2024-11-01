@@ -1,0 +1,38 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 54
+        length: 32
+        placeholder_text: // Implement AirlineTicket class
+        initial_state:
+          length: 32
+          offset: 54
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: jt8iyhfC96CS1Q3NuJLFjWGfDd9bLMSUjU43RLxT02M6LNdWa/Rus+X8VwEJ24fQ3x+J67qk3S6aSm6aJM45de1OX0AvYjwNLZwP923D2FF5LAkZRMiFnvuBP2E3JBy8dIYAvwGPC5qdZM+b4DrTPlYcaZ+/9+VJrL3xTMPh+S2dLv4dVemowaNDMEO8SJVh
+      - offset: 101
+        length: 96
+        placeholder_text: |-
+          /*
+            val ticket = AirlineTicket("Bruce", "Eckel",
+              123456, "DEN", "HND")
+            println(ticket)
+          */
+        initial_state:
+          length: 96
+          offset: 101
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: r0G/gzKw9Bs2p3IZzXMN6peTmAR4OwnaW2E6sr2MJWu27wU1xbiZIE6Yl252DJk9MAedaJMCadw2KADjVbP8n7pRBF5Tc4jmaGW9PQ/Wy2Py2Wmk0nX+G0NO+Q98iAqz
+    encrypted_text: xTnLdoTxOVbyjjkIqayFDJiClA1JQyxFcJXCWVaeCScRxaP52gvA6t1Q7DvAruSRZPtE8ihd+0OrDy56eBMeErGUAxLZ/fycRLlQnJ84t2IHaupU4ABuebgWTV0ZxLGrnHVIu58aeFk3gp7hlmQSihbJ/DD2knUi+sBC8ZI7Gh6RXzLhWfp5KiNszreM04Yq+olKCxNhU2T/PFTKWk3ZxJxb1PggygfDf6JJBfwM8In1jPhSDY2yKPZnJnulYnayH1QZQTXkXD+0K4cfQkT+8yUZtnIw8v0R+CPlyo+daCZ1J81+gwGqa9nIJAkvPHtk3ZXaJ2w5bI/hql3cWVNW/Z8/yuvgJ7sr2ZBrIJE2MGrjVEGPUV9e7t1B/abspn/FObCn0ZRQvv8MUyQxETgmKjEnTw46I7ahQm5Vn41Sb/Q=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: YEzZ0Kj5Mp4iE0w63XEzPymvHrByYrbUw0ifiGEi+gOmPuDMiPdrMB4syPsu2RJULUrZN0wUPF7pfqTVmFgAihH9g9LWu7EnwbyUo0U7an+DCG6DQFIfvuHbvi9kuhBNWoAOyEezoszp1+I3brLmdm771Ql6plnmqunJHN6bEcCR6+OqBlURMZb/hyh/Sowrf54tlki2jDd89Mpd0bGlcVcRru7TaG1dBa6mPTWGHWLEzhKeVbNEWy8f3xf8KG9o3GW7HAqGJIqCJ0+0MArEXbtfTQSTZw5rkydDmlHkYWSbOZh+9x9gIjGxrQQYiVBbmOGeddRboSAlStr9l6E5WAzIZUImhaxq+MMLj9oMxqbfOv729Gudlvwc0p8Bmh5kAvVs1q7vhL2xlPsyk7xbufXGicjxZTQJU63YV3bGhe5bSPD669jgf5uItt3Kq1Af39L/qiOmlebifM54XPw1QCe3n/VyIh1GFOSUi03MzHz1EEda2nIoINrn0lofXOMcvTOnnRU2DEHrfnEbVeN41Wl/uWH+TqUN+iRLaWOozVWEqWHw28OE8TXfgkL0ykpXqhDDyxmC2oA4sxlLtO0ROuxXkSVyaCW0KkLoLNkzeBsC/IfqL5Mi9DNsJJjl+VjHB/4ZplWqAyJah0Fq9aI5tctjikOg5FMDTpSPf+1Clx/o1N22vCQkkHpUICa/vhj8cNq3EfJ952Btb2uFgd1P7S8d+e7l0m36Qz3TWotxVpW9cJ1fLNAMdihk1e4IriiDsEL0wwrWyNNuzkRTmb3w7bOzKqJ3bU8jDh/QHv5QFyHZmzgTfryfpnNNn2hFU/liIBykEy/UWq1Q7E8HvKavXA0F4pHpeidESlKlluXYMY5F2U1UIuDedvpKAgwnAvLOTPrTuT34WmzbCgU6tQN8WouHIYTosQctoIZ1RFnZj7vyqjEsyTDmX77UzVOfUay7JQxRWafEk2OvecaDGk3Jx9jRToqjBimG0AhRibkThFgW9ZnJm+WNqFPQSJlJAzwMae0TNT+kxOi29CBy9r7dKTYSszI4dt4mNHtNvYe/gt67V0Lj0nE6Rv3aMBMZ3YV7f74KvTAlylmEGEDgnxyQ98Pctrh8oEyTy0LQQ6KYurB5V2jTAlPxyMRVsT7mVwx77r2nXICNoFTjagUarb2Bauf0Og0EtjnmnIJLiXFm5F6GzTWqz//9O/5/S1oyQ7Q1
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,17 @@
+type: theory
+files:
+  - name: src/StringIsNullOr.kt
+    visible: true
+    encrypted_text: 6Zq+N2k1HNgH3B3k9g/MVFmSYPlpTgsmf44t2Wn1dUMsnZi9CaCht1g03eYt3G8SFNaK/L9IeoXSxryqCAaPGnGzHmBBfoB85pcKH3pIGNulT8RpAW2vd8fQJ/hOJMTDjLdFY7gNeT7RGVK+zSbYDO52M4z05ylJ4sBEHjUegsNeawU9CQ/yI9VEwmBbOaWcLK6nRRt5quH4nLJLh/0xx2ueWD6GC6IhU94cYIq3QrnVvuypPIp/3aCRGfFCLfsRpUegpC+4QE+heEDHUKNdgfd+c/d4iz0v528qDXJfNIgjPXYm2fEUym7XdZlpuS+V7E17y62wmBpcUQV5h0DuYW6sO6UNo0IeYR8gWoxWfh0NaL/Xa3+/FpkNaj5pGxfnjl1vAKCcNxERTL8Q4EvuuhKiNtb0vxBiZOiJmnysh3o=
+    learner_created: false
+  - name: src/NullableParameter.kt
+    visible: true
+    encrypted_text: 6Zq+N2k1HNgH3B3k9g/MVFUJekgws7WRIqTJh0r4Vj+FkesjtnksN90VQgv7wSjPro5/zhvR+ipUN+AXjk5jd/7BqBiTEU/fub7PEbIQU4BGvskhZPL51HeoRd52n2PPF9eSInaMoFEqLJvaQstmmb1YdHbdMesQuTWc6seg39L60dyYMzn6r79EsK+vjyk3rDOWHQSIG6m096NPTr+oEitXE44fLrKpjFnGTbHEdS43Hr8Ho9haT2FXEEQpHsHf9zoKVDHgyVVtQO+nxQgVJ7pYBEXT41BqKhMgE6pS1s1YHBSf7PM0l5HTaTzUWh7i
+    learner_created: false
+  - name: src/NullableExtension.kt
+    visible: true
+    encrypted_text: 6Zq+N2k1HNgH3B3k9g/MVHkAdJ/plFaDWlFh4ERNoqvGYEhdQLzeIDWuUE/QsWuMgITkjInImWXc18wONqa9hCWQ145o7YzST3zYVzSSWI6BBUlWg4uScWP1zppw9nla9iirxwop1t7Q4FBkGKWAXxNkHRDYnuG1UL6AoV6VMH5tT/LvLlm+YopPsxiI5A8y46VQ+3xHZK/sO1MB87FFuQTl5fOw/E1Il12Nw+0wud7nGTIvTj2ajIR9uEThqHAo0UN2zCkbEq0G3+SS7uoudg==
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

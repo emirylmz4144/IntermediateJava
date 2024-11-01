@@ -1,0 +1,35 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 109
+        length: 0
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 109
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: dOjg5/QIas/VMx2OlBB0wtgSAyoysJShygxyeZ/1aLU=
+      - offset: 143
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 143
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: xwqdXAnjgdAK8oTlalNnpA==
+    encrypted_text: A76BbnBafI1hSayxsKzchbIOYv3ka6si0HiULdct1x0r4CvPmLapcc1ocNdmhXJtltRry+C8ZCXY7Epy733wZ8R+qwON8Rp+1JHO65aAAo4KykuyviZ1R3Ma3qMzwlqznm3NxzKWixiymsfz8fQR5rEowhRy3znncYjpHi/eTyLXMFEzWcnVdEbROJ3gUiwQZtMGBv1u0BRZEoimfZPaPTSktR3i8ZQeD4E8Stgvw4tU+6m1TrBQ+7NM0pDgp171BghTbcsHlxvxgxIbm3KZRnNXsEs6HId+ngVHVaNgJ24B1yhTh9AUKMyMMfwh7zOcJ2+RnBCqohzpxeV9mOmdW2LH5EfGeKtfndebomtClpgZDboAlS+rr5NBV5R3IplHP8r1qgFFBlctUJgamLBRdYX3V7ILIprdviOz5e7PqmktSpGn65dRE7N+sSgMWx1dt6zpyxGpECwkOGB5eM0SSnUQ5QD/jdTaNqA2pWjpiNZCRaGeNMpMxRKVM5ZpxPZs
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: v/GXCfbZ5GdroYISxTKte6aBcZQu0113jSkX/ivcm6SSGsE1HvRq94muPsstXO7zrAsH+caGAdVDHj++3TZGnh0T5DMfGjhqB/85Zbes6XwGcnDf8wo0eno3hzVfbXtpglxubbdrymony/TqVf8WhdCvtuGV9lDcc092U0O0u1hjXHuLKbt9g04VuxKPwncPtgSRtNSgutPTDqfoh2aJJk2A2CXDJbPhCJMlIKziz6VsyqNVTTW5bO9tQz/pLb98kUmUGTy8zgt1bSpCMuE3xWRowMKhRefj/or5/29poa6+ntQ+YMPKBVhvKnMKfaRjZV8T9c89n28ljnv00+7HsMp05v1NCicBaIIm9cnU+zPkIiSgENIpqO8U5FtMPCs6Zuv182pCt0cr2HS1d8AfX2Ff4DA+qelrskN5UNDtbxYN/pIvJ1ikPrOAiEaCCjELJrD9uPTwQEhcKUUmRWU/4HrUIbjUk74RF7hECveRIDKTczKzG0dqmEOC5g/X6YCBWPvnZ4/c5KLveaFj8i7Np9B+aP2l8tJB6CLfT5CUx4Q8E1Bf+iw6B3NFdI8dN3eoQH/po+8v0DTJ+UIufNwl8xEBTHzP0mZ3vmxKx8zBMd+aY3CYINNofrpPt76RC6A2Ybv+nLfmy/wBX1JM/LH+WKF48fLOSzrN//O8djtZj+MRB5Jkft7RresSkML2p66JyGG36phXBfz7dHSheNwqEjbeLZ3HP70fN03IIB7BLN6v8CFFFVZv0ajIJozCPD6UVP7lRoU25XzDkzANQxHGUQ6ujICWWTifAMQVKJtUYhD7q2TdExS5dYZZqRhvymJPrpzMmu+6CSxahcGe238cpfuvBy2TW32zoJTXSMIToa8I7yf7hkRpv7P72/DdCmYXagZzvP/VrEMCDnI5cSKkKPRy0HFGruDL0zqFePnChMyszD02WSk7jzIrycuzRLdvuUE+2aMpI7fmU+8GInzhNsLfEP26F3uAnN7dMCBiFxxLdqZSe1AapKa7IRQFE1drR2YLT/AWBaGrbT3gj9Un04bwOQVTHPrbnzlYml2yF1o6UcCxGQZxqF7J7byjwEcApVFmDGgCnlE3o+na9tCIafz7SqT/m/h/RO7J0sw+5dt43GKNnPgBoZs81xIof5NJErLOPuEg6t0EAiSGo4yl99bhZIsMa6kk2NQuJUk+3l2dyFInnfm3kS0dsbMyRB2nBjF3OusXQUAY0x0ZrItqxuY4D/O5R7RUdXRKH2BWKM4Bd+dsehvyZXtQz4R8/ehAgDICz7pwcIR+/jsxvU5FJCfsBhEZAx83t3LheIXbIeoBr5BEhamp/UwJ9u7qEM6cqLm+YHv6amhpr9YkeJPPexNkH6ujjJ4Y56wpv3fIDqYwe+19I6JNS/AdHG9Fs2TlivlwQA/Hsqc/tE49K/UP1od7seMnfritOiq/LQ/It/bySn06RQfX0Tgv5apuH1ryBBn2YszVHK2tnh36N47zUAIFylQmWlCFyaqmnRcmn8CVPdfjYJLR7XMZsVk2t6xC9bhhtB4Yh5ZB1gFdhal9aQ36cA8gP5vRFwtQ3GgmkQmPRQcm0swKZN4a6roWqJYqtc/bzE4EDAjNiAM5U6UdDP0YvygeEEaRhXUi8HTQUaJIbBdv2TPlE1tkjBWP3eXmBl6mw6NNIXFOiO/uU/70h8DhfSz+mkPEIfNbLFCTEsQGVCL4vzcJsAkJ6goasxOS
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Introduction+to+Objects+%2F+Property+Accessors+%2F+Exercise2
+status: Unchecked
+record: -1

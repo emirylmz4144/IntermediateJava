@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 97
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 97
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: IKfwB2v1tyQaApSiWTpKYhgogIz1jISEjv5rQ7CyULqZvkswa0mP2tv6u0syH6m5Y6AlmzxbloKiHm4OD1pRJSS73wGeVfPY3gNcxojRTTM=
+    encrypted_text: HayLqroDq+WHIoJtrP7c/EwQ1qgW/aR4b5RC3bcd3UNFMEXmIK6E2A+qfC8as43i2tt8v74b0vsD14RxWYzN5egtLBmXU49zEO1kCQUvfU0IRVcGL6Of8WHEl6zvd4qSP/JRrUQv7OKM+HInIbd5lj1bTl3JD9M0BplnQ4kiCxyI9/OkBS1J5b7qFdPsGrd5DeqKpOQntiKa+J6cvhQmRgT2makTsECJpNpHRr50j3g=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: JWXMwh+etVi+8XxcVrQv/VV8Pg0v2VekCBpodJZJ37V3vOYxsYYyKMLwDczxTE61OeLrbKXmblrGdTskb1hmdVN0To9ENB9r8piakIH8EjL1CeVQCTdm4lLHKIHfDJZBCRmgAG229fbf+HUIQtl+mAr8NPFc01TqFgQlB/Cj5V+e1l3kKOkZ1yFCW7nBdcIscgrqyOjdT7HbqSYi4l+65f102OP7S0ECaXRjHd4A+C7p1edEStnj+gxqbQNW+YOTiVTTnm1rCg+a7/FLrXQZsaTSHdIGg9LRsTS8YHIP2t02Gzdd7ym5L6cKKhKgfYsLdNz9cdWawwuoOuid0AY+7fepUZeS956Xkn1hRn4fVxIoNEbaRfzHIExdoUsQ8nfw4N+j+WFuBpw116kx6kwXkEZXd/gnTkVFe18xEQ14ONr9VoV7WcL/qEB9WYJZN3Gf6PXJ/VOc0j4mYYR2+56IaUyubjIuX+XWE73G9bvIiSH2ww+YQNn/chsWfBsPolK0GH1wb3x3ecY31+kr9XJEsqCVpIqvblBTsFqhUQzDHXD33yUJOsYqoHtqATDGz0qtAOF/i0sY9macAVg36yYmh0+aFj0GyPJYueXL1EOTTjbwidFqoDxSVV8ayH+VhfMe5dDQperc0hlToQkzPcOymRHPfJKqdnLP9cE/DAfAd1PcVR90R/lHkjO87FVlEeXwAH5LeMe5cGXPdbqI1AyU0FAzp4AFAT6ci2oGXZSF9cg10JXR2MW3U5EdOfR1p2MyUwUhCVX8KevD21krNzgyTMByWisqOLuVQCQlScUAeJPndHfGnyiUDIFI9jVfXmG+PFipxQPFfU5mOOq7kkWD8p59JgtST1Y0JM4kHclL4Cg4rXalIVx/3L4Q1/teknlRj3iyc6tg4ymcug98r55dusJvcufqS2eXFR57mjgx5xCbTldM7tRM10EaXiIg4Rbfnc3CINWCxJ7cjJoUtN6RF7LN9s38pIzO1YIMqM5XIwU9tXZsVa8Umq8bUhq1R9/J1Tv2ocQhsH8wpZWcQopfOBg8/zyfaN2MXkn8PtDO+Zl9xhsofmB9uV9Nx53fm5GunpzFKYek8zIr031FwBUDX8YDlVwSd627aycafIRcfPZyxtnCSxEe1KTj3NrR6zO6vdEfp1SSOLp7vLPKoiWv8Hkp684GM2DIWKxyBu43wONrn3BKFTg8HE4x6OErNO2ZaJohphD/daB5nMRcNxl+vkR+q75l1XHmb/cGAWoV1B6fBobvNRODRD0WBF9ESeYcN8aJy9oaV3Mbl0QylQ9eXeMDgrftOibWe9MlXK5wMzYZwRFpOxV2QLn2gJiBwa5C79x1ESEtuUzM2kye2Y4cbmYAtzBd9stH741Jy3tsnhpw9LZF0vtfle0q1HrpznxORC39/YcaQ3T+SarH03SuJV1/UrzpOxjm2fS/Lt/gm7qL0lzagutM8ZD9B7a0oeR8NLM9CHgkWU2eLO6QtzcNUkLJ0KIzHtWZZisHuF2we7DX/+e5cXQtK1mcdf1H96MD5u9E74+onD10LtDequaHDfMYowLaWV/jWsjkIQFFtqr5XAKz0A4Dr1n1aev2ym7RSdZFwrBN6M1QOHwP8nfPCG+8oPCodW7xVJpssOGguULydIGWXIB22hMM54/HvzvYBfYXUvrbNbnUpIMmmFN6uCU+b2iZH1aX5WK85ADsIrvOjCYf+cU750KfJqy6LfL9fmgS1/RX48hJU9NuJ/NVDzNKNCVvGjNFRgMo0JOop+E=
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Programming+Basics+%2F+Looping+%26+Ranges+%2F+Exercise4
+status: Unchecked
+record: -1

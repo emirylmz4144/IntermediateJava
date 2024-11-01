@@ -1,0 +1,35 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 356
+        length: 0
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 356
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: aXVZXkNpvD7ZXJKFb1o846LcEJe+zuDVzRS8afSD0ytFJaXanbu3tjo5B2fXRfti
+      - offset: 390
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 390
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: ypcz017+9pkDeJ13DAQLBP8/2MJuWrXJMEIVJZ0Pr6j59UgWAjEZWIytrwtge9r9dzHgnWm/e7/Mn1zhJYVIVqLvH5zEHP4HkTva8uSTHc/b63vrNhaV1zsAoMvTIZUJ37NkY50KbZprnn6Pj+CvpVxqFECT9coKN43irKCLqKB2BqsRcTbEtU7HZcLkCluGrNhNl9ab9LydMxEtuPC88O8gCwDtFrMNJKoIaYqMjHX8inNKHCbD2R66O/cWGt5VSj6dUAbV3pM/OZlae5htmO1QdHMQt1Du25yH28tt6dugulIF7XxtPyAJ90d+vajO7gFxKvfKUi/cURsrhauddPrmK5EhzJBpm/ngUh+SrC4=
+    encrypted_text: NM8HI+iPyUrYSzSuYKr9SXvoLpZ2WgBMxQgkLLPpJDvx9TZgcDxhasXaP+GVblVVsb3zTXmEoD6Vy4wnrUKHFjPxfXg0B36fniROdBbepctA45IYcsK6YcktBOk3YofLpWB5JFDvhiHUCRpIZUhnOXWlJ7ZYEm0A0CaSIUCkIr+v/N+3JEQ6+e94ElP2k9bZRTjRKTzd66BkWZt/0X7fNlbfbXzsI+0CmoVKondInDlqGbIMR6muTu2xLbbq4GujXifwSmKnYPT+Y6R1I4y54U22WN0n60aMo26kiIRsuiQc6IRH1ytRICtDub2YBO4YNiRH5PD54H5Ep5ENt8piO3PieiHPXtFHtwODgpPgzfcrzVLQSQDlJ/6RCfNMgHHsWVAYA3nzHJddqL8YFJN0IoKnw3M0qiT6OqAifTmWRo//GsLvdM31ehNrFys9kKP6gy/TvPs0IDrrXrUEgKcjyuQUmRRBfo2IDNgJ2dkKnIaFHJIx9tdisVA0m5nGSJmwiXpvzo2JcpKUAjS6RfP24WL604x71tFzrb8b4EVW/kl3V0RDZPhlIUyjzvgZtcdSXptSeOlNa10vO38GcW+9l9OPgfmsbfmnKtZecOVhkRRfrhNHscD+GKTgtt2coSUyoYaS7s6wP9nauzxtqM9U+2FJShfEi9OMSubkcDLWqN2QP/rzz04BhuDixdwjI8SrmBAWOX5gcZlq5B7Ly42XZPKeapzAJuHXmJ08eNL+AXhdUDT+cyq2QtGKNEnSwj2hYmA0l+gwBXpmr8ANKBn/g3YvJqeacnMd/55dBBeagpTIf+iVUGt5U1AxL78ahm/ZhdRKgmu0/cYGnMjv8me9/rRVbKKmyQjPVrzaoTDjzauUU+p17r/3TYBQqhJ1vbJfOPNK940YEKj7Y9rHUdlQFPHrfnt3tJwrlDch7px0AwGadhxH4J4scoyinXcfEHKp84RzFLNRpU542T6wbIzIVTwsV9tvdBVClWbQQlR4WedGoo1tHJyHSBxf36wEhmzobom9rb/9uDUP21fOzhy8UGbz/exyW1XIyJm/EVUNwPsSgYqNu0qqXUWK6orLBUA3
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: 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
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Usability+%2F+Safe+Calls+%26+the+Elvis+Operator+%2F+Exercise2
+status: Unchecked
+record: -1

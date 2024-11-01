@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 224
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 224
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: OtkAE4Dl+KUi4c6u9Vn4wQuAjGWagKESMf0CFafo0qz6Dfxkhtkb9pbllYRymFau/EzRH256eTnlzi6LU7SZIuOPY2obU+mhLq3AtVDKlrOEOdf7zwAVKVnexsvTOGoC
+    encrypted_text: Vnnv8RPFksdNr2Z95UhDmeK8tjKhfe1McRcA7c3sIFCZK1H+l0JNIiwqYqRYCIn/Os+lMdBc5wlb5PgrmE+6kkiilOKGkzYl/vRnXOXbWwbK0SZWyUGkYBc5DsB2qP/HPOgzUm6asbwa/p30tQyzACxy7K/oa/MgEsDWKfGXsmAIMpA84ndsGY74NH1ij+CIfa5K0WVU4oukUEmBAy6BswdWEhy0hn9U04xbD4TboLyhF42K2Tv1GvfPV1zkPiK6P++YUbPY5+aDkWKBY4HOAE2K1pX7//cVO4iKfa5WtWRFN9DkwjgC0OMjUnyIkWIcGdg/hsozbhmc7Fsc4kMVgv2tMf+TfgV3KvNfaqk3gAN8Zd5/Go6SuqZkCef3u83fLoSC3OsQVoJNsHDxEe0imL02r2HkI7PPMfvenpsVx3ZEzd9wKfTwEnLX/J0BUvphIzJkGiXrdH2zkhJP3zzCNRGboAQyBoEM+8HGKrorcCP7rjMyTFtELzzQu6KPQUzrSt79+tim/gbT/qCC1f+AopkDOIY+p78VDFowHlFzn9FGPsDlRRVIjy8yEzRsNVj39LrfbQyDIj7oQqgeVO5kxg==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: /U4ZSy4r1DA3YBoW1xAL3e2aBEUSslBBHm4+KHy4FH82vGRx94uHGkCocZ71XmnvSO4UFdL/CWNYQIWGM5hQh9kVsCwtLrxIBtYxNVOZ7sNTXSPgjJYHffYYqnOuc9QzY/R5V36KXj5c8tJnebXMYeBNQIzMMQXQu7h11TGjIr6AEocdA2A8sF3RMVFFXLCO4UvV4Mk2gBmjEjidivO+WSBM1Cg7nAnG1t4xDG0d7wjfQLBtAuybibwKmrQjG/ZN2WRWNlbx2740Atbex7RdjnGuqyYcrs6f5y9XhH/zrgnwOKr09azsUU53TixAEZiVxN6BimFAzs9GDvmmuE4qeYxJ7dwQDk6WvWRsqDk/WAMcuVT8R4Mh7QDqkcxQuVfOz4G8ihRMbvN7K3TXlQt10/9bx/2FDoGzx6iDzenpHj7v2MNZPxccSUAOwhZnSRT9Qras4j+g/xijZqhhV71T7of+0Klv4Z41McO9W4tfP/gbWfNgO6I/ELPSyVbX7HM+FlzitlYjKo5Ffme0CS5AhhhVMLoElfO240osO6X25SnpB/PqI8NIXQFH74Xv3Il2+5wQwiPzRhbfFCcSRvQEFhis32M+GkvLgcJyVXi/pLTH1d0mbj6hybGGee+FpbGHKKE8vms96ty3rSjUwmZ1ZRTXlaVL6Synz5zVZ6Z3+saezVBp4MNqT71mHpFg9hHyq2rrFVBYpVjmNpApKKKmD0kSnPwyqYCEM5LR7K1EwwVwRNvXaxwvLtcK2D0AJVceitRcCv7DYLeo0ntRz0x4ApU6BHaLYqtoxfGhXet5FoCEhL2NHJQORt3dPHvlHli+r3tmZWTSjae582ELAVt28csylkj/WLBPJGpNPI1QJ8Ylyjgs3XjkWullm4yA2t5cgqI+Yl/Ko1VCNfC4t0TnrQinH6JK9fHQPIiUfTuL+SWCMtsxoIo1WAxvJ0xYcpcwawx7AbWzo4GcPn2t0lwU/14of8ZOU1CfpymcoYtCCW6tMHQo58FUV72jHmiIfW+P4RYFnxSytF4tFhDVatCyd8v72zWJFr334PZOZB7qgsSgG3v+u+693rP+4QaTZ5t2NnLCwzl5mFLiiuaECHYFq+9fKPLRHR1bbYZURb+nJa9d/jOfDJ6OIF+9/HkM68gnMF9CloFkqGI+6Gazu5I+CgR+1d9o+H24QS82Y7KIYErSkV/WNK4XAOw9cVvLs34N+rngxHBWmTQse/xcgl0wgEOf6DKIJArNeQ4wGAnGrZwSGMVTmTn6UwWyAKK+U+WR1P49WoS1luEZj7m7K4dZxKErqq/gD+UW5/F654DiAW+Hz7cw9At//Ib4h+6oMtfj5gydFJ+oGur2GQ98Gnu45agdwY1PFkYhG1YGxPbaCQ+eEHEgrU2wuDxFE3PGP0PT4cAzzennpelFIyg+29cBWMqSfAIXay8w0mqtk1Jn7jpmImqnRn4uhPqPYHB9U4U6
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Functional+Programming+%2F+Operations+on+Collections+%2F+Exercise1
+status: Unchecked
+record: -1

@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 130
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 130
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: RxESctCH/4Yfx1K47ZSFfJVcLtQpVTEvpEbjEgZIfS/g4EkTPE/CZmk2aZf3iu/w2UgzzLfupI6fpg6Mrda/+w==
+    encrypted_text: +RXl2ExswN+QyFjhk9TWrjhsWNAATZvne6k/3TkiJcmasBL4TWqYx8W5mi1WjUqYnLEHixOOiuBDvvAA+C7hJj6rAEOhGIEMAsXmqo8zV8crVgGkDCXzt6v/d/cZTDJ8X0Oi2exvTjmvZm1wBoaA6gUg68mf9QF/KJGzeBJrQNvHZSMUZG0nYztZFPCD/9NlUUl3PVSWx7BHavTD/KqxkhpMvF8hUvr3qoIojM9sLLW/yaMnKPfmGux0G6fnnUO/D1Q4gYKGLXJqjZl8GXZtXA==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: nFp9Wn8VhHQw0s5o+lqGjvvmX1p3AmD51heR5lJvxkGdU3CLMQQe74jn6vpATLfxvqmKVp77oEKA6Zbow0euAUh4P/nGfJ7SG1FftNB6LvRoqZXdLOucjuSC8Lx0Vlr7bI4Vo7BQXaRrXjQ4WDey96Yoqdj//o09rG4O2FKI0Tpj0hZoX5e/N2+bd2oJX+vzkqYl2/NF6PinAcfPNBqIVBzrLv4CGca4krXpQZ65G9XBcGnPDl+XBVDz8H4WOb6+/zOjDm5LWsjoijnE8zrPS+iV32cMW8Kf/wPcNk9/APh6hjJTrzPkNBddGT53j3y+cNPoJjRZgU3R1N8127p3q6uFSyOW4n4bvBiYbMDkJP3IM6ZrULj0/pc56oVAc1X2Eb0rLHWY9CZFVrn1g6MnEx5bXa/cHU+ZpPBSnAZZVZ1I0u7DVIf2digsjh2ZqsuPoAIdjfpw9Ktild3HSb/0siSZTSQn2kt9du4beG1mF4esYflFGULEO90K18iPfM8yCgYPqxip74JBHL2ekTFL13g+by2bRGioxHrex9234k2O1g7q2xPg9xojDk8p/CKti4U2ZHB4ZXXnAjDKYq77XTKtVk1DfmwfGzb51aiWaf6t6rDVSRzmTQg8IoWYXOogQM/v5z+hRv5ZRWoHygWVaXAxHtflQy4eYnp/nQrRfGIuvjy3VtXudWdZUhKBZsSLh90pRH4kb/c1Yh+Iwuek2FxqzAZop7sqq+MWq0QB/1zNLQ93kYJ+6pYTS7hOe8Pmq/ZdJrnZXjn806hT06KCtb6Z/vTmja/QHM9GIfLvgv2jYGmNtLpVlwN8XKDz5zUzzdg3nbmrHavBbvVFOHQXmaM97sFjlFjOLYI53RvHMt221K8cDllzJ0IITJlu4qHAnTRyn0KXl4xZ+TNZu6wtJQ==
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Programming+Basics+%2F+Number+Types+%2F+Exercise4
+status: Unchecked
+record: -1

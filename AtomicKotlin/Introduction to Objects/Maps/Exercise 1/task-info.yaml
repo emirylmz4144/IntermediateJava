@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 281
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 281
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: M7jVnFa38qB8mXT1wT06+2QKY2hBHMPnK6TGcqxZ0113CFdfpbrujeovG+Z3MqNt+HPPZsvZzQ/8DBjtWhWHX7sKQIKzdbMlBdM9LDvjr8RNf8ny/LYTolMxuG2cLK/D38eCpjOK9OpUcxC7RCRI6ban5+pl+Y0gVWE2SeT0m9M=
+    encrypted_text: e5p7URHubOvIAbafIRbuglugieoLwoO/CLP8QNCfiI1Vo2RZxFN7kuMc/39FsWe7eqvDXzqjtApmn7o5ZJR+oIOv5pkHjA+hsIriShD637itDiitWoZepuAkAQRCZhtu5bxG9wDbs84o/4qcuEnEqJ9XtfLYNASr05ME7X58DtdOW9DWLY+1Zm1/nu4F0ULSN3IUA2pCHzJTUw7NwSa//Qq4WicrO2LYN2sPwXBTZ6f0IyNRKU+mcxJmef8oLhtXVahKll0oDITAqrRsWt+bjXQNwS3DsGQu4RIsJed+8NgfBgmigCmSCjW/bU6g6WXTvtY4Hi3duQZrpCcHSg1g8QsiTaTGBROQOEPYiCWD803R+Lwo0GuW1POzvnRAwWd893KCg2e8v7hVkwiotCi0z1CniSMNQqIzYtIHr7MjD/RiOeABeujJC6Sd7xwuEmFgmtGnyHG+KR1Tt1S4bz2elCqOIG0d8sftKaNFlEZbPp5oDBPXU0orZGrYnDgoRxdeKWV5NaVJgX4UYpsZx2X4liTZW8A2aFpMeuiFd1k/TktU1eGNjwA+FxSRsYXZ2mDL0OCmES/33xbzDj8It43M7QgNWzXcrBsH6bK3e4UtdmFdtSUXLDQqsHjBynbpdMNTwDilCzncufACMrI3X0hmfnzSJyDnL18yzVn3Fd+sX0qU+px3Z6cpUP7qYweSRgs+4/H0t9HK1bnVTP7VTLQAYkmxK9vTDSvzUeEU6oWpWiMIgCG6Vc69GKLTT/J7BvDZ7Wsuivroh7INeDvzgMkYEt9xzur2kyOXzFYx5iyMI6Y=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: 2g9VOXTkrsons3KbTafw7uF93pSWOb3a0WtXD4oSuFfiI2trt4Uy2QCMTyhfxNr/9NHF8G2Jw5U2iAr02YxJnNCSLUigMY9FSg8wmomSyLcUipC9htzH+Gp+FzXVdkwsRD4g6xugoRFKoOFoVQr/KnmFIUT3dtKyxyV3xFn+4BdpWPtwh1Cr+TlRkZy17y2TwSx4zO1x487H7D+z8wqx6+hHOxLKQheo8JPO7mBqMq8w/m6sNUgc2Cc9EbsNJP6Rq7LrUDICxyqQcXJdp0uNslr+oYFRPz8tAyqTTXhBwI/YSreJkGi//lKh0DXpikvQ1WGxMga/ZEs7Cl4hJUZ+JJ6hnHG5l11AEg+W6g5z8BKQszN84S4lXaVW02meu3DOzYwickr1fY8LLn7WeOE+WUUQ98iTlnRWVys2v81WX9bKmsrdkgwvOwiCMjknJWLMP06NvMSYO4C41AhdrrOIPOtpbIj4Y6IvCOMqJ+rFhGj1R+2qTnTOzdN4M4rCjG4jJQaB0/UJwTFPdOBT9qLnHL1loITvWJGRdfAYB5HFxxQCCLZuB2BZke9wcLOdvaUN8VWAO9dWawnrH5fH9ESBGr3PmLrlGWwqxJZkuuPbCpzmVWPJfyzjZL89RdhIc/KHE+WhTaTWy2MOb4vppH/fUjHCWEGedeTzdPWOpWUhN4uk/B6bBvWEs+jPE5pM6XAtmUtHLClQxKOpwneouSn+ydzL/sss9TcST9Z+fbsyEP2AHwd1YyJreHumu5KJqf3qkOoxgf+0HUwEqdBs38wbdKi0cyxxj+ErOxaarNXDzBCfIp2mU2s2BvIVhq8ZszaXQWUhkHqc1v8V8hkRHj/i/pAd8H9fI4XIZ7dH5TfUd2I/GEC0n4w8eVW4gOU5RlMqgJZrb/hSRHI2biA0lkHn4ABxt1qMc77tkfys3Ai8DSnRkoZ/4ATVBWM4Qf0SLDZahE2vboXBajfvTptiADSIUSU32xOhlma2Vtgziu7RoTivDEnP/q0LVjSJZXf/6l4uLJfMTZYvVm/ttlt/Xd3aNcYvBqaLiqzlJcLCKd983zglZUV2ccjRONiYp3JxysiTFh3VwU3iSNs6JC9gDlcxwkx1hJGD75lh7TpxbUjBVRBnR5FwggckmNdNFcVOrci8r7uoKg0TBDDdPB+KzDxCiAjZxvaVZztK4hpAMDnhNx0FsNGLhPkcFE6jxfUPDZvPQM4x5Q3yuJuWxMqGEX0eblSmXfMbmzuUAMFct7heCy4Rx5anHU6qvhbCAopRSmw460Dh8rjvjA6P2ItxrocullV9+carEjK/6iyJN7PxxSsOuA/oHGipxMX83PkBYrwUOU3CrhF6SSzdDtIMck1kDrQ73Q+qlaSnq0+rD2LjP2g=
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Introduction+to+Objects+%2F+Maps+%2F+Exercise1
+status: Unchecked
+record: -1

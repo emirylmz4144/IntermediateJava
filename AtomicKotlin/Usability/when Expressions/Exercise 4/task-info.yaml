@@ -1,0 +1,14 @@
+type: ide
+files:
+  - name: src/Task.kt
+    visible: true
+    encrypted_text: i0xfsfUXHlqwQzeT50pGtI8BKwWJDfqHm+WLpMxn2msi05LcXxx5x/DagUPp70R8fOHoQi+K1iw5pPj+nZ9KSeeg0jRNC4zXJCc3eQX+f2WkkwVpQ//uBHAG6lzRJVbreEFlNE/v949GbfLGKyl1cjm108Xr62Bj8XF09XZDBW7YQAJny2YLhO8P7RK+BLJVsvwJzNoPoNSrnjnFty55v/Uf4t92WgdVTu1duGlAdhaHyO/LJwLKLVlunK4T50sWPVPOptETqACGOUB6QZXuH5c7xDkOVVHHnU4DiVD3mMUTkMRP3vrllTrLrhQk8YwuiWaBgeHU+DtfXm+66ilmRjV3BA8C8Tyqqig9dCllpFxOgFUIflHTrMWwe5dOw2r5Ua5ROrhsc6R/FXkMaiLy+cDDXChcB8aosZSlHu8W+6FZkNgikAF9CYr8gOPBPpgjY6BpB25t6WXFNjvLqP1zUeT09KtOgdoueZKBpcy2D94=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: Im5Jy4xuspPb7XBSaB/RFiPyD724+pR9bskSGquTlPy/nuRoEpb87abjGaucepZc
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Usability+%2F+when+Expressions+%2F+Exercise4
+status: Unchecked
+record: -1

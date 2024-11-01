@@ -1,0 +1,12 @@
+type: ide
+files:
+  - name: src/Task.kt
+    visible: true
+    encrypted_text: w3y6wNT+6Q+ZzEEMHJFomer3hqt8/tzCUfMABpVdFmhRzdlyFUXESmsCIspWzsdtJiedbsujYKzBe3QQKigSXJbXLhEMG1od9pax1O8dCKPb0HAO9GOkv4r1M3x0FI8CU4TPASfLSEnVki8P4Vm8a0lWkHntocArQkdMm9LkbZybfo7lXC47H5IT0jvG0t1eTpKuSvVA/bDBgBSrY07nKNFEi2KMkupSppUdPA6snDsPmD0w012g6yd8vbeC6Xy8HtncADc3cnhgSdnhTqM2Y75SGWDKwNJAkQxuxhTq9ukjBMK2xySECQmzomnCawhVF5bmLwSAOqxAqZ/CiJ4vjDo58wA0Q0I3DhA7rvvGuSCFCewDeCyQ2W4hA5alADmTPlO2k9klv0agpPw8UAZfHT1+hk7SrObbTVdrjH8n83SkfaC9+zvVO1LaKnHoLNDi4QsegBOwgalFTESrX8TLhr3EV/uLs4+nvsbEYThg9QVYJ5sfLCN8do4VH334Qp28KWT2qGZwnxiGj5LJp19cFrEFAiflqBdPFLpH6omBQln57ZPxFoniIZWyzzHN6vAk6F2VLnXx1kFOZbJo6vKBYjNrVHEGP0GQkyxK7rwL/a0=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: 33AkhySSjZnreqv6vg59HsYenyWg/8gjuaUqNVl9bCg=
+    learner_created: false
+status: Unchecked
+record: -1

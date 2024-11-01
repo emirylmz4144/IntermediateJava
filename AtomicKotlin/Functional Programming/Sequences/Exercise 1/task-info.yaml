@@ -1,0 +1,29 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 145
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 145
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: a73LEwfowSXD28vYkKFSNx/ZRWlxauK/EnsOAOCQ8zrFR6sAV4OhV2NOlxsAcE8bm9WNyzE6Fcvno0x8vX952zuUgaFKb87ZYdrEgbWjPA19hCHmfYo6XIRhbQO8oS1E
+    encrypted_text: dK5Ngj/ftfK2gdTs7fhYV2EEQnmqv58v4szbpL/Vb+DhURR2VZXZFZnNQqrNKZZebirhqwDilH04t8CDJBOwWdLtUqjZPk1ZmOhs8O2ynrIHsE+ocXLgNHnNIkcqtLqIemRZyMd17O8jayNGLjKGIXZcoU3k/p4WroWWavLe4DuJjKU7r7S84ZwZttQoWGNIFQWeJEpMhXw8W52eXYi/FA==
+    learner_created: false
+  - name: src/School.kt
+    visible: true
+    encrypted_text: qXq0m5MbVbMhpOZYN32bj6jaoE4lmwNZtvxkZd/s/aYYKp0bxCUg+0iTLFyPGQZ7hjpiEkhcfd4FPv7IvDXSbKsmA6boygNvoRWSTQDWkTs0L3HovErkIHabI/DCy1+E/Dd53Z5XkTl+Zhvpiiemy+P+7UiH9iNAgXsk8f5WABlkao+rLPe16uWShzR4j93uSVcGll9LiRaO68OfcLXhInyiDC+ffXUb+zkNmdSMHo3SNNL+SQ37Lydcnfli2zyyY1IYNbH03/GpxZc7fiRK+5C5azLMZCiwm7SycUc7hq7a54DmUEaEZHrZEEBaKJnYy+Tkg2SaPnJVud9WMkPeQXpBsLprb0BHQwdJkXGTD8QzzEaKgLrlC5oiirjXNWbZ+tlRGUpgGSsJC1roKWlM7jU8TVsiV+9QrQaW+rOtP8OCHa/7Fbp8TrEfUXc8hVhUmjadQSIzYQWGYS9TyHFiPYaPxyzglrjJCeureBerz/Q=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: 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
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Functional+Programming+%2F+Sequences+%2F+Exercise1
+status: Unchecked
+record: -1

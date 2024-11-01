@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 154
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 154
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: ecRIBCgRLgEIlvMpdiFDS7xZ/sPsn70nP3jtzhuOah05g09B9xeOreN+kT+mc3KH
+    encrypted_text: Lk3HFBZEWgfB6GZheT2tWas1snZgslO0+UDaTGdMaioFOqOAMNT3/VXcqtxntUqrZ0zXjKj4xaIyPvCi0U7DChJOawXWe2Yv5j3aeOa8/knAgIQMTJyVQyPsSuYjvo42K5M01P3OGRZ5H15z1kS1jjuisZNFHc66yoslEnN6OJujDYz6K1X67JkdOsOtVkMgt7Aa0hunHXNVluO+bzuZRPhDHQGvXdGz1V7WJGF5/Y9dw13DQa8+7QdOCGQkQwwcdqRjN7zl6C2ZNfM3pKYzkzIaOWhvgGKXMdOZk+zgqyqUtRcjVbxLKWn1PzyCPuFK
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: fqWodLLMni0l7NO6ZRL1aW4CTtfbbM4TJZvug0kHtmqkAyzAJzwsReOgn7p1WZ0rKaVRs1TUsq6jME/aYxHIox/QR6/Z/KGoSmGonKwGeI0P4Y39hszqmlVM4Cg3KujUb53O5EZN4yMnut2hKX4sOddtOdbaw63HAoLo24qYDFcuQwzXZwjTRbCdHx5HcU+zEW8kWL9JRsrSIg+sNofux4wL5FicbSEu063nzvLQWSIgKYo0cLGhNdvXoHygE4KL6SkroSJJd8saPaYJcL0vhQG/JO+yjr9C43hXhvx4FWfg+4FYlUoIFhilDn62dhmUXPnKk4OJB25pWkS7oPorwwKzZsx6H3ZCHuBAyfCTtoHdZloep1tBW7sbzW2tnDqBvWSVTf6BcNfVuqsCDYl8oRkG9tBAzh5ysvO0HkNGqfZBHydNltpVrD1TkOkeNSVtaMRbL19LnBwrDfgDqbd1ASrRUydRUWngEawB/t5Wv/HXtUiwT01ARaIh+uKAJ2+vOf1zZWxUaPanFhUXneC76DH9//dR+mNr2jKtqB/oBkVS/zUM5+0W5sKPWj5vi2dME+hEIUQQ6aUf4pECroL2BfbMtGozONjxoNezswhTTE3X0dw/2hYdCasjJlKcOpp1xA9R+gnR9+oa6AkGu8mGU99ii99jdION0xJ95OAo3VRfS6IwP2HL++mTybrxzu/gU7jR2zTU1QfrOrQpieWs8dYrcIcyf8jm215Uqx31vLFS8BOjGWdXxdj3yL5WBcvmssALcwx44I4V+577FSOpwJYU2F4CSvzOWTUnU11gx4VMZo1LqgKrjFNXz3nRxYx2jGoauvhrOFnh921BP1V5ew==
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Functional+Programming+%2F+The+Importance+of+Lambdas+%2F+Exercise2
+status: Unchecked
+record: -1

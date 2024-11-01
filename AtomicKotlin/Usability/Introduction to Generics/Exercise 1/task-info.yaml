@@ -1,0 +1,35 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 125
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 125
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: oInStMAgW7lnVHaluTToTw==
+      - offset: 175
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 175
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 19PCBMn26p4sBaFY7Ws8nVePzK+FzVlx0wjVSk/6gUY=
+    encrypted_text: euk4cY2TJBQW3SzeiSn5KoXlwZNCEqNThl7tfVV6pfcQ1QsjPI96+NwWsfaBIFRL2q6rkSer/rMtbF7Q7p5FOFca0ShqylQV5C8E21IHS+kYT2gbZkyaVtU9XH/ba0ywSsbxVmsOyYVeMaRVW9MOpqOXMlADK5/XeOC8eAQh3b8LeL3uNQOTD0qOkNaLC2Xxnl0RPSMg3vqoG3o8kirSOL/dbm3z318V6uhrPxUUWrwlA5ukKVabeIVQ440RWAfqWmWsCZTGVh5ul3UbU4dkC4cQhqPI55DkX4XRjjNJI6taQ13/p6W4foplHLySrlvATVoSR4kwGFBItlXAFcluyJPzy4mCA2tBXRrxJER54WsrYABUg51fSe48hxASvrJZlzFIcKEfpMRJy7DoiyEdpST2dArM48cde4WxSc/GnJAo9SFZpmMutf2sOQN9EMEGbFqVgHMfQvyEmggsJzgSjDYs4p7IPwHE5ofHHNdTRw7zlQZX1M0UWKwvVgY6IFi+/Z3EY/5QxNOCSNs2NDjZAQ==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: cCzj5M+9OCOO2c2t6AECO2Mo7TuIYfMjnjmHNkfuuwgYl+rBR2cuiM7OVVkyVD6cfQ3IKdHDKTB8uttVkdf3lKvDus9qd+CjuHtXPMnDN9kCvtqgCffo2dHikBxKBQFOBNvsEQqOVfgFwCjhqUPx7TcM6fj6FqRRPEluBw0BrbYgv/S2FnOT5pw14dTT8gJbhEJJdcXk13FHVnT6UIX+bEWTwTDsw6huit681QMrh1CLAXNOwagoOv/8/l9pdF1ZlSkO0lCTA70F5BL0IwrWEt6vBzJC6KfLXW2zyz6tt0hEYLvXtF57cJWuMYA8+pvB/7+PfQkCYVJIEGZuOhjTCsrZK6rvjEuV7ddbG9vCI0aZPPpLwOiHQZoPxqHdtAck1W3atI+RhkSV4Cazd7LPYLsxRxJvE97TumF3KHzqapHNewUzPyn7H5TlpNBTiPsOVjXAuDGpYTQpRvoOfOAZ+neJuqFL64E9QVUpgFNBi3r8AhP5vAGU/VPPG4zION7Y6p2RpFz0GFALPhzHH7dgi8OA7RCQ/5vMqq+sQKsLjO0oJKKVVacSVCl3jDPPBCAmLuF9Xp1Rtq2sHY8Vmsl6kfCOncxcEROARp3pWWsaGlihCs1UCbDpzrO8x9PCFZyc/yes5WGIzuNecImn5QHXkUEmQAGkVbH6JX/nKi5N93sI6zyuuDYE1Hm8XcaiS4oiU1jwwl3U4RvF650XsgY9EIDD++soDkkBz7epLLmA5lZ0G+7V+InwgeW7JjX8pUnG7aZfEmw2rfA4y4kVL6qDVRMLDs7HIlRUUPqAqjX5pKVN2KmyKaOvQ0Uz9y6b6QzIHEsQvnkWhkTM7ikW1vvJOdFsnfTSzTVqdZ53XCozyNlC6VLnH69WlzCoSlV/YhJZwYehVfOI5dWGav8MMUXBuYgp4EE3q09txGrS61yvR8oid/mixZHBXnZHK2iL1K0qUj8x17oFEUSqG6wpSOjWfaXlFIOHBsfKlsozap8ZK+6aMZ60YfjiYGa2plIxLI+kqQmJ+5WGGl4MBX5cAwNbFbKWL6crxRW/njpCjxxoG57MEIoFD22diQRwQBpDEJhl7MO3YkVJQ21rRG932+uB+wZCsABQjVCXM2GRq9R6PrI/7AiBsf8sAHAPW2Kzvocel5UpXhkB1+olUSP/ijfd5WlkPvVoo+A1VXGkCCi4RJwGjG3/RKKnLrPdzS0KEHxpZ27OAlEi7SNWaH3Kvv5HDhofQRGQ+QSN5Fyj8RIJVMb900/nHMRiOEK4Wp9PjfbH8vtIju1yhyea4H26HZPehPId668FEkRWSoFp1xV9z+JrWcG77uk9rZulVNxZAhbLGDmV2X1fjjpGyZRNHvZTqekfr3ECt27SO/18fCyMNmZ3EzMeL5t5nMBVP8t9r8Haeq0axcaa6REEBGDvgsCVhMm24XAnoKqECNszG8j4xxfD3YkJb+gSpIg/PQ4fayoXCZ8v54DTktKanzaCDvIjHkmJpDQF86nJROY2IiHa0DE=
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Usability+%2F+Introduction+to+Generics+%2F+Exercise1
+status: Unchecked
+record: -1

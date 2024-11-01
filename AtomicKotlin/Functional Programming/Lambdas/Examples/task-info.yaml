@@ -1,0 +1,49 @@
+type: theory
+files:
+  - name: src/BasicLambda.kt
+    visible: true
+    encrypted_text: X71aRpmzkzEqnsO49A1ro3z4h/oY1QcHKUXBkkl8g20SZntrKSoDIS43FnosBXZrmZ/jsSNsBWXxzdXI9nBuL/7BhvQYJ9FfyC7n18t8LU5bX8FHw4fFpSLhxfBKA2tfoR52Zgzkln33JW24H1o5U+wzEShvzfm4+EfjbUun7ZRIVvPdMrTeD/Q6q6WHwFoaNk51iXLLcs7MDXBw+RR2DTtoZhb1EIvwY7UV/rgVCdT8h8nVlzQcMWbakuh3ld7f
+    learner_created: false
+  - name: src/LambdaTypeInference.kt
+    visible: true
+    encrypted_text: u6teUEV+QqlyPhrsUoxl9nG7CZ8LIoi+CbNTuLt0DaHc9kS8iJhrrBV/rqD3rVS0C/P++Lk2FAvEIN2uQTPapWHuPyzWZreAyg/a2Imk3drQeFk0FcsP1DE02kKdSFC/asT0PcCrWHW65CQpQjPGafzSj4/aIOq+r5lGcpw4x/nOYL+yU/ZLqbFhj/F4o2B06PGmjDsSLTOoRg96oSk0ucQVpW3cIsE7YF+wuxzTCCcZdLG0zakgs7ERTzFk5TLb
+    learner_created: false
+  - name: src/LambdaIt.kt
+    visible: true
+    encrypted_text: u6teUEV+QqlyPhrsUoxl9rpeVuLoktRgNKcTL1RyZ18wICHb5j/hloW/htkafbhjj+Fupjo+pyRJbxeugWTr2F0nyryhCXbnEaEQaxqLk8SH/qJle1ohVU/3xkMNHZWtcVECx5LaHEBObq0m/ETf+jIvaVIKDhSiPDYbz16k4FLp6sug6g3H5sO58c3kNcCOpqClXB9qUgeS7KeYMEaM0QPUvfZpjJ8kQ2e7qYQhx5M=
+    learner_created: false
+  - name: src/Mapping.kt
+    visible: true
+    encrypted_text: zJdPu1zlK6yGVvf1reuNi1fMB0vhSq/WZUL4WUM2BhzUZ3AFCXR5VyhFoc0z/4jcKYOX5XT8l8X8Nm8ZPaSUuWRNF1s5gDAYyKc9vee17SfPAVblHFi4nH2EAahS+J3FCQCR6nuOhC+N156uYVIz5tA6Y9J2HGFRB4ONjTtYpe4aNEdI8GRhJ2MBwD0Fi7OAmmib+WzAOxsSee7McCQfwGwxDDGvs+au+FQrh/PATni3vY++n+1Sf4zFRBUDhj9jk6yJJY9itZBZ0FlyJrpo6Q==
+    learner_created: false
+  - name: src/OmittingParentheses.kt
+    visible: true
+    encrypted_text: S1VXSB0D9WHEaStZfvcarxfu8Yj72OhZepnM6/P4SuK17p6bxO3hMWs5zsHU+Ae6N9NdsEd6cLchMJXK41KOXNRuJ++WS+w8UN9TeA1+g2XPWdO0T6arbZDryB10o6LNvn5Ba59pVrtLopcWxe88+/IP0NeVhH31ilSnonjwAtnhBk08bIi8YwMfZOxul/khY8Up28kvZDF9s0kuMA+nBm3qwf/fTe/XJM3nTvtkedphF8+lSJGMnMm7SzpyNxXzsjjw4n1Pi4NS9K1mXUFa1yGH7jciRJl1IHEe2oju3vg=
+    learner_created: false
+  - name: src/JoinToString.kt
+    visible: true
+    encrypted_text: eYjjIVMvuWDqblsqB81SjR50qoYSFHhCdY+F7qHUR0ZRGV5SZNIJ04WqhfNLmEDq2k4ZhRhz/KVhLo2k4XI4esIkDjswkCwODWKHaPLb82+IcGD8SNcN/Flh+ZzBYCQKC8c+fFR/Rm2eVusIcXwWEK+2F6bkgeCaBlctCvZTikstL9X+q0miJvK6L2dfJqXINUjgCT+zj2x+NqpyQRoz1f9MDWmuBPAVkEgSj8GQX0g=
+    learner_created: false
+  - name: src/LambdaAndNamedArgs.kt
+    visible: true
+    encrypted_text: u6teUEV+QqlyPhrsUoxl9lW2FTa/bhIQw3Fn4RolQlFHMt889sdzeC/Kr0EtNGB7vpdU7WR8CfCY98k5eq9PDrEOlaNvzClnkHhVdZq9Juz51k2mln89SQjJZdVkY0Jcc+2zzlY4h8aeXqDfioDg2GilgFg7KUOzQrdMDHnnfuWbfnswXeSokMLvxzRGg8RFvYzhEL49014yLLyDlNSSNeKvf/2XmW4ogsM88oxBWLpikRslqmMQc0f2nsBP6JulEfeMji2fShpHPaTf3A8hLQ==
+    learner_created: false
+  - name: src/TwoArgLambda.kt
+    visible: true
+    encrypted_text: pbEU4HyuorcTgRkYtrkkDEqZSCsm9+rluz53vvXngtW/ANPpU90GWxwUcSoR4Fc4UP9XVBaKcwpAedgY6nQt6YzEVATxjeBfcKo2epq9Cl04/M3lzsnsD5SCJukj7Bsm6mDXg4HQTbNnyPjVpFZEZxSPRMfm8WXyLMoM85sGQEBMjKJtzaMMvgxKoZbuJTAHj3jqUSk5IYfcbo7+CsnoZ/9BqN57QWMmNQSVIIaK7F90CxLyy5lIv3JpXlWcinZIOaZT+N57agpI/QigrmahIw==
+    learner_created: false
+  - name: src/Underscore.kt
+    visible: true
+    encrypted_text: Ejy/1WMvRnIORSwSkw8ZpUXoVU/iEO+NNlekBVacfi3igeKTAAoPv5T/+BmG1PZeUWuP+g9sT9EhK+cA+oBbbrzLM1icSNWTrCumqcVkwOvLC0ylyiGVjKkhxFYYTGADnt7YZ1chPMudC3DTMuv1y98a3GRR4Yi743pSxg0n/sei7Y/eV+0Q7VGvJDNZSTx0+4T2kVdFe/VTBbpgpjSU3f7Iu/RthcnQ2xETrMICGFauzFzpOEuXI8Y0Rc+K9Vi6
+    learner_created: false
+  - name: src/ListIndicesMap.kt
+    visible: true
+    encrypted_text: iStbD9bUy4RaSIsq0jas8KoUcTKysfX1tZA+Y4vbrYqSfGlwjDAxcud9hAMj9TYBAogjO1+V4wmytmAr5tpTxY0X80TAtNy38ue2HK98+ElDJAsHY7gLJT0XXAP50dcD+XLVloOtb4zQ2FX8RzXwhQ8OW1WEvSwzraPpAspDADhJojdo9T+zoXLQ0CRQCaKdqucsyAP7YolZtvPOSzzf11x+Q0ABOLaFFHH10hr0OoI=
+    learner_created: false
+  - name: src/ZeroArguments.kt
+    visible: true
+    encrypted_text: pWOwsINWr+rzXSn6pGZOdXsuUfjAhSfRvVXLV8qh8P6F2qXOr9CI9Rvna/Sf7yQQojH05CfaKLJ04BZ4AyXyW6VbEwdDVcut7Wip2qkUKViU5kPerfD837oRecOfMhEs4tg/S/w7J3gfewBSb36iZIT6uuVC+8eZspTwmRm6Wg4lYO7IPfuVFRqNlPJdAXZ8FfOgaBFR47lxSyr2xR1Q8/c4ydJnDM22+OPBM9BstqNNkZE57hhKR3b4wCxjdLIG
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

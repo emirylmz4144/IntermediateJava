@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 378
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 378
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: DlvqkXbHsWgkGvj+XaEANI69Gur2tLf4GAUz2GcWmmbcZim8mIOm1DPbxWK1oBRmc9qG0q2zCwyaCCZ4+rLqo+SLBLqz3uwW/s6oXiZBKhaJWGM+amnZkFHTnpfc4+hFJosu+yg40PhPji6VQmufS/JSy/jUfCd9ar1/hiLqFTdHe7KVAseHohmYcq43KNGp
+    encrypted_text: ksTdBg8IFBfyaoUxJcbYG9Ohby/sC/D9Y4JN9ls779rxCyKw3ZI/qO1puazmNXrJiYvHntF3gxOtq0FM8mlHbqRXhkKQ9vqyz0djF/Ngb5QBbTwFQ2kw0mv2Ua5ArR9Xs2DUnQ4G4woHJKV9enOORyHJqIZAW9dyu7IYIgphYYHtg28v3CbDx98DbcsKxWzovEn3Eb1H0eEg/lSlUl/A/4N5M6PZMX1mVwpywnltlmtOtn9eMw5BwMuoXmwTvZLT9h93D4MH+SmEL6QvqKuK9+72S6GIaHEp7d8ExhZoBMNtIOKk+F4QEQWzzQDGECVyYDbJJQOEt9fvY7DWpLO3EAzc9goHXH31P3+6K2G6/68AE/0dwWg8sPZn/JZhwwJLxMrcKeL37N2zd0qUvvRmXrD3pzTzrD07EbXV+c1wy+tMQQ7U8LvHPmTww5Nq4SdTfu4+AQXTJ1n/X6QRPVOoaF5483kkvNpssu+wl9XGmeYSSAnCSvuEnR1pEEtQUmd6SMdYC1cOmrXK77VxrSQ0xCAu/58lmFCxPM7ALqcngXxpAAuGDqe3JXbiH1g+lXpfz+nNtv3tIuj27mKRa7WU1T2uhZaBleu8ZSwO9SEGXuFdZUQKACldRWs4X2n2px2YqEC8d58KyMRcftFhQMMhmDjH3HiOdFCDlJriT2vUShCp+hxw+WoFIM5HZGBS8EiRL+bGF6KufCypyezJ/sbDaAQfeZ1v3H2lpUcHXTWxsG79ukSN/v6lKM1e0C4WCJEgok/3/LNWmZ/2JL9a3RrDUcUNsGyysDEohZS144ilzz9apFk0JIyQ8C+0WZvFKuIPoyxYGqC9gB+/LoRAZvWTqqIc+DvXPfdDREqeQ/mMwwfP+OwAx9ue9vEFFxt3Czjl4u+qnYLtgHeAM9qbIyIJ48Pszf+8WQXSAypAz2bb2CdpLNsomTmNKY0F8znn8dhT3d3nooaBORxcs2khfDsR15HolDKbiJiaSAzxsJysjTBHxB9MyYnUslvmtL29IBe7XrP72C4Z5+K8VS23bjxMlQ1T2K3A/vnIfEjiG7t6sCdvbfE+X6UUYAnTXezZc5z/
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: 1ungw6jj1L61MfyRo7huTHflbYfdh77RBmuUaGVVIcU4koqg25vXELv3KcA0WbiOnAMEguu4EHItiqbOcXTcytu0WRGDwifL6dY1r+E/xQqwA0PD5HxCZyquBpdYh/i37QRPPJTLQoAzj9SeH45gL62P29kuZvdmeV1v2FQOt0M8OqUNx3C+HS9wLiQY27BZAZ8SFVDfLvcG4owOPl9zSSrz8C2CFa1DVMVToUwU288JBcX+CwgalQ41hRio6Mlsm0ZwCvosgQd/mAhN/Y/nTv1Wu28sUbVb/OJDKAILl0r1Kt1s6kaNTTK5bGF+4h5bmxfLHrNevWtSiU0qh8YELJTDA5voUQXVPqkwEMMbHLCmuwmK3rMRbT37yzpmDSlx+rAQ56b0ohfyo534AY+558KV1ZGQyDupMY6A81cAIBKyoCwpjWZO46l6lgsj1/w2nD8Tj/Cw02YMIWCeHSU06AbG0jSIb8+f038S7gsCOz33iGUHBdROuramkUTVA3fbbCXrz0HPm2Pw8WJDOOVRGvSi/5m651LakgOOeKLHp4YCRmvTkRIOojwYl5JGFO0VrgtDb2gHLRyIfx3IVLKOEXUw6h7mYmIsuwRBzUaPvRhOWELUoXkFEeKqPRd29Ifihe76Hm0c24VRFPoiXv4CUB0L0I2GduV4x6ekyd2zfE1N1x8lcPYJ4dys8Lf87tUN7rT+ikdziMDS43/hkvLANsWxLEzA47d3Q/hAiYlJolW79V5NW3tR4HLnDqx+LASI6N06YOhTYsFg3vHnk5JbQBP/FTnmA8XZyI+cMwz1aNb94HJ/B9BGWN+y3h7rjZpUIsPcgc/79zWTvq3FCcEgagZcJJ6BCf2k49d5VRpbFOvVw1GMjUrxbtNkACy9TiYy0WBx98QH6mPiDaV6Wc+JCdQ9DkhIX6fM5xj2ugZFakb0PceglG0qN1wnnDcp9nztmcCQ+H3iPNVtyROvRlaXyQ6lF1Ev1baAdh6hpvQ4cI9cQDIbC0iFjwizIg8YGhrUp1xbOgV/gerdOOoX/tKzt5vHoRdD4GhqLR2vzp9ok7guzRiLDS42WgWZFn6aS5tciP5xJUwZVVa9qYVcAR2S5Fc1vruUASm/kzOnU/B1uDGxZ0E5Azq7zEs9l4GV0n/ItS05WQi+jsr0dk6SC3KR4nLBTZqYk1aFuhtXpKgv4AjOuVNr08OEMkBh/S3gpuqDBD784MyWQz0OzoTMI99CYcJvOmHTRZ0uEatjTgW531iMiA4rosS2dx9rY6xXJ/DR5TSgsE/iFYxjWu3sw6Gbuw==
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Functional+Programming+%2F+Recursion+%2F+Exercise2
+status: Unchecked
+record: -1

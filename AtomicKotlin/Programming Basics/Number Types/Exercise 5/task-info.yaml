@@ -1,0 +1,14 @@
+type: ide
+files:
+  - name: src/Task.kt
+    visible: true
+    encrypted_text: +RXl2ExswN+QyFjhk9TWrtsO8+PcGJ547O5kMvjTBeWML1fkbSnnlRb8F2DXCe5Fwp+6dBaZIinZIFFhJVpfwYMTGNHEtmIPOV6D453ovlPUpb+tRPMiXIaXY1Qw1G5Y7k/PrfOetgBAgntfzLA4XA==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: nFp9Wn8VhHQw0s5o+lqGjslaBhF3obg2LiS7Z4agZnY=
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Programming+Basics+%2F+Number+Types+%2F+Exercise5
+status: Unchecked
+record: -1

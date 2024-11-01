@@ -1,0 +1,21 @@
+type: theory
+files:
+  - name: src/MultiplyByTwo.kt
+    visible: true
+    encrypted_text: /m1GJF4mJ5IjeQy3Xwo/b3AC5CIX/kk68zl0t9JkKuOdLC78EFsPY8xP5zgaaIb9X/hOB/2HVUwWN+driZQydGb+TkcqL6KwTB4+2XuGIb2kyQkx7O1XGlpfBL8ocgbOZaqwhHZN1pGD7VUg0d7fGGTrEx0hkNV9QGFcrjJO2GT/YmJKDB3BAJr28cza7u/sDz28dSlZbMYvvY/Fswz23nhgpjh8c/tiet2KfOYsI1ySDzgXLKXly2XElw/jAsh3Vl8hZ8uK8/k5YxTMw0q2AjCQJvQQKkKhxdEcDemwIrwFgrWYP1CUE0BwvFuX3Opf
+    learner_created: false
+  - name: src/SayHello.kt
+    visible: true
+    encrypted_text: VsQjch43sOGv1XnTCTOK1n0VJyKuuBCasNdNhd5WP/UZIhGOxV+xG2dgZUuRS+GC+Yl2MTtN5OlMfNdlaF+PeFZBCm+byND79/sS2+wGO2s2OCQl09BnHUHkWCUFHbJj/aUqa8oDfV6H2ZDhuy26vZxd75RJofORhuI8fax9XlQUhkGZb9Sqqb4OOJHO6p2aqMWSqxLBnraRgrKh9PnTDdUGVs+wd6h2QBqffsIMuIWnLihMWNtdxQeuz1FyS4CtghNC7RkQ8y1s+5pMbmNoHA==
+    learner_created: false
+  - name: src/MultiplyByThree.kt
+    visible: true
+    encrypted_text: /m1GJF4mJ5IjeQy3Xwo/b/hPoCa7W0vOrOGBhFJ9IT2ONCLNM4mI5ZAYZ6mM4FLEGQ8nETL6hesIFArW3CiEMtoEZuAlws+nzPeziFSJLvmz3RQMOQtzUTGWy11BIe26g7fMzKNQNGsG4xhDctkNHbwRlPCz8aWtoq+nikOij/plihYZMjz9IkXhn6IYbX8b
+    learner_created: false
+  - name: src/MultiplyByFour.kt
+    visible: true
+    encrypted_text: /m1GJF4mJ5IjeQy3Xwo/b6t2gMXFlynvA4PyFR5BTQYbDwRlb1JRt/t+G9QcEEtUw4C7rF/oVX63yv6YvhX008Ig7JhxfN+1npOjc/Z7ftZGS4AaZ7MQe0noTjRJYXL6sKu1DW+VDup7P1pAYGcGyWrMXGGwUAerHXG2xALTTXJXKD9k/ZU6rdcPDibGyM2lhVW6nIl7SisoBWzaAiQRJA==
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

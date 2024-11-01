@@ -1,0 +1,23 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 62
+        length: 7
+        placeholder_text: // TODO
+        initial_state:
+          length: 7
+          offset: 62
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: Lchj2xeFCIe+V4lvPvtg4G+sT4nBcHMBizSAlqtoN6teAKIHVaWhbywa1q29BOICdSG9MZmu6lQOKMXT0ToWejUTjmqq7hOc7IbZW3tfA6oBa77IQJRzCqw8JKPxDZXfmP563ZiueX6C5WpVfMQf0g==
+    encrypted_text: z5xIgCX+y50jfyHzf6F9azzadPlt1XV3K1N9AjQrTWpiOZT3PuhWGR9g1sWIP5d3R7OG170S/iwK2ib+gBFHa8hqlQAKMWqfb1Y/j5WiyBw=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: J13CkvaygBh+xUtxBGsfTdR4EuGvKtserC24h6qcTzr0YzE+jPDd0Fxnri5TZdP/KpCH7Dw1U3pPkzB9KHWeTK5wP9OGQtLF6MScNg/2R2YlrJC7bVnBVsDmKILwp0fCEFC6Ry8O7BFyyu4AZtIAn/TtyUIEtaA+u+BQWlrOXRdt1kAt9LSYwSdXJTCx512el17dMIfR+Ej7Tb8A/YXzw7Rb4iAV/Qb3spWFVxXFNXbwy0V8L5kE6ooewSPX1fB5ynyK3q3ijaq1S4KKeLKyHZnBzuRENsMFkK7YnDkNaC0ikmH82h5iZ2xDM/fzdp2gw3J9XnxaGsgKIkUfaacY6UjVxvMY6ITQcFOQBSWZjRnosrm2pgJ+88LKCw3QP0js/mj0+F52lUWlWeOofrVwZ0HexgepjaGD4gX908P1766krgBn5A8IEQlE55k+Zci1bDQlYpHcut452MF6trruVE/+OSgZHBHlyInzvnlLbXpuEc71AV1hZGQ3pvEcDkN85Dc3OoWG2Zpv61KodMVosIKyJoVBbtNNdpR92VQNHzTUoIr+Q9bSxzY/13DQwdpnl/IUfoPiZBCLvAwLn3YQiuQX04zV806EWCZ3k0uXuhzLwaL3xIP5hW5r0SEGOesJPW5SP3DxyqTzT2pmWBWe6rQXFLzYXphXjqjw0LScLWOPTEBIiAWXy5iH7ZO2eBR0yCwGn2tbC5c0U1wug1QeHGNXcGL8Mw7egrcg+co8wrxHdoEpVehq95o6vDBPSFWOdzQtvumOasCo89DBXPUt1FJKTj7njiJMJVJ33OzujscG8tFveVmgoEeCreC+deRAlJn1Mok4DRQO2tymLF4TH3LHfXGN0pjCSl7cotjApLGm5NnJkn8fDqB8sBXyFNErzANEJPnmvKqN2ZB7m3+9/u1YCpIKcp97wn15iGibhJ7IAM7ZOw3FJAOY2dkBrPRvf/M5/kFuiv9dmtKvcJ79o1ClrSDia3G6lCCbH1tdcKR7OcmH0qRhKlYqtN+qWgZMz567ZvihLF+MLB7lObMFLPuFNrvC7w2ufmJihkHAg6+y2hpg+Exudms5gjbpkVDXBx0k7/ZApnT3hzLSgi7z0ydf4JVsZ1El/jxcZTg+BLfYvFI6CGUtN04IvBsGnfwZhKexTQmgKLr67nAE1HREs8Em27IttIH2wXKuZK8+kLIRzxjDGadOfs0M3eAliIQXvJQ6r7pYvp30ptBAOYK9c5OHF+cp67Sw+czKX0eS511cfo2HB+6ksJYNMVRSXp2sANPkk2zFzzRZym5CO6z30WlKNixGIb+75xl8ttlm+auIcjAoryt4d+SiREPLqMnycdm8YNP3UgYdYFQZ0SkzVw==
+    learner_created: false
+status: Unchecked
+record: -1

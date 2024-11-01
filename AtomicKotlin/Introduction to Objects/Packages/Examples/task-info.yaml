@@ -1,0 +1,29 @@
+type: theory
+files:
+  - name: src/ImportClass.kt
+    visible: true
+    encrypted_text: xaZY7pRifVjtQ7EYb4ISA0KozbXu0zzV65x1Z2Megfud1iPC81DAUwE4uzUN23LpKb2cEgLzOe7CAkFWgNbYsOXPa91k8/qjMu3q0hJO+XDCKaNAAo7nsQLsMW0bQzTAxZhDUqZ+4nvRQgvI7adFDIyHpC40M6g2hI90VY/Io+E1n6nEqXdQ7bSCo5rHo9hHYZzfyNAEpZXILLhPh0Byusofu1CXSN0fsPZfVHzhbtWMXynH6+YeX2uosOOI+BdpbtYSe/+XTZrehohm8eMMiw==
+    learner_created: false
+  - name: src/ImportNameChange.kt
+    visible: true
+    encrypted_text: xaZY7pRifVjtQ7EYb4ISA0rk6pQVsXmA2b1LUdl5EICPpW6GQ7MRu0lgspgJbSsLrDudscnxsC+NKM+7+UKpBbotFrHydG11kKSCBwWs60MLtlYzsla5Y37Jk6zgZHAYvqrOHk7CX5qWbPoxMgWn6erE9i5VuVgNYVEUrLK5O7OBtGJVacQnfN6/izCA3H4S28W9Qv6zgR8z/QQjd2yAC+FjAzl0MUXstjzCNZvGxxoiNOtXYHIi246IU4op3Nc28mOX4wwM8EQkKD5Bv2Ih1yH1TxTU3F5CWE3wEWwEuotyJ4E52hdqvpffU5cu/MbenkuKBkQNayyeS1o+Nn9igA==
+    learner_created: false
+  - name: src/FullyQualify.kt
+    visible: true
+    encrypted_text: HPv0AaJsiIpvp/OwPfw2BdBGUzuLlvSxtMQ+MSEZ1p3kvfB2t5Ju0Si3bQVPZT4iDj3lT9fkt17VQfh9WndwOMCPvzM9MV1Bm110cNhcKQGT1lFYrjQHKdvkEGKaViLWIpEynmjhFkIHib+ImBE8uXeF7srCZA0Q8mV2+c4a4oKzARJ6bklWe4NRd0SyT2Ilc/j8mOEkAJgC1tyO35rH4WtCwcBaqyuKptKJQK8zvq3nyl65sw13rdJUmsbpjU863mjWvUaJglBYgnApwe8DWA==
+    learner_created: false
+  - name: src/ImportEverything.kt
+    visible: true
+    encrypted_text: xaZY7pRifVjtQ7EYb4ISAxjdrKvt8OxGw4KOhAigcs/xRFZbJwYnoFKjTqCX1DSKdwVm7Dls5n0vHzeJZtCCC8Fvl1nTpYA5aELxl5yMmJqp8EC+W05n+zMH/AXo71v6DvX6VEjCo4/04Ru3kYJ0E7tj980vh1G50DXUNNJ24RNvbPwhM9KrSFkMsnE0QcXEXjaXmBgLkUrdSbyGWNVeE2cs7SGFb95OpdMSW/5t+sw=
+    learner_created: false
+  - name: src/PythagoreanTheorem.kt
+    visible: true
+    encrypted_text: We/2mLtQsp2ETZWfiSjUfBo5PqsCGPb9URxu/8gdqJC4ILKFyUwsHIXxmcY4GbxnTHwjOTF9o6ghOJhNBFEdIhMrSqZr+0J+OSW5NXCFxlVcBRYElD42UH+zfXGbhd7q7MzACN3OGkCwc/SUjg1bv9ma6R3po50hRQvP7NjvXhJNOrub0D1ZsdkVdp15ph2pE1cSEzl/gBuasQOE9XPfQh+D4YNRXlmR/nw/UYbGir++Uale3JKet5DLe8rvS4W9LNPzbB5vCFyLUkQJQ42QMQ==
+    learner_created: false
+  - name: src/ImportPythagorean.kt
+    visible: true
+    encrypted_text: xaZY7pRifVjtQ7EYb4ISA8OBZr8kgYRNYof/ntFmU5yW+pKROV5oSQU2KYW2H1/aR9rhZgZ7JnHoSK1esNYcQRkkztEaQ7yy8NlLnqvnSZdId4o0azq82tp/DUldtEs28WXRPjT2ESCyEOYt5dbAlsHTDclSGmQ+2rh9pQXqhA/X4If2ddSN6tN407A54x6K8m4CL/KBVf+LDLv25Ve4V5+26bodOHgUocr77vSeQCpV1zffgL2X3jSfDyoC/ERX
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

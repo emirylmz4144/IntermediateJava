@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 127
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 127
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: jbQDSCKehmAs65HhkH1mDg==
+    encrypted_text: apJsiXhJ1yfGaDEvKgu3rGP02WdqVIIQvxEgo4+DCzAkTtZZkErnyJ7E9f+DZ+VW4et9tyynG3tq8o0kKRHiLVythlpaa1CRa8x5Zn9RclIHEW4PBosdg7w3+tJDldJ6IrePCsuCNvkWcaiNLvhzb5nSdgDxX83e3H6XN3FoTWQzoQx0BAlkknXE0lS4emdIQza/2U2cGPsdrk+rk5Ul0px9fU7vB4AUkUZV6HLphLJoxgLhKhGHYMHYLWosQtvajfyZUKBi56TjmSzHfhw0TPVZ1+VnygE3HYnbFg1ByYtC5+H9Qtomhem61UcrtaN7u7ZurR8ojyXF/43pY6VUtaqohbGi+gi98et4F6dKlQ6x3JnUsqiv25/wsOl+H2aTU9SIINp78qNB1d5zCK/BEw==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: 0D6yhjAb/JxCZGaD+/dRuhJ68yBKsVSpgJKTFQK6pYnzqRuDJiT1hNOHbSiOg0Jw/GiJuJOIw8psgbVZWTYdEq3hA7q5VyuQUg4gRBM0IKC6h4BJO+loO4J45hr1FiLTEbAFKeQbzv9c8Iwsk2BOsiPQbuAhotKE39I6ENDvEtf61/Y8N/nODCDozPnCdKMmyakPcv+sowcwGaUqGQLWidPwMdJJl0FISoXVhexp6peHpqkmbrVed98Z8n9suDEtbROu61XXi1PLd/aQPJoFQyQ2rbRbl+ILC3veE2Q/K9FM3v0AZbk2v6OeqgQcBDJpH+UI9XTeerQYo0xrJAUSeuJzcoFtnWSNF9zkJdSTMnL+XCNgT1jVisQM7QpV0ZSRP8qpbNWyKYoIbPcnh99yQtSBli5BF7WZXiGhKRmZVVRbiCwDJ6xlW8D7v9DXjJXnMmqZG9ZpNBuntw+iEcCWw1zLIIC6afHDXL92z/TkGsa6jZCG++v2AToa8VkeLE8apcHDg9qD2xbVOwOc0T347e/+D51383zTssk08i45ZSA2c2OI80seIvJtYXzc6RqSpNr8yeFB7Qdg69Hgeq3+Lcbl6GTsVLjXrhxW3X+1yWF4WleTAPX3E40ppnm/pqICixA4Lm913bv2Esct3r3nkObcWKRs3MvdrFKY3vvkF22YPg7HJQd85eXomn/6bQv3MjytEmcLpURkbE9EVuM1aCfjABf0Qh1pmQTrWQJMRlR+cpGcc0WP7hlJcTCFZbqN6vT4QxBm1HPiUP0NZtMjBP6FkfZLROro4VRyXrR0Nj9zEniry6JdyJ+31Z2gRROQttAroGu62NzrtcMcaWjedw==
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Functional+Programming+%2F+Lambdas+%2F+Exercise1
+status: Unchecked
+record: -1

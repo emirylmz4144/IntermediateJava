@@ -1,0 +1,29 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 100
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 100
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: NtcI0I0VLZHukRi7M2Un9dnx5ps6Eg8HYE+vb1w5ZF0zAO8Y9SUKJ643AK6B5VCpHGstUWt1DCYW2EN1ZVYIDfmbhEHR/oM60Yjl8eQEqDTi/hOyYJPuoqceRK+96lRJIY6epuDGsVGR7Y/zUMM66O0cn8k/phO+ds14p6wt11Y=
+    encrypted_text: EjBVD9Sk74aMVaD9hPhelLnFFRk5Y92IooDCSOSAExSNukibzINQfmQcwAwPohq6/WrPYWZMt7vuYFkeTXvqS17/6eFk7Jr8gs3G7JUMwGa9Ki3B3O8pL0nupuJ/9mYCQHapn/rRgqDZd9llmosmyG9L3YQyO1zoptC6/LihEcrigEHvd8uM0F3w+ve2cYVW1JNHuf+hY/SUornf0e5tKTQv73s2Orwo/Xz8azXmejmtcF8yBL8cuO3nlPWw8EK1tOh200zTZajAu1Q/BVUxPSnQMP0iCJItfSBDJGlugwE=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: 6jF2wnZSOow2EPinbLx+IlVjXw81EPltaJ8jHhJzHf6wdf/5ysb4kBLJXxgLYrYUqK1ol71n2UO/pznxWBOMkzWYRh/BiHdkxbRzzn9k7JKnFGON5bS7D+/tFbLtLZBfQDTWfq5SYErD2ldxbTY6Lif73+TzH3SEM8xBIKvItL6xOLBFJElnPv8yDkI2Y66WT27Y+lMB7nDgZuzwKfZNPwbDVrmlJE1zz1wr458qW13iYTnqaxoBYtuiAQ4ROODDbpcJQyhwpZLmNBTDYrpKQexIptGGjq4j70eIa2hhiovz3E4KnL/grFFaj2SAbfwEwOaZ1O4yJwm5QqsC8c5Bx9BXJLFMi4NW81o8FhK46soQZ2kz/iLUsSRhlrCFzJosZUNRv0b8UaxcP7VAX6HMQ8GuYpHIu9pxsVOYxR9Vcp9k6JSIDi41/FR0Yp7CP2aFOJ/zJdpuI+acAft1YkIsV29bRWPhf7TLHE2DKJ4cgDwzMbKhrsoUITHK4WnZlUWZemHNq0GKvRjbkkXmE5UWW3DKeudY56g+jtFzyRNhhy4SnXSQ1DWrrdQQljDjHKKbXvjIS7emGYaS8USdeXJcqvcYcdmtcb13nweqCA3gBgM9Tpz4f0FL4RkbJcK+G4sNZ0SgP/vSYBVa/+mu1JpT+taYZgmRnfXeDbJxo94jEZZwkAxU19Fn2mFVMjUuDA8P+YJwMFlhkrRF4HVr4JV7d2IVc9eV/kICSx7o1KsWrHs7XMRcDMztPh9xfvW8dR+o/zU4ffxXl1QmgIVPLpcvy8ecpmVCkek/Z5IaH4BNCYX35iYWdFhpfPBFJz8Xi+nTZqhCjuIrZNFlXLoTrmu4ERtZuyAlXQ6P1MWPIxzNS5ohHocomBF+9gpyk+Rg7eFBAWJJRnsoPC5MhME0V1qesrTOtrXhE+S5zQoJ31jkrNlIf791PDUuGLWte4V7EWBD9deFdlZUteqEyrgNbTaSVkU9GrTyUYB9UMyBQuHy3jdLZYVbvMf2wehssee79wUlO10BgHJi0dqNgwcSaWsjNRmlMNq8vBqlDTQuX+RHySvvWUw4Uo5An6fhNhyFmxK12bYshCsIL/kDmnXonb2Q45x3v5IfNrX92IN52FReuKoMgRzr4I92hW3RjJX88AfBmsC3I/hTh6GV7z+87rsYXIC1g31RQAgAf8m4psbyrsnEK7XHS2NFjiaZucRksszBYgSiEZA5OUIj3PzjHYK0iPv7EZn4VdXvNT9xuiMDWZU5NoAhBJNqYrUtt5fqdYKaAzs1U5/mrbnyEgtj+j8MkJIFFITzo3cnkt7qDV1AKCk=
+    learner_created: false
+  - name: src/IntList2.kt
+    visible: true
+    encrypted_text: TtW/2F4HPrfF7o4R8dm05Yxax3kinbbIkmE/95IZKRZxrERGiU3Orz8lHf3uC0UKBifvK2cWwaw2TcfsKcW+5MeesCC2MYVAUMib1YYi+ghKAzcThXg/5YvLpmYBDXgSV0AXWJKijIZnnyQNqu6swVYoXeAPtC1126XhSXCKCd1MtQFVnxpseM6ixnDjM3mlIhFRhJnrQYYhFRVVnNSiouaHD6dSNdppSITckFkNvepjuiK6YcAOyVCIungwgEkoBML6oWIG0jIcZocxdO5iqflbO5CxE6/Om95ffZTHpn6WJrz7sJtWieMChX9EDkFaqdyUx4W3Cs0ou9XbfrkKyDiM6pxW2eExB05uOus0jAShm3H4PBx155QljuOQie/48w8VmTu1F0BQwTcYHPTl8w==
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Introduction+to+Objects+%2F+Lists+%2F+Exercise2
+status: Unchecked
+record: -1

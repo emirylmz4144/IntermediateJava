@@ -1,0 +1,21 @@
+type: theory
+files:
+  - name: src/WhileLoop.kt
+    visible: true
+    encrypted_text: RaBi27xADCIeGpVFtUizeFpeg8scy1c1BRLn4RwXUorAP7GF3+tugLODabiZXFlJooqcnIrMbsNIVE+zdu/jjXKlanr2kbZ3QtqlHNLjKILusweeGDn7fYlfDwElYDfmfBR9UZ8wYoOwazihDd3eVraWEnikEW16YBrvb6iKJTAiesI+5eLBUUWnUD1llz4/U9YN5X9GMDN0/ztNv2OWXWwmQdp7ejeMEUbxaZIGqE6Utw5RnK7wkppvM5cKTBeNuZgyyha3235sGWhGpH1waUb8qiZJzDWpw/A/gEJ3T53WtP8EcrTb1uMkyIz6J+nb
+    learner_created: false
+  - name: src/DoWhileLoop.kt
+    visible: true
+    encrypted_text: RaBi27xADCIeGpVFtUizeKnDPX7PliweXD/o/ORwMqCTRBDLvydxoha4nx6KL2Ljq5HAYc9Glvnjszh9b/12LtDJpwNG/ga3Bl5ZNrhUEv9SnwakafNtrNF7WMfDosLoRcr/0G6zI0UFPIS1Vb4c1Jxm9DO/GIkj2un8466XBkdb4je0LfsbL2PEzJladyp1INh3wzXEZPrZrR4XPRdK3w==
+    learner_created: false
+  - name: src/AssignmentOperators.kt
+    visible: true
+    encrypted_text: RaBi27xADCIeGpVFtUizeFAhnBqsQv7vjwYhPYdifyEcdraWl55NQ45obnzMwtboreL+guyF202boi2QvbKVZT3cf8QBZmLcr15EBG8swxMjKp9w8aUR1nFfSwRJK1jLT9OSObNtfVzCQIub+z83GJ17HcVuyoDl6QDWdzGTIVD8AEEryVSjSrSEI/Xs7CucitRe6ZRXXEBG5TP+mybLX9MJPO0N+lXFmi87i0P/fiCF8fM7r+85VnOqE2p3i0SGek0Cf4oNgB6zKQSOXoN2RyvGoL+hgrbfGrEHTEmLgvXS97ywQKM1TR+j1PiX1bvagfIJ2wJ25K0mdip6BdIVJBAwO1po/1Cy+fQpOC/1y+s=
+    learner_created: false
+  - name: src/IncrementOperator.kt
+    visible: true
+    encrypted_text: RaBi27xADCIeGpVFtUizeCKkCqYAvtrIV1NtOQq3hcMY2BrziQLDLKipmgeuJsb2XSd7jB0T+DlTpPGcuebFVAOllAvRtdqj5+GzIji3BtG2Co+zvnFJwTOz3OUO11gFa9V4jszwTOLZs/wRe29BYFs6e9vQIDJ7v7w8k1hoOpfamcku/UDSWFU5s9QgLxex
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

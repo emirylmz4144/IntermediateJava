@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 246
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 246
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 3NiXNgJBQIg5krKp2i7CKNUvUJm0dP7Ol+VnuzCkyVm1khv9o/DivVjtW/JWfNa+EcdsvsfVLz6mRBjYF5rhWy9IpdQov0vVigg7XxqjS9SEz5x22T1ufG5zUPC9cN9sbUw3mCSbZFyUfKTa3U3YW9X3LdzZof5WV6RBf14jIMJfYb/kwvRQT7y7lvp58Je2YU0T8eJqs6dciRRfyKxYJg==
+    encrypted_text: Glgmg5lJn8rh17aXmVvO9PihPF+G7ZSbIcfl82ONUUHLsnMUjFCPkmvmpT3zBL0vHNoEIWlE6lGJfsN/G9ExFgUqjeRIzRkacoZ+gw8Sr7tdy28PyAXALBrm3cmjerNWLcp77176DVJIdonHqSbzMb5OAcvyUSPxsJmWsh/HRkodvFeIH8HvQ5uG3NOs9gegXa97du0rJgFd6ueXkWLHFXqnb3J7lKrM4IfGowrYHwkavCkk6h4AjiftupqjBSYGj8SghiQkWkQL9LvI6mvpbhxMxULcue0ARhhD4ou0/PAfBxteCJn4FEG8tc4kYQf9N0cGOkpBOssmUKmUssRmO8BMq+3qr9m6nmnWco5wDksSFDsWNN9t7M7M4x9eKYLwzp/PsJ5C8XdiM8xcL+wtDO3TUrR3rISFGamauiAj/e/Hj/bXeM6N1aor1BF22alSNGNult0D7oxYEagRQWDXpQ==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: moFr+NT4RKMDOJ9x11/Yr2xmS2A1c6g/ondcrzagsB0AAcvlfSqKDpp+kS9avFsDfGduu898XRFEJwg0I1t7+aZ3Cx7VsWHTfr3DWFy1l5ZYOVB0+UWQBaNgDP6GKZ3HcaX6/YVQU/rrpqleWruxfWlKILu2EYK2WSX0Y1GjYkZiHHhx+Knbm/7S3BwRQobiXn/jrCcot9LNX8pR9MxAhF98LePkVXJdM89pyyYV8sX/tO1LrF71yFaQIIgE75vR3JVuoq+vFRRZBoKfOhNNqNSlLNyxUDuUZRwrQAxP6arJ7W3A6WVhr+xWLnXmLPZ8+URnuxSJPTXQ95+p625BeO9hAxsI8TgFqUAHsAlkiMsE2M3QpWFeY3mP07qoh/hU5u2OSiwMwuW+meR5BnL7wk91jCZDfDv9jzvGPzVLwupBMvSn+SXadw7nRYkEWmg9rMfQtRTA1Q7lPOOEqwhuaAaer+hg0wYm+zirSf+w+fu6BHaoCItsuLY1udqOzmDFHOCP6oHkhlk48O2MOXQBA7rFu7u+7726HqUbjqn0hWZf9B23M937lJQb/DHzgCrRpX2G1ydAmJo1jV1oOPNMPKiGeBWTiKr/XuhEADwvx0Fpn+HVC3b6Q6cmYT0Pzsq9SHG4T9D0wNmARI1HvgbpQrJkgffeT6bAf8El2PpOfi2gDiMO16Q4w5Gd63nsesAvuzX6eQLvqkTyl5AW+nIwYn1h8ObwsJEOHXPseh+avgpgL6yK/aHSBwnd7LZncYKarL+lCr0ILzGW+vypUuRUCI9EX/OzS1BSWH0m0BQIHeufpOR5xveePlD0wbUSI/drJM1GHpUPBR4843eBjZAe28sYDpUL/evE3c0uSTcFM87NSdXODp89vkhnmq8xzyTwY8ZJ9iKHtH3nT8vTAi1Ji8tlBvcCa945yZcIvLrx6dratomYFbAUA/1V/XRM6JVdWn0zr/myA4/A6kM+jq7Ta0RsBEEoIUehP8+siFKm0AVwlgNP81xcnRw8pbE0/XnSqVDtb8FbBWJXIfzhkD6gXygDr2v8Y6YFbzFJocd3yW82joAgM7/2ktCzsZrU4kLcKl0FMJ5hir39HlFIX0pJIdog3P00f7TP1PfL+E59TmVtIMmWGtobnrCX59UOSRrwdPxj3s2vuhA0CB49b1G5tknTlQvibg2ONmA8fibKfg4C74dhzgc86F9ZdMeoslHZDXCDVkMIe8ztfcWCPZUgV82jAIOjhaC01A0vkibYbW0eRNxLx1dgM+v7z8R4YmUSS/Kd1DjMgXcJj+No1ZztTJhIEK5pxOdToL+AcCdgnfqOo/qS2TecgxD5QY9lPz12XZ/QSAVlcXUoCKJM2GMczyxjOD2aVRcsKcxCAoRJkthjbNLnI15qh8upss9UhKZSJ34khupQ1EIId0WzddSfSUCGcHdghYRepXQjKSihW2Mu1Di1YAolvBioVDRsd3EMF5wjaD2R12Gv0iXCF3qgCfEggHdtSM3uOKGLpy/dFrsEWn8jKJxdHBhqsH5376cn8uY6OiP4/UbtiUd+O16Xvi6VjDm0Q5g6t7kwb7Ol7QZEjmwjDthiD0pJunwtmQUGEHCpEwpI/EsshKYvVwa+RdzaOrrgRnzY6+tDPWI7zlmRI0Sn5Cv0jCjUWvHoZgV2UHBO/lR6QG8kru2A3jF/XO62yEE0I/u+daSjCagkFA5RcWLqj4Hl1m+o0opylgpY5HS9kRRKFuQwPkxI5lzPFXKxca17sMsBt6LiCBoXXNiyM6gEdTcnPdxp2W4ZIf3eWz9Zrt7axwIqw5AXxUMM/A==
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Introduction+to+Objects+%2F+Objects+Everywhere+%2F+Exercise3
+status: Unchecked
+record: -1

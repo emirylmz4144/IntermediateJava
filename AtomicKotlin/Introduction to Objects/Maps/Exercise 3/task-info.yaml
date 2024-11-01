@@ -1,0 +1,63 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 261
+        length: 20
+        placeholder_text: MutableList<Hamster>
+        initial_state:
+          length: 20
+          offset: 261
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: IepeiL6TX3OLWENgezryIqN6RAkv8Ta00HmHKn0z2yw=
+      - offset: 288
+        length: 24
+        placeholder_text: mutableListOf<Hamster>()
+        initial_state:
+          length: 24
+          offset: 288
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: SIyy2yIXw7uw2nSgM+URGA==
+      - offset: 420
+        length: 19
+        placeholder_text: hamsters += hamster
+        initial_state:
+          length: 19
+          offset: 420
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: ni4y0kmkZ0DjMAWk1a/b+DWBKcNRXzLIRwtmxIhsVtb2wYy3Tlk4z6vnF80AXT+u
+      - offset: 491
+        length: 168
+        placeholder_text: |-
+          {
+              for (hamster in hamsters) {
+                if (hamster.name == name) {
+                  return hamster
+                }
+              }
+              throw NoSuchElementException("No hamster called $name")
+            }
+        initial_state:
+          length: 168
+          offset: 491
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: ft4qlVpq7W4VO+hakMOUaIusckPY1N/URkm6WW8fi8o=
+    encrypted_text: A5u7FCAN4DCvkIu0l51WZ/hSsbkR7G5nQEiwbuO3ThL7fVUXFF213whPaduHlchn7QUwPGcrk8YlZUkc2u5swfznXq8bzTnJW/LltxSoQ8JaMlTPszUJAq/Zvba4HpAdDYoVdqE+FANaOCBLZGqVkxh2M/nbLVj9UzBlB99UU+ttmRXxdjFOsJxL5KoJCVahYknLYb+zwwPWzJHro5De3L0qcRArW/A2dVHKViEK5sAPs2CMB/5jzC4pCuq8Ja7Pt2cHsjpqmMdCcjTamljZGhLfkYzpWQ75MdBUNl8E5DHbMK7HWMOMq0Jq/5MZ1MhT4t0fbwHLo9nJ9RFRanqu6UfgwXCDK81xujgoxJWYs5hgfcZPBUMYtUM8WwhfVRqDMcAKOmon6gMrf+ARTwh3DQ1TjKo/cGg20VqQ7Wu78b80eGkeabaNQqCbKjqTPCnmCZcEgt6BgFLUKW/Aqu/WOczco616AZPEZkC9b4/2UJPjK9DizNKsnjWWIO6LSwlW/Pjai77DyeNjcftmMBSS1f/3hqsX7GuzVQ2+NuTWq9oSpc2q6VNHSwhxXI02/w/hS+V4qOGnCy8MEEHlAXWWwNc9Vf6BbaZ6x24iDaJjUJSRQjudy3HMz9wpNbrSTV92QelR59N0Gzi2Db/yeAHI7RHyE1JJEkl2PQFH6jXor69abDaf3VAZ0+kP1kdDcCRyx0PtTgP8LOrxfRfP20ar9SRExnajAtKee5OK55bh0N1IE5y3vcc0MpuF88bbrSWN+KmlXrJ+e79ME5Y36Jaic8ljVPzCyinKw5WnNDah4lee93rVdtd0HNgj4te480w0vPrH71LjXwVOaUeLtBBItmNlWCLmz5iLL0HJv6lTnUlILtwH0NVVPdXpDSKIrf2enLbXrvTlZceNcINXRLXskyFAYVDeWVDdkHZbWXB3DSiXSaGMyP/DKtYE0S+Kw5ZaRfKD0VYHK46YAazkV5onIZLqa4fGbdOMy085tkdghZiSN6tzTlJWm3Rh+y/5L2uecT3dWgnNYMyfojxcaJYaGsDM7zdWCatreqAzPxgFCuZJoziOfiC+txOaybBGaWuYLpocBVORh7OFHx3+Z23lZynQ8+g8hVvK+Iwob2tVdtyiU1gHVGG6+0gmXoLrIjaQrsdfkMX814J90cntY+0zssbsu6yWOwhQdzZfS3K5sXo=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: 2g9VOXTkrsons3KbTafw7pAUjA4D9EJPYs6Zz8QMjAS1+eDhvNHUt1IaIH0PVROjyTXYBko6mFWBPAmlA0Sm5kyp7xsR6r0asRokwkubbZmzzAJP2n20uWGQ+0KomSyES9G4FTbabA7xQwXA+tpo2kK/hvOujEMoesggYxyEhijbrBvlDAWDkqPEXLvpunaHt4PIqNJ+qxSFdTABpwR/Ut5O8uCf5OK0hO7v1IZU37yud2Q41MPiK9OMph6MpDthB4EMIDXB52vF0mqIYbwEBL0yuTPjp1X/TNOo+CtADHA6llpa4Yei2FN9ij008rEv0O/pvbRXYrKYjGByle7WHBCd5iEpPYTGzTAkllpm5K5F5vPCok81/IZgrBcYKGJ/gzC+EmbGyu6LNRYur4f9kg8cVGVpbvitH0HQrq91OC1qoGngEDhNnA25dkyqmgcJvR5UP8j7+5OkTKyC1GqsHFafUIeN5oDnBk0m9CmzX5DlBqUYovESAKBsSshU5VlJnGgLlWf8uWiDc/Xxiy78pE6giza3QiC9xRIOIZ8BSVqNqtKLcCxPGSl9mTH2FlhppPG+7xXjMCVPaBeT5YA8LUCK+XKKzq2K0rstYLWn1K2V0/Flt7Y3D8eCQJVESNO9oZYmxTAUpIAk1yS5ies/WnDUdZtbdI6X3NKJK8BTSWsROWrEY9CxK2sxU9prqIq2sCP+ax63bt30qAkzQNL0hiFCGgR+Qj0ZXGJb0x+lIvmonoWbECt7jktyJnY3izkK+ofgSjWJYLRLJmJ8YbP4cKV0Naf9+x42w+l1G4kcASXf78jxCsvIK9YPuk0pPwus/ZncfqC7PmncLGySkwfaKJYV/rmtwcipHUyVQhpu+ChqcTv4l7lLoorZa3yQhy8Eq0J/sw04695JeUwh3AeyOZH0SRvdxkgHcKr0fJF71l5Q+9y1LbnglyFkQFPj4QtcaTkalvq1qjkx8PAfAGenE0JiX3QZF/bKObGQieD00bZVk8phNh1pLRuzSbKvd0kujNifSEgS312pP/KJf+7cw83xU2VWwDrSqhtWQO79peU/XcZ6zrsV25+2PKHtsLtUbq42ejSgo3+4lh+ZbrFZeQL7wCNkF/O86A1hV8WnylzgIRE45ImctuM0h+IrxDKm2Rxs2CEa6mdlcZBIG2W4znljb4nkFK+MVsJI7YPaLzdJZeRxueMJa7U+W84w6rfVBC3clUZ4VeU58gcwqHx6I48U4VMkgG2s4UCsfyi8Znm1/6Z52c9qbm8N7OB8yBiR9196IzC/V5kVMcjanxejOUgapdT0yf88Net0TdKMh14=
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Introduction+to+Objects+%2F+Maps+%2F+Exercise3
+status: Unchecked
+record: -1

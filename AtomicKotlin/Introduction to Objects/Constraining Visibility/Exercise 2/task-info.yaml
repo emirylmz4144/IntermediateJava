@@ -1,0 +1,55 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 79
+        length: 3
+        placeholder_text: val
+        initial_state:
+          length: 3
+          offset: 79
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: SaBJe0NzjZZO9K3g99bh1A==
+      - offset: 101
+        length: 3
+        placeholder_text: var
+        initial_state:
+          length: 3
+          offset: 101
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: /7zoyluMtBlxR/6l5lr92Q==
+      - offset: 115
+        length: 3
+        placeholder_text: var
+        initial_state:
+          length: 3
+          offset: 115
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: /7zoyluMtBlxR/6l5lr92Q==
+      - offset: 132
+        length: 3
+        placeholder_text: fun
+        initial_state:
+          length: 3
+          offset: 132
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: ltA1DeS33wbnT23bAxzMVQ==
+    encrypted_text: oiFvuJ8k9YNMY/45IIyyUxV625wLUt01L0cRz4wK7ArUaDq2xDV1wB3nUBaSPjG/6+P1UlbsaxYrQkdfmRJsdXS20rSQN1Z/6DyehvKnuLyAPN0rafspIPIYZ6VAh8brAqEAwSDzx8TokV0B5nz0xXKNFQzhypKzhsLaB6YbZ9X7Zb6RtUKpt+RE2r/Qpxi08jlVkQn8heGYf4DEESHUhR2ZlnB5TkRA9BavgJZ1PvqpDLqEO9xvaRrUA/TKPQ8o5Lbka7xalRMAKD4z3/C4wxTefNiM0sr1gMwZtZppnOcogPFMdh85NyVZgybvJ7jmfPnOwIPMfeATj8GrjyTL5UJr+KFC0DSqmlLNz3zDgMlQvanVukcXzLpOuBdHcsxbEda8mnf1PFOFinakdgvTp639LiIwFhmxvlFcc7dDyhc8dGnzRlPz4naXqXHrv8OHJho6oOs5DRueLm9JhrkvmXeKdwKvVr9Wue0WR2aNoo3sLGO6apC1o+DJrZpQUVmhLEwFMKxXvSd0GusjPIn5qZhB7HsAZVkPvzOhkr5+GkjOH575MjKeY3lr1JNApC6d+Uo3hTJZ4hOvQYDWMvNxWyy2JUApkRZfE0p4/dIiVclB/dSkn1ResdmVXgEY9+ASF9B77s1wXtQAQzfaXwD4uF4GabfZvNRnRENyJXBqNB3KLV02mpF3ytM2fbYF6PRCMnZWxOGeVcYSRjTeWPSFTmWYbdGLIxPcLZyaaAa/aOcc5YUVX9yIa0/4f9J76lUrdg7ZEXOuDOd/dMco8X28tvp9zBZ03eBHMZAw9n1az+bxTchjUdnMfk1UviwHRg5Qsk0MPNoEYes/3F7tboKObkd6wbRtG5FRV7SFBGG6Qq4Fa7jhlyCfXK2dIdhiqlGzRT5fP7+yX8mCEvigdtK37Z2pCwWLMYIGQQGn4ku8oOWFs75oTX8RjOagv/NwWDAoaTGwr4uK2GE8tiFLD1gyrkLuj+d502oEaNUjPFfO5T6VJX1JbXyQ3cLOKLY+CaPHXNNRoco95d641HKpID87zsGguwrf+ABHZNlGLUzycy0=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: IfsQLNPhY6G0JFc+rNIc7jsAJ9uWmc4NOrn6vzIVT24mEf5FTFAyBQXXBxW4ll8GxMyvEa2VKF14cCQbfnMmeyBPBb5sEEa/HN5P4uylLfEJgrEwfPkI9XRgdGiKtvkudv+GEJoAWqYpo1MGsC3uKst7xf16VV0ihIbhf0DS05vWKZq79OelmwJv4iGufAxyUmzugK71xreUffdM8WkCLnk7+LIUJDDqPPg+URBjFVSkRJfMu4mvzuxwLrMycRNg834DbtuSO39e2tIgmeN+ojEQiw42lho1yR1saT81PzXqNtr+Wj4PgfrhoBPXZntPf2VbejzbSy/lfMGke19fNPHaR/AmmtJvW16aQx6zGsab7Jq6UrmeeRGkxfInvejJxRj5ENrugCUtQeDxkRLbaCnFz+7lDbKjvMJ4ZKK7ZH/xC1SYuqoRlUicXjrKRheDnHctUgxvofjQH8WJwFQHAfNSmvhOOoy1BX8P+qD4iFnrOv2/7WMyx9kNLbkPKf4hRYVeZDJaROTI3uE2bUXkmaDSHGk+hPMhpr/oMAykFtYcecvvlcIcwMMn2MhNrYH0iUxKAzTw3J5PSmBV6YCnPeVxQCm2xYy8MaN7Y3DrxlRb3DLXxh7pbFOQGa7CVh+lw9N21YV45f7K0Jnccbahy3b+HTDHr0yILO8wtag23v28RWwjInIIs/Or2NAZMyEd7J66FQMZ7F6dKEWm4v1x2YwcKa9Trk4WlCTk9DcIUiTDimVdQvzxCil612a4YtXAmzbnL1epTjl02I46+MaZHOYRrzG5HIB5T3Y9rRbw7uha2ZE05pMMc9ARJ40qRS+uY2rexHiFZYPSIItlkHuuCllFXniyqusLwUuUBb2edhQdM4rqXAWQ9znUfKdJMbVnZTgEUdKfC9eXj1wFCrXPmc7J0Lb2Uiq/F9k3dvgvDjYea+orATWzyYb9meiEpp5WxFAkAAl7wz3FuYOOqVS5oDkNGDcQerAo7veKcweoA8W0cQ/SpAkYvzGguljCS1U6XfsPFQVdodQfXiir5kxSApvRQnEut8N2XnsQ59wEwhaNNgPnIhmDULZA5aMIKV4oIdnwHFwcg0H6bGtyEPO1ADKhyum3zJNGE17GTwDUYbK8e6dFqBSF9NoL6RgHOCqJY7MVyCDbx9LbIalQarsvcHnXNAOiqEpF8tSpW8/Y5ovJinq9tACPe4JDxDG0Jnbbybane81ZIAgQDcf5zm65vmptvaj03NzXss5rMvYbwV/amJzjQZu7BwlvK0bLoEoFtK7Aoc0cB0+Od+lqDyIjJGqX+BWUybFqMOal8PGxb08ub/j6jtkvt4gCkWeR3CCxTZGaEUbPP0P0+dKTOpk3hUOWIAWtUCtEHdHEngPjcRxA18f2FxkCLB0f3WiJgYC3nF49HH6dUIUaQfeTa2Pu/ZySRXEtFQxBuCleYcWuNPHN5rclRaX9SI5C/dhk335H
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Introduction+to+Objects+%2F+Constraining+Visibility+%2F+Exercise1
+status: Unchecked
+record: -1

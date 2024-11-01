@@ -1,0 +1,14 @@
+type: ide
+files:
+  - name: src/Task.kt
+    visible: true
+    encrypted_text: w3y6wNT+6Q+ZzEEMHJFomezCty83MIpc6j9lZKb5hDCuunIe3SlHsjgBWAMw9cHgB/c+8YT9wyHsxHCHukSUjqWHERXBTK3TbR5iTpcICYCtwt3JkqJAgq4bERDhBk9wO2Rma+yDp8uALFInhm9zfA==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: 33AkhySSjZnreqv6vg59Hl8+dFbM7cDPufZA3r5H38Q=
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Programming+Basics+%2F+Data+Types+%2F+Exercise2
+status: Unchecked
+record: -1

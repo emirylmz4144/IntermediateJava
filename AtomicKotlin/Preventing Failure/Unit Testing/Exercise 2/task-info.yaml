@@ -1,0 +1,23 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 174
+        length: 7
+        placeholder_text: // TODO
+        initial_state:
+          length: 7
+          offset: 174
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: V71ys3oosw5qkOTtEz6Nrwiz3Atfmy09WeJYilLNmE4N6KcnmM6vPBzsXe5+xgopSf/citt6Mc5xREUX3fjoK0YCNO4Gg62S486Rsvnc9f7DxQR3m/tWyd6Kq1P3P8SA3NBFGRoTXl1nzyeQOzpcG6foonoK3/wO6LQBu3MKdlqkpXd4CHZvaMFZx9YmSKoxd4HIVkWmNQd2mNzjZlpoeT3QmygP2MkxjN6V239FQ/jlliOL3JFzXlipYRYRz41v+CFsKFYj5yrdvp4jnZ8S1OQiGc2/TSvHOTNvewOo7bXUimHzxalPR6IJ6qJnDaSR8R1lRouGjtnRnVhtMa/HQEVio8ioVa1a/URQJRXzYN3ccSQhur3FvT5VpLUVgDg7Qcj90pOfQRVMP00TLjNG4i785Op98oHtKXiDgRvYhnYgifqsGnL33bMs1VZKwZHVL/x770fLDN75gW6vwJer5ayQJIgrERNqKQzLXp4TXKnWIUE53Yhw7Ie7Itl5xiw7X7/Q4+l0Y00Vc+o1dXFvMgjlNtH2ndp2yuOvkBx6BKRw+oCA53BMPjj0JRzUbbqiAp0tbKv4ANdFXlmFftQLPJBponpD02WW0tpwYtrmHAMpFSdZdFEmkBNaZoP67Vv0ctESOnyqnNwcCyF5sf/DLBPQGL4vvTyAtp3h/lAA7x3vKzIS2pdVjnKfViGCtsgNNl7Rs7KZXEIt2u0S44tJUkGji+dTNby0XsCdmksvAvt0nNZ5QxhEEvjGIkzG8PBSyoCmDnAgLv+LIUhWaSgxsK3aDPv6XrxVRBiT77nK9ULmRrvdfJfDFlgqXi0dR69Yu68dbPvMN9i6fL5Fq+tf1I6D7Ki3GLoUGg0oZbJQjFA=
+    encrypted_text: KF4SDRNDxaDWiGtFwxfsRVef1SHwgZEV8SroTkm25Qi/eTLPEf/A3/4ucqJ45wMd56XrZwHsKmdVy0V/1/fhCBXdZMnWqYJlNReQgHOBq92XKzrzCIp5SzuBl4Fr/ahWzCnoVHeJ4cZ2W2t0TB5EdSE7jPJFx3M+Ig44IUGEMRrN3fzPAt/ix042jyzBuM4yaRh8bFzqVHiXmUsx/WKAYV+MrP0hDhRl4Oa3rejnymUnYjwwe8qpbvv6k/DHYDzY
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: 1BfLf5cKN4xLW14w7vdSnt9ieaZOImzgQXSGONttAj6Q0Se/vOOYUgHClBlrQ0rBApSBCGS00+MCnkcbi08nVhRPBrXaCwl5y0c4tmvcau5ghsfNj6CGj3UUDkEdllcSLhRrhYFJfbccdZiQswFc3Yej4ilM95CigoF3mzGH6pitbGaoIU/ikQUQLCq4JCVEItoX9+xnE1AE06it7CXVaj7oJjEU3ElRBSFC7oq5oBfDnZbMsfkhmZ/vSzIBx23f
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,43 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 173
+        length: 3
+        placeholder_text: val
+        initial_state:
+          length: 3
+          offset: 173
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: RBr/nY8ITrCshLFVC7mP5g==
+      - offset: 297
+        length: 28
+        placeholder_text: // operator fun Sum.setValue
+        initial_state:
+          length: 28
+          offset: 297
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: tLISAoO/trraPUywmEAH11vLyiWak+yYLQlJLu/NSyE5SBwNtyWIU6l9ZBoGAlFM3GgKpR+2rE7ocgVc87ltu/6l8eu2F9Mmbmv2nv44NkUn57HyXrmZ2JxlK7oEFaF87NXJl8xFVH2aaa0JwBVNFQ==
+      - offset: 392
+        length: 21
+        placeholder_text: //  addition.sum = 10
+        initial_state:
+          length: 21
+          offset: 392
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: y3ghe6Sw0j9aEeC7WD142u74u9pgrpz1UG2Lx7sER7o=
+    encrypted_text: TETwb06PrAdSK61HWef9IneeDO0IxDh0Fti/ZzzWo1Iy2zmlplkv/rpVdaWFaj7hKy1WhG79aj8mEVy0dyVXesu7aaS7B2FgwOmcZS+OAO1/NI1lVXrYvMLL70Kdo3hksolYikE7E7oOztHCMc5aBYNbu+Djf+X41ZzqEthjQ43oYjAQ1gXJW8hHRrkUJus8lSgSYzPeAF76vbCKeQxPej3RdEJWFDxLJZA/IWeC9ke+3VNlNiUjj//C2RiTCNGsF55tk+MTm5ITSHIvh/23lgCpZkSoufzqwZmO4jkD04pJlnmprDK7TqfjLmhM62aAiM9Xj5UAHB4tOIITfXMaNPo5rQQlutKxAa1gsrE/5OT1Naq7u+ymI2l9Bkijv1BkU/gc85wjtCHSpjSkwxiGUeyd5Ks24KGiwHKqdT3B0R6Q2u+lQ+/kOpErhI2Gu+RaBfrApusaeZxS6Q9KUesmSYKTm7FB6JYA8Vbk0iYryYshhsKm2qI5NVikqfb0K6d43nakergn5W3N1op5MyHfevUnSt+z5d2rH6Espq+lK+rq8NwnNnRzqDILofwByZe0xtqvlUqtPFqrjIqsjrK7LQ==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: v/GXCfbZ5GdroYISxTKtewKz4ufZ3Pq1SC1r8jOM05JUKDrET+dfvlHV6hwntXB7J9y2BD6nJuR4NpcW4dSoYr1RWeSY1fgz3PtiBn1eoLIxm3MrHiFgtLikRsXczqh8ihXn7AlGRQnzG6t/hj200vfQDASazxpnqaKBV43J8l3NvYYpgyDbhZqBEzRDwr1172GTzruBS+Aivj18AW9aF4BxvL5HOkaXENJeldSmxhMQDq0+y2L9sx9mzrzuq9CIdPYjwtzyejixaEmHSjNRlw==
+    learner_created: false
+status: Unchecked
+record: -1

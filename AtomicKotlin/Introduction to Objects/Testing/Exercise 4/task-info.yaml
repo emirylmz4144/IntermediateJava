@@ -1,0 +1,14 @@
+type: ide
+files:
+  - name: src/Task.kt
+    visible: true
+    encrypted_text: cp5GKJOfLOaz/MEY5aGJFMhqMbpGeHVhB6/2XT6ctIjW7QvfdXMZTv6/g3wvgiVfQaphDiGHdQx+vkxgObgEw07dof2YEZmd0U9PgJ6v7FOsTpOZ5rTKii0YPsxI+rm3dRngHOgwT5yedFycPWAM1thBMEBUqp08nr5x2SUggVw=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: puboAW9+L27AE3LiaTOitQ2n7i58z3bI4c3vbEdW0HQ=
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Introduction+to+Objects+%2F+Testing+%2F+Exercise2
+status: Unchecked
+record: -1

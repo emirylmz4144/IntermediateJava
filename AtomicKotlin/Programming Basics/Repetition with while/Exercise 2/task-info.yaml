@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 100
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 100
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: TjSmf0dgxjtEaBdQe6nS/N6Al0gNWJjxDnN4rXceycmu1hIGfgO2FbBB1NPJtjrps327jx0tDmUR7fVGfwlgQm3gRSRiDz2ffFhS+ALclwC+hTMObAdoz09tRtgOP08i
+    encrypted_text: RaBi27xADCIeGpVFtUizeOgeO++tgj5z2pI6z/xC2gOUh/qqMjWLDWNALL4RzpnoR1xT3ZV/qOYV4HLXdnMCspX2EuUOjJqNhYehI53zUijPuzI2LerjiB0YcYmrUvvrCTndzPqp5j6HWTqwtph+tMrpvlBDltXEIiqtB0aK8aYt4Qg0jg6alH46p1Rcjw7TbpFTO+Ziw3UeblBl/IClbQ==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: TgLPLet000DRURwSTTyi0g4CDFpSENeBPuKXIQl9IzDtl9v8zJFPnTduak6g82tpMpb76pv/V0M7X2wiF31tg8oOAvC3fP1N89ph6m58BnEDdeYyoRao59Q+QNn5dMtfHR08pnMhdm6DM37gn/0mLJVFGrUfOO+zy1IHqkp/1165THRlWbjejbunfHmdw9IipdX+k8Rz6NCgoGvnSdYT4En4meNSMGROUUojDz0/zvG2F80OveRI3tarb1SgPTXNVn/cyGt34O6UVx0+oJ8MAUvU0/4udw0T2BZvzeLPs963LT4aCDJN3m8rC2oCrKM9W+kjJddpmrxNhOReUIN/45/yNTOSCgTHfV4HvHz2eNTE8nXz4sS/xBRfkD72kJ8FwtHAiryt7zE6GagjXeiQ3uh5NtYBxkx8LHGlf8fBMyPBaAQGQH4/9wpj/HCcj72VQT/0gEj5+CdcljHxL/1eDsiGD6oVciL1rZXLZgnAPq2K8P6KhaSHQCvCUK9f9fpL4NhVS4IEKqC9pAjX/4sAyZGHDBajBRtB75EznfPBPBHygQ16UylNDTotnJvl0m+x4kgGlnp5Uf2NCHNVv4zWFooCoAx6Rf/ChHWMhWu7OaidajxDYlEVcQc03JY7lWaomJEFCeF/pde/hSL0OrKCPulc10vI1gpThF14vqJjCDvmtC+Wb9PpjMv5gYQaNPI+xXgfdEpRb4MaT5dkBvj/hnsTe7IClIO5lNhwyauk856l6mlygJRJO9DX6MLjDISn3iPNZ3t2QWZym+f77745KGdPcf39j1ujWPQrC78EfBV47nPPUomRIKFzh0XXjMV0uxmMpcZJz3bpX70xXD5bjfqPHyJEYRek8UFa/34DMXC5IrL9gWApkSETZB6jLzuEktchfIPqZUZtM+mhvp78mywdjCP/PFJ4P5p2u/8I/Da400A2bK34I9ro0QMuZ/B2
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Programming+Basics+%2F+Repetition+with+while+%2F+Exercise1
+status: Unchecked
+record: -1

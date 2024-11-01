@@ -1,0 +1,45 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 100
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 100
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 1qQ9kQ9eUXSirgUkxBvydQ==
+      - offset: 143
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 143
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: B32H4xjFtl8yhKC200kQ5w==
+      - offset: 215
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 215
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: B32H4xjFtl8yhKC200kQ5w==
+    encrypted_text: 4iLvDJtXaOqWnQqKRTcU6RY99/x6ODRp8xZsFP9+EC9xc64yv0n4A1ICkwBuJB4nAb0zgX4Hi11MKI8t0eDaDBhZAgTu6fuIiKArdzHdplzf3Yq319BE44gk/EB3HeUsPRjI2qXbI2CrY1mEn3Apr36nkmU+ualisj+r6toc6tA2l0lqrzvB1IRwr6GTAkNQg4rgibkaNCDLneNbuCpWHNKVbl0YA3Cey4WBp8F0zc8XiDQJEQMyGXuBp+68lIyomGLAzv+ZA7921GFMEOy5CqK2WZtuhXdqQBVVKOKao0Y=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: +nSi+ZiiHMoIykGA162DMmu2l7dYxwM8Ef4ryXd2j/VhRC+OSACnzjewqatoRSmcdRu2eH/8rnzpe8KzrQrH1H54zRCBme+1b5uRTuFVhEKGjhZFwt/kcFjjcLM23xyIAEhys85ymX9umTd5TXy20BTBNfQFxahtg1/Y+8qw+AiDChWSS7/7rwGv6Dlh2nJeoNilKVqL20TVMVrsp8od5+IQMC6dMINW/QVCxLYmK5NzklBe6Sd5It+4eJdULBA4HkJrbxC1uhqPrk4UWOVSSnsNUY5wpqmI1/+FADfWDTztQGiqIYCJdb3NMEKYR4BKSosuSBqQduIMZqWoNdFK+3CiRGVrc4fqeLPOrXeesDIRDZJo6cYcx8bCrgMwDXLM9Qz2Vv2Hr7KV34wghB01LR0OlRMadXs009nTr4Yz/8T6lje9nm9hHLNHe6G/rhsZzl0HjwaUPKMMOFfgDC0A85FucbT2Zm2w1hjPTqwWgQEh0iKynLxG3zpQANqJDF2DzJUsUhpd0gm+l4MbNAK9KyiB5QZ0Y6nMBGVhcthQL0xtoEGgd+SkddOM+61A2h6J+1bHD5uRo8fCB0RUidnD7+eH7fIaxLx0X+kG4kQJ33Y=
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Programming+Basics+%2F+Booleans+%2F+Exercise1
+status: Unchecked
+record: -1

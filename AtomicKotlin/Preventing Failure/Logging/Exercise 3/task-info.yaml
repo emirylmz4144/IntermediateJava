@@ -1,0 +1,95 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 161
+        length: 19
+        placeholder_text: "// TODO: add values"
+        initial_state:
+          length: 19
+          offset: 161
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: oXCO0BCFa/rDyKSwSShZ+iUql1VLBZu8iHvJrQLsBh8=
+      - offset: 208
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 208
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 0nfT6MnHy/BvJ0fIruxg8w==
+      - offset: 294
+        length: 84
+        placeholder_text: |-
+          private fun log(type: String, msg: String) =
+              logFile.appendText("$type: $msg\n")
+        initial_state:
+          length: 84
+          offset: 294
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: tyaRvGK6+SbSEIDq4fy5ZovwNZt31SLp+ee2AcrZl3P5tAS6ksS3WSD+CfaQoxrX/gv/iV9HxDUUHVkK9CUZQ5vC5WdJb0fKVxhEsu02dJu8iuySshIED7XM65pF24jy4gm+f01aKlMrEXQaS1vohcoMjAg3nn6BDPEchJlOGjB/To1qiP0m3zI/XSaIxq7D
+      - offset: 406
+        length: 17
+        placeholder_text: "log(\"Trace\", msg)"
+        initial_state:
+          length: 17
+          offset: 406
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 3yEpFLpTsCMMUwvn1HLhBQ==
+      - offset: 451
+        length: 17
+        placeholder_text: "log(\"Debug\", msg)"
+        initial_state:
+          length: 17
+          offset: 451
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: UvFH3OAt3DRLjBobJJOx8w==
+      - offset: 495
+        length: 16
+        placeholder_text: "log(\"Info\", msg)"
+        initial_state:
+          length: 16
+          offset: 495
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: iNxd0TS1c49xsoNdVTv16g==
+      - offset: 538
+        length: 16
+        placeholder_text: "log(\"Warn\", msg)"
+        initial_state:
+          length: 16
+          offset: 538
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: TjRhuZpX1sAd1SuoC7OIpQ==
+      - offset: 582
+        length: 17
+        placeholder_text: "log(\"Error\", msg)"
+        initial_state:
+          length: 17
+          offset: 582
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 0V0KVFKrBMCnzeQal9+UJA==
+    encrypted_text: 4LeJb30ib/U39JDkiNLtVHWybDUshsyeJNXjkRFWiQxBbmNxnAJoWv2Yf4ieDRZoHg63KoHVVBZaylRJdgdx6EsTN6GYgQ/MXAa+0IDDQbL42FgZjkKFcCF5rW81CqqpFMP+WloSRrMq4xJB5zeIwNlIB/OHHkWGTYx8CAThYL5LIbmspliDPndmO/8PpVENls8T6SmkGt60aU11J0aabfl8hQrJWB4ktbqPMbZtFY492L9h+D96IBKu2ROmvW+jW6MHt9fxTIHPehQOi4qCbSKADZdJrffRwoZ9AkgrnpY9LoQShJnZoiLyqhKGSaMhGuM/46Brk6xpz2lhkIh9X1Id1uyvVB9/0xg78hoZkOMUewcNR7jMqO6RirpxwMIxzbK6q2+99J2q78wxzd0nY5AIpwv1PkZMojsIpXnE8LjseS0j4F58hiyZ6oK71HvH0M3pOJt3IdehCe5vA/B3jHkYUT12vRq8HHUXXtj0EvK9OWvrre0TWqOdRhYrTnFkPkdoqGHG864Qt83zUZoQtVxWaiRK1eGzYcd13ewY3FvtX7jeUbmjgb7x84c7IE5gM/PjdPZz42foMgxj4wZxS0OgZ572BxJF4B9L1tdTotCNXPIHV4eJYsZipClBwiHI5aAdnQhw3I2Epj0Cx46VUyP3+T1sLzcv0IPJPd0gki8f8M7vnf1TrqqU8cpgr6moD7lh+nSkDaHi3gT/nRHpN4dWCRv1vId7iANBEKJRoEF0JplQdNXipvsWeBnP6aHjKSI2WXkEcbpovyQ7eSlADwJ8zV65sKj+Pf3KZo1tUGrXLelL/NtR7kEz7Faub4OD5/DBdJ8ER8LaP5K2mkvFWe05/OJpvXux4b0/ZQh+L7QCvyjrrz7gp3ck6fuqUkwHLMJ2RvrcIuIDTCiIcCnET6svEj3Z5j/45HrDhJgd76/3xi33csr6oJPAAY+xlYh5KGfDvaI0nPgfjaeJ5svRx/Y0pbO/l+uhsU4uG8FTXY3v+Y+mgrZaQ+Ikv77p8uCmVZXg/2ua6RjqmUI6bHeZm1qK2hMui1EWqd1v2rNhbC3HdLQ4A2Czv6QB07IX1Gt/FyJOS9nVMbJW/+mVdZlC9L+fYHA7XiwXMQi46Ge+DcoSkv2KrR4F1UhDS6s4w82rn/gQU1tcYN9t6WYEh4M01tz78mwJ4NS4su09AXgcK76qKTN5Xyl2p3x7GEBJeU7Qrsy5PgJbw/MK5tSkm641FKckh1ATRtvp8m+xgr8oxz4/4kwA5/S0UoK/spP038B4OLCoKq41cP5lScI5nA8gulN3/xU/+11vY1qDbd45o3phqox7lbl/IiK5wgJEEpjWhBqAKY/PTmauGkOVpgqpqXSOtEA5lXF+cqY0i/lDXG7OG3y9GHtXky6N7/W15VC7kWiY8mEI1R7gszikxhiM5jmHNTqCEekPFtyHSLOxD8wsrI0c8EPp3snOpA1mDnCN76hnZzSGAREPLhJuozDFZUixdEbLLPrSeRCfdMQFKd3wcGnLfzngOqXw1uoLaLnbId+4yQ2A3v2bqDVxWKLh7TkJ6t3NDTh/okn664gmrtgP1dcTckvmqtQbZ5W4Jl0uYtiao96+6N7H24UitbLy5S0E/E+BbDNPpL9scDCDBEAATExlj6JNiEfg1yf0dM2JgRLjxruRn9bvPRmdmwwCF5yEUq9wA3IdeP8TJTETzrmTd3hzydOttIoZ/iq03S8WwlaMVHzbpCuc0psJe311kVmbxXpdGuIk61srG1jbeIo=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: gVaDXnFSu5vg+Aye9eBOaHxErLGOPBXwL0Qp6/d/eq5ewTxEvKj2/JD18Ibrlwz7LdtKFqBxge4ewKrT59aT7CZg7VAE1PsTxwdezkt20GeN92PLAPHNVFuQSlB8rnp/xaImlRhrIzIjjY+vGh5XPdvdGD69K32BnE0Khm5hr+nJigRpe1NfTBQRq7G6+j3WFHuQ3A66di+aymBFeBHUn2Lzdh/ojIgaoAyarWCW5Hk=
+    learner_created: false
+status: Unchecked
+record: -1

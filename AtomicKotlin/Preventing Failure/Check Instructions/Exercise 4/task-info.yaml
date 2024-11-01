@@ -1,0 +1,49 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 103
+        length: 10
+        placeholder_text: class Tank
+        initial_state:
+          length: 10
+          offset: 103
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: +svMyUnM6YeSjZ0Q6SXsLbaXPTMXCPzshXd+hvP909SeBjFGav2/nrmdqikNWX+LOppmZz1SaRExGXgTaFgmVPZ4lV297anFZj8Byf4tMQpIHgi3swcW/uQuTZ9smCV/6XnsXv2gyGW0i/iZPInhU/L9JekR26FcbdW8tw4T3VwTXip5+n8ryqqieSM7omnVaylzSbiJ4jYEFPJO1kUsEIUxxiBt7unEuYLmQPUOFaSZ+6rsCF3z1u9NFNsjtGOT4myJM7HIfI1xuWNKirElIdhHHV9eiBn8so0PkMggBaHr/gsLeUfXmIBMWHT7+/edqvBor96Ke7nVzTfQpyE2sYeJj8bXnEz95EQ1/QUyPUyWSTKkmFVmzOA7ZFmpzLAvRK/X/0DJYiWyeGv7etdVOkDHivhOczU2vbrQPQo29cKcscI8Jlafog+VeQmA9QKoQgtATZR70k73vz7BjUIKG8/BTetwAVufrsY1ROgWuvuP1GjoPcHFMxHLzgDT7GnE6T6OH5F6fPx3Gaw/T0mdnRTk1kvmN7IKRnA8RFRmHmNU+uEchx0nLW1FW1FbdVrR0jDgF3ScqgOwXXpblAMN3i0eV2CNJ31UtW5pOgp6OmeGUlSRRVQUAR9Fdk0g2q2Zkzolr22w9oeGPpop31pbI8m8659SZXP9h4L6R2D8QCdEf62SYMPjHajPVnW8CE5tPZuelWEjCXZESTJKu2+EZSzrv7VUJu3SgsP/KiTo+cLnZnLcJGZFf0HWQmx/wGnmnfzEin3ZFUNqsGSyZr0M1ydRMUBEl8JfCoJr9qT+fFa/aqomnSFCrUh7Fvo7IRYMZVH+wP1jL45C9jL2CdnYFbBCf3GMu8ehBzg1hAo01jvLsD7WJhBH7ODub60FuFSHtf/RErs2+acocd0Eeoy25sa5VzbLBfkklFSwgezbidVHf4ruWYkJgvYQ2RFhgYU0qgjylPGGAbaebMNBuSTSbQe5wEoLUPolDa6av7S12SdFDUFvfY9zTyLxy+GNrF4Pst4lT/IT5ok3CdvlF9lP10fBMEmjyaCFUGTsiUdjOs6hX5faORNRH6udTxu4P7BJidJmuNdfLTyfgcUbXeDDU4giV72jugaJnmmuNotyR9PLSmoxCyhvoNkITFYV6VYVtCJFfME9By3sl83vb4hy9/79hZjjaO/n+i+aZSvggZxQGL3o0o4RSNW9qD2G48gW8ooKfDHALfeFO9OEs/Bu6PfBC9WU27Mu2llB/DKGFL7Ihim8q5sdzF1Z5KPp7FntMIUK+v+KohbM+1opblJG0s+yiHUCEc2iDhmQdauFnH8=
+      - offset: 128
+        length: 428
+        placeholder_text: |-
+          /*
+            val tank = Tank(100.0)
+            tank.add(100.0) eq 2.0
+            tank.level eq 98.0
+            tank.drain(98.0)
+            tank.level eq 0.0
+            capture { tank.add(-1.0) } eq
+              "IllegalArgumentException: " +
+              "quantity must be > 0, is -1.0"
+            capture { tank.drain(-7.0) } eq
+              "IllegalArgumentException: " +
+              "quantity must be > 0, is -7.0"
+            capture { tank.drain(1.0) } eq
+              "IllegalArgumentException: " +
+              "drain exceeds tank amount: 1.0"
+          */
+        initial_state:
+          length: 428
+          offset: 128
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: XiVfQbK8UJu2nEjbPZxvP0vxy6oiZPp9c28B/vPvZym0+BFCe/odNKVtwptXYV+vKkpE9Eh9SAkMLvWtz25CtR6d56lINkspoVFfDUrcyw6Kp310fvJKIX3Z0/qa4k3lmIUCwjj4ysuRmf8NEyHE1A3XfBSDvWSD2yBqg3/D6SFzZjqg1wEw2E0OaElmQZh32nW6nvBm2OjAXFZ8aC89L+D1JBfSVzw0d7GtHA2/wuXCo3mdGT5O9mwl8AI0aaDfvtBXsEZm+kabRxGQ84iQguUnzhc5tzkOJrsQucawNyf5aTF9M/zPhFLrx9PuDrkpwdvCNshYCdmzlrsItsFT4d0qi++dBBnYvVDI3395KPRdTsJIyF6ZBlROrSjGA+XwgCEtk62vNx4P8yI/rIpH1A4zBlRQVAmWNU4xsWlp0ur15NgUsc3UYEMoAiPpRY+ip0UugZtAOaB8mHXf3LyEkVfasVkrqAC/Sk/64grVLmgdQTNoT46P2SqofztweymFgAwt5bNgGiEzA1eEUyFdHMTgMIYm9pLjTQoKDfx0HZb4Q7ZGUcFR0VWN8k7hXXjz
+    encrypted_text: Y7nUlRyaetwlbF8B3eVZFTLHOT0UbrtF+LiDMzBc2RJIBCWGYfi2L4w2UVnlNsRdprmvzD0s3vvAT2YS4xJwjZsTl0JT1gE1bG+xzVy1Z87N2b+kYyVQbicuVdOw0phXYlnkcf28z6e5MU1K3tuwCOyx4b2xwP4/HTHE3Jf67PoVT6IalH0vd8QQrmICVeLqta7LHmT1B/4x2i+PAAlI4bUTk8gpRxE2jhXzWpCTwzTTAmU01/qToPxBp9YAXnibod8gBCG3YtML6V+3xcMPlKZCvmRPh1kWjry4rKFAAxmFFHhxrU8jpNrZBUNx2ykDcKoK4d63apIcrWj3XX70niRYNazBTwJT2CaO7QsfTFqf0XuBmgN6rjg6k5fjcwi5yoE56kJ5rNoQQh9d2ewGF760i+k7nE1FENkluDHaTEnp31hIYdT89qIbPS2wN3e/9+2Us0gkVIvikiaXwp3zPyh8KWn99tSit4qTU577YJ2fG0bocI+O/xkgycWRLXDvAbxbKP5aTVLs8WOizhuuai71bJ6cdjQ/CQN2cAjFbsVLtQdGf93az8g8dDtO6/sHV01dKr0i4wrVB8y37zJA8NFoyBJfoLqg/8ffBSqCl01wndTVxNMyarmtSxb/1QgTK/tW0HlE84PtUAFlibVmPm8KeuofC/FGppuSElVw5Xt7lDqn8Lp2GQeuD+KXTsgP0prhanvAdc7r9oYNMLBpAY4K+MJkJ8tH9v8npaO5xfI=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: VQl/Y6VxTbT4kBKlJ2Fd8yDGvjvPGdZAZPrYWgjG+lmWYlhuPGYoZI3wmOS3FUzqLMlE5z+che5gpN86q6lm6F9+nvD/X+g+pkex/8EAA/KbVLnzjPMquQZmm4VHntEwGWBsOjuKyLtggds2mD8AiXtmyTMKaPYts7HuUJ0+/oqksFJEC3Hy+GyX3qBSgP1VXoYhb8zSP/6f8KqibOSPs8BqnTOJD5nPlZxZEG/lneyCIMTyscD5quQDTAfWFhH5
+    learner_created: false
+status: Unchecked
+record: -1

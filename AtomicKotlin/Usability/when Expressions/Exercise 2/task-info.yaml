@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 129
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 129
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: u5pRMGXB9+d7bVUcu7e/Td7yzpXxHUgdGaoK6DIS4x07lBMpnccrnvK1sf5Sx4l3oLsaTYA+1wDoOmhhm7/tvvR0rpDLLfp8WFtQj1WiX8//TfITSVp9HU50A+l5DTgvHqkdye8b3LJONLLBKAXOP9+Q1VNA5MK2hSF5NddB6OMw4kkwiEapH+RuIKfiM3jqaAyIJFJA+RUm/f97rFtg4YEWI+JBtooDwNGX4DJjhWo=
+    encrypted_text: i0xfsfUXHlqwQzeT50pGtEWPd7e9yCJj+LWiLaXhdJ13IDarkYM0rw3loYCWVLnccwdb17Iv9EZbCSh7GCH1pVU1acH9rZDV+P6kO+QclMt5GZWQAqSmEeXeKxFzZZLMegVyDZq7Oo9Io4MPYYJu6dTYx9jIAbCDtFv2qbwLgYZyFNFma+QmZKSY+mx9sE7JegbpFH/6B6HtyFSEd2uFrZaOQ2Lna4aa+AmIrw3p9auHEPdr60/KLLirHdJHI7ZCuA7S3K7LFjWUQ6v4ahtPHaBnWahoN1ilXLm2D3Mz5kQlhV4gMxhKFOS0fzixXWq3
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: Im5Jy4xuspPb7XBSaB/RFvW6jab4ztnt+0y9cyMC24a5oDkDlkNuAlM/uLnP3cCBjwR9X/GCnwyfpXXKWdtvLlGGz9/MItvM45autOZC4vqr60c9NHR9Mpn1HYRjOQwssEWxT9ZoMtWo+29Q/gOT38u2N0iTPZXm54eUMkziNxeaBIb+Ho98GKIVGmWU94fnFApTB5hpr2bK3Jkw7lzdzZdTc87RK91QIv9sSeBxwHUj6zras4YEgTd24dXNC4dl+CYY5f/t8aXxZZJdHMTsUKtzAfPOzF7Ey+LxFmov9NHkqgBru2Ubd6t6vxRjAZRbEfFAo1YzoaumG2RxCNlHMTcnMIqcb8AXfOT6WBcxUV+j5HpNagtt+OKKTr0pT8/SoGHCJRh68IPFTeF9cT47WdIoe7HVq63kzPwdr2e40XWLcu4ifbZ0nCTtuvGC/f5/XfS5L+bK/9HoIrXk3kmBLP1cSLMH7tBPWoVWiVv2LOJY8rIQaP5YOJGEkboTgYT4HLhJllCWFvYlEHI4X0CYJq3ledcLzkyfAa3xqDo51hHZFLiGyIFL821Xe3o8ElqwZXuS6N4fLvKFOAp+AhshM4oPOCX/ADKjm+RwBKoBzjKH6w2WX+KoU1XlvtThN1QQW1gV3UwmgQiPwiXxYCRRbYkx1RYpUcA9aoHQaKxrGDq415mDmyVKWxMqyo9cIEY35o6t3N0MvsxVL9c7vYQG61hPS0fXztuxqt7Bj/aCOHUJLUtpLKoPLZB/X85QLP/VZ4HighpILNPQJaqIc103M8rLYku0dGGIRJ7H/KsfM64=
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Usability+%2F+when+Expressions+%2F+Exercise2
+status: Unchecked
+record: -1

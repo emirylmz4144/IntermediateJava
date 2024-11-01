@@ -1,0 +1,50 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 86
+        length: 12
+        placeholder_text: class Rocket
+        initial_state:
+          length: 12
+          offset: 86
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: j+VzH3dI9b7+D2tjPgJ36awIWYb8PlQ6RUC0dsjWTrfRiSroWOOYWBbUuLhqoXhL
+      - offset: 100
+        length: 15
+        placeholder_text: "fun launch() {}"
+        initial_state:
+          length: 15
+          offset: 100
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: IsfpNt0nSPIfqMEBr82aIjfuwFQR9M0tsCAo8k0mHs2Zsm6OiOb3FULBJsvJKbK0KkPyxpLO5RIyx5b629eG9A==
+      - offset: 130
+        length: 119
+        placeholder_text: |-
+          /*
+            val rocket = Rocket()
+            launch(rocket) eq "Liftoff!"
+            capture {
+              launch(null)
+            } eq "NullPointerException"
+          */
+        initial_state:
+          length: 119
+          offset: 130
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: s/4eBrUGrEbTnkpr9W8DKucagIR0HYSRUAJqD3z9BUoiIRtMSEdQPXvY+AKhnBduOkG85mrczMXwlU1obodzvSbLlfLRs07k++B86Ob7mU4lZo09EbZNjlbNk8X/xe5yLKygs9IrcESSXaCIe5NYxKo87Y7WpOPEJCGQAYDPZ6Y=
+    encrypted_text: FKHU+X7xP2nCOA3EHbq755MuNunaBhjzFCbdhrjZmZA7Wkys7IH4gBtAApG7e6dMX5vP+Sqh56ovn3GgHLc6nL0vNCVpjtXjU5FSyn4F6ru1ZXnTKoTZ/jHXsaZ4z65HD56orm46t90IEixzad3pGvfHRX4NRrkMsOHJhuT5Moutpn6m2HLU3XZ8VwZtJewJ0BeEENWwRg37ZijzEm51hualrYva3vQW2GaFURjKw8zNLwxY5JmdW5tiShwBW4TbzzMCc4SAjXowe6/fIkpk+UVWRiyZVTKobZigk7m9vDyHWcZ/GYg0sO7YAAcXLHeDT1ARyGh+QoVtKt1xsMjDBA==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: MrOcgsEZBSJWBiXAX68lFwDo+uALngwyIeF/+KQrYS6QNEFpHabMk4wvPXaQK8FiV4Asb4nhRqI5PFknVp5F8ZGj1J5IHe5wwqWjRxFOpL/9HlSCvm0rZXFcdpOq0U3NSe31fCu5eemLm6aeFFFe+YCNm5VqO/eC/xDs+EqwSNbyTGXEkAlREZKRqgWc9QjGRnmemaw87VbPUE4NPtNyobISSHMpCq/JMzEAWIJUBEmviXAbxxXNv7NiuCPPBtce53D2JkEjsmWropf7p21Bfgiis0S5BguhWAMZbdCXB2rQIuLxoqgw4hXD1Qii2U5fqqbvKGFI+dZ9cYoppYMuBrXLMexuQ9tbA3oeQ/mpfFtHVFAIRdQ7csanAb8XkwyKNJGEm5jbf3bdhABEYVRoD4CTzkBdzHxzeMOyTgYI/56Q3mzx6lz6kudXaTc5Xq+SrZNqkqRq8ccudfDPrhU8isfq5WNbtMzqlkO7NNChL+I/wkMhQXTm8sJseezG4GQ+cWgDbJhDuNsnC6jvGlz8I5lojU8LrsBIEkHzNygACkU7XXLzSrKdmPKkWTyONAHBb0sRLs321J74xc0OUvynAQapyt9Pz0EsQQrXgo+nUbipszD2vRAcErxqlM8AXh0tuO+ex8m2hfwqbshXlG9sg0HXHU/c2gs+Z9pxYjjm2zB0/Qgfh+OQkTlFgUt26aKRuZ6+Tpp/jSac9Pd++O2UESB1PAFa93NuFDV9Zt20rOJ9UUhrP+rYkdZqH1425FXbu+IIwUvVjx2ThcYY8aYd+56qcVO1DPYjZD0P6FJmKpbx6CmBOvVRx2BE/ghVrZ9N7BQLQ+t/nPfsIe5u5B8iGl6QXRc/FV/Ml1M/EY8BC2vv+3SYhceTBOeUluOccdsr3O1txjae7YOHay+kMloka+qYOoMttIkpWO/yF2kY7DfAjlqjXIIlh0IKF4PtUTzxG7J1ootZOul7WUv13duT3RCVZ9cmUcoe72brxGDJBLqiOWwofF4ZsYTv8MFnWPRhCMGeM2/AlOlyLYzdBYs+wR4zTrUo3yWgseYg3PgsA7PVv1XglFkhtwbDYXrP149ltExrOB1ABn1jTMqe4T25V4YDOQjB/uXHYKf85dfXOxTYhkxP3LsmBTpIN+EpQCspo3IXkrvv7cVu9bqUPTavj940fmOuKXpQi33QPUZEGdXAZc6ShUBO5ICUd+9TlkOJtJ0ERlMaOM4+tyCixPVG5NIinSL/Hr7nNQpTctzvOSdV3/SMHmLkEra9xQ5d1K7H6DyShBZFM+WWxiLCC3mmoL/Qm79FpwDJxyvhK8leGGK5lIcXYCObfSEej6Jp6X+nKjMhCgsu9f3qHCjCd9Xf2fYkPWHkmqQvBs2nPFWRTfVcZ7gyc9+pkURAADyAwXjPPxWDFpDmuiuMIXwcf5qTbDkobw3ZIjnQeAwR2CTy0VSG9grhO4P/IEmTKHjqNJHyDAd1TOpVY28zoEVkvoLHZj+SWeEirepXmAHoytsmIKvnn17UnSU2lsUDj2CmY/kkju5ArL1CIaSEBQOlDbZTnDiOD2fYso7+GzNA+e2Q+EMqLvJIZ03f6jKhJHaLDY5NgRKao18QkvvFSNapu/FkMa7AwxZia+axJEnu8IFSS016FNm9WOSu/HW1JvGvB441NLM7IUtivT+ClbkYvruNnO9Ttw6pe8j1VyBrvj2sHLY/levLmPGPUyu9XPbET9XbtOIjc8qNq2SFLzphBoG9qlJRLJNDpidQlVye84pOlhpmlElqRmYUyKYpYfmPYzkpt3VYkBdeqF1NG3J33mmrQQ==
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,35 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 375
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 375
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: luIiC9a1qAXHGCeXxqQ9yssf7oIPPYAV7tE0lzh5o6EyVlpmvZ1SVTtHC8RtAM4OohE40JNnVdK4DTEFtaMAuSv9BsBOVzIsXVGb504FSxH7xCSJvScEMrGjFjUdrZd9JGwgmB3m8k12x+8LdXcgd+YmnHVyPoJXZvsKm2YkCFf2a0DlEDczmIdY7sFN5DLvxCbUNiq0L1ARLiVR7yI8RA==
+      - offset: 435
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 435
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: luIiC9a1qAXHGCeXxqQ9yoLg7L9GRDyt56nbR4uC/+pkxoKMHaDyrdFmOD3A+7x0yPLKfGnNKlJ6Vwb6UJ+Y20/thm78RJMVY2kaiucGUAdi53YGS8naJ4U/tEdkIx3x5R3YbblVLUManx8SuPTrRR8b/knbyyMXqDCTXFVzldmWe6TZ6SkXYHXcHqY0O5z7G79tVysncQ/9v1jtgvTMwjf11vu5JwbOl2MEOPsAQlc=
+    encrypted_text: uwWEyx8VBG7rdfdwwyqxy67Q43cT6vQzroL8oecEP8qKHNhhLGd9GFcHD9wCiNNaX+uU40jZdaEtPz3TZU/yOEjaU0I17sPhod58eiERJ6sgQzB7pXyYU8/+iN/KHdJZMVU3mbiqlNIC0NAAw4jqpg4lQxGn559CUQ5TjpBC/aBSGl5EeWwnoNfhZWGBSZtrsypnKFg2lHpT/H+R6r2WT2tctZSv3/BZBP3NdC8T0DYG/sRnIUQNCNdqcyFsEPO2Ej1aWCwPxx95PTWyGk3sVA7vmZbhtD4DC4MqdK56xoP7SFt8vAB+781/UpDWpQGq+coQy3WNlbl//HP9F8aJIthwfv7XEas5EfO2KLKmiVQ+MCvzLHFtu68uU6Fb4zxS4jI9rzKhWyvzHOnfOiPbnVxjbhzCaZ5PRAHxD5uQQ8jgZk+P84GOGQjWnloNxfnpu2i09pefZ9Adgiy/fbeL036JOk/faL6pUwSA5Av4aRR+f2hGYM12hcg5EsqT2l5dPKvy6L8SppGWuPfce40nmJaMR+fxg50vwr9cS3jAf6RpU8dohesEut4MiaOP/JlYcNQHHcYzXAm2KR3S3fqWrtDMfcoX2BIJTUzvR/xBmiM2H6J3m++PB79xE8vsxBcRo6HtAw9D8uZpDyocjOjrBzuvsouPnmMqVGFOGNcheRoc1JIQXj1c2g4Nv9tzrDGRYP4sUXwFV4fGKLWMkzqZDKOhguRY6hUGWmG4ilV0yKvamzaGH2Qhavazu5W7K/i06FREwZbavrmR9INPsLcignohMuLj6cqo7rKoKhZF3lvkXZMAZTdFuHHUircgJsiimY6Co2meOeq7/6b7RJLupWT+/0K9xLxqduSG2+r9USY=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: FiHJnVR/SokZaEqgaty6qSNERPcJ4maLzGg9HLWdLDIMUaSlhgm/iyeE6z5YWFBoMFgxQoNowsqhTj0Ps2WdyHTxvNimKbHjjfcVtYj5KzDjRP5VJi6jAnbJSDR05zz75FGUWLMp+RpWdIPpyIYt7Vs2tMm8Uw+A9KlrJiwHbDQufBrLunfGE9loOAf78gg4mWU9QbXukpHXLQg+WyIJGdeSzqqEzmqdU3iY6yWItZbK0RpXVl0qGtT4GdQY5BLZDBNO4/uCMY5LmAJZrClHN6yV1qs9xQRtbRlD25bhWI59k7PFgZdPtj5aXhNVFV2n4Pv953PrbQk9D73iW6/7gKmartV6v18rkxouvU9bXMjL+PFrRLmL3GduEkRiXpI/6dWIWvJO4FU59012U5GbbfeFL1/xCs76gHvBKFUOHlH0+2pnBRNMU6Pg6sJQktR/ob5F2KAyEfQMmGCvDDDumUDKX2+RyXbG+MlbmWxX9CxDDQYb5bKDqQswVZ6v4QSHWb7Rjvkas/0X69vSVR8HzFVxZCvqNO6qlLVLV0KljXXbZHvJI0jFpc3W79ydRYMCxn9/oVvKYpSVqPj73zBL1w3is3OsqNX1FZfdx90KFKphWpDCK8Ov1mluUCnrvqzwjsLr+N1cYk1CiXzLkx9nCZ61/bN6MFbK9LX8qpT4ACewPddclgI6Jd7qoxWkIryJ/3uJt+W3i8OrPE+Ve2ZkhcJLcNNcbQLw9h1ExKj7wwnqpkOoJrCUi2mvG/lPpyU/5TKIs54CD6rJu/TURX3mKZ3fFjVbla+oH1NFRdhqhtWE3/CECnkEsO9ncnlWkP3D7pir8XlF5lxEpz+cKc98rfeHqo8TM9zVAj5j76DJ35JrO/mViN3m1Q75nD3Q7oGDebYlBuNf5zY3RXX+lkwFA9g8MM/eEr7652sAC1KbdzzfBz6uRj15/4t0jcXzIPcuBKmD3cOurC7lp0kDpOmOZMvGh/ij8H87d6k3CUzYosUqlZ1Jil4gRKjwmHzBZllJSs4nr74hxCrma3Tc4dDxfgRzkj6/iy8G2UPxqt+14andztC6Al7av7133k0LCoNlOSGbdFfBnn3kyf3xMIOP2zg7zp5f2UpQabzhoTIWh72yUtUnHn+h0/wl08fpgC62B/GEAJVGmFsy4npfagqYIpAIxfTxDF2ljhha9TTE840pUaxrtmjHd0uVEzZyVPKuFJy8tW7nC4IOu0xG/WEcyjbl/WTx0XREP1aF9BOSyJIvoc5+/mh/fGf/37hJKTAL3B9f2ZSEa6RHLbBU/g5XApGwneyR6lGTYQ5soHNVb/fnWxLhR6BeZqU9Pv695SeXngEYiKE/iTYCqz9iHXPL86Wt7800pf+q3hsRkkaIKV8rxdAdhVok49TTX8AJ9HFio3AVOg+vqUx1q7WBTtkfgLxXVhLBH2YwVpww1xRWpTEkGN90urziZpgzBdsOgSqlS7St+/ePjgLaDTscVNRLPY5NPa1Rg5ki6N99XOEVTL5bdUcZ/HfcvCIVjQWQ1fXlJgOmJQa/ctjA1mkkhUKLQtAauQVc2vKrx9trg/3jhX1LnzEynj9clZJRQ8N/JS3WWnDTaoZV42adWEvwd0yaTHPuXnn1oXKQAtw3858tB/KlgtKvEShYJZRnA0uL894mREs95TmW0Ox5Dj/dV6QlMNWr91IbBLFEuywVBK7d0hJxywewPbbrOiIVwqzR0qpUfuUhyOFDDcGwaAcXciAK5k43bL3k5JibAydpQxrF+UMSAsPIOochMvy0AvC/rbvQi8Xr/SQ1EWVJVujrrZHXoQ==
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Usability+%2F+Enumerations+%2F+Exercise2
+status: Unchecked
+record: -1

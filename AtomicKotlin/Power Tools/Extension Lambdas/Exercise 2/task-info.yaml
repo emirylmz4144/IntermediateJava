@@ -1,0 +1,78 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 119
+        length: 38
+        placeholder_text: |-
+          fun sandwich2(): Sandwich {
+            TODO()
+          }
+        initial_state:
+          length: 38
+          offset: 119
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: ssscFEYJPIEpsYMxdieJGPiRB8MOqbJraBTFsvQEX2wpFsQXzYOFoBd8+LQREb8gtmwtz+E/jGywemyxrCRX3j3WQSXhe/LGxCG4tvjhv5SJzLLe2hrxMV9XKriOXVD1/r0fuTxNRgGvEIW4IbTjdwkSVNKUD+1w0O3l7DS4IyrvM7vpMl6FsIPljhvQnXXjRp2carX8YAcJ2lLmhjzkailBbB6W+994/ZaZCCVwg4k7APDY95CLVb9/bh6+KLpBqrr0tWOb7DioFXPV/crIJw==
+      - offset: 159
+        length: 38
+        placeholder_text: |-
+          fun sandwich3(): Sandwich {
+            TODO()
+          }
+        initial_state:
+          length: 38
+          offset: 159
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: IcC4gc3oCkq3Yu2ALPF5fHRHpTHZ2yh6g0aIs3vrSLsW8ZJYQuyvEz5/H8728fRJOOs35yewhj9NmKl/MF/45D0qtLrPHGECto6hHy81qclsvq87f762OS0n4/TQROWip0TdmMJEpRBj/XgVp2s5nA==
+      - offset: 199
+        length: 539
+        placeholder_text: |-
+          /*
+          val PBJ1 = sandwich2 {
+            add(PeanutButter())
+            add(GrapeJelly())
+          }
+          
+          val PBJ2 = sandwich2({ toast() }) {
+            add(PeanutButter())
+            add(GrapeJelly())
+          }
+          
+          val PBJ3 = Sandwich().toast().sandwich3 {
+            add(PeanutButter())
+            add(GrapeJelly())
+          }
+          
+          val PBJ4 = Sandwich().toast().sandwich3 {
+            add(PeanutButter())
+            add(GrapeJelly())
+          }.grill()
+          
+          fun main() {
+            PBJ1 eq "[PeanutButter, GrapeJelly]"
+            PBJ2 eq "[Toast, PeanutButter, GrapeJelly]"
+            PBJ3 eq "[Toast, PeanutButter, GrapeJelly]"
+            PBJ4 eq
+              "[Toast, PeanutButter, GrapeJelly, Grill]"
+          }
+          */
+        initial_state:
+          length: 539
+          offset: 199
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: iR196Mwa7hpfTrW8Jl+kRSPKr/UqUMPVu++D7+/jSfmGobeiSnv9za52AoKtsk25mx9f8zElRSZy2CUTgOyhD3MotM4H9N17xP2pRQhI+6UH1EYmNHQD86zc/c/4+RiyCmh0qmg6W36TQmc9qc0QlCLFLzAg49nAmmsUOaju1a3TxRjaw7f7/hJ58S5Ivv8HtiNvBsNPTruzkNd/WKBzyJyfDsPl42wenNjlg2wrBvNUhoykNtGToyqVeog3FBCE4Su35qq6uyOxteXqbG1NfO1WC0csafnT7re2WRsIJ+2Bkchr1XxCARgMriH9042maA+27Lgdz7YKN/ffH1ghNjhTmQFwd409gWnYT6NqlFjV7OUzJ1QXLSmOKe59ZdqQNyAnwV4LSGw1FsTEZOrZZ9Z6fOJ6lLsNNTUDdR0Yc2IexOyLxO8tS9wVXDDbgGsVqlW9c5aoxuJY1XG5IoPr1Q4dfeequdH02p0rg9ng9N/bQk4V/GGXvDxDSNvYyEx/q1qFfVXgeBoG2ZQYsTMzkrS5W+vN+IQRzzlLxlZB9AqG5n4vQ7bW1qd0PWHioTUMvSB2Me7gAqjXKJHXvKUih1Jpev3AIEtYR46J7+OYJw8YTMZpR2xs+fKmyxQKb16qBk0PkUddspL09knSyoZ8caXMelOfOoHq9UOT+CUMoaWJvk2SCKAewCkjiFIw1tzVhtXpo4VBASyqpjZwnGrS8Q==
+    encrypted_text: 0MCiAfPBolgg4QygISseSW73BjL+H8k94nZnFQA5GDdCKiQCvW/12jbp46sKrr1n7u5NeU8G3g3m6MwhvOcci2uvmJ/AVCzI0MKdr1hK5DjhJ93ty7WPj/Q7W9hMW7tSXFjKm89UVRnEgias7NWDAB/YRSvfvAe0uNQo9tnFvl3v1OZCfResSHU2FKv8tvb5NexKXGsFKLUoxxPrpNIdovFfmA7V+B3Tce9Q7WSLTC95C42oOpScDu7sZF5g6/iCjPd1RTb5YwX+SbBRQyjrfc/LgeBMsBj3QmEpFi60brkLDT+t2DzvqZ9+GSjgYsDwndzueBIXDEunQyUyzWam3AhTC/8ryknd/Xo63/RpYSlgXqRA3AraRwwPmgepDejPDY/oFBnnaoR2xbyg1SiVDiAFzpFDn7A9IA26i7M1yfF1qthBRbHto3rcxKeT++pJmUwa6I6UvrEwqmz6GZqzKIIbBu7xHBTwbKADjUqX6p1DNWKqayq51kijmpvg54xens/1eMbD8MMTNpNCthqs0j1rM/H2LM+QGuVMaeBwJUP7ukcADhpzzLRVlYDqtFK8ppqAV4oRiBim4CKUUzWk3342msApdPGjvWh9EcxiJ97odXQ/CQQNPsq+Cer/YD8E1zAgEQA9fBWo7gfjPN3t5dAb9osszRXge2VX0Pu7dd9JQyIqQ232MfX86opKS4uu1gu5ckd6NMxKRnsT1FQiyAXTr4mWXEalOjbtycUWRWexLBmcq/GuA9KLUiyTFAWvJ0nZBLNWo6f2/a7gM0AWbEKed547riZCic1gsXompM44PPEd9Q6q6WRQwhuoN7SkL8e3sQmkKYloEoowa1sliHHO5Be5CWWnkFU/fkDq+iyx4+paiBqZPQD/EV49/zfMjp+DQGe1th+/ajl3WsFakuWMgl3Y59V1CcRS6RcZ5ucTtIwAg8TOLPU+V5QCA6/In+HGAALGVHfaQlL4X+HmyLbONa7edpUUlKTfVRwrcck=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: OJ/VvKJbfR14tfcNGIEjsW1JBI99J3eyp7y+cG1ch1rUgaSQrZjQtz0KnGuBPg2zBJms/oCOsp16BstMnGrb13t32IUscPzJMk0OrGAuV8pK6MSLxOO6H02dY7ZdD2u2dvXic0x2/n0ur2Evqi7gR3qO6e+E2uBYUn2I5F2X/7rGdrjhzmSlHAwo48pN8nzchXiQTY6Rn4/+loMGREtUu1mvG6NKwTh7bYEZKTcjIbRsk+7CBLx1z+XOUzG9TD62AvdWLozTpefLabtAT56AKQ==
+    learner_created: false
+status: Unchecked
+record: -1

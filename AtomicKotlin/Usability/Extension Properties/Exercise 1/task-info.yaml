@@ -1,0 +1,35 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 134
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 134
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: oInStMAgW7lnVHaluTToTw==
+      - offset: 190
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 190
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 5gZh+yIPYKzPwfkyj358rELP9gO0zDBYrLsDN7Wf/Cw=
+    encrypted_text: F8AsHn4NJM4hMB/C/GaMDvvFs/4AC1EglM9oYzXePdCRcNluu0SmKbZSJX29iASKmDbQlsfsO4+ENeW1vINlwjvJY2ONxxZQTlYdzRn5QgA9NWAsDBsy7GVpduxemUSTjKEyAj9p7HDzvPShJIpl80fjezZCa0N96uqOypwHt+2rMkv19H6Yjd/ds4vVwuKQuJ/TGQtLQou/IxcxVVKI52NV0DHsa8jHCyU1u3KjJEpjczNf/TYJ7ZAaCk97WqFlY0BPGY+MKuOcnU/JzrNMv/HynmfF1XKyJIs+btV8e0t5SljVGxSoxno3JDhHorD07V53Mv56//ykY8akJvOIM8Wc4URLNKaPVMSclVxWuXGgHtOsoeMM23FqY2LePHjXSO/p24aspPlHhroAmylj2vNwtJdGDDa1AdeoF4OlglX5uoGldcOMHZfvWktAivf0e7Qv5CDlMNkjOw4u4JKxF2P0PLDKIogUt7KK82R8tNGgGW3jtPJ4edIqkJGMp2Lb4cpI70MOaNq4AQAWF8mOnFtZMS8bvP1ZMNpblpvOOrI=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: OJ/VvKJbfR14tfcNGIEjsW9Kqd5rsDtexIVpBGWnyjQamRWFNZhbsfdKAcOTE7CHcOwgEmzXcWVEcWPVlXv5L2JcoP0esvWWKelPzVV0ecRBg1aRCUGKuGY6rpZuuL85LpvLktf/RONdfz6YaAo19NQovouI/V8dxTQ1JALWadL4N/vc10ix0HS66M+C9LcTwoX9LCMhWJ/DWatV+Azb1YIhvnJSPcZ0WMyA81rE/TeHgDc6FH3ZoBTjudZ+ufyenBsQezAYd8zBqdLNFqYW1XsM0AxWTWqVFlDz+Svq/5czcRkKQVD7+PcrJKayq3SiQrEcBpC1a2WP9YscvbOytdqNIEBlildtXNk7u7DYO4OBcXlv8lzO/kVacJhvnq9j5fawIJsGju5ptmHxb3jIpwcOmQZIWRHsrVQW3tzK6F8AqoBqdqLsZbGsn8pOaLuIXUcQbKvK4gPpKn3OndpbP01b3917Lb/qwbSgz09pd6jZWua5TzgFxVLjv4S9FgkayA8twPR+NjnkOtP9+CRhCUlNJqRq7IwTzZdlB1UfqLbwKjN1CH6bAZNpnuawUsX08cQXyCEcslXyBoNzSQNsxlROyxHRkllYuxe2/7NfwFcA2hyr/1va2v+UUvI/geooXWfSrKDhqaVL2GhZgfIn5Ui8lpI/M9cskFkTHOeKwNP6XHYHxWlzkDACcGVrOl9nTsC+PCIs76pCvv5gy1bTTgRpVaJExs5ihqj3d8CKjwXcNbzmBG2tVbOGQFQ3K2fdmfwMbuhrvAEW2Zmwx9fc32VecuIGrFyyT+umTCzs924M4oOZHgiETvlD99jdfJy2ByYSfjLPRa/Aopdtpc+Jbt0v3Ggl5XiYLXhWQxRLh0TlNvpzz8QLT9el73UGMZpdSiTHUnAD2iDUGGdzc4n9jBtjcdWi6FeuSvGwPAHTNqCwLXUEu00jlGsuNmKg156q6NuTxLufJYXCRBHG2271qo2sBzAp00Qv3ODWqYaelYYgF2r+hAC0oHiVgLC7FDMpp8RzmTLoeEOnkzDVEkSyGgmx1zJjNPzwxVWTXTZJRcc9SwPt9Tw+tSatFDj75pwPz1YXLVNpbD1OI0Ps/4OsmvCLhGUsQmee41FMGV6s0+0qy60sIQC1so2WV0vQshRO2Vw7/oN/uZ8mAHf2qmXAEZo53FETTCOs6GyQ7QS1/3pwMHrmwBopZlQxejlmhqLo/KeS87DnOB11RngfCOXfTeejCcYXADaSTNs2PR/0ilaCohLC0MhBD0d05sKrwEIUn3NvQ3iA1p6bT7vQp7rJpVoofiUiDIYftyQJvuyOVmDeXQ+QBcjYo1RhKHxDBtsogIISfUHrjTKLHHSMzYCc8fuA30imaJru4JXFaH32+x82cU+7QznseP6kXOcrWMAKaDHG+NZoSXZoLaiYyVhIsgAnyevfnQnLiWB9PFQmwSnqOvqKAjWrNMoveVq1OMkJ5IgK09++gHvdrEygSSgh+w==
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Usability+%2F+Extension+Properties+%2F+Exercise1
+status: Unchecked
+record: -1

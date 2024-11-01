@@ -1,0 +1,39 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 62
+        length: 21
+        placeholder_text: // create Robot class
+        initial_state:
+          length: 21
+          offset: 62
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 0UDdOqd71L4cAD5ynqUkx/wV5oDijF2U1bunb1YlG2V34ln+05x6DTckAmgpwnfem1DhX4K3KTcWPRyYkw80JFiUQhTmKhtnhjRg32esxL3VG+4RAFCNiJDHmTr/SIDzlWVJDB7bRHaAkqHzrpaDmiAdUdQ6FILjcWF+7lYlEdhQz+KnCD/D5R6M1QZdvEdZN/wCOlYMf8kHWtUOsuy8jshiioJzbkrkU5qUO0fQda+y9FvOm8rhHI35o1ImvQg/1IdQ/iT4PXlEB/jCSfD8jnHEeTPOGiCtK3R0XxyfgWBJ0jp/rixiRFyONsWWhGS49Z3Iilo/2i+iJdplMPRxgAI39F99Ui3Z9sZZRVgXHCQ=
+      - offset: 98
+        length: 42
+        placeholder_text: |-
+          /*
+            val robot = Robot()
+            robot.up(11)
+          */
+        initial_state:
+          length: 42
+          offset: 98
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: rpZEyisp2m5dmoQXiItNBO0mXU4ql3hXdDDv9CN8YwieLzyKstSNWfhvKQKYCgo4
+    encrypted_text: z5xIgCX+y50jfyHzf6F9a/Nnzm+HzPMxO56HHmW8Tw4sa4MqZJbtP7TIt90nw/KturwFup3wHsOVzRNDnIftsUgGOtPKBnBjMVO6CEMTyReVEtpSv9hO+zDqTO5v53TWVpOanMDxzOJPyBi+6t7Akm4G8rY/g66mJ8FYQNVemFcq9VJeveO5HWigKEGTYqWdeQkNtuTFmDya8r2zwGfSCvefNeYNPKDhHIXNVOWsBjjw+/ZjEqYk3Ii95RTP8CmZ
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: J13CkvaygBh+xUtxBGsfTWYEvDaH9Wcry1GdYxuZQpFhK6/mGDXUZPh90Sk88b+0Tgf/mawaqeRNCvC4AFTaF21p8ScDi9TFlc5L+GInRg1roXXOxkI2Lp61DLaDAT7g30cYPw96cQ1DQBVZPjU3WVBqfdQhu6S1pBb2/Xxxeiga+QVGDUbFHV2eljqRUJMu1H32RbKwf9gRDFvBvOpkaa6eKgKHhJaK7LpAsa3ZCns94BEzONv+ameLK136691GdYf9azrXyAXIPgBGSZjv6gjcZ1oJRVFRvUrtzUL46PzStyrNviF3bpfVoA76DMUoZ8heXvp7CEGl4yC0ZX0+ZYpbnmndaUQQ4kFBmwu4hAxzTAAhGI94cuYJa0nQk6bgUYChNucGf6HKXd+p1WU9E1M4aeptyHJBkQp0TPi4eaiVRJa0tzfvLnDGn3rWDsoZlKWUIkH5BagsZYS8AR/JOtYa4+D3LN+zqKzMgxes/y+92wuwcVDHsbhpwTazAbAWR9e4uC+kFxlbsqH3yc2EWuCJLBz5SkD13gzAZJ2JQykMIuQqKTQsT3hryQcZvXVoCgxk5FmKdTlGs9fxT3pem5bEom485YgMvIf2V3cfk+v6DvLERZyoPlrEstNiv+2fl5kE6A4b4Dg6GJMQ+LxPbDZ8QAyntRZ27QNVQXytpuRGUNcQfbioFoYt77u3nSLtW1Iw9/206TL6ejl4VUrOakLI7pjzcPo2qCpyM6+EwSTtO1Xyg0qqSI0CmVfpoUtTG/K1OScCbtF/uHW9eI9CBZGqX45tucqgzDgmg+w8sFqhOhCy8aq6IPDtFKhxdLkW1YHYjydhTFx1ZoRQVN2mV2CtdJx3Una6U9UTKNuuDJwwu0vbsDsJbs6W5N1e4j/i5HDACKNjlileHlirRHf4JCdjT+KTDJGDwQDBPbyVDBB+IynKepvGGgmJGX5XVezgVHDZMqqYQ0i3gZze/mnwXxHVNPs3rqwd0kYRBY0T4xWMqknDvkPGNOC8k3JmkqIi/TKVEiEQ7U1hdRQypwVtt5W39RDjp2NynQ7hn/5bEbapjCQgd06wRQQ6AEETnvf/mOw8Ju6WwKS5CGMVvrddYiOVtl3q3fKCOCquxKOYbRLh4BSE5HwDQwYK/+mz4A/vFJmw9k64EVHu0bwON0DRtOYUF0HFgHtlcN34ASgNZSaXOSSgmCCbJVHTdhi2+n5blclbwAx1Ka5YUUjhDMOkSVHTcoPa5Bmb9Mx41IpnWj/+fG8X9IVq1Sl1bI4Og8f3ZDyf2WxjXNPxYjdHmQ90npPowHc0ztiLeJ9EhBxnupBom+bAhH/ISk2A9GMpudGirjxaCpiLv6781fP5smfnIHAdJXILcqwfp/NL7Owd8GypnbYkwKgZnk1ZJa1hVanbfVNtdDSbF8A6RA/hFO3LT3X5w7N30wU3JKZ6ljrLPwt7wdpaLZxUo+MwGaqJmfMaRnkbxz6wDlL4y92zZIXJU0mFZLrKr/UbuxTrOGWuqhegBxxZQYyUpVYLuGu2dzUiAqPpKTltD76qE8ZtxMZKww0t61PeyqhMppI8WYO5sAqXtO9tn7PL/Dverd0OY1Ll/y1ybot8AjdwBDqTwXn1ag==
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Introduction+to+Objects+%2F+Creating+Classes+%2F+Exercise1
+status: Unchecked
+record: -1

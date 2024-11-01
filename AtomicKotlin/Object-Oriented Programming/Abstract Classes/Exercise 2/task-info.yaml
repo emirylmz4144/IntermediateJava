@@ -1,0 +1,58 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 76
+        length: 22
+        placeholder_text: abstract class Movable
+        initial_state:
+          length: 22
+          offset: 76
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: T9ZYWna5HmPltdYfNsK6zC1syjf4erVEteomUZ5ZRso=
+      - offset: 126
+        length: 24
+        placeholder_text: abstract class Sleepable
+        initial_state:
+          length: 24
+          offset: 126
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: cMi9haO4MGJr1UXQ4VKKreK41lTLPFlV5j5GoBj4yMY=
+      - offset: 182
+        length: 37
+        placeholder_text: "// class Sofa: Movable(), Sleepable()"
+        initial_state:
+          length: 37
+          offset: 182
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: woBPM3Bx/aTzhGj94HUp+odo+UA28Ediflln4O+x3aA=
+      - offset: 234
+        length: 77
+        placeholder_text: |-
+          /*
+            val sofa = Sofa()
+            sofa.move() eq "move"
+            sofa.sleepOn() eq "sleep"
+          */
+        initial_state:
+          length: 77
+          offset: 234
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: dFdn32mzu3RlajiQD0F64wMXXcGz7CrNOGxYFuS0s8iGJCozca1LjYPpvC6KqAWTiUJsKLPZQ7lrtBYLf3nepBVEmsmC7v7lkjIkdTxb3Fc=
+    encrypted_text: XBXonkMq+uweN5xjjTMuLrfHRCmPlmIoOp5KQlpf63q2n7BUMYoN9hhFpdd7pvJJB6UhtQpE/PGzf38f54XYHgNNfxrpdwdjxicomIVPGjkPAHiQ1Ifl/yEyNaR1HsgO/7BGQWxXBE9rPFdMyKj9qX2V3moxSNW0fClYjKbOAH2HdUBzgqI5o8SPR3UD7RgbmuI8HsLwqQfixQooMAu1if7CnQK58W/6J/nb6ftwAvtLXFiN0G6WJR48Ais6m6S1rrxJ2aR+i1vaYRvV6VuN4YSaCEr6+2iQDqsZrVzafX0Ry21fdAG6Gew2Nt0WSZSi2lsU51/R1otvHk5IMVPLGb8ePUC7mF1wOCanKv0baxxQZ6a02dQXZmwWrhlu11TkfESh1cm/f74e4zieloJ2Sqi4fpPz/cknxnU5uWmvZjI=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: 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
+    learner_created: false
+status: Unchecked
+record: -1

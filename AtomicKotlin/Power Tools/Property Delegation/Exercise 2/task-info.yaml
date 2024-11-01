@@ -1,0 +1,33 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 220
+        length: 43
+        placeholder_text: = mutableListOf() // replace with 'by list'
+        initial_state:
+          length: 43
+          offset: 220
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: ZzHwx2SLPKN0Rm28sD085A==
+      - offset: 266
+        length: 40
+        placeholder_text: // TODO getValue and setValue extensions
+        initial_state:
+          length: 40
+          offset: 266
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: qDByASzMUzlzo1bwlji89Uj1Zg6pCvnfWPv6H3ffCAwMciSrcB7QxObJmdI7nGyUX0ZD8YzUaakGBr1n9Nhs0/AGa3I4udAfPAkb0LVrI14FpPuT/EmATihG0Vs/7MR6ZWUipn5mcG+v7LGMe3LQZvGW4Jt3v4yUVLGCovHazZjNFdBXz+vvOSSR9zZa4iQvBx4uZxT+zT3qRLS3ldCaNOoB4yxwMrFT03eQ5VRk2gqgOSWdtvaC+pp/OkuZhAAtOz6DrVaWgrhKm+/2OJnU19Zq+RECLn9RY8a9s62eo1ehK1TmFVLhBm4KhxBaP7uzH1osIyjSIYJ1nidCcSdY/w==
+    encrypted_text: TETwb06PrAdSK61HWef9IneeDO0IxDh0Fti/ZzzWo1JE0agTpRMrINBRH9PfvcKpWC0KBhO+MxMpcA5Ko1gsWv+D0Xk9zmz5Sr6ZYmwbIg81yXuzYGtLlaKZnFk5ade1VI5by9QFv07ykxKn64gP3Dcj8RVuSV9wc1mK5fvgfGoIucyqDJ08BPpee6efFPmgRah4yQvmzk9M4tLeDnCLVGOcaPz5FfPFMnb5qmaWYjkUrZfVLUEG/T81K5s+74HxYwCFbSJMxtG+zhELQce0LmTy7Jojpo8D6ZNJlaHMRe1aH4Y4Cob+AafvMmfpJPw5CeNCdl3E5LhYKMU5+kh4vo4AwRWwlCInsw2Eg7+GCgBpkPXV5SPlQ29sNaMu3XkfuBKCvjfx3NzY8urriIlRhFqBUNqwxIV+U5JpYq3lk/nHIOd+uAfmFAuYffBNrw8XUO+OPOKAE5vRC+5NfmuDb7i9Hj7kE/HctA5SFfg+qL4lLrCD9NP8uFWXQ+2iCM9WCpEeJW+x1v5yfNRLqKDLiTuvoChXsetI7y4ywicgcf6Igzqs8o4ErOjtHpIajG/97evuSHpCCm3jzHbPTqvDUA==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: v/GXCfbZ5GdroYISxTKtewKz4ufZ3Pq1SC1r8jOM05KloVATuAV+a8vErTSklMcrXM88boZUaRqJecoTSfLqHuZiQu6obKrJlTlxdmP8GhMHNi0hNhvevi6YKcItIjsFRmTDYBUDivAwGVCBtlVSfy2FSxDV+y5nw2DMDpraYfTObhIxq9TP3Mqc176xZ4q1wsYEICprkH1qQD5jvxy7FFRFqitq3EmOIctVoiaDvJoNX8wi/sHaG6pdvLprziJVoy0mlhRIw89vzIHTEWbwpw==
+    learner_created: false
+status: Unchecked
+record: -1

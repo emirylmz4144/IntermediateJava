@@ -1,0 +1,54 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 114
+        length: 309
+        placeholder_text: |-
+          sealed class Shape {
+            fun draw() = "$name: Draw"
+          }
+          
+          class Circle : Shape()
+          
+          class Square : Shape() {
+            fun rotate() = "Square: Rotate"
+          }
+          
+          class Triangle : Shape() {
+            fun rotate() = "Triangle: Rotate"
+          }
+          
+          fun turn(s: Shape) = when(s) {
+            is Circle -> ""
+            is Square -> s.rotate()
+            is Triangle -> s.rotate()
+          }
+        initial_state:
+          length: 309
+          offset: 114
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 4gu6VRFiAm5L75Yf+QBq0Q/sNUVuQ+9MLt1BfbP5NNwWag4gXZNvfJcENbGe8nIpllGG4fsXaCDhTxbNLazR0P3A8pWQY3QoTPjKWujm7HzKV6DJM6NY5m17Dq9zte0DPFGc/3k4OkdQKcHUlptUUprm1555Ae1XFj80DvvjJ9Atxt68CJJY+8++eiO0th6Qhy5D5jsTIlUxI/5pnprVx4u3pfMkKW93h8ELsSpZNQbYk1Keswr0E8K2/gmq6xdvgnZDHCEeIj4CUEsP+F2zfQPs9IdnrhAsvJ08UKS86sSgvPPH9TGSIP8/YJmwqHvbsxTAa2UsjTdaHNPYKcVORryEQjhfx4Cz1kS9q9rAJlw=
+      - offset: 601
+        length: 60
+        placeholder_text: |-
+          /*  shapes.map { it.rotate() } eq
+              "[, Square: Rotate]"*/
+        initial_state:
+          length: 60
+          offset: 601
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 3hwoH1BPSdI0oAaAgG+rwR2ESFKzuxV2ukHOyMbQCIZG4bd5agtjLZHSGNdfSnxzogwXgVAd8eRldkdyJVNcyA==
+    encrypted_text: KImeZ9RGobiQntkHnK4d5XDniwZEgNibusAdJ9ZEFCwJoDUsBXL0LsHXQbbtufoDf6tNscimgI2jrhVCkoHcImnHUObbw9NGRuRBMq3/NNneKz+kyZd01yybuH4effm0JE35vhZgaqM4s1sP7t5tA+oW0r1jx3n0QSQ4erQhwiEPI/fq9E0w1+zpBjfkJ5h0iP2V7avkyRYDYBiVyMH1zjej46qqD2GdNDB3wVwVMPkgPHl6kDXTHFJ/vLpUbHzDMjsn0ieSuP7+TueSEW9asdiL6qyfjWU4S+PDS1ClRtfZ/44pMBBGRFW60g3aWK6K+yM2PHOoxExe5k9GNiWawzAlY7j0wp9chBoWHDZGEkJYf4cB/8c989ZNEcgJ+dlWrFnRN04mteNvTJOLs4x75DWHYq3yUFOjY7R8HcmAlclkV617S+LZm9MQtq6je390Cw0HOck+VnKIsII/B9mEJp5jDOq1bLgXxfjgjABzc0lVZlVnf6M3NwFFvnfHg37Lf+ybscHCr+M6cotI08bV8WrmD92xbPTiha4ISFIECZ7qri9hU67S//vzRh9nzhyWIJubkjtDPfZNKVAed0PMx0GVROo1cowURDfTlctJboUu9PUHgTodp01doHv7ttivbozG8kDNKM5by8eLzNV0slAdnMX5slOR1U8De7aUH8Kk42v0kFt1r27sWhgz3eutsmG53N5Mt7plGZXgpDXWDle3i9RVBjKHF6sQ9OpgLdA/KjK4FCeBrtqzfhvva6HuCMB7Q72kCcycQ6472IBihJBeX64gaXzDpgFyXEUHwZdwZfy8L02Sa91KPP2RLe2R9AGcyGBcdGVU2vnrkX+TU6Lept6mIrnWjt4E+/FbmtmaU/GjGlyndGjjvJUP4/Le
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: liawEn+LMMxVxwTfGDR1KBkbBhCzyq6SmlS7AWfc4XKoO2Qh07LPpwG5UoAxleIqAtkJev9wp9iAHHhsTi+JseU0HmeX+Th6iozI7gxLSuTHsLduZeRDIz1jSPYveVnjbjS1ll5bwwftOYSpuW94O+czPfhctVvTHKavu+uyEzd8Y8HsDbxp0DVISVQ0qPARi7DhywXMUN8PNKEB1iyflocArsQ6X4W0r9pdG5en1i5PDbjwHC2Ocq/X0i+4DrY/
+    learner_created: false
+status: Unchecked
+record: -1

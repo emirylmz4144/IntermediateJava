@@ -1,0 +1,66 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 74
+        length: 101
+        placeholder_text: |-
+          class Shape(
+            val name: String,
+            open val color: String
+          ) {
+            fun draw() = "drawing $color $name"
+          }
+        initial_state:
+          length: 101
+          offset: 74
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: WcJV/jubsJvHBIwd1HrcZR5frChCUtxWOyVynfqX5Sjf+TjziDORbc+aTL3zl7qF0I2imOJOdgW8uym6y08vUi+P6bKSCEGcMIkbV+GWV0gMYfjkHmhn8cG7FfBi543zOtMDVvbyIPaCeJKi4Ol1GQ==
+      - offset: 177
+        length: 153
+        placeholder_text: |-
+          class Circle(
+            val radius: Int,
+            val color: String,
+            val shape: Shape =
+              Shape("circle of radius $radius", color)
+          ) {
+            fun draw() = shape.draw()
+          }
+        initial_state:
+          length: 153
+          offset: 177
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 8KVdbUQsYfYIInRsNJ/HUWQT8V54LnijhfF3OXofOQg1/90/YLF+UeT8y/aMyRLhRBb/Y4u3DUmydprFDq2tYtu/fX8uVuEuCNhcvJ568T4/p2fHmvIQPGWgedzW201smXSbAdPNniR9AFZKTAThvw==
+      - offset: 332
+        length: 184
+        placeholder_text: |-
+          class Rectangle(
+            val height: Int,
+            val width: Int,
+            val color: String,
+            val shape: Shape =
+              Shape("rectangle of size ${height}x$width", color)
+          ) {
+            fun draw() = shape.draw()
+          }
+        initial_state:
+          length: 184
+          offset: 332
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: ndiPy1cp89gBsLjZuCkRr+fUm2Bejgj8QeAqoaVBdSPqrvYNYCkKTUC/V1pOItXVSedy/iyhCAf648u8Ufo8sBIsd/7a2JnGv+Ubagxy1FRjvHa39pCgWDKEMeHwdAW0wFA+jpRyzmtzymAmVFXFhmkJsgGW/OnQhriUo8oIaZ7/TrFd04Se/eaEmo+Jgoip
+    encrypted_text: 41TYFrYdBROHFujbd3+S2tXqR6tIWUpoqMDHGpczYsT4FRfAgtQdp1yggjZSEG96zCafA6UBuBUG/Yjq3D9iuJ+A6fQX1n+pSFFq3NmYOWqW9J+mOSgPobArz3ElsNULg+iaoacwU7q9Tr7t5K58NEvxB5WqHgXg+5ePtfb2WjY274UIvNbTjEkGS1lswV/y1xM07lt/N/8czkl6K1Q1b+K6e6cntJwokEND74t8CLlIo5uS242IwGK7mOBwsR+UrIJC6TcGSgLEg0/MjpwO++m5GpWCkbgON9NObA6SVHbXC65uyZ/AAfYRIOdoV4on36sblVv7nGmpOopvxyPw7nEdIyLp1EbddrTQz015HipLxGwWP4nCnbm+6SeeR+9gHo19p89S2HzO7FEaAy9bZPHtLuNiz29XNGlK7dNSWjOzyTN74iksffyTE/55mTAxl3+lH885ilO2Ahv52juTkWXrY8E0fBLlxFSGnXF31QeRP2ASLcV5CwXmaLyffwbRgl+u7WNBKnbM86+LbMV9HPVBjZIfndM03IDENgCwhb+BmT5wEueJlaJGhfzNCfJ5JGeD8nN5veFbWKtdxMAx4syUUJwdeljjDiRGJYdTpLmFC5ffS/x36rgJNDuY7Uzy7Wr55ewe4B5ZiMpdzBLyI9oF0YNxc26AzHMoXtftibv0x6h8dnt811auOTJ8wQtCHRtE1BJQMxO5YWFjemcDupqeakPUzBioOa4vUAYUJJ9/z9eZgAM4LG2KYy+voAuPMxcgEQ/hTP8AupHKvChFruCPGULojPS9FtnP7TU0DpFaZc8qASIDD21uReuz4mmLW7farWLKniTagdlxlBi8kF3YltwqtS95OnaXjzoyAdE4zN2I2o9zIVJL86mXsksEnJOaIrqHWKQtlV2pWr1STp7INx17bdO6mWQRsRmU4nzzhiubJIFTs+sFIZNqDeewjmy8aNgMuEbuE+i3U7hMxAxnz/dJp4oiDDZw5odewn5aZO+1avclX9Bsn5D8DqKm
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: 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
+    learner_created: false
+status: Unchecked
+record: -1

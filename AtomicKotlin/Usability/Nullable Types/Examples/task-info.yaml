@@ -1,0 +1,29 @@
+type: theory
+files:
+  - name: src/NullInMaps.kt
+    visible: true
+    encrypted_text: xjDBVkmmbiWhopUO6Nlbh1eWcHyzQV6Uw5a9VnIYuoFTVe5nMzPyUJGgyawHanUrl5JfMyCcRkISRIGl2T9jWIac3TXHx+vebgwZ7ZG/Z5c7fajdGY9ESZp188y4QdL7jHpavO7JJ2v6t2sVfi8pHgCHRx9xZPc3DmpMvoGddNo=
+    learner_created: false
+  - name: src/NullableTypes.kt
+    visible: true
+    encrypted_text: xjDBVkmmbiWhopUO6Nlbh21nT5t3v2OXfkB0Owl4J05ClkMmF2hZu+lNW5ANCcRJS5r4jN/pfztaAJ/BtQbku490F3fkgVM/jVpHGkYaSUGZzsAnS6bsRsvF272Va9XDgqYrUgTnV5Vr9qu/k1K2288mtUWSrbcDEqrl9Sgxm8tDdvdyRCQcUYl1APuwPWL7H2FafwRPvu5K8hU7tSb3ejjNuNJqbSPVuflIZLAIMmeOjNxMZJ1aGqIMEWVsFsDBoTIQH6Zn6DTQn7HWQ6KJcx8VVIbYNQQh6awY+sXAdq+iss/o6M+A2XyyAfMHiIk+/km9TsjjZdxcL5tlOaEVkXs3u2mct00V2BCaQrgSPO8+UksJegQnE/ZGItmKMZEDb5k8zwuoYPC3623UU6xd03vgjq5EnQ8nqVPDkC3FGSTsmwahjyxaRUOLHTxR/ibI/7lp9Na/Ss2EiX5imYQGvW2OuKq+BVOPzL6t8/QDf+hJWaQIQ+wbwhuWivIQdbzyQ8WWDUGE9HA4Ov504WHWSXl3zv/AXz4f2sD1w80fyBUgYczwXEmlAgKT2V5MMu/A
+    learner_created: false
+  - name: src/NullableInMap.kt
+    visible: true
+    encrypted_text: xjDBVkmmbiWhopUO6Nlbh7AlUpW4V+7LsMdlH43oVvohlMal0qTkfd4MDanA8usy1z88eWK5tKyxA1M2pll30WfX4rO8jAj8WxbV1728V4BH91s9oPe/KpIIJhCVf8LphG6RLYjpKuHjDj+3ZzOECdLYf/WVMJswjfCXhV6k7wMVycabVPddz5EFrTG/ZiF3HozfuEszg4oqk4Woyg602PhzNBdZkqe1+oml+jtIwWtqQy67+DSaawXiDOjhpe9Qb4f7sWvwJnDPaeUlf+3VVg==
+    learner_created: false
+  - name: src/Dereference.kt
+    visible: true
+    encrypted_text: xjDBVkmmbiWhopUO6NlbhxwXukC7boTYBd0e8bne89ANCDRBnJfLZucZQt6txDU++thPPP9fXR4wPvQic62OlkRGMCs3iSv8jXuv/B6q+71CewgdbBNg2Ke79pHh/7c9I8CydNGDLYTGfyMfwYXqXiOqxeXlkQw3m+W/4g2q2JmZebS/6LxTzYG+ujJNKf6vhr/kdp13mMBAvolfu6q1DrPBL4keeA1bIPGJ+9mVaC4SCxnNVyYP7CBaLYHGZxW0tXM7uOOxtbzEKsYYWtloaA==
+    learner_created: false
+  - name: src/ExplicitCheck.kt
+    visible: true
+    encrypted_text: xjDBVkmmbiWhopUO6Nlbh4eQbpm1U39w5tH6eepOB3EOOPlpjIvUKep8fWbnmlzbg/0aaLA9wsCGAwqiFQ7iIbu9+vl1krntwYvxekHoyK3e+8mQc4Doiuj1EZSLjTn8CtZBvPSSaKE6VyiBldwLgHZMURNBmeUkbAMnsiwiC+8/rU5G82s1s//YZtfp3oHg
+    learner_created: false
+  - name: src/Amphibian.kt
+    visible: true
+    encrypted_text: xjDBVkmmbiWhopUO6Nlbh/Y6avAZCUjlfYuoH8h0Z1Zi7UDRdWZoUjCsKf6lN/llgvlgshopsIPy+LExRZu7NbhUG30W5z6/RiQh2AX8lrZT4oJ371hshARhIfrstNKf6lw7JAw0WJZMQJ/ZmeUceNx1E0vV937S8an8Zawbkb6oXtJrNNBxF+joWBuRXD4nim8namjay65bO6VzyA/OqVhOFnME5asE5vpAH8MfoaZx0Lv/VmjowPkfUVRszUqnmUhLsAZFYRIagGxdVuqtCfDceAU7X0VutOUfobeGkJNCChzDFb/IoTM1HGWDqLG4oPIQrQ2MNqSgRQekcI6VLwJltRcu8Y7TiG0j5KNSwbI=
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

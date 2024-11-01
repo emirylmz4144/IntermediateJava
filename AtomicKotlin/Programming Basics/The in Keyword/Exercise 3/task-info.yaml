@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 90
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 90
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: ZDyQ5qi3Df1WERGBmlgehw==
+    encrypted_text: PDkfyWu5j6vmHCzfjxc+OVv5ppj8XqaGaklmX2HdaZDIA7CJjWjnCcPk9IrMAbRfoIkZRDJR8M4DWd+HC/VMHkTt9ZKQDaFQTy7am9K0ZshXoi167Ed+rTh6yRIaz/gxrNZPlzf+9EP9A/t+PsY3PMQbMlqfUHrtarfQnLg70tZbPeb2vib1XU/OpSPgzjYp9z6vtX4yPD7s7O2A12ra9UFjilOy6QevG+x5ig9JOrGy4AWYZ0V0ZfzFkr7MUVC8
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: y2C/WVmITbSFQ+47t8VTiy7uixSFK5ClaP5bgNCEMJrk67PFjWcHDguRnps+Yxd9oe7hryfevD2pmi0Ua84ZSt1z1dhYaOhXm332fp/k6aQPp4/IAmYmDh8J5qenYR4OQ3dTp58h94lplgaVxpHJd/gknPgVzKyR1sPRxQiLDMPZNeRNT0/77ZlWkCY32gVV5Nn1Xe7wc+HHcLHItbWvdb1bYGuRH15wNbH+qjRlbnNt1d24f0cnQD+ObnmVUpoFBnACOA0+Zq1p07S+Xyv1/um4ImWuJQ4GBydUyD+TLQDHCokyHMEqXh85rq4tLMAhlpRn+hMVN1our5/egBXqNUR3p309VOODTMSjl2S5lD2pjnFZPb1Ojdi7F78fO5stP/pIRyvckZSP6RZ69VPLYPg4LJZMjqk3nobVwI7DdpKi/n/JoECLODp4t6bjGpEzol5XWvavZGl5e4ggfK/qvBpu0S1REvEgwqvTwJv6ClVSu3hyT5g59tdq+wgYTvgHUclozjUI/Vr4Z/K2OrbbyMh/GV+W6WMi0Z5XGJYGCmFsFfz6zrPBk9EAYSD+qQHmCnKcbzRKQrZ0TqLqIw9gsbxB03EAndIldCyxdlm+wHv+BKxUAHv5+VbIeT2pnQzPmTLk2LdC7Sum3Evk5u1bZcNf4KCaYTUrXe8zYI/BaZYReOpTZSOCzk6X2dBatRgUrh13eoPBy9dQk4i6vyHX/JO60DxysEOattjF8Jd4iXK9xLLbyYzW7+OA5iaDKPIem7phf3FuhcM0QVS366EeflyEQvqbuSFrVHgg6mNVXJucDNeiwhmPDhKU73AhIoEbiUQiTUTk1XEWwRQycAWwQrN4v/hC1XT4vc+pz4nfyzjIHGnkssk6cliUFzUl7EpFAalXo98dT6a5bOzfH74qrRimvGJ7M+SYfGZ6ScJZiOC+NKD73dcujSqrySp2j65BSJRqAVyncwLJo+oB0GFd0Ny6zw1bCEJFMbvCiXfxwoUNwgoWYls3hMBcgpm4d7jtZRqh/p/M7PjRBFNACEoIyBShuL1EORN3/mG/oR9/g5U1O36+5vCWnNATM9VkAyAKuGFFK/JXSdWKkVAikKBqfbEHdzpPeOXUVfgVpylpqnbTg1WxvlJPF0T3g1DsuhDs+7W09Dio9479hmWFAHAFGUrQrq99WAwWr+FvdeYXIxw=
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Programming+Basics+%2F+The+in+Keyword+%2F+Exercise3
+status: Unchecked
+record: -1

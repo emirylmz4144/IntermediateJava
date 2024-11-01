@@ -1,0 +1,53 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 95
+        length: 7
+        placeholder_text: // TODO
+        initial_state:
+          length: 7
+          offset: 95
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: iTbADorOpXZM+RpktUYKEMhaECM0AH54c61XWLWJf3rsmtlmsGHG0yS1uV9+2+YCBDO+RjuqXhc3i/U7UiFHMPUfZoFyRhQ5lywxQDsJckI=
+      - offset: 139
+        length: 7
+        placeholder_text: // TODO
+        initial_state:
+          length: 7
+          offset: 139
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: lqqyHaVi5Dlz+bawkIoGkLwclAako/cjEmNKW5MF6PdCS5U9f/C6xQE/lcx+BreY
+      - offset: 179
+        length: 7
+        placeholder_text: // TODO
+        initial_state:
+          length: 7
+          offset: 179
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: lqqyHaVi5Dlz+bawkIoGkMBffo3WI0htn3JBVlGgww60uODAwubnE3wXE3c6yAqs
+      - offset: 205
+        length: 50
+        placeholder_text: "// Chess().initOrder eq \"[Game, BoardGame, Chess]\""
+        initial_state:
+          length: 50
+          offset: 205
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: +GChXK7DecaK0hUc0RZ2kW7CTLreZlFYurSXp2d5YD1rq9lkfy8lBygRF/E18mMa
+    encrypted_text: IS5e/G4wzqM6IB/2Uf1V8Qz0iSn84Oi9QBFumDG0mnI5NtoOWhCT3TRTb/FWByRpjwo3jmNlBRWhaugZk8HHuFghnu5j+ZtDRrPLQ14cxAYM8kfZsmErqzmgJ0k5sAs1nYEyVLiy1feHrj2tHW05kx9qY9Ze0i6f1qizpgKaZuu1coS2k0WvshJJMdRKlXMGqgIEAwJkVHjw+0hR+FeduRF+ElUO0Pa5G22hsUcxAWPBBtlbMF2cnrE2MAkDtrRvVeQ2ln7fjoUNtJTW/hmy4JdIR7kIBsUFFfiUOWZBSmyYrnfNcZlWSKCiSVRcBrGXPaDkQ87wAFN2kfVf4XoVb/6FgFKaICzjeGuH1VRZNpI=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: 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
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 313
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 313
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: vUmjedfrH+0+5OOIg08z8ZqMtJBcclGJ7C6iKpVEQbe0SvgiQt88kXnR4dObzQvv
+    encrypted_text: oZOP1x7C6RJ/ZY2yDn9aUl2cBhA3WAtrqqB2/LXVa0C7zNcVS2LwhS3WFDO7MVsaLRmV4NiRREYXV03f+EW6L2YbOY8ZUfgEg9WJgXHeeslO7DwsP814T0ZLvuTrG4GSwFUQ47MmIAa88Er3iHe8oNBcmQF/zxSqqrp5Pe3vHVgyhBVyykNr6nLPnqCutFDrg5AR+KjR1zNg+rd3vpQY1FLEJwipOiLfBNHGSMvGg2EZ2IuTlA7U7wte3hP3SkswIgKOqX7boFbpOxjQ5PLy0PqJHv/X/2RE918xJW5+8mMTl/7gWNBmmkMcoThLdmAHpBW0ccG0Sc7q59Scb2pvcZTT4/FT2pDLnmK5lRNUnzsxuRykgkMbLcrs0nqhdFZhKjIRE3xaiVMz5J9FGUKpvmkAH7bIPB01R8IP6SGvmOCGoSKir4OlzyJTVCqO7HKadv+o34JT6rMy6OJ0oZ0pYcAW5bdJ9EUaELtD8W8ny6Z3k9ncockGwOPjvqeen4RSgKWSbXxW5LXJ/7ydbWD/RwxN2IbkcbQ7Kjs+tWW1iHOCkrLtXGzBBq88eOBohiFJCIhnHJTwmg1py65/jlCXX/tXrq+aWFiI1rgSg9Wpxwh+9cIFKYTk0Ar/5VsNDgCx
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: OJ/VvKJbfR14tfcNGIEjsYvkJMT0SJrI0oe/DIzsfihvqe7IA6mXMq01XiJrD9CsVZoOdIxL43AldWw6A4BLu4SlPoG9LE0l1iBogv1LSJQ2/kLsZb3x7HsUB+tr6Wdmpskd5krM+5362k6UKycuGo0hRFB8WiCEz4IH9yhngQvqoHizgBRW42UJEjddk2q/YBNaUBJoVlnvKGgl9vQxgPOGaWVqglEBXQDndzFOYiCZozFFzB6ScRayMeBf8BLSzqZcJWQYijSf5erAR06JlAc5zNiwK0D2Hf7fjbG7rrtgZbYmTdu0WqXXaCoe+hQTFcJI1VrlRDA0GZ1rXeOqnTMjKsnC0gnwFPndPrlawaADXn7UskOZ73Fg8BIs7O5aM5WBP0nWoqpUQGYqPrdyMA1m9HR5+ZCiRZG6rMATbDBjdGpo4kNtLeO25GwBhDQEEf3DPOL5O7zpy8TdZl2FKWwkJrI83DGYFMCIsqxs2upIMBTLiI0BAUQEFnt4JXU6lTeOh8bknoaqSd0j0KAxtmOTFFB/dJM0hg9CnM3FbjFsNqYgxgwEw6kGAFJgtNpPLXwTdl+hz3F4Af+qI8hLKGCzWAu0IuvwMoGGbmoQ37Gz8fyuqFTuv76Gxw89fsjXQ6P//EeGzq1MZDBYBzjs8Ze/D4YGuMLZhFKyB5cOdpPpnviifSh9ZcbxSucNYz/QDA5gz7zLs9b5PJLzy0LiovvDKSCEHMCsJhmHM/VK7HB9eSyFB6khIKsRYxFgVjmqP13RZ5kGX8FqdNw4HvSOlVwaehy6lx+/9rUb9kIf0sGlFLhg0syl0X88GMl/hSFOi9eV4PO7z2rX0wAffRsBBn9RWzgjkYv3ujkJjvjtnbTcltVGDt4vZZf2dHTWKUCMPt6ZHL1YC2d53y8kzfizF95799k02Gkyrdh2PDT2Ia/Lx8C5c1+mQA6rO86V5BHlMrCOplL2FYoqRXjwzUdGQVXa0TJ0GYCcJgKElOU4g7yFuTVQsehVzli+js/lO4hV+IZdhZJQwsYmXk1wLhow/JAe/cgEE5dDEu5U4MaaKx66gFrNuNe39+XrIHwyKmpH2DibjXlUfr/7iLsgSWBXxhcMVy/3WEwX6Vl6Y19ZjUGXVxyBHnO+pcV0xouJa8Mhpc9purmupnZtqCxZdEOiA3KfnpJv9PdWtE1awiUsabH+O2hZV+UdK62umPhnNnPQDeH5q3xMBK/W8rxuOP2CUknQROPzpaBUK+jk/RrNPgwj09k1Vm6dFtlmHnf4aLld5DbSsjX4EMMxuZsA9WMzn4ORlyAtbSKsjJejY8rId2wLBKNvLPUdyhXQKIG8E9oDX6d4sOF5mOpBYxJt3rfkC6J8uG+5AU+uLBxFC1KCoormg8/YPryDFmRmMx98T4WW
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Usability+%2F+Extension+Functions+%2F+Exercise3
+status: Unchecked
+record: -1

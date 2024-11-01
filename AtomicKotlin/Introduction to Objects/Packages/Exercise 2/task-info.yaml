@@ -1,0 +1,63 @@
+type: edu
+files:
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: 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
+    learner_created: false
+  - name: src/bbb.kt
+    visible: true
+    placeholders:
+      - offset: 31
+        length: 7
+        placeholder_text: // TODO
+        initial_state:
+          length: 7
+          offset: 31
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: dPoPWwVkn4mmIj0cvawf2mJJshn/Npu6f1tExb2ml3q+3AtEsu1VBRHiXT+sm9C8MYLfFwWXFWeEwe2VTNiFDA==
+    encrypted_text: 2RbCRxOo8XhUqbi5W63uI4zMJ3B4oXsulawJaERK7E+h6zqqjnG6a1rwp3n2+ZXh
+    learner_created: false
+  - name: src/aaa.kt
+    visible: true
+    placeholders:
+      - offset: 32
+        length: 7
+        placeholder_text: // TODO
+        initial_state:
+          length: 7
+          offset: 32
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: XYD8fkj9JtKLZal1m9+aCtxfimBFPhmEDXF1W/uiHk2aFPmtpgBaBEeRPmssES4Qz745FliRAZCXb7MuaQeieMtcGe/o29nDNsGACE5YpA4=
+    encrypted_text: AORhu9/rISUVve6uVi/bE0gCA2Q6KofIf+RosclcJ2Z/0FPVJjSOemyhCEUkgoWY
+    learner_created: false
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 33
+        length: 7
+        placeholder_text: // TODO
+        initial_state:
+          length: 7
+          offset: 33
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: w5UoU862OSkBj+5AEwhLRQ==
+      - offset: 57
+        length: 7
+        placeholder_text: // TODO
+        initial_state:
+          length: 7
+          offset: 57
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: E/jIECiwYOL+a2CJYS0asA==
+    encrypted_text: 4GI4NLaY2EgfHdd6jMSvNbTNzH5czAEs+jm/nrYyt3TUKfp9outmrbbzGPRt5zYHIyRkEI9NcAZ7OV4o+i5frofm8MBTypuFgvrGFWT9gUA=
+    learner_created: false
+status: Unchecked
+record: -1

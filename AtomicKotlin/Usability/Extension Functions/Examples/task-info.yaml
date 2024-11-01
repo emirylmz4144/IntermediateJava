@@ -1,0 +1,21 @@
+type: theory
+files:
+  - name: src/Quoting.kt
+    visible: true
+    encrypted_text: oZOP1x7C6RJ/ZY2yDn9aUg0CK5SAzPM/UQuski4IrEdu2ujyHL7onkcC50TN/H8sA3xOAk3XlMdDVV2nCb0KO4uUkNOb8K2vZ40IAhPGW32qOReHLR4otx4FN/ey3+v7gB+/fgqqhZ3zlEzVgJX5Ka1p4tTTH+dvcymjr9rMiP9Z9EqEYaq+Yz4aZpbsEH5SRh/GE/uZlz349Pg6uNEshiNexiw0dDeLY6zQpiMFNxQTtUrVYxRpH5fO6RpEXtwjX08eO3+6FxfD33XBZUA60NasXWLHj6iSXrz3E5G/M93QpOLQ9FkYiqY5VGx7ociM
+    learner_created: false
+  - name: src/Quote.kt
+    visible: true
+    encrypted_text: oZOP1x7C6RJ/ZY2yDn9aUp3uYDiuSA8kGtJpxNG9/JhqBlNZmA40+Wve39hXHHGN3uO7vO/e5mfdrD0RCiv4PjuS4kBXj+n/FuMOAl6PH6E4g3vmf2Fgl562Tr+j4JQEpS3gjfGVcaq5PGQOd6V2kyT4uyjyOXDB/TppipqfVgN0wx74YPQ1SeR6190xMDLDx2kzKZejap0OSEhd4nC2pOWataDgUlco0ufsajjvkOgnay4MrHvN/phMzcFAFkOOqKqknCeyGH1pWXqmwrsWtjNWBK0+WWQNH1rbhh+prFzS+2i2f4DeBwG+WICQSZLY
+    learner_created: false
+  - name: src/StrangeQuote.kt
+    visible: true
+    encrypted_text: oZOP1x7C6RJ/ZY2yDn9aUmBJoJIm9yj8j9Fm7x3GOGsHeVAxVpwRebq+xAaOHAjsKrsKg12393QjIIOjQ8xsjbEDtb7qHYBE7HSIqnh6/oqzMY2FdleAABgThvZ5ngcTUQX+kag/qbM1+7LZ8isVOed58hFNgzh8dMbpLm/hS80rU0V/2wfmws66UW7GmmBEdt680uPseelYppmFwIhugmKzHUfSUzDEBaVvjzu+pl6TTGzdh7A1oVIhkrgU2wcAHvpe0kq33OSBMCgVhIaw9kXbnuJlERImf7yn++/XnGMwbHLApzTH4WYp8RzCpk4yGctnFICupXHbcZAYDmbG5fJWN5RTN4Jft8qI34V7WAnBQ2KMyxnEC8QExndppHIpqM2SLoSQZRFTCp7KS+wDGV/yHvlMshz1WycWl4tyqGY9olC0d+wOiqMzZ5U30zm60ULnc77ZPMzfXUmgFJk79ZeLlFpKTe7iuZC5IFZRUVM=
+    learner_created: false
+  - name: src/BookExtensions.kt
+    visible: true
+    encrypted_text: oZOP1x7C6RJ/ZY2yDn9aUvYiLF6L49AH6LG0NQqbsM8M0+aRjIXH+XKw0mg1w85fmZg8q1V4/XG5JGIdEWiyrKIp8XINJ8F9pNjjrJiRRi1P5hX/EZ0jlSMT1shW5M5PHbTuUHr7Fsohi+sFvzVakhwx9P68wMW4gx2mt4vnIUObt4L0piHw86T7WF8kU0F8UzRDK2p9pNPOeyX0Ix3MejPe8EJ6YqaigqAhOLeJAg+yLOg5qEfrStKe3cTgXLMJEn/wmcOHH3HqcmvewcIRBF3EiYu+BnYRnSNNbPR2toyD4IUwMWCnnUNfjhYS+XUs2rM9uWNVu2lDAX7ePRw14vHhbR0l/ZnsHAi9OnKMw6N1rp/i+GsTLrjmYDVmk+WOJppW+9m5MPlRUZE6H1c5CU1AVn9U56gjT+FCjj5inM4=
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,75 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 130
+        length: 1
+        placeholder_text: 0
+        initial_state:
+          length: 1
+          offset: 130
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: +upyuuYPnr1yp93SWCFvvA==
+      - offset: 158
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 158
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: eqBJL1C509+r1J2a7zkF/Q==
+      - offset: 181
+        length: 1
+        placeholder_text: 0
+        initial_state:
+          length: 1
+          offset: 181
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: sTnQ3LYhury3zKlq9Z+DlQpO5AVFTPERTbbGT7GSq/Q=
+      - offset: 210
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 210
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: yZv5QOtlKs0/wFxV1B1hvw==
+      - offset: 236
+        length: 1
+        placeholder_text: 0
+        initial_state:
+          length: 1
+          offset: 236
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: sTnQ3LYhury3zKlq9Z+DlSDsj4HbJXLB+Gh4FYqvS7w=
+      - offset: 268
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 268
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: yZv5QOtlKs0/wFxV1B1hvw==
+    encrypted_text: +RXl2ExswN+QyFjhk9TWrvn8+vfWV+ifd1q4oWGLyvsDr19h9rGyPKbu06nhwzs3iG8vm6xGHb2ShpXsgajRrRaWlE2ytVMQ3xrdV53jWdfDZKtvH0Wl5QaPoh1yRnxiWLONYJ4FYJKQ1Rlk7L94YCZ7YvmSi1e8qN5M3SdwPM7l4RrwU7gk0T7r3p5shSU+KQshyIj7u4VC0M6GdsdE42y9vKWXU8ALmlDLahl7KdekgmIPvDmrUSdUMX5bg8zKMN2kieT2DVNVLproWQ+oSrnaCtpnd/fedlcw6/1TQuJgusErWeKclRIzlLU2jGOlbFF2dJqoSWSNFdreQVoSaiwA5nKPDw9bw+j4KAU6citJOvZLAM+VMkh8GpHw3lf3
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: nFp9Wn8VhHQw0s5o+lqGjjaS2Ds3VtWmxb5jo6q+HnYg2tPLZSFaZjYkYiHzh0Ny5GtxWYqctr7FBzdhPvM96be4SNFoz7Qjuda2od27CnTbxQVLveAynAs6LtjiT4fynfTItiTp5KH6IsGzWG0Sf1YIAG9mOcFf3nJT+xgDM4KdZiccSHvZZWBGT4buSFyGjwjNx0J/yXPn+oSaj+xhFmfPLw7kcvjvdlTic5r+hW8U24CGj8V4hoEt67itUdKgZyrQ3VBJbhvwuNG0wewEen1iS32VmSSVcMK/6y6mBqE94VVQIMpE01YJcEcxGwtNqTRswoW11XaLTwn1nd++y/hQEk6/1DcKC4998szb+ycXjAAsbc6yMBBh0Fe0gHBgzg3SCnD7HQrlYdUp2Pp3Jpyp2GLq+GtJiY+8lB39V7mVcm/aOSU/D0X2gh1IZ/4OjXRedIvND9XE8bGoi7f+byYQVN8XAQHGMSXG4gBOkFQUd98M1jQixQhhRwVN52GJv7SU+A52MSOYKxKZd1E/CKYrYvLH/1lVrFtOhK4323/cE3W0lj5eTD6dC8I2YOud+CrQkJ1kH+gqArltt4dArExRyLvtpV+5VOkHnTgT4o3Te16zDcmqeytgMIANVdONXFoFXKRpbjXXrtNvZ5r5UVn9xYWevMmRJFY1aLM3lIWLPSJ/fart5Gxne3UcPqEj1ZVsMWEABFbEjzQ2Tt595PA6jPJI7qZ+WkIsGvli3gIfUbwXZpS2Sd0Huquu6Xt0ckyaw66pQ93YzVt5krNGqyiPkIYMRr4U1GrJksuz631zAux2BFwu4WHnyrMVP3fdrFjafrABbVbP73+063+smmGNfttSoKdHDy55v3+OK3QQwTd5LEcDZyWdjP8DeMhYMX90Mur3xaS7VGZYsjjvCzolT7ypyzWg2NmbQuWQGoyIwbeLl8jd5ATkSSw6x7UlnteiEZdP9VYNmEA1liIT/vuPMYnth4Tq/6dOizy3FdF1eAAW2KUbB4YO02KuuwnloVf5zmgqbp1+MwS0IXkNYecwSNCqdtBp60Q4iPBHUOjfeDWaNm0BMXOzni/vxZn2YpEHCwZiBxYNqmpI3oK2dHWZPxz6Sfm2UTxNrvfDvQcRANCrjjTwN1YSIXWX3wFeiDRYzu4+tQ3RTmU5yGyYmQaxEIHy0h6SkDrfRBjjH2HmJd7tQGEqBjYFe8KQaqkvhrx8rtm2BKOgAuCY+97YZfzC63Nkvidg1my20x6saKaSWNICZ5Q217Zk/sra3e2sHooD8l/YRCg7Y2jYvC/PhDC/h0pFWIr060GEAKRgN6A4yWK72Z96YGcdo1nAiGmeh1o0aAx81Cmc9757IN0aY3evcgduFv4mGnpMjfKyLz52/Dm79vYGG1JOXNhS0GzHc3Bd3uNWzZSHY94mcAIozi+URioZ2A3rmx/NzuZGbfaQ4WeoBZJXjW9Ji5Y6J/1myUFj1oH0dNsI71feV4lU9w==
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Programming+Basics+%2F+Number+Types+%2F+Exercise2
+status: Unchecked
+record: -1

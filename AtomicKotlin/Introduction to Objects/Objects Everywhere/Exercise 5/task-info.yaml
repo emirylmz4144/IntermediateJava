@@ -1,0 +1,14 @@
+type: ide
+files:
+  - name: src/Task.kt
+    visible: true
+    encrypted_text: Glgmg5lJn8rh17aXmVvO9Gb5J7AM/vN3BwW+M7bbwEUC3MYZFJ5UKSJ5eoEis7lLvGKhaN6HtJWQPi7EO8Nv+YyRplQyDBzyfWyY2ce6ZXurN9DJjMP2xgELyc8UrHPF/WOCK9zON5RUpOyWC58FhVBF+iJ7YTY5SBImOIeD7lk=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: moFr+NT4RKMDOJ9x11/Yr2xmS2A1c6g/ondcrzagsB1LVJntG3E590jkfN9AuWQD
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Introduction+to+Objects+%2F+Objects+Everywhere+%2F+Exercise5
+status: Unchecked
+record: -1

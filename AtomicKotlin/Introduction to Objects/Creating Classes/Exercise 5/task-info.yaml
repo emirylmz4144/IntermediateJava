@@ -1,0 +1,25 @@
+type: ide
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 84
+        length: 2
+        placeholder_text: '  '
+        initial_state:
+          length: 2
+          offset: 84
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: G7mlWxG5lcWB7/Np8dcjOg==
+    encrypted_text: z5xIgCX+y50jfyHzf6F9a+LuauO4nwxW5MfTw0yUOxa6A4ySlaFCu0mla1ZYvbv1M8jjsk62KmrwISIR/GSit6kbcWaEq2w6XfJ1DLnGkM4LkJ8Hm8z68EU1ULWwcS2HMd72UOIubNh1IZbMZ93u1Gc3xId8yjAVXkkrqpisZZkbjLQ0GSehwqVWVeOIc7AvK/eJcazPuSA57qcwnu8uHFsSTjLnOppNDO0j05WgTx0=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: J13CkvaygBh+xUtxBGsfTd1TojyrZJCKtRrx0AzQ4RxyhRO5ZCcQcLBlnvBDA8FEgS5gW1mlLJL2R3PBAb4uOblajdu8ihZBIpJit3vc0F0oPF603yYGZzTpjlYHS8Rv90NZmteyoeF9wNrJwLFoCbz7gWF7yrd5J+e7K/psIEs4ZFzT0/gf0ykXQo2U1YDr4Ee1AUPCaTWbMdIvgsEuqzhVLQixr7Ht1ehdsbl9TutdZdqBuo+NkAywCv6OieNG8GXb+8PGJeDHaaw8YJudPXcFpk4PWBfSo/1c0QmQwn7GD8XIOTWGkkOrTIQX3+LuWWZDmr+WzzGGJ5i9n9UdrrL0bv7r6NsgzJZpA0W+PukX1GSz4YpzlkpCgU0cLU6JqSyZYFbA45vwdmRWqdF8zDatjOxEH72zsav7Pdi/tSWLCcSHPQblvg0JIMro+PUxDnBu5SIpXGqWc4gVRYajerFH1BAcQ827dt8atVdvfXlOlZcvjPVwpJPmlPyHVz3z44BiTCkpKMLIzocFm7OP+Xw+kqzlAltKeWFFR5Z8Vsn0L+wlEFwHuNEw1NeeJAMf7+7pr20LRbK0CgpIeA1tCIytXJwMLdVWpV2vlueC7ELFFj0tQmJYbxBCZcDvlc9CRn/MuaJp78sRPdLSMOes9BvXRMhnQU8ZLzba5QZFM2n5Ju2maVd2yP1FxAklKR95yEVxwY0MnGWJsTHO6hsuAKFdbgT4IB/KQbnGUFts+stFqJ+mC9yenG26+ceSTToM0tjhR/MV5clNBqwgDgFEnjbe8IeCi5yjfmI2hJtKLwLqugFYbHoWIpwxCPQHQA+Lb0/rKfw2vddOfoLRSJAFmp4cvwYTF4hUHnJb0oQbw/7dNCxGoZSr789OHj31fLlcGbuQMFcwgDxHq/YeVGKq63o1JypChlhT9uPxMXgSMek=
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Introduction+to+Objects+%2F+Creating+Classes+%2F+Exercise3
+status: Unchecked
+record: -1

@@ -1,0 +1,60 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 1272
+        length: 30
+        placeholder_text: println("Database Problem $e")
+        initial_state:
+          length: 30
+          offset: 1272
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: BPrP/APd52Muua1Znakw8jwux3+mGGw9Q1ecm3597/M=
+      - offset: 1448
+        length: 179
+        placeholder_text: |-
+          catch (e: NetworkFail) {
+                println("Network Problem $e")
+                return Failed
+              } catch (e: DBWriteFail) {
+                println("Database Write Failed $e")
+                return Failed
+              }
+        initial_state:
+          length: 179
+          offset: 1448
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: GXEiIywzviP21ZdOQpXIhBpcmz3lJ1JrZsWC/tgQSlxrZFlyQwJzRf1NGZ5cwZAZ20p/D/qcRrJgYrUULioxTiDQ/cSR+XcCEWYHV7kE+Q8=
+      - offset: 1724
+        length: 34
+        placeholder_text: println("Network Close Failed $e")
+        initial_state:
+          length: 34
+          offset: 1724
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: BPrP/APd52Muua1Znakw8jwux3+mGGw9Q1ecm3597/M=
+      - offset: 1993
+        length: 30
+        placeholder_text: println("Database Problem $e")
+        initial_state:
+          length: 30
+          offset: 1993
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: BPrP/APd52Muua1Znakw8jwux3+mGGw9Q1ecm3597/M=
+    encrypted_text: 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
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: gVaDXnFSu5vg+Aye9eBOaFcPzQSCmyv/xfVXUZHaOUCAaczMIQnK/0DlWWjOnfBEFMFdnkFcrt38gtsjbkxLE0zREK0E36dw8Hy9kjRrK6jlRv7Ccu6epU+/wQh+J0q22st7LhoqQaUkk7v39Pasitp0dBeWVX1cfMaKzuZg1pFdVe1A5kblIe+sZUzmlEBPya08WRa766vDyBm6pC3VG6jYmi0eoOMbWjV5k5pNrfs=
+    learner_created: false
+status: Unchecked
+record: -1

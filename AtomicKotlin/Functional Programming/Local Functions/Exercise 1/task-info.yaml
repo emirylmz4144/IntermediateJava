@@ -1,0 +1,23 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 98
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 98
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: J/q13/UQTcQIR1bIn7TrQRQUzf1f2k+60ZIhbPgrtuuVUHKIS6jqkcXKygEKIzlsyJ2+LXcWiIzgiQVeaKP+jg==
+    encrypted_text: zFH0Hz27BpcGGjqHUdbEtsXNPAulz7oeEQc6Nw1BGJ6ZiCeVlDb6hzEyj3cb7jX3P+pt8hk/0tGyH8PQ18QV7mxP6j1DxV4n6+oJRm/CTU9BkGLAGnFKZmP8cV5WuwUedV29wNggLUO9aJyCxNtY5x3xyeYrEtsTnHNAXX2i9Lxg6MdJDn+217vXfJyz3Daa
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: hqev/sc5EcYm1pLaPbvQ0LEsRnvoIuyH9fZGCBdJacKPE/HKG8FcQTA1+Xv7s3DYCxAklg3S2NS/tmHSK4p90Vcy/alIXGRO4iPZv/Bsb6sN24ZQbrm8IQZxF7RlN/arWidsEQ/pyNWUtegZezuQ6xuMRl2ed+xLym3tPVC+BJwBYnFTJQjbe5LY9TjTUz95oKgRP7ki8swLLjgoi3X5OxgATb1XKqGaaCBDdmPzZDiDimmhzGDI+lb7N81YNMoMB1qQWnBZHQMEMQJiKfNT35e6nklxcpn9Mvs3r/wLgrT6OkQQOi6V4LN2IlM9YK0wRdyKGRtu49F5ReLbxZTd0+itIA3j4yRj6/m3NqDwuWPumP4JMIlzodqqRijpT7EL8y9bsQCHuBGF32edhaHqUkOS9PKfjnJTCdkdTzY2KhL4hpAIim2/ZzG1oc7LramqZBFKOPfKYzPQxop9qvvYQpzAlxqXfboS3Ad/0Rm5KQUwrh58uRpNG6iIJRu8nppXpC2SBirmUsOvDkOS9Y9glbeb0DmngOLSM2hKUfXTTZY=
+    learner_created: false
+status: Unchecked
+record: -1

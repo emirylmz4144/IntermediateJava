@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 78
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 78
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: IKfwB2v1tyQaApSiWTpKYpOrKFUBa0aoy4anmPRPDKnNnyA6aV+UdKMBH40klPND0X9Y1XYgZrnU+Sw81SMSOlAreH5s8zY1G87iaGPOrh04aEvgBIzDvdwJc7hJyQ22qQfWZZ3d1qEKfjrzQUhTuM7PpJoqSq9/O5hM+FSjIcY=
+    encrypted_text: JOlrc05WUCsrcvu8aiKeKcGgSILePgmdKXfy/t7jLe2Kou80ho4NMapNRKOtSIz0N9hcK3uSrwwHlw89mNgfJBbOeFqI4vfQ8mU2Egt3i5rvrL18AMj80/mb8+Ychm6YSNXWOsa27w8EPvMfDIs4echOGFDNd9YYWddbk5QMSLvDDFXwX5ftULSZbEiIZFdCZky6h9QDiK0sZeKZeHWbu4GzMrrHR3S9PUBoD32PxUg=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: Oc+lcwIagKT/lVPinXLRoHZ3gDNusPM08eYQfdtlxvyTNO0ou/1Q2d9NWqgfiT/4liD4hHCoQC2e0ckUVgythX8bNyw9d6tqhpEyDfJ462IOD9SPUw7FpPBbZMrehzFEA6h2bGC0rOgJw4l2pdwxOT2REBkJVWU6Y5KJWWnKH/DVfFIBgNLfhkFpk8FxCC2Zchn3I8fls3v4VaEXYyzBCoLFJtTX1YlDz09EiieVOkJ/1bB3oqmZxWY7ya+Kta+sfqDrCx7qNocjXvtA8mhtxZMY+d81dd1aYOPNvcHM92K20zhufcQYPCZt5psUky1R2kGlapVEWAoZVKX+GMp3rGGcFZ2cVji6I55RMcL6NpWDQUmYGBP0zTZUAX4Dv7WN2eBuqqp5DqLAesqSzYQlJwL4MBxu90SQPGk3gEYBmnGwyetJRhcazpBT4tWHynhBtcIlWtAbuq74Vd7VcT9tzDKB1fv+4kboUW+Jz9IzNDZIrB/sQZMmZa7VQlzzs8o7qYNFwg3tMRvlKWdNOLPdZFguuVQEZxbafiAFEkEFPkOBmtMjB8xwnjSTn3Knt1RtJtn04z+dJARpVX8h30AKD/eIuKRH92ZI39S+Zp+UJ0r2/IUvqt/fg96XYKYcEpoctEiHPhBaoX0GMYEoC+IEAv2darHoL0M9UVVMebhDcG5rzPNAjJnsVGaev88kP9hTbmWhBvOkiAWTE9+P13GT3hEZp++KMsGO3AAnRrMhaXJ3f93xoW0hjwqeHm7O7gvKxhggexKQmtUcZtlqvZvXXh6E6Wu/fPJ4jepB9OdWGckofIU3HeNhuMXyA/SYa5fpXM9/H5g/faYhslMXKRe1vhP8Do0aCDD/+Apftr6uKOBC9rhIKJ4z6Tsc9d6FAx+t9rypkSkbd55l0u4/z7payffL1KZ9cQCvAvLlMNMpLDY/e8hy3AtWMxqUtymfzs7j10swyympX2SP9rNVEhwXMo6wBkHk7xynofv87Xz5RUMO1uliYWh27CJZB/XuDbFd74Dp5aldJds2EoSc098h8KKyw3mlz7a6UB7fgAlQ19TwbJ8O5okDMS/RNW79lJBVcVueB0GzGKYsW8AcifAa8GMn25CZBXnedOSsEkdaLQ57ZrPWCJGF+ul8U3FpkkiI/EYubFRG5YZO5oP3Gl87EPEh2l2hNY9ID53qziS9qsZomI6xzFqLAzI8jfw/UZDHLxXA7bzmeTGAgEoyCAZcx4SOAzRAWV8IeQbkHysSvRziEy8DDj75fPydu6WkBuHfU+ychrsj5bFMwkX9TJl1qSfTkNYQJvQX27zNEbZD4HbCJJg94TSjKFJ1zZ3WUrmHBcZSbPA2m7uzOftJU5uagWZxxjL9GrvrDyKi8Wb6l8ZbBZDY+xVONrw0s+LBIKECrixnvw7MDLDh34PhEqQN3eRaX1Ea70kYystgTEcTU5rWHBq3fbAbhVb6mSPy3jVCdWnRiZDW0rNkTirPywvHCHGgAAxPVFlQUOsDDysPyeuUknbDIQRr7QaDtOSRSo6W5BGEflAuWFlvwwKY3g+Im//GViMvKmxVWGfZNEJkS8mwebcX0SgDKJBdcwvUrlfQ7Z2EATM8k7IT0ejg10TExLw7uqjHPFrGqEfJbpN/GIyV5ruzj3PO4HofnQScwWcrgg3DkL3O28UxUZw5k8Wxcb8mkVL+JvqGKiXvQXVWWVX9dzmGAQh3zGauPCzCFVZUf+Zu9N42PNhZ6D4sjRyHBhs6ytAUu5fiw0DXSP/D1AeJNxn2OEKSvQ2TeFdIQ/np+KUa8FZYnHkpMDIDe6aXMg==
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Programming+Basics+%2F+Summary+1+%2F+Exercise3
+status: Unchecked
+record: -1

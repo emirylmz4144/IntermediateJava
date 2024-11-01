@@ -1,0 +1,25 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 142
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 142
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: Bssaoee98HpaQmX4POr4qg==
+    encrypted_text: q9z5s+nKpxNy6eHHPx0Ge6v0X58sfQcI5P/47Llp/sar4CnYmRF5VVEde6T2uRD67l5MJMs46ryVeW8efC+MSurTN0uoUoO4ITHh/omJIzKe71XE6TvppIHvCPLJtcuatK5HWLgLLZ6J9Z/9zuG3zJAT1pwh5qk8kLmi1EvL/625jxnjVgt6Egutpl0h4kEYRhHUxU0mwxF7Z238vfmtYtXak9I4DIKVPutqtnHwyg+PGZd/x8+DaodGjS1uRnInqlV8YCcbdCkuu9DjhaKgsXoFw5+0UU0R7ML8hUHaXcdSLx/Q7uxE3WbYVMHpYArQ5Y48b+raDjStpDWZ+QHmWJqvQm2dj1GQIOJoZweQu/Lm6kpcbRTpw9UA2Ifv4t+V
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: lQdR1b/lq6VntOfRTjM5Q4J07FGGyqBkYI3zZs2BJqoiOGBWaB2N6SrrAOu2S3eqHnWjIZMTTEQr63+suNXlgtBaeTUqN6wt5aut/Z5rbcsNlbpWkt5kxAL8mj17PIgksutip+GldKok6iiWvr5PvTxOXqJ0OfkZTDP//nDV3GyKCtONOQMB68FiMchmgvG/xDnpfoYvtb0L6OLNMab09v6yOWKHkHBBgbt2ZrMjLbFvjL+0n1++BOK4xB8DmG48o+m+G0GwWBCNojjP6NyfKHKI8sLMatlpQqH+D0DGyeQXJPmiQz+pjSK5pe0GPREkEt+wNwB3tVtagRzkcql1KWBsoY/v5PgF5K0cNovqbLLhLoEONVRVxtdyaLI9JPjbXNONNr0G5KavFJe5xKtapcS3CRZXaR51VhmDO0E1GO5Yj9hoMaG42FvHAdKPWDOiGk4rJ1e9QWMLYMyJ8o0HiJOhXjObgSmQE8CtL9gmo5+Vv4HZ6UmblBTTKxZzZ7ECDsI8CMus4U3v3QAvCoWSKk6v5s2qsVsvhLAWl+VhCeEgjZwBka54nEsgZBzln2BIyud/UYoEDNhGiYgMjK9qlaH8WIMbybgdcPOMxp5BMpNQ2pJqniNqSM5orDFxD6Oy+C+7+PotsbVTciDqKwEBmNmqexDSOq4414H95ZL/lnjVrLqWdx3dJEmTf2yD5EHXmVFyWqd0VzBGV3M+7ZDlwYYHwpGqBWx8c/EEPKOjHzoWXufoe0UUvuwbZ2WwnhvzJrtJ+N8SjSP9xnNWe6r0FdB49xYYmQM6hPlLhNrI3zYS48RD9O+tJXHM/7XkephytVw0DkDbphAxzuVz9eITwtQg7+fdopr53DXqokouFw1mi79FjKzhHUZoc2gmeWxOdZ6m7YswK5O24Q+lxqZnxgesJi5dEly9tN5kEOqlGpE=
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Functional+Programming+%2F+Manipulating+Lists+%2F+Exercise6
+status: Unchecked
+record: -1

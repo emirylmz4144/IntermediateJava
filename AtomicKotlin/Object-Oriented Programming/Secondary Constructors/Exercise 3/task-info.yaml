@@ -1,0 +1,42 @@
+type: edu
+files:
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: 14VG3Jmd8tz8dWLTNpEiQE4TBvTXwtl6RgfE8ruAA63DsXXdgICkusD/W2CO2e7Y/Z07wkmnSRZMM2pG5VWMzB4sFKV+oKxl0yn43EQwQl65oI2TQSbXkKYgFOYtKJz+uJaZVQD5s+XkLDhqRFSkILEMUjwBL5B1nzn8e6idAjZsxRrE3uYkvNjGvS8r1NbaJAVbZWxlOUyFHVEzGQ54PmiYCSsmo9/sOYakQSJ72P9LwJoQxvf6CVhnIf9gIgRCM9f67DT2Wov5omVS5QiIlZEyZzbx5jDQMxiQ2jxsj+EKiw+ZPzuphmkGUAiStgaj3uIzYYRFuDa64L6EQ8FKKIC4dL/6tbaXJRBiIZv4B3M1oshJ6BJNtAWyEJyZoiWSo7T96JQD6xaZmZ1gfSGnoFVZrgvlG/LpSOqbyP5YJ3Lv75+5VYEG9zaxKMwvbnhN+yLSJd20VFEfmu70u11ElOZETqiTV1jJmI+VjZGYB+8jydKZES6lP4Eybkt+KPYMOKuLXHfxuySSNZLlrbse/j0W93wndeuOCYpNuY355K919Yvkxi9D1Nvhyx5CqvZ5P/TREU/jfLofg+WN+oHguAXbpN/EiqIMvKUD2F1ruayWRbFK16mC/fXf1L4feofSOHt8Y0M1NxeZqMpMsXSz9So4hZyh4aXvqXD1jTDSGj5sxuOCUwNm1vYhcWrBeA8TJUUMC+XFAEw/B8yCWF0E3LrntnRozWBbKmjVoszgamI=
+    learner_created: false
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 195
+        length: 312
+        placeholder_text: |-
+          class GardenItem(
+              val name: String
+          ) {
+            var material: Material = Plastic
+          
+            constructor(
+                name: String, material: Material
+            ) : this(name) {
+              this.material = material
+            }
+          
+            constructor(
+                material: Material
+            ) : this("Strange Thing", material)
+          
+            override fun toString() = "$material $name"
+          }
+        initial_state:
+          length: 312
+          offset: 195
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: GHsEVxzo/755YOht/exuIcs4GxYIcYqUdHZhXS3g2LMXtu74J8U3DGZ+fG3lWY1whWWnHi6wgAVRjjJmAdboODm+rlEqGuhCk34rAJspCGXy2v2MnUFAIQdRs/iun8AXFHeZ8/e55suURLXGE0RYodWD+HHu4kXNu7bYKy0pzV0WwHlEERY8/mIR4mETNrvB
+    encrypted_text: PPXUAeuBpZV8VnxVn4SHphrNqJ0J0NlKM3fNOA8G6VSezAK5qeLfMICmvDeoxCZv/hTEVwQAR2j/bHY54JesPLrX0+CPaSc2LWc78uTGd/moL/YdjcknratSXGQfgxoSGIGFUhXtwJNImuk8xOKOC0TlDBJ1Pt/AFb/AJxQyKryv2fDUKmOxeAXD44RXyREe86KmcL1pkoI5gLolfwbLQs9Q3LVTaid1B2+wZF2hcF7oq3JifC0qTKoNGFNrqHeeH6fkgTyqwfnQI+K2EWEYaLULzop/IFk0tQWz8efMLtzpGir9vAyixUv2siGFS6deaDzmE203tkMpe3aZZxHJeFBckcogqaJxL/w8jQP7y5FkNRlslfwpS5mgrSf6LRzBb8j8vSQwaLkCL0o7uskQy0u3ynnbQ11Y6GU+lnQi7XZiD2OUvx2Yh8YbzEKfqmpGhJMUcuP+VSAEsNfZSckEYDyQ48jTji2STmqD7GLgU9khUV6XWV7ICu9kpwcIvP6PhjkB0p3HgaWTGjE4zmLlf0DPzZO0BgyZzSZGuUY6E1M9VAY7B5B4mImc9UFhgrvHMZQGKUgGpNQLKbZgGBTNqkp/rpK+hGmF9aX0vW01JDnh65jcnK3V8KqelpbwgtnYJ8hHAx1NyVfKeoYYOn6lgN/kj2eqBytzk7TJ5su3H6QJ2qeXiSSibfNfL0cIcX3CBLg8jFTA/rI4FgHMu4dnKdo6vGjSvE1eLqOvhwvwWjll3AhP/hKMdJTQ9q/vzXJgiTF6iWc/q/hDDWjFrEL2vqPiTT68QVct1NOcE6OzQDlw9ePQMYY07J9aUkOH0dZzl2APVJtga00dEV1dDCK89tQ7TALtIZbBOgEEf9I8DZMJLDgF15gQxnwgCtdTB5OxL3UW5zuwnXF/reNlGEz8yRcI46m6Ssrjj0J2OK8Fsp/Tyyswn5mR+sf8WFvno+ib5S9UalpvO4nFnhhTxaOpoQ==
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Object-Oriented+Programming+%2F+Secondary+Constructors+%2F+Exercise1
+status: Unchecked
+record: -1

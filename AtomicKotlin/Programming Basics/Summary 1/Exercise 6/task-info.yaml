@@ -1,0 +1,23 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 86
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 86
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: dDjSp8bSkaEefFZVWe8kSDv0cFTaZImWGLcZw8TU13BAC2ExVfq5zwbnljtVTLOh1abQjxbi7LYgEH+w0QXCEF547M50yvAVYId81S4Az7H+NzbMB45W6BGeCrgRmj2IBm9q7lp6Kc3+ywBN0Jydtg==
+    encrypted_text: JOlrc05WUCsrcvu8aiKeKddWLICsaVGscfFp+S3xPwP1YwOAUSpXKmld/G8Iy0BikZJwLo8Ii2m14XuTTFNotOSF/Nd/H//crNbpimSGp+5ybd5bpv+wkr4v2aXwwkD1X6/PoUIE7TF+wk/xFqSqczvFszgr2E7PQR7srZuQwrS7oVo4f4Sh/zRFfg6XOmFBwVnZnOHRG9D6HjgEqcfOlK4G4sn+hR+QUrwnSI00usI=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: Oc+lcwIagKT/lVPinXLRoP7mwt8SmPmO+EGa8W3W26Zj5LFHECEiw6Zaft8PpCoDmKUZumayJnnby8qZhZRewODaz2v+lsPDS4lUmqI0c/etsXr5bR0f5eSLbS3YFm1DrZYjpTUvC30+1Hn62OcIIpaqj6vQY1WONiO/6DlKHvg0xH5Ll8aXm4iLTo2+JfVpHgj5YHGb73HACGE/zq0D8ptvIy/X11jjE2O+vFQzf7+IL58CoOPVMjGNDSJ0CULoT+DM6znChzDh8wFK0KDtgVSx3h1Dqg7TkHF5KUGQSCBOr7Zn+LmvwuqLCg/qbA7Zoosw24Z+aaQzNviBXl7Gtt49An7Kc7YJFsk67tlkZ7RdZQmqu7iZHHRWzukP/D8Go/PzUDXJbSYjpxfkZP4t1/zTypuaMpTqGL8+rn9+pWgcV47SKThLYGVg2FP6jyl8YkN1j96SijMKREAEcftN1JbxjWWy/Zs+aOiLeC0gCZv0LJyMRkuZqSapXJSxkmUSdy++oPLyA2ERLFph+PDvCtZ27TdVi9Mvtw9njDXYjQsxFWMIGHnUm82vhHhKtgClUSvkL730Y7DyQz+WkQR5yqnCL1f9/1TgQJtAqrQDIbIKTW+V/Rzsu8cQuFxWvCjc26x9PhcLim76yOLL+jOhIm+pE9v8DHztCfu5N/333+Q53P8UoDdjb+DNJQssd+l/bDO1MY9JfszWVXCLvGEyHCiOxhe1XCsBd74sLHIS+NHUGhVF8ohVju0XLDSxVOxOOX9LSb9g0GpVKkjZKlHfg50YPR2EgWSX5IdC+Pd/JbOrmMahEfv9tlGuxMJ2X6dyRdv9QEkXVgKNnFdtWXifMS5cdaM4u9K30/UUAs3sNqmx/ss7PUnvsIsMhuV9/N+662W6bffDjQnZYG/oE3AVWLwIgPDJZx+MUw4MuVSmto9A65ROI9KcIdEvbylF4VTBuwWIwyjjDSKRd0rihJa88mUn+AvbptUMuI6BzRiFiPOVXBpi87WkfKI8s2H8pyffCAF2vm5DYY6agUKi7kvP5Tf+TsI1yODnkmMtVUSJNFYGw2u+PI1JK+yjEK+plIbjXhNzWeGQxiwiIbTLclcUwmvFxxPNNREbZgR84BHjYTq+BWdeyOuAYd/e7JipIfTItJ4vcQsMF6oo2e7GuJl99w==
+    learner_created: false
+status: Unchecked
+record: -1

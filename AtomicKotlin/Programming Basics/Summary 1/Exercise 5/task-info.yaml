@@ -1,0 +1,23 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 89
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 89
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: eq6GGM27NYdj+u0t30gVYCFURSPxdblc8bSx4d7L0EH387s3VDrKPGz6UQsYE1in7OG/MlFJc5F6qPscU+xVd5GCO0KaFFVVmP2GcdOs3uo934FQ+Q53NTyEY1yrmSP5
+    encrypted_text: JOlrc05WUCsrcvu8aiKeKdtuy00PIM8wKHSGCcgWCs1CVmreCNafOts1k93Izdp7R2KKBZ3YfN6P3Olh/9Uy8OvbPLHABcCXbKSkO0CIYqOgJiatmuw6fp4JUSqHcrjwZnlcWKTYzjO7MQlNUNv2HY+irDpVMkY330Oi3sXu51v757mRz0yIDrDm7eKiBFybkD9HHeNdsp/7bcfxwgXgiINReZwp7eETZifqG4esUnQ=
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: Oc+lcwIagKT/lVPinXLRoJS8QrHjwvS9h4HF3wGkyVr1JOi/qOznkUbgJWXPucTFiskNXnb+x1A3oRMGpC2VvqwUF4RGhkLVaRkhSVFcfM3MLHcXB3OnoJTffqxGlkEHFsaywcqB9ywb13W8ndj/FoBnlc7Err81rhW5mpykpP+F5n7e1RLYU9UsdvZVY0UqIr4MkApy1gbmpdD6n6Xycby2rYE0RaO9+oeoI8mApQmeeiR+0MtyQa0FXOG41try5pc8/cOT67kXGHdpp2rQ9zL50lK2PldrsvRXt9siEKDko3O53GmyqQuaeKS7VjZ+Nh58wT/iSLljJvmGlpnVjhgDIlE9ZJ1MywcenHcto5owkKL84z3L97Ikouyyi7P7+A96TnoknKaSDFcphAutAfNl8dtrhszRmhaQEdA63EqUakrbqaLjzxpy/7U9IBGPPUX2uKGd4cAeh8iCl6NOpx3c+OVSXjytH8zB+Alqw7g84TonP1bD9TE8nv5bUxiZeuP2ETIVPRG6HE1Ds0Xw30JfWypff0llh4jCvPrqkkczYjBslRQw8MxeOYXM2/NbHiOWHrMvnQcSJMXd6wbPmr87JRCoG6ctV87Lr1KxhLHsFBzXodXX3Y/VhFuA1DsYcm8HeCKKrxeYA2uD3wLcuCNsD0Jb2ipj1W7XMQdCa/QIMaL8mv9UJ/spDIClV+m8GXybf5hQVskBc3k+WUOODiwHSOJAVYSpRMmCQLVAt6/TM1+u6UVjpejK38DE1yLSI2Hs3NvGwI0KLiMbrdphTqxaKJhK1zh9T9/V1QW3cINrhFGzKre5NY8pNAYeCAXXrryJPX+UJINuge++KuI89Rmu/qnNxoG+zYtzPbD72xZMOp5GLxVLiJLjlu2vB7Uvv2eo5mpustgmOTAz8VXyjhWl/6aHFnv6RbEoQTdzcIVTf30iIv7FIEsU5u7m17np5YCRyQ1Q6CZq+kucjvcv8nGTRvGYavamq2eGi6PM//dpPNxZBpLGTBiTEWlw+Kr4Ymkjtg0hrcUnnyqYGmPGqZgfuFT54uNwLtEBu2tNsvZUQzvktyaZQIiE2knT85vzDG7XwAk72dkPEtXrWMqQAit69GC/grn1+thXpU4vjFngcg/DdNDG4QBC+arPUBL029W3VNeevGvvEbEKdxEabELh4S7I/mJngcxb6er78Aty9RDuz6miQ9KdEwggdSokBwwRxIG2Z9+vGSCBAmHZvDL9MOUIQso3EO8YlxywInVktNyezcwdib32nYVHQNrMT3Br7IxSZJz+QKZN0V+WGO06oIDsEbEq9Vntb0tqo6Q=
+    learner_created: false
+status: Unchecked
+record: -1

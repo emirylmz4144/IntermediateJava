@@ -1,0 +1,35 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 95
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 95
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 1lUvstwUv5okesmNRtAv6YVepGj0NlK6MJUQ8vjr0xE=
+      - offset: 149
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 149
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: OcU2lKYad6PJzPV26TuN1cLTUbQJSmYPiFbh5Zmt1aU=
+    encrypted_text: 4iLvDJtXaOqWnQqKRTcU6ekRFnQwvRivUzEOCZdj2z/KlvsX9L9Lqs+ed4VUGi+Z6ryf1AUUgSPqMNQO4MKJ5sOQWTMrhvCYfvAFSWANXazaunv7ZM61E7bP9MImy+E6rBl3/HXhwYc45N5DO0IyPzhAzy9G/h4E8hQML6P6hcaSZBXfuTtD4gLNfQnhYz9lJg92jLQU51OWGUhXRvEHWCHgdqRCkUVgQTzjO2iNTWKmOSNdaNRj8I0lEvThweHqib1OrfRbdEJIhS//oJ92yqWK3o66aLTSMrh0yMy04zPm1x5zXNYrx1Fn+wpJGShF/OoTvHz3iYiBnJMtzFicRw==
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: +nSi+ZiiHMoIykGA162DMtXMfZz0HfmEtLU4JdkCf5uv54JS4kzG4h02gV+IXRG+QZj0uWTF9v+ImB6TxQ3C9IP2MZTZNYzbyQlVu4HRnXZ0zunvV6t4VIcu306aORUkLPhSat2bW7a9k2NYaA/LZFjwrBi4yTxvIvb7xpQWpVQ5yGvkBAUk2yPn6bgFx3HZ1YAJAjebIbGPAPHDyBFAdI+y4b2JHoZBO0OVPB2gQcBJqnQ03iLumSULTGNLF1XnWlL/uJvxsnlf947gGEyyxGwgaVZrVJFp9ckf3L+URwb/W3TlJJVxoIk3gBYGswHLHUv2wZXHRUJ/rhT2kY+zHuwLifh0FcPOzS2w2E3ZsNKxrRY569siN19oOOWf0p+nDoen6xblMzCtbcwswFd4V8qUubVcLrv3MSBvWMWlDmL9u4Kr2T0GhAtI4SmofXD8xz2c0HJ4ur+qY+GwRfo0GwvMkohmdYG1tcLVXeXuPEuzgBCR0bYBRNOZAOGZDMBlAaBd3H5aWZy2Pb2h06NjYPsadJtK/ct6xYY+jcK3wBhu/fWc0VQ1CKZK9dKyoGlY96ME/ssqKCIEPUkMK1j2YC210aRvzSV53Efsc14CZY0aWGzqPoz2Y7/Ziondgm9MjgXj/wZrEIpmVqL/0i94Ueb4iVCHzgh3o0PPV51HZkQvkrD3VUqSYauGRhrcvP7R7EwXSa7FVLbx+gaG1mLwtQJ2DwtbPKmr2rJytGa8mPipRF17kV+YSGS4kBiikyqLFkGgWIVKSgN4lBqnLJA0Qfda8kO2Wv8Yk9L/TjkUJ32+bj1CQXR6nrzSef5ngE/QlmS6TUlxXymFSDQbH/mn8R/QuJHC2QYJxlXydHBNT2cTomq3FnplHA+o5fRebOUDbzBd07zILu/xuXbmDUBMCGnekkcaS0HARW6N49SHSt9SJKdtheg/4Lwotp5NGXhZuZTxQE1u2+EeO2ZPjz/UIpjmINA5fK7C/ggqGQnRZ/535QHRcBUoan2Bv7yU1NHhSGayadK2BDgJ2iD0kDJ6Exwnk9/6YHIxMIVEhz4rZ3IxTB8tk8pofl+dXExMGLNLlKMq+eUAN16zB/0F2VBde9HyLL9lm8Q2xbrQlCp7Nog7pK8+xRJj3Kb9W5DT1E2sr1BRoWHAvm3SNvdrjj2oNAnLIu+1tVeN2HvhNr0MJkgZlE4JS3koVGG5/CvSneTMnl22qo4vEMO81T7I5Ir0EEvOvCC6iJlMvcKLabDvDsbsZwjD84yZFIyRw1KO01xB0X1oUCqHV/jc5xRkSoKmeswTf+EuTmK1ivsRvBNBGlzSl5+mjIcTfqlgMZJ0uS3cCvY084qJXNxi1CXVWLa6i5nLv7RB8O1ZquHNuIqZKuEsYCu7oUDvyML0UYLfxnSG1muOkHLRP3nA7VSI4lK5Vg==
+    learner_created: false
+feedback_link: |
+  https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Programming+Basics+%2F+Booleans+%2F+Exercise2
+status: Unchecked
+record: -1

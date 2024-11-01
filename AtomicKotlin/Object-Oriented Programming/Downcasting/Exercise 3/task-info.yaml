@@ -1,0 +1,23 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 80
+        length: 7
+        placeholder_text: // TODO
+        initial_state:
+          length: 7
+          offset: 80
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: XnygPPtlVwAcpAzcBmhakr9T7w1BW9kNcIJhju9JAxBehRJVqlNZc0mWOF3hXi+MtkkYJPZEPc0nvRzXuIz2/q7H2pBTchRE/nFqgWuSRmIoKmBuBwbW2oNBgNxOwEaZfeMSGTXpOv8+Vr0JuHeqG3XSjNyKpB8oAnUlERhWcnQpn5eRjYSXKEXPghkWayT9jNPI5On0M+A5OVi6j4ZiNDj02Aj2zdJyc2knOrL1nyv7ccOCEWTkpOL5Lf3ek9PftO/yBCElS6uruOgTlDa4JRBj7rJmTBf2eahUWMVQCF8OZ92Zoso1VkTZrJZaqHTUpEeKpDeD1rDVAFUpm4Puv5MvrUYTJ3MF2fW1tBceD0N7vt9YPSx6ep3dG+e+etz+nZqGFsNfx/CAf3pLkslMQb2eskm4qrg9U7ek4I2j602nU1At8Ci9p2O+cIpsJYoJjXlhmf4WwBMsJ98aNaLM1Y7wxt0gYAJ21CjWdswMY/fpvTrb8hJ0RETNjP7VosNFA4CXGQLRq0slsRqjGrqteCD0OPqfWs0WoFq+inHCfPjVIHRyqXQjAwG4/OjF6fDcBkIwWFY1LCjfG9jgX6id9zo5XIVAB+FequlU1fHFoKQ57u7Dv5mUo3IIAMhqLi/Qzu4nkoCpicSvb9T8CxO1izRR5INYfbyZpIIW5oXuhPcHgrN2fsGUbxHHjAo6oXvRYw9fya2cb+O64W1iMdQ6gfLO0ns/u46JxRmCJzitUGm6EvAQFdZ2aykXjU6n4u7zK0DaAeLwAvbHVlhapF5SLtK7T6+XLlL896noqUYc41i36qSKk6rbluV2U1Ajr8eNyk/R1GbS/F/bgHXdp0gTajysNSDDH5OjycErUTZUj1PLlntyuVgWKqvy5CsAVN2f8IeE5epqbJSSd03751oy3J+VnlPwUwZZHzWTa487BAnwxPh9FUEVJuserMnVy9CX2oA1ReRwSS8o3Tn/v6M8Pi3BKVQwLlgohewx7Gaj/1QtK6JxBriY08ljIBdzQHblaualDE33RPqIN1/Mss/8KOIzDHhCI/TK/ZjuZRe7z1P9ghmQ5V1UclJDcsTbTjYOMqIPdzMV2KQVct8LFEm+nVbJ0nxpsm2RGL2vpbx6qmg=
+    encrypted_text: oKkRfPfoPVftKDhIePEJhostBwsVfILcZ0SofE7sPr3UeekH9bQP+qzZDpnfEjhEH/hCV9gtzJp3nGGHOu5ukP/hMCSfBv+Mcetacced+gNek1h0U4pvscXpF9KsgsJf
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    encrypted_text: kqk+QnZoAI6zCypLFggAeBTUWPZ65v5IJhgLjiTQoGKVfuuwtHFtRzyR7hhgNf1nHIByI9x77WjWIFuVclJ6889kXxKI8yDbhAoDYfGie7fcS348/6lE6B3mN1fnv/Q9ipUjv3dAEXqJ8CNMgZLMSmqIh5e5gfUAz4Dpl8FL6Rvr9ALRUrsPtkc7BGZqoBI/9fO7hWgKGqShHgztTco7EuBUaCd+mZ1GaWVlKocIf/RraeEWaOnf+POJ7eQceNMU
+    learner_created: false
+status: Unchecked
+record: -1
